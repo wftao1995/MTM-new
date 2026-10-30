@@ -1,0 +1,199 @@
+Tensor id: 3
+Graphs: 
+  3 0 0
+
+Tensor id: 4
+Graphs: 
+  4 5 5
+
+Tensor id: 6
+Graphs: 
+  6 7 7
+
+Tensor id: 8
+Graphs: 
+  8 9 9
+
+Tensor id: 10
+Graphs: 
+  10 11 11
+
+Tensor id: 12
+Graphs: 
+  12 0 1
+
+Tensor id: 13
+Graphs: 
+  13 5 14
+
+Tensor id: 15
+Graphs: 
+  15 7 16
+
+Tensor id: 17
+Graphs: 
+  17 0 2
+
+Tensor id: 18
+Graphs: 
+  18 1 1
+
+Tensor id: 19
+Graphs: 
+  19 0 3
+
+Tensor id: 20
+Graphs: 
+  20 0 4
+  20 5 21
+
+Tensor id: 21
+Graphs: 
+  21 0 5
+
+Tensor id: 22
+Graphs: 
+  22 0 6
+  22 7 23
+
+Tensor id: 23
+Graphs: 
+  23 0 7
+
+Tensor id: 24
+Graphs: 
+  24 5 25
+  24 7 26
+
+Tensor id: 25
+Graphs: 
+  25 5 7
+
+Tensor id: 26
+Graphs: 
+  26 5 5
+
+Tensor id: 27
+Graphs: 
+  27 0 8
+  27 9 28
+
+Tensor id: 28
+Graphs: 
+  28 0 9
+
+Tensor id: 29
+Graphs: 
+  29 5 30
+  29 7 31
+  29 9 32
+
+Tensor id: 30
+Graphs: 
+  30 7 9
+
+Tensor id: 31
+Graphs: 
+  31 5 9
+
+Tensor id: 32
+Graphs: 
+  32 5 7
+
+Tensor id: 33
+Graphs: 
+  33 7 34
+
+Tensor id: 34
+Graphs: 
+  34 7 7
+
+Tensor id: 35
+Graphs: 
+  35 0 12
+  35 1 3
+
+Tensor id: 36
+Graphs: 
+  36 0 13
+  36 5 37
+  36 14 21
+
+Tensor id: 37
+Graphs: 
+  37 0 14
+
+Tensor id: 38
+Graphs: 
+  38 1 4
+  38 5 39
+
+Tensor id: 39
+Graphs: 
+  39 1 5
+
+Tensor id: 40
+Graphs: 
+  40 0 19
+  40 3 3
+
+Tensor id: 41
+Graphs: 
+  41 0 20
+  41 3 4
+  41 5 42
+  41 21 21
+
+Tensor id: 42
+Graphs: 
+  42 0 21
+  42 3 5
+
+Tensor id: 43
+Graphs: 
+  43 0 22
+  43 3 6
+  43 7 44
+  43 23 23
+
+Tensor id: 44
+Graphs: 
+  44 0 23
+  44 3 7
+
+Tensor id: 45
+Graphs: 
+  45 0 24
+  45 5 46
+  45 7 47
+  45 21 25
+  45 23 26
+
+Tensor id: 46
+Graphs: 
+  46 0 25
+  46 5 23
+  46 7 21
+
+Tensor id: 47
+Graphs: 
+  47 0 26
+  47 5 21
+
+Tensor id: 48
+Graphs: 
+  48 4 4
+  48 5 49
+  48 26 26
+
+Tensor id: 49
+Graphs: 
+  49 4 5
+  49 5 26
+
+Tensor id: 50
+Graphs: 
+  50 0 35
+  50 1 19
+  50 3 12
+

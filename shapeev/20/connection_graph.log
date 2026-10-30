@@ -1,0 +1,4135 @@
+Tensor id: 5
+Graphs: 
+  5 0 0
+
+Tensor id: 6
+Graphs: 
+  6 7 7
+
+Tensor id: 8
+Graphs: 
+  8 9 9
+
+Tensor id: 10
+Graphs: 
+  10 11 11
+
+Tensor id: 12
+Graphs: 
+  12 13 13
+
+Tensor id: 14
+Graphs: 
+  14 15 15
+
+Tensor id: 16
+Graphs: 
+  16 17 17
+
+Tensor id: 18
+Graphs: 
+  18 19 19
+
+Tensor id: 20
+Graphs: 
+  20 21 21
+
+Tensor id: 22
+Graphs: 
+  22 0 1
+
+Tensor id: 23
+Graphs: 
+  23 7 24
+
+Tensor id: 25
+Graphs: 
+  25 9 26
+
+Tensor id: 27
+Graphs: 
+  27 11 28
+
+Tensor id: 29
+Graphs: 
+  29 13 30
+
+Tensor id: 31
+Graphs: 
+  31 15 32
+
+Tensor id: 33
+Graphs: 
+  33 17 34
+
+Tensor id: 35
+Graphs: 
+  35 0 2
+
+Tensor id: 36
+Graphs: 
+  36 1 1
+
+Tensor id: 37
+Graphs: 
+  37 7 38
+
+Tensor id: 39
+Graphs: 
+  39 24 24
+
+Tensor id: 40
+Graphs: 
+  40 9 41
+
+Tensor id: 42
+Graphs: 
+  42 26 26
+
+Tensor id: 43
+Graphs: 
+  43 11 44
+
+Tensor id: 45
+Graphs: 
+  45 28 28
+
+Tensor id: 46
+Graphs: 
+  46 13 47
+
+Tensor id: 48
+Graphs: 
+  48 30 30
+
+Tensor id: 49
+Graphs: 
+  49 0 3
+
+Tensor id: 50
+Graphs: 
+  50 1 2
+
+Tensor id: 51
+Graphs: 
+  51 7 52
+
+Tensor id: 53
+Graphs: 
+  53 24 38
+
+Tensor id: 54
+Graphs: 
+  54 9 55
+
+Tensor id: 56
+Graphs: 
+  56 26 41
+
+Tensor id: 57
+Graphs: 
+  57 0 4
+
+Tensor id: 58
+Graphs: 
+  58 1 3
+
+Tensor id: 59
+Graphs: 
+  59 2 2
+
+Tensor id: 60
+Graphs: 
+  60 0 5
+
+Tensor id: 61
+Graphs: 
+  61 0 6
+  61 7 62
+
+Tensor id: 62
+Graphs: 
+  62 0 7
+
+Tensor id: 63
+Graphs: 
+  63 0 8
+  63 9 64
+
+Tensor id: 64
+Graphs: 
+  64 0 9
+
+Tensor id: 65
+Graphs: 
+  65 7 66
+  65 9 67
+
+Tensor id: 66
+Graphs: 
+  66 7 9
+
+Tensor id: 67
+Graphs: 
+  67 7 7
+
+Tensor id: 68
+Graphs: 
+  68 0 10
+  68 11 69
+
+Tensor id: 69
+Graphs: 
+  69 0 11
+
+Tensor id: 70
+Graphs: 
+  70 7 71
+  70 9 72
+  70 11 73
+
+Tensor id: 71
+Graphs: 
+  71 9 11
+
+Tensor id: 72
+Graphs: 
+  72 7 11
+
+Tensor id: 73
+Graphs: 
+  73 7 9
+
+Tensor id: 74
+Graphs: 
+  74 9 75
+
+Tensor id: 75
+Graphs: 
+  75 9 9
+
+Tensor id: 76
+Graphs: 
+  76 0 12
+  76 13 77
+
+Tensor id: 77
+Graphs: 
+  77 0 13
+
+Tensor id: 78
+Graphs: 
+  78 7 79
+  78 11 80
+  78 13 81
+
+Tensor id: 79
+Graphs: 
+  79 11 13
+
+Tensor id: 80
+Graphs: 
+  80 7 13
+
+Tensor id: 81
+Graphs: 
+  81 7 11
+
+Tensor id: 82
+Graphs: 
+  82 9 83
+  82 13 84
+
+Tensor id: 83
+Graphs: 
+  83 9 13
+
+Tensor id: 84
+Graphs: 
+  84 9 9
+
+Tensor id: 85
+Graphs: 
+  85 9 86
+  85 11 87
+
+Tensor id: 86
+Graphs: 
+  86 11 11
+
+Tensor id: 87
+Graphs: 
+  87 9 11
+
+Tensor id: 88
+Graphs: 
+  88 0 14
+  88 15 89
+
+Tensor id: 89
+Graphs: 
+  89 0 15
+
+Tensor id: 90
+Graphs: 
+  90 7 91
+  90 13 92
+  90 15 93
+
+Tensor id: 91
+Graphs: 
+  91 13 15
+
+Tensor id: 92
+Graphs: 
+  92 7 15
+
+Tensor id: 93
+Graphs: 
+  93 7 13
+
+Tensor id: 94
+Graphs: 
+  94 9 95
+  94 11 96
+  94 15 97
+
+Tensor id: 95
+Graphs: 
+  95 11 15
+
+Tensor id: 96
+Graphs: 
+  96 9 15
+
+Tensor id: 97
+Graphs: 
+  97 9 11
+
+Tensor id: 98
+Graphs: 
+  98 9 99
+  98 13 100
+
+Tensor id: 99
+Graphs: 
+  99 13 13
+
+Tensor id: 100
+Graphs: 
+  100 9 13
+
+Tensor id: 101
+Graphs: 
+  101 11 102
+  101 13 103
+
+Tensor id: 102
+Graphs: 
+  102 11 13
+
+Tensor id: 103
+Graphs: 
+  103 11 11
+
+Tensor id: 104
+Graphs: 
+  104 0 16
+  104 17 105
+
+Tensor id: 105
+Graphs: 
+  105 0 17
+
+Tensor id: 106
+Graphs: 
+  106 7 107
+  106 15 108
+  106 17 109
+
+Tensor id: 107
+Graphs: 
+  107 15 17
+
+Tensor id: 108
+Graphs: 
+  108 7 17
+
+Tensor id: 109
+Graphs: 
+  109 7 15
+
+Tensor id: 110
+Graphs: 
+  110 9 111
+  110 13 112
+  110 17 113
+
+Tensor id: 111
+Graphs: 
+  111 13 17
+
+Tensor id: 112
+Graphs: 
+  112 9 17
+
+Tensor id: 113
+Graphs: 
+  113 9 13
+
+Tensor id: 114
+Graphs: 
+  114 11 115
+  114 17 116
+
+Tensor id: 115
+Graphs: 
+  115 11 17
+
+Tensor id: 116
+Graphs: 
+  116 11 11
+
+Tensor id: 117
+Graphs: 
+  117 9 118
+  117 15 119
+
+Tensor id: 118
+Graphs: 
+  118 15 15
+
+Tensor id: 119
+Graphs: 
+  119 9 15
+
+Tensor id: 120
+Graphs: 
+  120 11 121
+  120 13 122
+  120 15 123
+
+Tensor id: 121
+Graphs: 
+  121 13 15
+
+Tensor id: 122
+Graphs: 
+  122 11 15
+
+Tensor id: 123
+Graphs: 
+  123 11 13
+
+Tensor id: 124
+Graphs: 
+  124 13 125
+
+Tensor id: 125
+Graphs: 
+  125 13 13
+
+Tensor id: 126
+Graphs: 
+  126 0 18
+  126 19 127
+
+Tensor id: 127
+Graphs: 
+  127 0 19
+
+Tensor id: 128
+Graphs: 
+  128 7 129
+  128 17 130
+  128 19 131
+
+Tensor id: 129
+Graphs: 
+  129 17 19
+
+Tensor id: 130
+Graphs: 
+  130 7 19
+
+Tensor id: 131
+Graphs: 
+  131 7 17
+
+Tensor id: 132
+Graphs: 
+  132 9 133
+  132 15 134
+  132 19 135
+
+Tensor id: 133
+Graphs: 
+  133 15 19
+
+Tensor id: 134
+Graphs: 
+  134 9 19
+
+Tensor id: 135
+Graphs: 
+  135 9 15
+
+Tensor id: 136
+Graphs: 
+  136 11 137
+  136 13 138
+  136 19 139
+
+Tensor id: 137
+Graphs: 
+  137 13 19
+
+Tensor id: 138
+Graphs: 
+  138 11 19
+
+Tensor id: 139
+Graphs: 
+  139 11 13
+
+Tensor id: 140
+Graphs: 
+  140 9 141
+  140 17 142
+
+Tensor id: 141
+Graphs: 
+  141 17 17
+
+Tensor id: 142
+Graphs: 
+  142 9 17
+
+Tensor id: 143
+Graphs: 
+  143 11 144
+  143 15 145
+  143 17 146
+
+Tensor id: 144
+Graphs: 
+  144 15 17
+
+Tensor id: 145
+Graphs: 
+  145 11 17
+
+Tensor id: 146
+Graphs: 
+  146 11 15
+
+Tensor id: 147
+Graphs: 
+  147 13 148
+  147 17 149
+
+Tensor id: 148
+Graphs: 
+  148 13 17
+
+Tensor id: 149
+Graphs: 
+  149 13 13
+
+Tensor id: 150
+Graphs: 
+  150 13 151
+  150 15 152
+
+Tensor id: 151
+Graphs: 
+  151 15 15
+
+Tensor id: 152
+Graphs: 
+  152 13 15
+
+Tensor id: 153
+Graphs: 
+  153 0 22
+  153 1 5
+
+Tensor id: 154
+Graphs: 
+  154 0 23
+  154 7 155
+  154 24 62
+
+Tensor id: 155
+Graphs: 
+  155 0 24
+
+Tensor id: 156
+Graphs: 
+  156 1 6
+  156 7 157
+
+Tensor id: 157
+Graphs: 
+  157 1 7
+
+Tensor id: 158
+Graphs: 
+  158 0 25
+  158 9 159
+  158 26 64
+
+Tensor id: 159
+Graphs: 
+  159 0 26
+
+Tensor id: 160
+Graphs: 
+  160 7 161
+  160 26 67
+
+Tensor id: 161
+Graphs: 
+  161 7 26
+
+Tensor id: 162
+Graphs: 
+  162 7 163
+  162 9 164
+  162 24 66
+
+Tensor id: 163
+Graphs: 
+  163 9 24
+
+Tensor id: 164
+Graphs: 
+  164 7 24
+
+Tensor id: 165
+Graphs: 
+  165 1 8
+  165 9 166
+
+Tensor id: 166
+Graphs: 
+  166 1 9
+
+Tensor id: 167
+Graphs: 
+  167 0 27
+  167 11 168
+  167 28 69
+
+Tensor id: 168
+Graphs: 
+  168 0 28
+
+Tensor id: 169
+Graphs: 
+  169 7 170
+  169 9 171
+  169 28 73
+
+Tensor id: 170
+Graphs: 
+  170 9 28
+
+Tensor id: 171
+Graphs: 
+  171 7 28
+
+Tensor id: 172
+Graphs: 
+  172 7 173
+  172 11 174
+  172 26 72
+
+Tensor id: 173
+Graphs: 
+  173 11 26
+
+Tensor id: 174
+Graphs: 
+  174 7 26
+
+Tensor id: 175
+Graphs: 
+  175 9 176
+  175 26 75
+
+Tensor id: 176
+Graphs: 
+  176 9 26
+
+Tensor id: 177
+Graphs: 
+  177 9 178
+  177 11 179
+  177 24 71
+
+Tensor id: 178
+Graphs: 
+  178 11 24
+
+Tensor id: 179
+Graphs: 
+  179 9 24
+
+Tensor id: 180
+Graphs: 
+  180 1 10
+  180 11 181
+
+Tensor id: 181
+Graphs: 
+  181 1 11
+
+Tensor id: 182
+Graphs: 
+  182 0 29
+  182 13 183
+  182 30 77
+
+Tensor id: 183
+Graphs: 
+  183 0 30
+
+Tensor id: 184
+Graphs: 
+  184 7 185
+  184 11 186
+  184 30 81
+
+Tensor id: 185
+Graphs: 
+  185 11 30
+
+Tensor id: 186
+Graphs: 
+  186 7 30
+
+Tensor id: 187
+Graphs: 
+  187 9 188
+  187 30 84
+
+Tensor id: 188
+Graphs: 
+  188 9 30
+
+Tensor id: 189
+Graphs: 
+  189 7 190
+  189 13 191
+  189 28 80
+
+Tensor id: 190
+Graphs: 
+  190 13 28
+
+Tensor id: 191
+Graphs: 
+  191 7 28
+
+Tensor id: 192
+Graphs: 
+  192 9 193
+  192 11 194
+  192 28 87
+
+Tensor id: 193
+Graphs: 
+  193 11 28
+
+Tensor id: 194
+Graphs: 
+  194 9 28
+
+Tensor id: 195
+Graphs: 
+  195 9 196
+  195 13 197
+  195 26 83
+
+Tensor id: 196
+Graphs: 
+  196 13 26
+
+Tensor id: 197
+Graphs: 
+  197 9 26
+
+Tensor id: 198
+Graphs: 
+  198 11 199
+  198 26 86
+
+Tensor id: 199
+Graphs: 
+  199 11 26
+
+Tensor id: 200
+Graphs: 
+  200 11 201
+  200 13 202
+  200 24 79
+
+Tensor id: 201
+Graphs: 
+  201 13 24
+
+Tensor id: 202
+Graphs: 
+  202 11 24
+
+Tensor id: 203
+Graphs: 
+  203 1 12
+  203 13 204
+
+Tensor id: 204
+Graphs: 
+  204 1 13
+
+Tensor id: 205
+Graphs: 
+  205 0 31
+  205 15 206
+  205 32 89
+
+Tensor id: 206
+Graphs: 
+  206 0 32
+
+Tensor id: 207
+Graphs: 
+  207 7 208
+  207 13 209
+  207 32 93
+
+Tensor id: 208
+Graphs: 
+  208 13 32
+
+Tensor id: 209
+Graphs: 
+  209 7 32
+
+Tensor id: 210
+Graphs: 
+  210 9 211
+  210 11 212
+  210 32 97
+
+Tensor id: 211
+Graphs: 
+  211 11 32
+
+Tensor id: 212
+Graphs: 
+  212 9 32
+
+Tensor id: 213
+Graphs: 
+  213 7 214
+  213 15 215
+  213 30 92
+
+Tensor id: 214
+Graphs: 
+  214 15 30
+
+Tensor id: 215
+Graphs: 
+  215 7 30
+
+Tensor id: 216
+Graphs: 
+  216 9 217
+  216 13 218
+  216 30 100
+
+Tensor id: 217
+Graphs: 
+  217 13 30
+
+Tensor id: 218
+Graphs: 
+  218 9 30
+
+Tensor id: 219
+Graphs: 
+  219 11 220
+  219 30 103
+
+Tensor id: 220
+Graphs: 
+  220 11 30
+
+Tensor id: 221
+Graphs: 
+  221 9 222
+  221 15 223
+  221 28 96
+
+Tensor id: 222
+Graphs: 
+  222 15 28
+
+Tensor id: 223
+Graphs: 
+  223 9 28
+
+Tensor id: 224
+Graphs: 
+  224 11 225
+  224 13 226
+  224 28 102
+
+Tensor id: 225
+Graphs: 
+  225 13 28
+
+Tensor id: 226
+Graphs: 
+  226 11 28
+
+Tensor id: 227
+Graphs: 
+  227 11 228
+  227 15 229
+  227 26 95
+
+Tensor id: 228
+Graphs: 
+  228 15 26
+
+Tensor id: 229
+Graphs: 
+  229 11 26
+
+Tensor id: 230
+Graphs: 
+  230 13 231
+  230 26 99
+
+Tensor id: 231
+Graphs: 
+  231 13 26
+
+Tensor id: 232
+Graphs: 
+  232 13 233
+  232 15 234
+  232 24 91
+
+Tensor id: 233
+Graphs: 
+  233 15 24
+
+Tensor id: 234
+Graphs: 
+  234 13 24
+
+Tensor id: 235
+Graphs: 
+  235 1 14
+  235 15 236
+
+Tensor id: 236
+Graphs: 
+  236 1 15
+
+Tensor id: 237
+Graphs: 
+  237 0 35
+  237 2 5
+
+Tensor id: 238
+Graphs: 
+  238 0 36
+  238 1 22
+
+Tensor id: 239
+Graphs: 
+  239 0 37
+  239 7 240
+  239 38 62
+
+Tensor id: 240
+Graphs: 
+  240 0 38
+
+Tensor id: 241
+Graphs: 
+  241 2 6
+  241 7 242
+
+Tensor id: 242
+Graphs: 
+  242 2 7
+
+Tensor id: 243
+Graphs: 
+  243 0 39
+  243 24 155
+
+Tensor id: 244
+Graphs: 
+  244 1 23
+  244 7 245
+  244 24 157
+
+Tensor id: 245
+Graphs: 
+  245 1 24
+
+Tensor id: 246
+Graphs: 
+  246 0 40
+  246 9 247
+  246 41 64
+
+Tensor id: 247
+Graphs: 
+  247 0 41
+
+Tensor id: 248
+Graphs: 
+  248 7 249
+  248 41 67
+
+Tensor id: 249
+Graphs: 
+  249 7 41
+
+Tensor id: 250
+Graphs: 
+  250 7 251
+  250 9 252
+  250 38 66
+
+Tensor id: 251
+Graphs: 
+  251 9 38
+
+Tensor id: 252
+Graphs: 
+  252 7 38
+
+Tensor id: 253
+Graphs: 
+  253 2 8
+  253 9 254
+
+Tensor id: 254
+Graphs: 
+  254 2 9
+
+Tensor id: 255
+Graphs: 
+  255 0 42
+  255 26 159
+
+Tensor id: 256
+Graphs: 
+  256 7 257
+  256 24 161
+  256 26 164
+
+Tensor id: 257
+Graphs: 
+  257 24 26
+
+Tensor id: 258
+Graphs: 
+  258 1 25
+  258 9 259
+  258 26 166
+
+Tensor id: 259
+Graphs: 
+  259 1 26
+
+Tensor id: 260
+Graphs: 
+  260 9 261
+  260 24 163
+
+Tensor id: 261
+Graphs: 
+  261 24 24
+
+Tensor id: 262
+Graphs: 
+  262 0 43
+  262 11 263
+  262 44 69
+
+Tensor id: 263
+Graphs: 
+  263 0 44
+
+Tensor id: 264
+Graphs: 
+  264 7 265
+  264 9 266
+  264 44 73
+
+Tensor id: 265
+Graphs: 
+  265 9 44
+
+Tensor id: 266
+Graphs: 
+  266 7 44
+
+Tensor id: 267
+Graphs: 
+  267 7 268
+  267 11 269
+  267 41 72
+
+Tensor id: 268
+Graphs: 
+  268 11 41
+
+Tensor id: 269
+Graphs: 
+  269 7 41
+
+Tensor id: 270
+Graphs: 
+  270 9 271
+  270 41 75
+
+Tensor id: 271
+Graphs: 
+  271 9 41
+
+Tensor id: 272
+Graphs: 
+  272 9 273
+  272 11 274
+  272 38 71
+
+Tensor id: 273
+Graphs: 
+  273 11 38
+
+Tensor id: 274
+Graphs: 
+  274 9 38
+
+Tensor id: 275
+Graphs: 
+  275 2 10
+  275 11 276
+
+Tensor id: 276
+Graphs: 
+  276 2 11
+
+Tensor id: 277
+Graphs: 
+  277 0 45
+  277 28 168
+
+Tensor id: 278
+Graphs: 
+  278 7 279
+  278 26 171
+  278 28 174
+
+Tensor id: 279
+Graphs: 
+  279 26 28
+
+Tensor id: 280
+Graphs: 
+  280 9 281
+  280 24 170
+  280 28 179
+
+Tensor id: 281
+Graphs: 
+  281 24 28
+
+Tensor id: 282
+Graphs: 
+  282 1 27
+  282 11 283
+  282 28 181
+
+Tensor id: 283
+Graphs: 
+  283 1 28
+
+Tensor id: 284
+Graphs: 
+  284 9 285
+  284 26 176
+
+Tensor id: 285
+Graphs: 
+  285 26 26
+
+Tensor id: 286
+Graphs: 
+  286 11 287
+  286 24 173
+  286 26 178
+
+Tensor id: 287
+Graphs: 
+  287 24 26
+
+Tensor id: 288
+Graphs: 
+  288 0 49
+  288 3 5
+
+Tensor id: 289
+Graphs: 
+  289 0 50
+  289 1 35
+  289 2 22
+
+Tensor id: 290
+Graphs: 
+  290 1 36
+
+Tensor id: 291
+Graphs: 
+  291 0 51
+  291 7 292
+  291 52 62
+
+Tensor id: 292
+Graphs: 
+  292 0 52
+
+Tensor id: 293
+Graphs: 
+  293 3 6
+  293 7 294
+
+Tensor id: 294
+Graphs: 
+  294 3 7
+
+Tensor id: 295
+Graphs: 
+  295 0 53
+  295 24 240
+  295 38 155
+
+Tensor id: 296
+Graphs: 
+  296 1 37
+  296 7 297
+  296 38 157
+
+Tensor id: 297
+Graphs: 
+  297 1 38
+
+Tensor id: 298
+Graphs: 
+  298 2 23
+  298 7 299
+  298 24 242
+
+Tensor id: 299
+Graphs: 
+  299 2 24
+
+Tensor id: 300
+Graphs: 
+  300 1 39
+  300 24 245
+
+Tensor id: 301
+Graphs: 
+  301 0 60
+  301 5 5
+
+Tensor id: 302
+Graphs: 
+  302 0 61
+  302 5 6
+  302 7 303
+  302 62 62
+
+Tensor id: 303
+Graphs: 
+  303 0 62
+  303 5 7
+
+Tensor id: 304
+Graphs: 
+  304 0 63
+  304 5 8
+  304 9 305
+  304 64 64
+
+Tensor id: 305
+Graphs: 
+  305 0 64
+  305 5 9
+
+Tensor id: 306
+Graphs: 
+  306 0 65
+  306 7 307
+  306 9 308
+  306 62 66
+  306 64 67
+
+Tensor id: 307
+Graphs: 
+  307 0 66
+  307 7 64
+  307 9 62
+
+Tensor id: 308
+Graphs: 
+  308 0 67
+  308 7 62
+
+Tensor id: 309
+Graphs: 
+  309 6 6
+  309 7 310
+  309 67 67
+
+Tensor id: 310
+Graphs: 
+  310 6 7
+  310 7 67
+
+Tensor id: 311
+Graphs: 
+  311 0 68
+  311 5 10
+  311 11 312
+  311 69 69
+
+Tensor id: 312
+Graphs: 
+  312 0 69
+  312 5 11
+
+Tensor id: 313
+Graphs: 
+  313 0 70
+  313 7 314
+  313 9 315
+  313 11 316
+  313 62 71
+  313 64 72
+  313 69 73
+
+Tensor id: 314
+Graphs: 
+  314 0 71
+  314 9 69
+  314 11 64
+
+Tensor id: 315
+Graphs: 
+  315 0 72
+  315 7 69
+  315 11 62
+
+Tensor id: 316
+Graphs: 
+  316 0 73
+  316 7 64
+  316 9 62
+
+Tensor id: 317
+Graphs: 
+  317 0 74
+  317 9 318
+  317 64 75
+
+Tensor id: 318
+Graphs: 
+  318 0 75
+  318 9 64
+
+Tensor id: 319
+Graphs: 
+  319 7 320
+  319 11 321
+  319 67 72
+
+Tensor id: 320
+Graphs: 
+  320 7 72
+  320 11 67
+
+Tensor id: 321
+Graphs: 
+  321 7 67
+
+Tensor id: 322
+Graphs: 
+  322 7 323
+  322 9 324
+  322 66 66
+  322 67 75
+  322 73 73
+
+Tensor id: 323
+Graphs: 
+  323 7 75
+  323 9 66
+  323 9 73
+
+Tensor id: 324
+Graphs: 
+  324 7 66
+  324 7 73
+  324 9 67
+
+Tensor id: 325
+Graphs: 
+  325 6 8
+  325 7 326
+  325 9 327
+  325 73 73
+
+Tensor id: 326
+Graphs: 
+  326 7 8
+  326 9 73
+
+Tensor id: 327
+Graphs: 
+  327 6 9
+  327 7 73
+
+Tensor id: 328
+Graphs: 
+  328 0 76
+  328 5 12
+  328 13 329
+  328 77 77
+
+Tensor id: 329
+Graphs: 
+  329 0 77
+  329 5 13
+
+Tensor id: 330
+Graphs: 
+  330 0 78
+  330 7 331
+  330 11 332
+  330 13 333
+  330 62 79
+  330 69 80
+  330 77 81
+
+Tensor id: 331
+Graphs: 
+  331 0 79
+  331 11 77
+  331 13 69
+
+Tensor id: 332
+Graphs: 
+  332 0 80
+  332 7 77
+  332 13 62
+
+Tensor id: 333
+Graphs: 
+  333 0 81
+  333 7 69
+  333 11 62
+
+Tensor id: 334
+Graphs: 
+  334 0 82
+  334 9 335
+  334 13 336
+  334 64 83
+  334 77 84
+
+Tensor id: 335
+Graphs: 
+  335 0 83
+  335 9 77
+  335 13 64
+
+Tensor id: 336
+Graphs: 
+  336 0 84
+  336 9 64
+
+Tensor id: 337
+Graphs: 
+  337 0 85
+  337 9 338
+  337 11 339
+  337 64 86
+  337 69 87
+
+Tensor id: 338
+Graphs: 
+  338 0 86
+  338 11 69
+
+Tensor id: 339
+Graphs: 
+  339 0 87
+  339 9 69
+  339 11 64
+
+Tensor id: 340
+Graphs: 
+  340 7 341
+  340 9 342
+  340 13 343
+  340 67 83
+  340 73 80
+
+Tensor id: 341
+Graphs: 
+  341 7 83
+  341 9 80
+  341 13 73
+
+Tensor id: 342
+Graphs: 
+  342 7 80
+  342 13 67
+
+Tensor id: 343
+Graphs: 
+  343 7 73
+  343 9 67
+
+Tensor id: 344
+Graphs: 
+  344 7 345
+  344 11 346
+  344 67 86
+  344 72 72
+  344 81 81
+
+Tensor id: 345
+Graphs: 
+  345 7 86
+  345 11 72
+  345 11 81
+
+Tensor id: 346
+Graphs: 
+  346 7 72
+  346 7 81
+  346 11 67
+
+Tensor id: 347
+Graphs: 
+  347 7 348
+  347 9 349
+  347 11 350
+  347 72 75
+  347 73 87
+
+Tensor id: 348
+Graphs: 
+  348 9 87
+  348 11 75
+
+Tensor id: 349
+Graphs: 
+  349 7 87
+  349 9 72
+  349 11 73
+
+Tensor id: 350
+Graphs: 
+  350 7 75
+  350 9 73
+
+Tensor id: 351
+Graphs: 
+  351 7 352
+  351 9 353
+  351 9 354
+  351 11 355
+  351 66 71
+  351 73 87
+  351 81 84
+
+Tensor id: 352
+Graphs: 
+  352 9 71
+  352 9 87
+  352 11 84
+
+Tensor id: 353
+Graphs: 
+  353 7 87
+  353 9 81
+  353 11 66
+
+Tensor id: 354
+Graphs: 
+  354 7 71
+  354 9 81
+  354 11 73
+
+Tensor id: 355
+Graphs: 
+  355 7 84
+  355 9 66
+  355 9 73
+
+Tensor id: 356
+Graphs: 
+  356 6 10
+  356 7 357
+  356 11 358
+  356 81 81
+
+Tensor id: 357
+Graphs: 
+  357 7 10
+  357 11 81
+
+Tensor id: 358
+Graphs: 
+  358 6 11
+  358 7 81
+
+Tensor id: 359
+Graphs: 
+  359 8 8
+  359 9 360
+  359 84 84
+
+Tensor id: 360
+Graphs: 
+  360 8 9
+  360 9 84
+
+Tensor id: 361
+Graphs: 
+  361 9 362
+  361 75 75
+  361 84 84
+
+Tensor id: 362
+Graphs: 
+  362 9 75
+  362 9 84
+
+Tensor id: 363
+Graphs: 
+  363 0 88
+  363 5 14
+  363 15 364
+  363 89 89
+
+Tensor id: 364
+Graphs: 
+  364 0 89
+  364 5 15
+
+Tensor id: 365
+Graphs: 
+  365 0 90
+  365 7 366
+  365 13 367
+  365 15 368
+  365 62 91
+  365 77 92
+  365 89 93
+
+Tensor id: 366
+Graphs: 
+  366 0 91
+  366 13 89
+  366 15 77
+
+Tensor id: 367
+Graphs: 
+  367 0 92
+  367 7 89
+  367 15 62
+
+Tensor id: 368
+Graphs: 
+  368 0 93
+  368 7 77
+  368 13 62
+
+Tensor id: 369
+Graphs: 
+  369 0 94
+  369 9 370
+  369 11 371
+  369 15 372
+  369 64 95
+  369 69 96
+  369 89 97
+
+Tensor id: 370
+Graphs: 
+  370 0 95
+  370 11 89
+  370 15 69
+
+Tensor id: 371
+Graphs: 
+  371 0 96
+  371 9 89
+  371 15 64
+
+Tensor id: 372
+Graphs: 
+  372 0 97
+  372 9 69
+  372 11 64
+
+Tensor id: 373
+Graphs: 
+  373 0 98
+  373 9 374
+  373 13 375
+  373 64 99
+  373 77 100
+
+Tensor id: 374
+Graphs: 
+  374 0 99
+  374 13 77
+
+Tensor id: 375
+Graphs: 
+  375 0 100
+  375 9 77
+  375 13 64
+
+Tensor id: 376
+Graphs: 
+  376 0 101
+  376 11 377
+  376 13 378
+  376 69 102
+  376 77 103
+
+Tensor id: 377
+Graphs: 
+  377 0 102
+  377 11 77
+  377 13 69
+
+Tensor id: 378
+Graphs: 
+  378 0 103
+  378 11 69
+
+Tensor id: 379
+Graphs: 
+  379 7 380
+  379 11 381
+  379 15 382
+  379 67 95
+  379 81 92
+
+Tensor id: 380
+Graphs: 
+  380 7 95
+  380 11 92
+  380 15 81
+
+Tensor id: 381
+Graphs: 
+  381 7 92
+  381 15 67
+
+Tensor id: 382
+Graphs: 
+  382 7 81
+  382 11 67
+
+Tensor id: 383
+Graphs: 
+  383 7 384
+  383 9 385
+  383 15 386
+  383 73 96
+  383 84 92
+
+Tensor id: 384
+Graphs: 
+  384 9 96
+  384 15 84
+
+Tensor id: 385
+Graphs: 
+  385 7 96
+  385 9 92
+  385 15 73
+
+Tensor id: 386
+Graphs: 
+  386 7 84
+  386 9 73
+
+Tensor id: 387
+Graphs: 
+  387 7 388
+  387 13 389
+  387 67 99
+  387 80 80
+  387 93 93
+
+Tensor id: 388
+Graphs: 
+  388 7 99
+  388 13 80
+  388 13 93
+
+Tensor id: 389
+Graphs: 
+  389 7 80
+  389 7 93
+  389 13 67
+
+Tensor id: 390
+Graphs: 
+  390 7 391
+  390 9 392
+  390 11 393
+  390 13 394
+  390 73 102
+  390 80 87
+  390 81 100
+
+Tensor id: 391
+Graphs: 
+  391 9 102
+  391 11 100
+  391 13 87
+
+Tensor id: 392
+Graphs: 
+  392 7 102
+  392 11 80
+  392 13 81
+
+Tensor id: 393
+Graphs: 
+  393 7 100
+  393 9 80
+  393 13 73
+
+Tensor id: 394
+Graphs: 
+  394 7 87
+  394 9 81
+  394 11 73
+
+Tensor id: 395
+Graphs: 
+  395 7 396
+  395 9 397
+  395 11 398
+  395 13 399
+  395 72 83
+  395 73 102
+  395 93 97
+
+Tensor id: 396
+Graphs: 
+  396 9 102
+  396 11 83
+  396 13 97
+
+Tensor id: 397
+Graphs: 
+  397 7 102
+  397 11 93
+  397 13 72
+
+Tensor id: 398
+Graphs: 
+  398 7 83
+  398 9 93
+  398 13 73
+
+Tensor id: 399
+Graphs: 
+  399 7 97
+  399 9 72
+  399 11 73
+
+Tensor id: 400
+Graphs: 
+  400 7 401
+  400 11 402
+  400 11 403
+  400 72 86
+  400 81 103
+
+Tensor id: 401
+Graphs: 
+  401 11 86
+  401 11 103
+
+Tensor id: 402
+Graphs: 
+  402 7 103
+  402 11 72
+  402 11 81
+
+Tensor id: 403
+Graphs: 
+  403 7 86
+  403 11 81
+
+Tensor id: 404
+Graphs: 
+  404 7 405
+  404 9 406
+  404 11 407
+  404 13 408
+  404 66 79
+  404 81 100
+  404 93 97
+
+Tensor id: 405
+Graphs: 
+  405 9 79
+  405 11 100
+  405 13 97
+
+Tensor id: 406
+Graphs: 
+  406 7 79
+  406 11 93
+  406 13 81
+
+Tensor id: 407
+Graphs: 
+  407 7 100
+  407 9 93
+  407 13 66
+
+Tensor id: 408
+Graphs: 
+  408 7 97
+  408 9 81
+  408 11 66
+
+Tensor id: 409
+Graphs: 
+  409 6 12
+  409 7 410
+  409 13 411
+  409 93 93
+
+Tensor id: 410
+Graphs: 
+  410 7 12
+  410 13 93
+
+Tensor id: 411
+Graphs: 
+  411 6 13
+  411 7 93
+
+Tensor id: 412
+Graphs: 
+  412 9 413
+  412 9 414
+  412 13 415
+  412 75 83
+  412 84 100
+
+Tensor id: 413
+Graphs: 
+  413 9 100
+  413 13 75
+
+Tensor id: 414
+Graphs: 
+  414 9 83
+  414 9 100
+  414 13 84
+
+Tensor id: 415
+Graphs: 
+  415 9 75
+  415 9 84
+
+Tensor id: 416
+Graphs: 
+  416 9 417
+  416 11 418
+  416 71 71
+  416 84 103
+  416 97 97
+
+Tensor id: 417
+Graphs: 
+  417 9 103
+  417 11 71
+  417 11 97
+
+Tensor id: 418
+Graphs: 
+  418 9 71
+  418 9 97
+  418 11 84
+
+Tensor id: 419
+Graphs: 
+  419 8 10
+  419 9 420
+  419 11 421
+  419 97 97
+
+Tensor id: 420
+Graphs: 
+  420 9 10
+  420 11 97
+
+Tensor id: 421
+Graphs: 
+  421 8 11
+  421 9 97
+
+Tensor id: 422
+Graphs: 
+  422 9 423
+  422 11 424
+  422 84 103
+  422 87 87
+
+Tensor id: 423
+Graphs: 
+  423 9 103
+  423 11 87
+
+Tensor id: 424
+Graphs: 
+  424 9 87
+  424 11 84
+
+Tensor id: 425
+Graphs: 
+  425 9 426
+  425 11 427
+  425 75 86
+  425 87 87
+  425 97 97
+
+Tensor id: 426
+Graphs: 
+  426 9 86
+  426 11 87
+  426 11 97
+
+Tensor id: 427
+Graphs: 
+  427 9 87
+  427 9 97
+  427 11 75
+
+Tensor id: 428
+Graphs: 
+  428 0 104
+  428 5 16
+  428 17 429
+  428 105 105
+
+Tensor id: 429
+Graphs: 
+  429 0 105
+  429 5 17
+
+Tensor id: 430
+Graphs: 
+  430 0 106
+  430 7 431
+  430 15 432
+  430 17 433
+  430 62 107
+  430 89 108
+  430 105 109
+
+Tensor id: 431
+Graphs: 
+  431 0 107
+  431 15 105
+  431 17 89
+
+Tensor id: 432
+Graphs: 
+  432 0 108
+  432 7 105
+  432 17 62
+
+Tensor id: 433
+Graphs: 
+  433 0 109
+  433 7 89
+  433 15 62
+
+Tensor id: 434
+Graphs: 
+  434 0 110
+  434 9 435
+  434 13 436
+  434 17 437
+  434 64 111
+  434 77 112
+  434 105 113
+
+Tensor id: 435
+Graphs: 
+  435 0 111
+  435 13 105
+  435 17 77
+
+Tensor id: 436
+Graphs: 
+  436 0 112
+  436 9 105
+  436 17 64
+
+Tensor id: 437
+Graphs: 
+  437 0 113
+  437 9 77
+  437 13 64
+
+Tensor id: 438
+Graphs: 
+  438 0 114
+  438 11 439
+  438 17 440
+  438 69 115
+  438 105 116
+
+Tensor id: 439
+Graphs: 
+  439 0 115
+  439 11 105
+  439 17 69
+
+Tensor id: 440
+Graphs: 
+  440 0 116
+  440 11 69
+
+Tensor id: 441
+Graphs: 
+  441 0 117
+  441 9 442
+  441 15 443
+  441 64 118
+  441 89 119
+
+Tensor id: 442
+Graphs: 
+  442 0 118
+  442 15 89
+
+Tensor id: 443
+Graphs: 
+  443 0 119
+  443 9 89
+  443 15 64
+
+Tensor id: 444
+Graphs: 
+  444 0 120
+  444 11 445
+  444 13 446
+  444 15 447
+  444 69 121
+  444 77 122
+  444 89 123
+
+Tensor id: 445
+Graphs: 
+  445 0 121
+  445 13 89
+  445 15 77
+
+Tensor id: 446
+Graphs: 
+  446 0 122
+  446 11 89
+  446 15 69
+
+Tensor id: 447
+Graphs: 
+  447 0 123
+  447 11 77
+  447 13 69
+
+Tensor id: 448
+Graphs: 
+  448 0 124
+  448 13 449
+  448 77 125
+
+Tensor id: 449
+Graphs: 
+  449 0 125
+  449 13 77
+
+Tensor id: 450
+Graphs: 
+  450 7 451
+  450 13 452
+  450 17 453
+  450 67 111
+  450 93 108
+
+Tensor id: 451
+Graphs: 
+  451 7 111
+  451 13 108
+  451 17 93
+
+Tensor id: 452
+Graphs: 
+  452 7 108
+  452 17 67
+
+Tensor id: 453
+Graphs: 
+  453 7 93
+  453 13 67
+
+Tensor id: 454
+Graphs: 
+  454 7 455
+  454 9 456
+  454 11 457
+  454 17 458
+  454 73 115
+  454 81 112
+  454 97 108
+
+Tensor id: 455
+Graphs: 
+  455 9 115
+  455 11 112
+  455 17 97
+
+Tensor id: 456
+Graphs: 
+  456 7 115
+  456 11 108
+  456 17 81
+
+Tensor id: 457
+Graphs: 
+  457 7 112
+  457 9 108
+  457 17 73
+
+Tensor id: 458
+Graphs: 
+  458 7 97
+  458 9 81
+  458 11 73
+
+Tensor id: 459
+Graphs: 
+  459 7 460
+  459 15 461
+  459 67 118
+  459 92 92
+  459 109 109
+
+Tensor id: 460
+Graphs: 
+  460 7 118
+  460 15 92
+  460 15 109
+
+Tensor id: 461
+Graphs: 
+  461 7 92
+  461 7 109
+  461 15 67
+
+Tensor id: 462
+Graphs: 
+  462 7 463
+  462 9 464
+  462 13 465
+  462 15 466
+  462 73 121
+  462 92 100
+  462 93 119
+
+Tensor id: 463
+Graphs: 
+  463 9 121
+  463 13 119
+  463 15 100
+
+Tensor id: 464
+Graphs: 
+  464 7 121
+  464 13 92
+  464 15 93
+
+Tensor id: 465
+Graphs: 
+  465 7 119
+  465 9 92
+  465 15 73
+
+Tensor id: 466
+Graphs: 
+  466 7 100
+  466 9 93
+  466 13 73
+
+Tensor id: 467
+Graphs: 
+  467 7 468
+  467 11 469
+  467 15 470
+  467 81 122
+  467 92 103
+
+Tensor id: 468
+Graphs: 
+  468 11 122
+  468 15 103
+
+Tensor id: 469
+Graphs: 
+  469 7 122
+  469 11 92
+  469 15 81
+
+Tensor id: 470
+Graphs: 
+  470 7 103
+  470 11 81
+
+Tensor id: 471
+Graphs: 
+  471 7 472
+  471 9 473
+  471 13 474
+  471 15 475
+  471 73 121
+  471 80 96
+  471 109 113
+
+Tensor id: 472
+Graphs: 
+  472 9 121
+  472 13 96
+  472 15 113
+
+Tensor id: 473
+Graphs: 
+  473 7 121
+  473 13 109
+  473 15 80
+
+Tensor id: 474
+Graphs: 
+  474 7 96
+  474 9 109
+  474 15 73
+
+Tensor id: 475
+Graphs: 
+  475 7 113
+  475 9 80
+  475 13 73
+
+Tensor id: 476
+Graphs: 
+  476 7 477
+  476 11 478
+  476 13 479
+  476 13 480
+  476 80 102
+  476 81 125
+  476 93 123
+
+Tensor id: 477
+Graphs: 
+  477 11 125
+  477 13 102
+  477 13 123
+
+Tensor id: 478
+Graphs: 
+  478 7 125
+  478 13 80
+  478 13 93
+
+Tensor id: 479
+Graphs: 
+  479 7 123
+  479 11 80
+  479 13 81
+
+Tensor id: 480
+Graphs: 
+  480 7 102
+  480 11 93
+  480 13 81
+
+Tensor id: 481
+Graphs: 
+  481 7 482
+  481 11 483
+  481 11 484
+  481 15 485
+  481 72 95
+  481 81 122
+  481 109 116
+
+Tensor id: 482
+Graphs: 
+  482 11 95
+  482 11 122
+  482 15 116
+
+Tensor id: 483
+Graphs: 
+  483 7 122
+  483 11 109
+  483 15 72
+
+Tensor id: 484
+Graphs: 
+  484 7 95
+  484 11 109
+  484 15 81
+
+Tensor id: 485
+Graphs: 
+  485 7 116
+  485 11 72
+  485 11 81
+
+Tensor id: 486
+Graphs: 
+  486 7 487
+  486 11 488
+  486 13 489
+  486 72 99
+  486 93 123
+
+Tensor id: 487
+Graphs: 
+  487 11 99
+  487 13 123
+
+Tensor id: 488
+Graphs: 
+  488 7 99
+  488 13 93
+
+Tensor id: 489
+Graphs: 
+  489 7 123
+  489 11 93
+  489 13 72
+
+Tensor id: 490
+Graphs: 
+  490 7 491
+  490 9 492
+  490 13 493
+  490 15 494
+  490 66 91
+  490 93 119
+  490 109 113
+
+Tensor id: 491
+Graphs: 
+  491 9 91
+  491 13 119
+  491 15 113
+
+Tensor id: 492
+Graphs: 
+  492 7 91
+  492 13 109
+  492 15 93
+
+Tensor id: 493
+Graphs: 
+  493 7 119
+  493 9 109
+  493 15 66
+
+Tensor id: 494
+Graphs: 
+  494 7 113
+  494 9 93
+  494 13 66
+
+Tensor id: 495
+Graphs: 
+  495 6 14
+  495 7 496
+  495 15 497
+  495 109 109
+
+Tensor id: 496
+Graphs: 
+  496 7 14
+  496 15 109
+
+Tensor id: 497
+Graphs: 
+  497 6 15
+  497 7 109
+
+Tensor id: 498
+Graphs: 
+  498 9 499
+  498 17 500
+  498 84 112
+
+Tensor id: 499
+Graphs: 
+  499 9 112
+  499 17 84
+
+Tensor id: 500
+Graphs: 
+  500 9 84
+
+Tensor id: 501
+Graphs: 
+  501 9 502
+  501 9 503
+  501 11 504
+  501 15 505
+  501 84 122
+  501 87 96
+  501 97 119
+
+Tensor id: 502
+Graphs: 
+  502 9 122
+  502 11 119
+  502 15 87
+
+Tensor id: 503
+Graphs: 
+  503 9 122
+  503 11 96
+  503 15 97
+
+Tensor id: 504
+Graphs: 
+  504 9 96
+  504 9 119
+  504 15 84
+
+Tensor id: 505
+Graphs: 
+  505 9 87
+  505 9 97
+  505 11 84
+
+Tensor id: 506
+Graphs: 
+  506 9 507
+  506 13 508
+  506 83 83
+  506 84 125
+  506 113 113
+
+Tensor id: 507
+Graphs: 
+  507 9 125
+  507 13 83
+  507 13 113
+
+Tensor id: 508
+Graphs: 
+  508 9 83
+  508 9 113
+  508 13 84
+
+Tensor id: 509
+Graphs: 
+  509 9 510
+  509 11 511
+  509 13 512
+  509 83 86
+  509 97 123
+
+Tensor id: 510
+Graphs: 
+  510 11 123
+  510 13 86
+
+Tensor id: 511
+Graphs: 
+  511 9 123
+  511 11 83
+  511 13 97
+
+Tensor id: 512
+Graphs: 
+  512 9 86
+  512 11 97
+
+Tensor id: 513
+Graphs: 
+  513 9 514
+  513 11 515
+  513 11 516
+  513 13 517
+  513 71 79
+  513 97 123
+  513 113 116
+
+Tensor id: 514
+Graphs: 
+  514 11 79
+  514 11 123
+  514 13 116
+
+Tensor id: 515
+Graphs: 
+  515 9 123
+  515 11 113
+  515 13 71
+
+Tensor id: 516
+Graphs: 
+  516 9 79
+  516 11 113
+  516 13 97
+
+Tensor id: 517
+Graphs: 
+  517 9 116
+  517 11 71
+  517 11 97
+
+Tensor id: 518
+Graphs: 
+  518 8 12
+  518 9 519
+  518 13 520
+  518 113 113
+
+Tensor id: 519
+Graphs: 
+  519 9 12
+  519 13 113
+
+Tensor id: 520
+Graphs: 
+  520 8 13
+  520 9 113
+
+Tensor id: 521
+Graphs: 
+  521 9 522
+  521 11 523
+  521 15 524
+  521 75 95
+  521 97 119
+
+Tensor id: 522
+Graphs: 
+  522 9 95
+  522 11 119
+  522 15 97
+
+Tensor id: 523
+Graphs: 
+  523 9 119
+  523 15 75
+
+Tensor id: 524
+Graphs: 
+  524 9 97
+  524 11 75
+
+Tensor id: 525
+Graphs: 
+  525 10 10
+  525 11 526
+  525 116 116
+
+Tensor id: 526
+Graphs: 
+  526 10 11
+  526 11 116
+
+Tensor id: 527
+Graphs: 
+  527 9 528
+  527 13 529
+  527 84 125
+  527 100 100
+
+Tensor id: 528
+Graphs: 
+  528 9 125
+  528 13 100
+
+Tensor id: 529
+Graphs: 
+  529 9 100
+  529 13 84
+
+Tensor id: 530
+Graphs: 
+  530 9 531
+  530 11 532
+  530 11 533
+  530 13 534
+  530 87 102
+  530 97 123
+  530 100 103
+
+Tensor id: 531
+Graphs: 
+  531 11 102
+  531 11 123
+  531 13 103
+
+Tensor id: 532
+Graphs: 
+  532 9 123
+  532 11 100
+  532 13 87
+
+Tensor id: 533
+Graphs: 
+  533 9 102
+  533 11 100
+  533 13 97
+
+Tensor id: 534
+Graphs: 
+  534 9 103
+  534 11 87
+  534 11 97
+
+Tensor id: 535
+Graphs: 
+  535 9 536
+  535 13 537
+  535 75 99
+  535 100 100
+  535 113 113
+
+Tensor id: 536
+Graphs: 
+  536 9 99
+  536 13 100
+  536 13 113
+
+Tensor id: 537
+Graphs: 
+  537 9 100
+  537 9 113
+  537 13 75
+
+Tensor id: 538
+Graphs: 
+  538 9 539
+  538 11 540
+  538 13 541
+  538 87 102
+  538 113 116
+
+Tensor id: 539
+Graphs: 
+  539 11 102
+  539 13 116
+
+Tensor id: 540
+Graphs: 
+  540 9 102
+  540 11 113
+  540 13 87
+
+Tensor id: 541
+Graphs: 
+  541 9 116
+  541 11 87
+
+Tensor id: 542
+Graphs: 
+  542 11 543
+  542 86 86
+  542 103 103
+  542 116 116
+
+Tensor id: 543
+Graphs: 
+  543 11 86
+  543 11 103
+  543 11 116
+
+Tensor id: 544
+Graphs: 
+  544 11 545
+  544 103 103
+
+Tensor id: 545
+Graphs: 
+  545 11 103
+
+Tensor id: 546
+Graphs: 
+  546 0 153
+  546 1 60
+  546 5 22
+
+Tensor id: 547
+Graphs: 
+  547 0 154
+  547 5 23
+  547 7 548
+  547 24 303
+  547 62 155
+
+Tensor id: 548
+Graphs: 
+  548 0 155
+  548 5 24
+
+Tensor id: 549
+Graphs: 
+  549 0 156
+  549 1 61
+  549 6 22
+  549 7 550
+  549 62 157
+
+Tensor id: 550
+Graphs: 
+  550 0 157
+  550 1 62
+  550 7 22
+
+Tensor id: 551
+Graphs: 
+  551 0 158
+  551 5 25
+  551 9 552
+  551 26 305
+  551 64 159
+
+Tensor id: 552
+Graphs: 
+  552 0 159
+  552 5 26
+
+Tensor id: 553
+Graphs: 
+  553 0 160
+  553 7 554
+  553 26 308
+  553 62 161
+  553 67 159
+
+Tensor id: 554
+Graphs: 
+  554 0 161
+  554 7 159
+  554 26 62
+
+Tensor id: 555
+Graphs: 
+  555 0 162
+  555 7 556
+  555 9 557
+  555 24 307
+  555 62 163
+  555 64 164
+  555 66 155
+
+Tensor id: 556
+Graphs: 
+  556 0 163
+  556 9 155
+  556 24 64
+
+Tensor id: 557
+Graphs: 
+  557 0 164
+  557 7 155
+  557 24 62
+
+Tensor id: 558
+Graphs: 
+  558 0 165
+  558 1 63
+  558 8 22
+  558 9 559
+  558 64 166
+
+Tensor id: 559
+Graphs: 
+  559 0 166
+  559 1 64
+  559 9 22
+
+Tensor id: 560
+Graphs: 
+  560 6 23
+  560 7 561
+  560 7 562
+  560 24 310
+  560 67 164
+
+Tensor id: 561
+Graphs: 
+  561 6 24
+  561 7 164
+
+Tensor id: 562
+Graphs: 
+  562 7 23
+  562 7 164
+  562 24 67
+
+Tensor id: 563
+Graphs: 
+  563 1 65
+  563 7 564
+  563 9 565
+  563 66 157
+  563 67 166
+
+Tensor id: 564
+Graphs: 
+  564 1 66
+  564 7 166
+  564 9 157
+
+Tensor id: 565
+Graphs: 
+  565 1 67
+  565 7 157
+
+Tensor id: 566
+Graphs: 
+  566 0 167
+  566 5 27
+  566 11 567
+  566 28 312
+  566 69 168
+
+Tensor id: 567
+Graphs: 
+  567 0 168
+  567 5 28
+
+Tensor id: 568
+Graphs: 
+  568 0 169
+  568 7 569
+  568 9 570
+  568 28 316
+  568 62 170
+  568 64 171
+  568 73 168
+
+Tensor id: 569
+Graphs: 
+  569 0 170
+  569 9 168
+  569 28 64
+
+Tensor id: 570
+Graphs: 
+  570 0 171
+  570 7 168
+  570 28 62
+
+Tensor id: 571
+Graphs: 
+  571 0 172
+  571 7 572
+  571 11 573
+  571 26 315
+  571 62 173
+  571 69 174
+  571 72 159
+
+Tensor id: 572
+Graphs: 
+  572 0 173
+  572 11 159
+  572 26 69
+
+Tensor id: 573
+Graphs: 
+  573 0 174
+  573 7 159
+  573 26 62
+
+Tensor id: 574
+Graphs: 
+  574 0 175
+  574 9 575
+  574 26 318
+  574 64 176
+  574 75 159
+
+Tensor id: 575
+Graphs: 
+  575 0 176
+  575 9 159
+  575 26 64
+
+Tensor id: 576
+Graphs: 
+  576 0 177
+  576 9 577
+  576 11 578
+  576 24 314
+  576 64 178
+  576 69 179
+  576 71 155
+
+Tensor id: 577
+Graphs: 
+  577 0 178
+  577 11 155
+  577 24 69
+
+Tensor id: 578
+Graphs: 
+  578 0 179
+  578 9 155
+  578 24 64
+
+Tensor id: 579
+Graphs: 
+  579 0 180
+  579 1 68
+  579 10 22
+  579 11 580
+  579 69 181
+
+Tensor id: 580
+Graphs: 
+  580 0 181
+  580 1 69
+  580 11 22
+
+Tensor id: 581
+Graphs: 
+  581 7 582
+  581 28 321
+  581 67 171
+
+Tensor id: 582
+Graphs: 
+  582 7 171
+  582 28 67
+
+Tensor id: 583
+Graphs: 
+  583 7 584
+  583 7 585
+  583 9 586
+  583 26 324
+  583 66 161
+  583 67 176
+  583 73 174
+
+Tensor id: 584
+Graphs: 
+  584 7 176
+  584 9 174
+  584 26 66
+
+Tensor id: 585
+Graphs: 
+  585 7 176
+  585 9 161
+  585 26 73
+
+Tensor id: 586
+Graphs: 
+  586 7 161
+  586 7 174
+  586 26 67
+
+Tensor id: 587
+Graphs: 
+  587 7 588
+  587 8 23
+  587 9 589
+  587 24 326
+  587 73 179
+
+Tensor id: 588
+Graphs: 
+  588 8 24
+  588 9 179
+
+Tensor id: 589
+Graphs: 
+  589 7 179
+  589 9 23
+  589 24 73
+
+Tensor id: 590
+Graphs: 
+  590 6 25
+  590 7 591
+  590 9 592
+  590 26 327
+  590 73 174
+
+Tensor id: 591
+Graphs: 
+  591 7 25
+  591 9 174
+  591 26 73
+
+Tensor id: 592
+Graphs: 
+  592 6 26
+  592 7 174
+
+Tensor id: 593
+Graphs: 
+  593 7 594
+  593 11 595
+  593 24 320
+  593 67 178
+  593 72 164
+
+Tensor id: 594
+Graphs: 
+  594 7 178
+  594 11 164
+  594 24 72
+
+Tensor id: 595
+Graphs: 
+  595 7 164
+  595 24 67
+
+Tensor id: 596
+Graphs: 
+  596 7 597
+  596 9 598
+  596 9 599
+  596 24 323
+  596 66 163
+  596 73 179
+  596 75 164
+
+Tensor id: 597
+Graphs: 
+  597 9 163
+  597 9 179
+  597 24 75
+
+Tensor id: 598
+Graphs: 
+  598 7 179
+  598 9 164
+  598 24 66
+
+Tensor id: 599
+Graphs: 
+  599 7 163
+  599 9 164
+  599 24 73
+
+Tensor id: 600
+Graphs: 
+  600 1 70
+  600 7 601
+  600 9 602
+  600 11 603
+  600 71 157
+  600 72 166
+  600 73 181
+
+Tensor id: 601
+Graphs: 
+  601 1 71
+  601 9 181
+  601 11 166
+
+Tensor id: 602
+Graphs: 
+  602 1 72
+  602 7 181
+  602 11 157
+
+Tensor id: 603
+Graphs: 
+  603 1 73
+  603 7 166
+  603 9 157
+
+Tensor id: 604
+Graphs: 
+  604 1 74
+  604 9 605
+  604 75 166
+
+Tensor id: 605
+Graphs: 
+  605 1 75
+  605 9 166
+
+Tensor id: 606
+Graphs: 
+  606 0 182
+  606 5 29
+  606 13 607
+  606 30 329
+  606 77 183
+
+Tensor id: 607
+Graphs: 
+  607 0 183
+  607 5 30
+
+Tensor id: 608
+Graphs: 
+  608 0 184
+  608 7 609
+  608 11 610
+  608 30 333
+  608 62 185
+  608 69 186
+  608 81 183
+
+Tensor id: 609
+Graphs: 
+  609 0 185
+  609 11 183
+  609 30 69
+
+Tensor id: 610
+Graphs: 
+  610 0 186
+  610 7 183
+  610 30 62
+
+Tensor id: 611
+Graphs: 
+  611 0 187
+  611 9 612
+  611 30 336
+  611 64 188
+  611 84 183
+
+Tensor id: 612
+Graphs: 
+  612 0 188
+  612 9 183
+  612 30 64
+
+Tensor id: 613
+Graphs: 
+  613 0 189
+  613 7 614
+  613 13 615
+  613 28 332
+  613 62 190
+  613 77 191
+  613 80 168
+
+Tensor id: 614
+Graphs: 
+  614 0 190
+  614 13 168
+  614 28 77
+
+Tensor id: 615
+Graphs: 
+  615 0 191
+  615 7 168
+  615 28 62
+
+Tensor id: 616
+Graphs: 
+  616 0 192
+  616 9 617
+  616 11 618
+  616 28 339
+  616 64 193
+  616 69 194
+  616 87 168
+
+Tensor id: 617
+Graphs: 
+  617 0 193
+  617 11 168
+  617 28 69
+
+Tensor id: 618
+Graphs: 
+  618 0 194
+  618 9 168
+  618 28 64
+
+Tensor id: 619
+Graphs: 
+  619 0 195
+  619 9 620
+  619 13 621
+  619 26 335
+  619 64 196
+  619 77 197
+  619 83 159
+
+Tensor id: 620
+Graphs: 
+  620 0 196
+  620 13 159
+  620 26 77
+
+Tensor id: 621
+Graphs: 
+  621 0 197
+  621 9 159
+  621 26 64
+
+Tensor id: 622
+Graphs: 
+  622 0 198
+  622 11 623
+  622 26 338
+  622 69 199
+  622 86 159
+
+Tensor id: 623
+Graphs: 
+  623 0 199
+  623 11 159
+  623 26 69
+
+Tensor id: 624
+Graphs: 
+  624 0 200
+  624 11 625
+  624 13 626
+  624 24 331
+  624 69 201
+  624 77 202
+  624 79 155
+
+Tensor id: 625
+Graphs: 
+  625 0 201
+  625 13 155
+  625 24 77
+
+Tensor id: 626
+Graphs: 
+  626 0 202
+  626 11 155
+  626 24 69
+
+Tensor id: 627
+Graphs: 
+  627 0 203
+  627 1 76
+  627 12 22
+  627 13 628
+  627 77 204
+
+Tensor id: 628
+Graphs: 
+  628 0 204
+  628 1 77
+  628 13 22
+
+Tensor id: 629
+Graphs: 
+  629 7 630
+  629 9 631
+  629 30 343
+  629 67 188
+  629 73 186
+
+Tensor id: 630
+Graphs: 
+  630 7 188
+  630 9 186
+  630 30 73
+
+Tensor id: 631
+Graphs: 
+  631 7 186
+  631 30 67
+
+Tensor id: 632
+Graphs: 
+  632 7 633
+  632 7 634
+  632 11 635
+  632 28 346
+  632 67 193
+  632 72 171
+  632 81 191
+
+Tensor id: 633
+Graphs: 
+  633 7 193
+  633 11 191
+  633 28 72
+
+Tensor id: 634
+Graphs: 
+  634 7 193
+  634 11 171
+  634 28 81
+
+Tensor id: 635
+Graphs: 
+  635 7 171
+  635 7 191
+  635 28 67
+
+Tensor id: 636
+Graphs: 
+  636 7 637
+  636 9 638
+  636 28 350
+  636 73 194
+  636 75 171
+
+Tensor id: 637
+Graphs: 
+  637 9 194
+  637 28 75
+
+Tensor id: 638
+Graphs: 
+  638 7 194
+  638 9 171
+  638 28 73
+
+Tensor id: 639
+Graphs: 
+  639 7 640
+  639 9 641
+  639 11 642
+  639 26 354
+  639 71 161
+  639 73 199
+  639 81 197
+
+Tensor id: 640
+Graphs: 
+  640 9 199
+  640 11 197
+  640 26 71
+
+Tensor id: 641
+Graphs: 
+  641 7 199
+  641 11 161
+  641 26 81
+
+Tensor id: 642
+Graphs: 
+  642 7 197
+  642 9 161
+  642 26 73
+
+Tensor id: 643
+Graphs: 
+  643 7 644
+  643 10 23
+  643 11 645
+  643 24 357
+  643 81 202
+
+Tensor id: 644
+Graphs: 
+  644 10 24
+  644 11 202
+
+Tensor id: 645
+Graphs: 
+  645 7 202
+  645 11 23
+  645 24 81
+
+Tensor id: 646
+Graphs: 
+  646 7 647
+  646 9 648
+  646 9 649
+  646 28 355
+  646 66 170
+  646 73 194
+  646 84 191
+
+Tensor id: 647
+Graphs: 
+  647 9 170
+  647 9 194
+  647 28 84
+
+Tensor id: 648
+Graphs: 
+  648 7 194
+  648 9 191
+  648 28 66
+
+Tensor id: 649
+Graphs: 
+  649 7 170
+  649 9 191
+  649 28 73
+
+Tensor id: 650
+Graphs: 
+  650 8 25
+  650 9 651
+  650 9 652
+  650 26 360
+  650 84 197
+
+Tensor id: 651
+Graphs: 
+  651 8 26
+  651 9 197
+
+Tensor id: 652
+Graphs: 
+  652 9 25
+  652 9 197
+  652 26 84
+
+Tensor id: 653
+Graphs: 
+  653 6 27
+  653 7 654
+  653 11 655
+  653 28 358
+  653 81 191
+
+Tensor id: 654
+Graphs: 
+  654 7 27
+  654 11 191
+  654 28 81
+
+Tensor id: 655
+Graphs: 
+  655 6 28
+  655 7 191
+
+Tensor id: 656
+Graphs: 
+  656 7 657
+  656 13 658
+  656 26 342
+  656 67 196
+  656 80 174
+
+Tensor id: 657
+Graphs: 
+  657 7 196
+  657 13 174
+  657 26 80
+
+Tensor id: 658
+Graphs: 
+  658 7 174
+  658 26 67
+
+Tensor id: 659
+Graphs: 
+  659 7 660
+  659 9 661
+  659 11 662
+  659 26 349
+  659 72 176
+  659 73 199
+  659 87 174
+
+Tensor id: 660
+Graphs: 
+  660 9 199
+  660 11 176
+  660 26 87
+
+Tensor id: 661
+Graphs: 
+  661 7 199
+  661 11 174
+  661 26 72
+
+Tensor id: 662
+Graphs: 
+  662 7 176
+  662 9 174
+  662 26 73
+
+Tensor id: 663
+Graphs: 
+  663 7 664
+  663 9 665
+  663 11 666
+  663 26 353
+  663 66 173
+  663 81 197
+  663 87 174
+
+Tensor id: 664
+Graphs: 
+  664 9 173
+  664 11 197
+  664 26 87
+
+Tensor id: 665
+Graphs: 
+  665 7 173
+  665 11 174
+  665 26 81
+
+Tensor id: 666
+Graphs: 
+  666 7 197
+  666 9 174
+  666 26 66
+
+Tensor id: 667
+Graphs: 
+  667 7 668
+  667 9 669
+  667 13 670
+  667 24 341
+  667 73 201
+  667 80 179
+  667 83 164
+
+Tensor id: 668
+Graphs: 
+  668 9 201
+  668 13 179
+  668 24 83
+
+Tensor id: 669
+Graphs: 
+  669 7 201
+  669 13 164
+  669 24 80
+
+Tensor id: 670
+Graphs: 
+  670 7 179
+  670 9 164
+  670 24 73
+
+Tensor id: 671
+Graphs: 
+  671 7 672
+  671 11 673
+  671 11 674
+  671 24 345
+  671 72 178
+  671 81 202
+  671 86 164
+
+Tensor id: 672
+Graphs: 
+  672 11 178
+  672 11 202
+  672 24 86
+
+Tensor id: 673
+Graphs: 
+  673 7 202
+  673 11 164
+  673 24 72
+
+Tensor id: 674
+Graphs: 
+  674 7 178
+  674 11 164
+  674 24 81
+
+Tensor id: 675
+Graphs: 
+  675 1 78
+  675 7 676
+  675 11 677
+  675 13 678
+  675 79 157
+  675 80 181
+  675 81 204
+
+Tensor id: 676
+Graphs: 
+  676 1 79
+  676 11 204
+  676 13 181
+
+Tensor id: 677
+Graphs: 
+  677 1 80
+  677 7 204
+  677 13 157
+
+Tensor id: 678
+Graphs: 
+  678 1 81
+  678 7 181
+  678 11 157
+
+Tensor id: 679
+Graphs: 
+  679 9 680
+  679 9 681
+  679 26 362
+  679 75 176
+  679 84 197
+
+Tensor id: 680
+Graphs: 
+  680 9 176
+  680 9 197
+  680 26 75
+
+Tensor id: 681
+Graphs: 
+  681 9 176
+  681 26 84
+
+Tensor id: 682
+Graphs: 
+  682 9 683
+  682 9 684
+  682 11 685
+  682 24 352
+  682 71 163
+  682 84 202
+  682 87 179
+
+Tensor id: 683
+Graphs: 
+  683 9 202
+  683 11 179
+  683 24 71
+
+Tensor id: 684
+Graphs: 
+  684 9 202
+  684 11 163
+  684 24 87
+
+Tensor id: 685
+Graphs: 
+  685 9 163
+  685 9 179
+  685 24 84
+
+Tensor id: 686
+Graphs: 
+  686 1 82
+  686 9 687
+  686 13 688
+  686 83 166
+  686 84 204
+
+Tensor id: 687
+Graphs: 
+  687 1 83
+  687 9 204
+  687 13 166
+
+Tensor id: 688
+Graphs: 
+  688 1 84
+  688 9 166
+
+Tensor id: 689
+Graphs: 
+  689 9 690
+  689 11 691
+  689 24 348
+  689 75 178
+  689 87 179
+
+Tensor id: 690
+Graphs: 
+  690 9 178
+  690 11 179
+  690 24 87
+
+Tensor id: 691
+Graphs: 
+  691 9 179
+  691 24 75
+
+Tensor id: 692
+Graphs: 
+  692 1 85
+  692 9 693
+  692 11 694
+  692 86 166
+  692 87 181
+
+Tensor id: 693
+Graphs: 
+  693 1 86
+  693 11 181
+
+Tensor id: 694
+Graphs: 
+  694 1 87
+  694 9 181
+  694 11 166
+
+Tensor id: 695
+Graphs: 
+  695 0 237
+  695 2 60
+  695 5 35
+
+Tensor id: 696
+Graphs: 
+  696 0 238
+  696 1 153
+  696 5 36
+  696 22 22
+
+Tensor id: 697
+Graphs: 
+  697 0 239
+  697 5 37
+  697 7 698
+  697 38 303
+  697 62 240
+
+Tensor id: 698
+Graphs: 
+  698 0 240
+  698 5 38
+
+Tensor id: 699
+Graphs: 
+  699 0 241
+  699 2 61
+  699 6 35
+  699 7 700
+  699 62 242
+
+Tensor id: 700
+Graphs: 
+  700 0 242
+  700 2 62
+  700 7 35
+
+Tensor id: 701
+Graphs: 
+  701 0 243
+  701 5 39
+  701 24 548
+  701 155 155
+
+Tensor id: 702
+Graphs: 
+  702 0 244
+  702 1 154
+  702 7 703
+  702 22 23
+  702 24 550
+  702 62 245
+  702 155 157
+
+Tensor id: 703
+Graphs: 
+  703 0 245
+  703 1 155
+  703 22 24
+
+Tensor id: 704
+Graphs: 
+  704 1 156
+  704 6 36
+  704 7 705
+  704 157 157
+
+Tensor id: 705
+Graphs: 
+  705 1 157
+  705 7 36
+
+Tensor id: 706
+Graphs: 
+  706 0 246
+  706 5 40
+  706 9 707
+  706 41 305
+  706 64 247
+
+Tensor id: 707
+Graphs: 
+  707 0 247
+  707 5 41
+
+Tensor id: 708
+Graphs: 
+  708 0 248
+  708 7 709
+  708 41 308
+  708 62 249
+  708 67 247
+
+Tensor id: 709
+Graphs: 
+  709 0 249
+  709 7 247
+  709 41 62
+
+Tensor id: 710
+Graphs: 
+  710 0 250
+  710 7 711
+  710 9 712
+  710 38 307
+  710 62 251
+  710 64 252
+  710 66 240
+
+Tensor id: 711
+Graphs: 
+  711 0 251
+  711 9 240
+  711 38 64
+
+Tensor id: 712
+Graphs: 
+  712 0 252
+  712 7 240
+  712 38 62
+
+Tensor id: 713
+Graphs: 
+  713 0 253
+  713 2 63
+  713 8 35
+  713 9 714
+  713 64 254
+
+Tensor id: 714
+Graphs: 
+  714 0 254
+  714 2 64
+  714 9 35
+
+Tensor id: 715
+Graphs: 
+  715 6 37
+  715 7 716
+  715 7 717
+  715 38 310
+  715 67 252
+
+Tensor id: 716
+Graphs: 
+  716 6 38
+  716 7 252
+
+Tensor id: 717
+Graphs: 
+  717 7 37
+  717 7 252
+  717 38 67
+
+Tensor id: 718
+Graphs: 
+  718 2 65
+  718 7 719
+  718 9 720
+  718 66 242
+  718 67 254
+
+Tensor id: 719
+Graphs: 
+  719 2 66
+  719 7 254
+  719 9 242
+
+Tensor id: 720
+Graphs: 
+  720 2 67
+  720 7 242
+
+Tensor id: 721
+Graphs: 
+  721 0 255
+  721 5 42
+  721 26 552
+  721 159 159
+
+Tensor id: 722
+Graphs: 
+  722 0 256
+  722 7 723
+  722 24 554
+  722 26 557
+  722 62 257
+  722 155 161
+  722 159 164
+
+Tensor id: 723
+Graphs: 
+  723 0 257
+  723 24 159
+  723 26 155
+
+Tensor id: 724
+Graphs: 
+  724 0 258
+  724 1 158
+  724 9 725
+  724 22 25
+  724 26 559
+  724 64 259
+  724 159 166
+
+Tensor id: 725
+Graphs: 
+  725 0 259
+  725 1 159
+  725 22 26
+
+Tensor id: 726
+Graphs: 
+  726 0 260
+  726 9 727
+  726 24 556
+  726 64 261
+  726 155 163
+
+Tensor id: 727
+Graphs: 
+  727 0 261
+  727 24 155
+
+Tensor id: 728
+Graphs: 
+  728 1 160
+  728 7 729
+  728 26 565
+  728 67 259
+  728 157 161
+
+Tensor id: 729
+Graphs: 
+  729 1 161
+  729 7 259
+  729 26 157
+
+Tensor id: 730
+Graphs: 
+  730 7 731
+  730 23 23
+  730 24 562
+  730 67 261
+  730 164 164
+
+Tensor id: 731
+Graphs: 
+  731 7 261
+  731 23 24
+  731 24 164
+
+Tensor id: 732
+Graphs: 
+  732 6 39
+  732 7 733
+  732 24 561
+  732 164 164
+
+Tensor id: 733
+Graphs: 
+  733 7 39
+  733 24 164
+
+Tensor id: 734
+Graphs: 
+  734 1 162
+  734 7 735
+  734 9 736
+  734 24 564
+  734 66 245
+  734 157 163
+  734 164 166
+
+Tensor id: 735
+Graphs: 
+  735 1 163
+  735 9 245
+  735 24 166
+
+Tensor id: 736
+Graphs: 
+  736 1 164
+  736 7 245
+  736 24 157
+
+Tensor id: 737
+Graphs: 
+  737 1 165
+  737 8 36
+  737 9 738
+  737 166 166
+
+Tensor id: 738
+Graphs: 
+  738 1 166
+  738 9 36
+
+Tensor id: 739
+Graphs: 
+  739 0 288
+  739 3 60
+  739 5 49
+
+Tensor id: 740
+Graphs: 
+  740 0 289
+  740 1 237
+  740 2 153
+  740 5 50
+  740 22 35
+
+Tensor id: 741
+Graphs: 
+  741 0 290
+  741 1 238
+  741 22 36
+
