@@ -506,52 +506,6 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 263
-mus: 0 0 1 
-nvs: 1 1 0 
-level: 0 dim 3 maxpoly 2
-0 0 1
-  0  1  0  
-  1  0  0  
-  0  0  0  
-
-Bid: 446
-mus: 0 0 2 
-nvs: 1 1 0 
-level: 0 dim 3 maxpoly 2
-0 0 2
-  0  1  0  
-  1  0  0  
-  0  0  0  
-
-Bid: 593
-mus: 0 0 3 
-nvs: 1 1 0 
-level: 0 dim 3 maxpoly 2
-0 0 3
-  0  1  0  
-  1  0  0  
-  0  0  0  
-
-Bid: 666
-mus: 0 0 4 
-nvs: 1 1 0 
-level: 0 dim 3 maxpoly 2
-0 0 4
-  0  1  0  
-  1  0  0  
-  0  0  0  
-
-Bid: 686
-mus: 0 0 0 0 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
 Bid: 95
 mus: 0 0 0 
 nvs: 0 2 2 
@@ -560,53 +514,6 @@ level: 0 dim 3 maxpoly 4
   0  0  0  
   0  0  2  
   0  2  0  
-
-Bid: 272
-mus: 0 0 1 
-nvs: 2 2 0 
-level: 0 dim 3 maxpoly 4
-0 0 1
-  0  2  0  
-  2  0  0  
-  0  0  0  
-
-Bid: 458
-mus: 0 0 2 
-nvs: 2 2 0 
-level: 0 dim 3 maxpoly 4
-0 0 2
-  0  2  0  
-  2  0  0  
-  0  0  0  
-
-Bid: 608
-mus: 0 0 3 
-nvs: 2 2 0 
-level: 0 dim 3 maxpoly 4
-0 0 3
-  0  2  0  
-  2  0  0  
-  0  0  0  
-
-Bid: 702
-mus: 0 0 0 0 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 0
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 736
-mus: 0 0 0 0 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  0  
-  2  0  0  0  
 
 Bid: 100
 mus: 0 0 0 
@@ -617,63 +524,6 @@ level: 0 dim 3 maxpoly 6
   0  0  3  
   0  3  0  
 
-Bid: 287
-mus: 0 0 1 
-nvs: 3 3 0 
-level: 0 dim 3 maxpoly 6
-0 0 1
-  0  3  0  
-  3  0  0  
-  0  0  0  
-
-Bid: 480
-mus: 0 0 2 
-nvs: 3 3 0 
-level: 0 dim 3 maxpoly 6
-0 0 2
-  0  3  0  
-  3  0  0  
-  0  0  0  
-
-Bid: 636
-mus: 0 0 3 
-nvs: 3 3 0 
-level: 0 dim 3 maxpoly 6
-0 0 3
-  0  3  0  
-  3  0  0  
-  0  0  0  
-
-Bid: 733
-mus: 0 0 0 0 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 796
-mus: 0 0 0 0 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 902
-mus: 0 0 0 0 
-nvs: 3 3 3 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  3  
-  0  0  3  0  
-  0  3  0  0  
-  3  0  0  0  
-
 Bid: 108
 mus: 0 0 0 
 nvs: 0 4 4 
@@ -682,64 +532,6 @@ level: 0 dim 3 maxpoly 8
   0  0  0  
   0  0  4  
   0  4  0  
-
-Bid: 310
-mus: 0 0 1 
-nvs: 4 4 0 
-level: 0 dim 3 maxpoly 8
-0 0 1
-  0  4  0  
-  4  0  0  
-  0  0  0  
-
-Bid: 514
-mus: 0 0 2 
-nvs: 4 4 0 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  4  0  
-  4  0  0  
-  0  0  0  
-
-Bid: 786
-mus: 0 0 0 0 
-nvs: 1 1 4 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 895
-mus: 0 0 0 0 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 1067
-mus: 0 0 0 0 
-nvs: 3 3 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  3  0  0  
-  3  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 1331
-mus: 0 0 0 0 
-nvs: 4 4 4 4 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  4  
-  0  0  4  0  
-  0  4  0  0  
-  4  0  0  0  
 
 Bid: 120
 mus: 0 0 0 
@@ -750,54 +542,6 @@ level: 0 dim 3 maxpoly 10
   0  0  5  
   0  5  0  
 
-Bid: 342
-mus: 0 0 1 
-nvs: 5 5 0 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  5  0  
-  5  0  0  
-  0  0  0  
-
-Bid: 563
-mus: 0 0 2 
-nvs: 5 5 0 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  5  0  
-  5  0  0  
-  0  0  0  
-
-Bid: 872
-mus: 0 0 0 0 
-nvs: 1 1 5 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  5  
-  0  0  5  0  
-
-Bid: 1052
-mus: 0 0 0 0 
-nvs: 2 2 5 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  5  
-  0  0  5  0  
-
-Bid: 1319
-mus: 0 0 0 0 
-nvs: 3 3 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  3  0  0  
-  3  0  0  0  
-  0  0  0  5  
-  0  0  5  0  
-
 Bid: 136
 mus: 0 0 0 
 nvs: 0 6 6 
@@ -807,35 +551,6 @@ level: 0 dim 3 maxpoly 12
   0  0  6  
   0  6  0  
 
-Bid: 385
-mus: 0 0 1 
-nvs: 6 6 0 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  6  0  
-  6  0  0  
-  0  0  0  
-
-Bid: 1014
-mus: 0 0 0 0 
-nvs: 1 1 6 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  6  
-  0  0  6  0  
-
-Bid: 1290
-mus: 0 0 0 0 
-nvs: 2 2 6 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  6  
-  0  0  6  0  
-
 Bid: 158
 mus: 0 0 0 
 nvs: 0 7 7 
@@ -844,25 +559,6 @@ level: 0 dim 3 maxpoly 14
   0  0  0  
   0  0  7  
   0  7  0  
-
-Bid: 440
-mus: 0 0 1 
-nvs: 7 7 0 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  7  0  
-  7  0  0  
-  0  0  0  
-
-Bid: 1233
-mus: 0 0 0 0 
-nvs: 1 1 7 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  7  
-  0  0  7  0  
 
 Bid: 185
 mus: 0 0 0 
@@ -891,15 +587,6 @@ level: 0 dim 3 maxpoly 0
   0  0  0  
   0  0  0  
 
-Bid: 443
-mus: 0 1 1 
-nvs: 0 0 0 
-level: 0 dim 3 maxpoly 0
-0 1 1
-  0  0  0  
-  0  0  0  
-  0  0  0  
-
 Bid: 261
 mus: 0 0 1 
 nvs: 0 1 1 
@@ -909,92 +596,14 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 449
-mus: 0 1 1 
-nvs: 1 0 1 
+Bid: 263
+mus: 1 0 0 
+nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
-0 1 1
+1 0 0
+  0  0  0  
   0  0  1  
-  0  0  0  
-  1  0  0  
-
-Bid: 598
-mus: 0 1 2 
-nvs: 1 1 0 
-level: 0 dim 3 maxpoly 2
-0 1 2
   0  1  0  
-  1  0  0  
-  0  0  0  
-
-Bid: 671
-mus: 0 1 3 
-nvs: 1 1 0 
-level: 0 dim 3 maxpoly 2
-0 1 3
-  0  1  0  
-  1  0  0  
-  0  0  0  
-
-Bid: 1436
-mus: 0 0 0 1 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
-Bid: 1463
-mus: 0 0 0 1 
-nvs: 1 2 2 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  1  
-  0  0  2  0  
-  0  2  0  0  
-  1  0  0  0  
-
-Bid: 1519
-mus: 0 0 0 1 
-nvs: 1 3 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  1  
-  0  0  3  0  
-  0  3  0  0  
-  1  0  0  0  
-
-Bid: 1628
-mus: 0 0 0 1 
-nvs: 1 4 4 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  4  0  
-  0  4  0  0  
-  1  0  0  0  
-
-Bid: 1827
-mus: 0 0 0 1 
-nvs: 1 5 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  5  0  
-  0  5  0  0  
-  1  0  0  0  
-
-Bid: 2105
-mus: 0 0 1 1 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
 
 Bid: 265
 mus: 0 0 1 
@@ -1005,83 +614,23 @@ level: 0 dim 3 maxpoly 4
   0  0  2  
   0  2  0  
 
-Bid: 463
-mus: 0 1 1 
-nvs: 2 0 2 
+Bid: 269
+mus: 1 0 0 
+nvs: 1 1 2 
 level: 0 dim 3 maxpoly 4
-0 1 1
+1 0 0
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+Bid: 272
+mus: 1 0 0 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+1 0 0
+  0  0  0  
   0  0  2  
-  0  0  0  
-  2  0  0  
-
-Bid: 619
-mus: 0 1 2 
-nvs: 2 2 0 
-level: 0 dim 3 maxpoly 4
-0 1 2
   0  2  0  
-  2  0  0  
-  0  0  0  
-
-Bid: 1466
-mus: 0 0 0 1 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 1526
-mus: 0 0 0 1 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  0  
-  2  0  0  0  
-
-Bid: 1642
-mus: 0 0 0 1 
-nvs: 2 3 3 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  2  
-  0  0  3  0  
-  0  3  0  0  
-  2  0  0  0  
-
-Bid: 1851
-mus: 0 0 0 1 
-nvs: 2 4 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  2  
-  0  0  4  0  
-  0  4  0  0  
-  2  0  0  0  
-
-Bid: 2175
-mus: 0 0 1 1 
-nvs: 1 2 1 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  0  
-  0  2  0  0  
-
-Bid: 2336
-mus: 0 0 1 1 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  0  
-  2  0  0  0  
 
 Bid: 274
 mus: 0 0 1 
@@ -1092,63 +641,32 @@ level: 0 dim 3 maxpoly 6
   0  0  3  
   0  3  0  
 
-Bid: 487
-mus: 0 1 1 
-nvs: 3 0 3 
+Bid: 282
+mus: 0 0 1 
+nvs: 2 2 2 
 level: 0 dim 3 maxpoly 6
-0 1 1
+0 0 1
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+Bid: 284
+mus: 1 0 0 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+1 0 0
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 287
+mus: 1 0 0 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+1 0 0
+  0  0  0  
   0  0  3  
-  0  0  0  
-  3  0  0  
-
-Bid: 655
-mus: 0 1 2 
-nvs: 3 3 0 
-level: 0 dim 3 maxpoly 6
-0 1 2
   0  3  0  
-  3  0  0  
-  0  0  0  
-
-Bid: 1529
-mus: 0 0 0 1 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 1649
-mus: 0 0 0 1 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 1865
-mus: 0 0 0 1 
-nvs: 3 3 3 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  3  
-  0  0  3  0  
-  0  3  0  0  
-  3  0  0  0  
-
-Bid: 2328
-mus: 0 0 1 1 
-nvs: 1 3 1 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  1  0  
-  0  0  0  3  
-  1  0  0  0  
-  0  3  0  0  
 
 Bid: 289
 mus: 0 0 1 
@@ -1159,34 +677,32 @@ level: 0 dim 3 maxpoly 8
   0  0  4  
   0  4  0  
 
-Bid: 523
-mus: 0 1 1 
-nvs: 4 0 4 
+Bid: 305
+mus: 1 0 0 
+nvs: 2 3 3 
 level: 0 dim 3 maxpoly 8
-0 1 1
-  0  0  4  
+1 0 0
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+Bid: 307
+mus: 1 0 0 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+1 0 0
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+Bid: 310
+mus: 1 0 0 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+1 0 0
   0  0  0  
-  4  0  0  
-
-Bid: 1652
-mus: 0 0 0 1 
-nvs: 1 1 4 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 1872
-mus: 0 0 0 1 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
+  0  0  4  
+  0  4  0  
 
 Bid: 312
 mus: 0 0 1 
@@ -1197,30 +713,164 @@ level: 0 dim 3 maxpoly 10
   0  0  5  
   0  5  0  
 
-Bid: 574
-mus: 0 1 1 
-nvs: 5 0 5 
+Bid: 331
+mus: 1 0 0 
+nvs: 3 3 4 
 level: 0 dim 3 maxpoly 10
-0 1 1
-  0  0  5  
-  0  0  0  
-  5  0  0  
+1 0 0
+  0  1  2  
+  1  0  2  
+  2  2  0  
 
-Bid: 1875
-mus: 0 0 0 1 
-nvs: 1 1 5 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  5  
-  0  0  5  0  
+Bid: 334
+mus: 1 0 0 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+1 0 0
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+Bid: 337
+mus: 1 0 0 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+1 0 0
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+Bid: 339
+mus: 1 0 0 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+1 0 0
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+Bid: 342
+mus: 1 0 0 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+1 0 0
+  0  0  0  
+  0  0  5  
+  0  5  0  
 
 Bid: 344
 mus: 0 0 1 
 nvs: 0 6 6 
 level: 0 dim 3 maxpoly 12
 0 0 1
+  0  0  0  
+  0  0  6  
+  0  6  0  
+
+Bid: 349
+mus: 1 0 0 
+nvs: 5 1 6 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  0  5  
+  0  0  1  
+  5  1  0  
+
+Bid: 355
+mus: 1 0 0 
+nvs: 5 2 5 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  1  4  
+  1  0  1  
+  4  1  0  
+
+Bid: 358
+mus: 1 0 0 
+nvs: 4 2 6 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  0  4  
+  0  0  2  
+  4  2  0  
+
+Bid: 363
+mus: 1 0 0 
+nvs: 5 3 4 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  2  3  
+  2  0  1  
+  3  1  0  
+
+Bid: 366
+mus: 1 0 0 
+nvs: 4 3 5 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  1  3  
+  1  0  2  
+  3  2  0  
+
+Bid: 369
+mus: 1 0 0 
+nvs: 3 3 6 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  0  3  
+  0  0  3  
+  3  3  0  
+
+Bid: 372
+mus: 0 0 1 
+nvs: 4 4 4 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  2  2  
+  2  0  2  
+  2  2  0  
+
+Bid: 374
+mus: 1 0 0 
+nvs: 3 4 5 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  1  2  
+  1  0  3  
+  2  3  0  
+
+Bid: 377
+mus: 1 0 0 
+nvs: 2 4 6 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  0  2  
+  0  0  4  
+  2  4  0  
+
+Bid: 380
+mus: 1 0 0 
+nvs: 2 5 5 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  1  1  
+  1  0  4  
+  1  4  0  
+
+Bid: 382
+mus: 1 0 0 
+nvs: 1 5 6 
+level: 0 dim 3 maxpoly 12
+1 0 0
+  0  0  1  
+  0  0  5  
+  1  5  0  
+
+Bid: 385
+mus: 1 0 0 
+nvs: 0 6 6 
+level: 0 dim 3 maxpoly 12
+1 0 0
   0  0  0  
   0  0  6  
   0  6  0  
@@ -1234,6 +884,123 @@ level: 0 dim 3 maxpoly 14
   0  0  7  
   0  7  0  
 
+Bid: 392
+mus: 1 0 0 
+nvs: 6 1 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  6  
+  0  0  1  
+  6  1  0  
+
+Bid: 401
+mus: 1 0 0 
+nvs: 5 2 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  5  
+  0  0  2  
+  5  2  0  
+
+Bid: 410
+mus: 1 0 0 
+nvs: 5 3 6 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  1  4  
+  1  0  2  
+  4  2  0  
+
+Bid: 413
+mus: 1 0 0 
+nvs: 4 3 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  4  
+  0  0  3  
+  4  3  0  
+
+Bid: 418
+mus: 1 0 0 
+nvs: 5 4 5 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  2  3  
+  2  0  2  
+  3  2  0  
+
+Bid: 421
+mus: 1 0 0 
+nvs: 4 4 6 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  1  3  
+  1  0  3  
+  3  3  0  
+
+Bid: 424
+mus: 1 0 0 
+nvs: 3 4 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  3  
+  0  0  4  
+  3  4  0  
+
+Bid: 427
+mus: 1 0 0 
+nvs: 4 5 5 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  2  2  
+  2  0  3  
+  2  3  0  
+
+Bid: 429
+mus: 1 0 0 
+nvs: 3 5 6 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  1  2  
+  1  0  4  
+  2  4  0  
+
+Bid: 432
+mus: 1 0 0 
+nvs: 2 5 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  2  
+  0  0  5  
+  2  5  0  
+
+Bid: 435
+mus: 1 0 0 
+nvs: 2 6 6 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  1  1  
+  1  0  5  
+  1  5  0  
+
+Bid: 437
+mus: 1 0 0 
+nvs: 1 6 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  1  
+  0  0  6  
+  1  6  0  
+
+Bid: 440
+mus: 1 0 0 
+nvs: 0 7 7 
+level: 0 dim 3 maxpoly 14
+1 0 0
+  0  0  0  
+  0  0  7  
+  0  7  0  
+
 Bid: 442
 mus: 0 0 2 
 nvs: 0 0 0 
@@ -1243,29 +1010,11 @@ level: 0 dim 3 maxpoly 0
   0  0  0  
   0  0  0  
 
-Bid: 589
-mus: 0 1 2 
+Bid: 443
+mus: 0 1 1 
 nvs: 0 0 0 
 level: 0 dim 3 maxpoly 0
-0 1 2
-  0  0  0  
-  0  0  0  
-  0  0  0  
-
-Bid: 662
-mus: 0 2 2 
-nvs: 0 0 0 
-level: 0 dim 3 maxpoly 0
-0 2 2
-  0  0  0  
-  0  0  0  
-  0  0  0  
-
-Bid: 590
-mus: 1 1 1 
-nvs: 0 0 0 
-level: 0 dim 3 maxpoly 0
-1 1 1
+0 1 1
   0  0  0  
   0  0  0  
   0  0  0  
@@ -1279,65 +1028,7 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 596
-mus: 0 1 2 
-nvs: 1 0 1 
-level: 0 dim 3 maxpoly 2
-0 1 2
-  0  0  1  
-  0  0  0  
-  1  0  0  
-
-Bid: 674
-mus: 0 2 2 
-nvs: 1 0 1 
-level: 0 dim 3 maxpoly 2
-0 2 2
-  0  0  1  
-  0  0  0  
-  1  0  0  
-
-Bid: 2090
-mus: 0 0 0 2 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 2
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
-Bid: 2135
-mus: 0 0 0 2 
-nvs: 1 2 2 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  0  1  
-  0  0  2  0  
-  0  2  0  0  
-  1  0  0  0  
-
-Bid: 2237
-mus: 0 0 0 2 
-nvs: 1 3 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  1  
-  0  0  3  0  
-  0  3  0  0  
-  1  0  0  0  
-
-Bid: 2437
-mus: 0 0 1 2 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
-Bid: 448
+Bid: 446
 mus: 0 1 1 
 nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
@@ -1346,63 +1037,23 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 600
-mus: 1 1 1 
+Bid: 447
+mus: 2 0 0 
 nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
-1 1 1
+2 0 0
   0  0  0  
   0  0  1  
   0  1  0  
 
-Bid: 677
-mus: 1 1 2 
-nvs: 1 1 0 
+Bid: 449
+mus: 1 0 1 
+nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
-1 1 2
-  0  1  0  
-  1  0  0  
+1 0 1
   0  0  0  
-
-Bid: 2107
-mus: 0 0 1 1 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2193
-mus: 0 0 1 1 
-nvs: 2 2 1 1 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2385
-mus: 0 0 1 1 
-nvs: 3 3 1 1 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  3  0  0  
-  3  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2456
-mus: 0 1 1 1 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 1 1 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
+  0  0  1  
+  0  1  0  
 
 Bid: 451
 mus: 0 0 2 
@@ -1413,36 +1064,7 @@ level: 0 dim 3 maxpoly 4
   0  0  2  
   0  2  0  
 
-Bid: 613
-mus: 0 1 2 
-nvs: 2 0 2 
-level: 0 dim 3 maxpoly 4
-0 1 2
-  0  0  2  
-  0  0  0  
-  2  0  0  
-
-Bid: 2138
-mus: 0 0 0 2 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2244
-mus: 0 0 0 2 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  0  
-  2  0  0  0  
-
-Bid: 460
+Bid: 453
 mus: 0 1 1 
 nvs: 0 2 2 
 level: 0 dim 3 maxpoly 4
@@ -1451,34 +1073,41 @@ level: 0 dim 3 maxpoly 4
   0  0  2  
   0  2  0  
 
-Bid: 621
-mus: 1 1 1 
+Bid: 456
+mus: 2 0 0 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+2 0 0
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+Bid: 461
+mus: 2 0 0 
 nvs: 0 2 2 
 level: 0 dim 3 maxpoly 4
-1 1 1
+2 0 0
   0  0  0  
   0  0  2  
   0  2  0  
 
-Bid: 2178
-mus: 0 0 1 1 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
+Bid: 463
+mus: 1 0 1 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+1 0 1
+  0  0  0  
+  0  0  2  
+  0  2  0  
 
-Bid: 2370
-mus: 0 0 1 1 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
+Bid: 465
+mus: 1 0 1 
+nvs: 1 2 1 
+level: 0 dim 3 maxpoly 4
+1 0 1
+  0  1  0  
+  1  0  1  
+  0  1  0  
 
 Bid: 467
 mus: 0 0 2 
@@ -1489,26 +1118,7 @@ level: 0 dim 3 maxpoly 6
   0  0  3  
   0  3  0  
 
-Bid: 643
-mus: 0 1 2 
-nvs: 3 0 3 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  0  3  
-  0  0  0  
-  3  0  0  
-
-Bid: 2247
-mus: 0 0 0 2 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 482
+Bid: 469
 mus: 0 1 1 
 nvs: 0 3 3 
 level: 0 dim 3 maxpoly 6
@@ -1517,24 +1127,68 @@ level: 0 dim 3 maxpoly 6
   0  0  3  
   0  3  0  
 
-Bid: 657
-mus: 1 1 1 
+Bid: 478
+mus: 0 0 2 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+Bid: 480
+mus: 2 0 0 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+2 0 0
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 483
+mus: 1 0 1 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+1 0 1
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 485
+mus: 0 1 1 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+Bid: 487
+mus: 2 0 0 
 nvs: 0 3 3 
 level: 0 dim 3 maxpoly 6
-1 1 1
+2 0 0
   0  0  0  
   0  0  3  
   0  3  0  
 
-Bid: 2340
-mus: 0 0 1 1 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
+Bid: 489
+mus: 1 0 1 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+1 0 1
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+Bid: 491
+mus: 1 0 1 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+1 0 1
+  0  1  0  
+  1  0  2  
+  0  2  0  
 
 Bid: 493
 mus: 0 0 2 
@@ -1545,7 +1199,7 @@ level: 0 dim 3 maxpoly 8
   0  0  4  
   0  4  0  
 
-Bid: 516
+Bid: 495
 mus: 0 1 1 
 nvs: 0 4 4 
 level: 0 dim 3 maxpoly 8
@@ -1553,6 +1207,141 @@ level: 0 dim 3 maxpoly 8
   0  0  0  
   0  0  4  
   0  4  0  
+
+Bid: 496
+mus: 2 0 0 
+nvs: 4 1 3 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  1  3  
+  1  0  0  
+  3  0  0  
+
+Bid: 499
+mus: 2 0 0 
+nvs: 3 1 4 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  0  3  
+  0  0  1  
+  3  1  0  
+
+Bid: 502
+mus: 1 0 1 
+nvs: 3 1 4 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  0  3  
+  0  0  1  
+  3  1  0  
+
+Bid: 506
+mus: 2 0 0 
+nvs: 3 2 3 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  1  2  
+  1  0  1  
+  2  1  0  
+
+Bid: 509
+mus: 2 0 0 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  0  2  
+  0  0  2  
+  2  2  0  
+
+Bid: 512
+mus: 0 1 1 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  0  2  
+  0  0  2  
+  2  2  0  
+
+Bid: 514
+mus: 1 0 1 
+nvs: 3 2 3 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  1  2  
+  1  0  1  
+  2  1  0  
+
+Bid: 516
+mus: 2 0 0 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+Bid: 518
+mus: 2 0 0 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+Bid: 521
+mus: 1 0 1 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+Bid: 523
+mus: 1 0 1 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+Bid: 525
+mus: 2 0 0 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+2 0 0
+  0  0  0  
+  0  0  4  
+  0  4  0  
+
+Bid: 527
+mus: 1 0 1 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  0  0  
+  0  0  4  
+  0  4  0  
+
+Bid: 529
+mus: 1 0 1 
+nvs: 1 4 3 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  1  0  
+  1  0  3  
+  0  3  0  
+
+Bid: 531
+mus: 1 0 1 
+nvs: 2 4 2 
+level: 0 dim 3 maxpoly 8
+1 0 1
+  0  2  0  
+  2  0  2  
+  0  2  0  
 
 Bid: 533
 mus: 0 0 2 
@@ -1563,7 +1352,7 @@ level: 0 dim 3 maxpoly 10
   0  0  5  
   0  5  0  
 
-Bid: 565
+Bid: 535
 mus: 0 1 1 
 nvs: 0 5 5 
 level: 0 dim 3 maxpoly 10
@@ -1571,6 +1360,186 @@ level: 0 dim 3 maxpoly 10
   0  0  0  
   0  0  5  
   0  5  0  
+
+Bid: 539
+mus: 2 0 0 
+nvs: 4 1 5 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  0  4  
+  0  0  1  
+  4  1  0  
+
+Bid: 542
+mus: 1 0 1 
+nvs: 4 1 5 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  0  4  
+  0  0  1  
+  4  1  0  
+
+Bid: 547
+mus: 2 0 0 
+nvs: 4 2 4 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  1  3  
+  1  0  1  
+  3  1  0  
+
+Bid: 550
+mus: 2 0 0 
+nvs: 3 2 5 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  0  3  
+  0  0  2  
+  3  2  0  
+
+Bid: 553
+mus: 1 0 1 
+nvs: 3 2 5 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  0  3  
+  0  0  2  
+  3  2  0  
+
+Bid: 555
+mus: 1 0 1 
+nvs: 4 2 4 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  1  3  
+  1  0  1  
+  3  1  0  
+
+Bid: 557
+mus: 2 0 0 
+nvs: 4 3 3 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  2  2  
+  2  0  1  
+  2  1  0  
+
+Bid: 559
+mus: 2 0 0 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  1  2  
+  1  0  2  
+  2  2  0  
+
+Bid: 562
+mus: 2 0 0 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+Bid: 565
+mus: 1 0 1 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+Bid: 567
+mus: 0 1 1 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  1  2  
+  1  0  2  
+  2  2  0  
+
+Bid: 569
+mus: 2 0 0 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+Bid: 571
+mus: 2 0 0 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+Bid: 574
+mus: 1 0 1 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+Bid: 576
+mus: 1 0 1 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+Bid: 578
+mus: 1 0 1 
+nvs: 3 4 3 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  2  1  
+  2  0  2  
+  1  2  0  
+
+Bid: 580
+mus: 2 0 0 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+2 0 0
+  0  0  0  
+  0  0  5  
+  0  5  0  
+
+Bid: 582
+mus: 1 0 1 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  0  0  
+  0  0  5  
+  0  5  0  
+
+Bid: 584
+mus: 1 0 1 
+nvs: 1 5 4 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  1  0  
+  1  0  4  
+  0  4  0  
+
+Bid: 586
+mus: 1 0 1 
+nvs: 2 5 3 
+level: 0 dim 3 maxpoly 10
+1 0 1
+  0  2  0  
+  2  0  3  
+  0  3  0  
 
 Bid: 588
 mus: 0 0 3 
@@ -1581,20 +1550,20 @@ level: 0 dim 3 maxpoly 0
   0  0  0  
   0  0  0  
 
-Bid: 661
-mus: 0 1 3 
+Bid: 589
+mus: 0 1 2 
 nvs: 0 0 0 
 level: 0 dim 3 maxpoly 0
-0 1 3
+0 1 2
   0  0  0  
   0  0  0  
   0  0  0  
 
-Bid: 663
-mus: 1 1 2 
+Bid: 590
+mus: 1 1 1 
 nvs: 0 0 0 
 level: 0 dim 3 maxpoly 0
-1 1 2
+1 1 1
   0  0  0  
   0  0  0  
   0  0  0  
@@ -1608,26 +1577,7 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 669
-mus: 0 1 3 
-nvs: 1 0 1 
-level: 0 dim 3 maxpoly 2
-0 1 3
-  0  0  1  
-  0  0  0  
-  1  0  0  
-
-Bid: 2418
-mus: 0 0 0 3 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 3
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
-Bid: 595
+Bid: 593
 mus: 0 1 2 
 nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
@@ -1636,24 +1586,41 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 676
-mus: 1 1 2 
+Bid: 594
+mus: 3 0 0 
 nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
-1 1 2
+3 0 0
   0  0  0  
   0  0  1  
   0  1  0  
 
-Bid: 2442
-mus: 0 0 1 2 
-nvs: 1 1 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
+Bid: 596
+mus: 1 0 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+1 0 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+Bid: 598
+mus: 2 0 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+2 0 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+Bid: 600
+mus: 1 1 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+1 1 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
 Bid: 601
 mus: 0 0 3 
@@ -1664,7 +1631,7 @@ level: 0 dim 3 maxpoly 4
   0  0  2  
   0  2  0  
 
-Bid: 610
+Bid: 603
 mus: 0 1 2 
 nvs: 0 2 2 
 level: 0 dim 3 maxpoly 4
@@ -1672,6 +1639,96 @@ level: 0 dim 3 maxpoly 4
   0  0  0  
   0  0  2  
   0  2  0  
+
+Bid: 604
+mus: 3 0 0 
+nvs: 2 1 1 
+level: 0 dim 3 maxpoly 4
+3 0 0
+  0  1  1  
+  1  0  0  
+  1  0  0  
+
+Bid: 606
+mus: 3 0 0 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+3 0 0
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+Bid: 609
+mus: 0 1 2 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+Bid: 611
+mus: 2 0 1 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+2 0 1
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+Bid: 613
+mus: 3 0 0 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+3 0 0
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+Bid: 615
+mus: 1 0 2 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+1 0 2
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+Bid: 617
+mus: 2 0 1 
+nvs: 1 2 1 
+level: 0 dim 3 maxpoly 4
+2 0 1
+  0  1  0  
+  1  0  1  
+  0  1  0  
+
+Bid: 619
+mus: 2 0 1 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+2 0 1
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+Bid: 621
+mus: 1 1 1 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+1 1 1
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+Bid: 622
+mus: 1 1 1 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+1 1 1
+  0  0  1  
+  0  0  1  
+  1  1  0  
 
 Bid: 623
 mus: 0 0 3 
@@ -1682,7 +1739,7 @@ level: 0 dim 3 maxpoly 6
   0  0  3  
   0  3  0  
 
-Bid: 638
+Bid: 625
 mus: 0 1 2 
 nvs: 0 3 3 
 level: 0 dim 3 maxpoly 6
@@ -1691,11 +1748,191 @@ level: 0 dim 3 maxpoly 6
   0  0  3  
   0  3  0  
 
+Bid: 626
+mus: 3 0 0 
+nvs: 3 1 2 
+level: 0 dim 3 maxpoly 6
+3 0 0
+  0  1  2  
+  1  0  0  
+  2  0  0  
+
+Bid: 629
+mus: 3 0 0 
+nvs: 2 1 3 
+level: 0 dim 3 maxpoly 6
+3 0 0
+  0  0  2  
+  0  0  1  
+  2  1  0  
+
+Bid: 632
+mus: 1 0 2 
+nvs: 2 1 3 
+level: 0 dim 3 maxpoly 6
+1 0 2
+  0  0  2  
+  0  0  1  
+  2  1  0  
+
+Bid: 634
+mus: 2 0 1 
+nvs: 2 1 3 
+level: 0 dim 3 maxpoly 6
+2 0 1
+  0  0  2  
+  0  0  1  
+  2  1  0  
+
+Bid: 636
+mus: 0 0 3 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+Bid: 638
+mus: 3 0 0 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+3 0 0
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 641
+mus: 1 0 2 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+1 0 2
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 643
+mus: 0 1 2 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+Bid: 645
+mus: 2 0 1 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+2 0 1
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 647
+mus: 3 0 0 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+3 0 0
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+Bid: 649
+mus: 1 0 2 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+1 0 2
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+Bid: 651
+mus: 1 0 2 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+1 0 2
+  0  1  0  
+  1  0  2  
+  0  2  0  
+
+Bid: 653
+mus: 2 0 1 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+2 0 1
+  0  1  0  
+  1  0  2  
+  0  2  0  
+
+Bid: 655
+mus: 2 0 1 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+2 0 1
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+Bid: 657
+mus: 1 1 1 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+1 1 1
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+Bid: 658
+mus: 1 1 1 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+1 1 1
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+Bid: 659
+mus: 1 1 1 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+1 1 1
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
 Bid: 660
 mus: 0 0 4 
 nvs: 0 0 0 
 level: 0 dim 3 maxpoly 0
 0 0 4
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+Bid: 661
+mus: 0 1 3 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 1 3
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+Bid: 662
+mus: 0 2 2 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 2 2
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+Bid: 663
+mus: 1 1 2 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+1 1 2
   0  0  0  
   0  0  0  
   0  0  0  
@@ -1709,7 +1946,7 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 668
+Bid: 666
 mus: 0 1 3 
 nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
@@ -1718,7 +1955,7 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 673
+Bid: 667
 mus: 0 2 2 
 nvs: 0 1 1 
 level: 0 dim 3 maxpoly 2
@@ -1727,108 +1964,4001 @@ level: 0 dim 3 maxpoly 2
   0  0  1  
   0  1  0  
 
-Bid: 106
-mus: 0 0 0 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 0 0
-  0  1  1  
-  1  0  1  
-  1  1  0  
+Bid: 668
+mus: 4 0 0 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+4 0 0
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
-Bid: 282
-mus: 0 0 1 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 0 1
-  0  1  1  
-  1  0  1  
-  1  1  0  
+Bid: 670
+mus: 1 0 3 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+1 0 3
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
-Bid: 475
-mus: 0 0 2 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 0 2
-  0  1  1  
-  1  0  1  
-  1  1  0  
+Bid: 672
+mus: 3 0 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+3 0 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
-Bid: 631
-mus: 0 0 3 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 0 3
-  0  1  1  
-  1  0  1  
-  1  1  0  
+Bid: 674
+mus: 2 0 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+2 0 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
-Bid: 156
-mus: 0 0 0 
-nvs: 4 4 4 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  0  2  2  
-  2  0  2  
-  2  2  0  
+Bid: 676
+mus: 1 1 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+1 1 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
-Bid: 369
-mus: 0 0 1 
-nvs: 4 4 4 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  2  2  
-  2  0  2  
-  2  2  0  
+Bid: 677
+mus: 2 1 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+2 1 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
 
-Bid: 1411
+Bid: 678
 mus: 0 0 0 0 
-nvs: 4 4 4 4 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 679
+mus: 0 0 0 0 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 681
+mus: 0 0 0 0 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 686
+mus: 0 0 0 0 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 690
+mus: 0 0 0 0 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 701
+mus: 0 0 0 0 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 705
+mus: 0 0 0 0 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 708
+mus: 0 0 0 0 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 728
+mus: 0 0 0 0 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 735
+mus: 0 0 0 0 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 740
+mus: 0 0 0 0 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 744
+mus: 0 0 0 0 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+Bid: 747
+mus: 0 0 0 0 
+nvs: 0 0 5 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+Bid: 767
+mus: 0 0 0 0 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+Bid: 771
+mus: 0 0 0 0 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 783
+mus: 0 0 0 0 
+nvs: 1 3 2 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 788
+mus: 0 0 0 0 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 793
+mus: 0 0 0 0 
+nvs: 1 3 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 797
+mus: 0 0 0 0 
+nvs: 2 2 2 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 802
+mus: 0 0 0 0 
+nvs: 2 3 2 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 806
+mus: 0 0 0 0 
+nvs: 2 3 2 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+Bid: 809
+mus: 0 0 0 0 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+Bid: 813
+mus: 0 0 0 0 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 816
+mus: 0 0 0 0 
+nvs: 0 0 6 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+Bid: 846
+mus: 0 0 0 0 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+Bid: 859
+mus: 0 0 0 0 
+nvs: 1 4 2 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  0  3  
+  0  0  0  2  
+  0  3  2  0  
+
+Bid: 864
+mus: 0 0 0 0 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+Bid: 873
+mus: 0 0 0 0 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+Bid: 878
+mus: 0 0 0 0 
+nvs: 1 4 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+Bid: 883
+mus: 0 0 0 0 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+Bid: 890
+mus: 0 0 0 0 
+nvs: 2 3 2 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
+
+Bid: 895
+mus: 0 0 0 0 
+nvs: 2 2 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+Bid: 899
+mus: 0 0 0 0 
+nvs: 2 4 2 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  2  0  0  
+  2  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 906
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+Bid: 910
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 913
+mus: 0 0 0 0 
+nvs: 2 4 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 917
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  2  
+  1  1  2  0  
+
+Bid: 922
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 931
+mus: 0 0 0 0 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 935
+mus: 0 0 0 0 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  2  0  1  
+  2  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+Bid: 939
+mus: 0 0 0 0 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  1  
+  1  1  1  0  
+
+Bid: 941
+mus: 0 0 0 0 
+nvs: 0 0 7 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  7  
+  0  0  7  0  
+
+Bid: 968
+mus: 0 0 0 0 
+nvs: 1 1 5 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  5  
+  1  1  5  0  
+
+Bid: 972
+mus: 0 0 0 0 
+nvs: 1 1 6 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  5  
+  1  0  5  0  
+
+Bid: 976
+mus: 0 0 0 0 
+nvs: 1 1 6 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+Bid: 979
+mus: 0 0 0 0 
+nvs: 1 2 4 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  4  
+  1  2  4  0  
+
+Bid: 984
+mus: 0 0 0 0 
+nvs: 1 2 5 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  4  
+  1  1  4  0  
+
+Bid: 989
+mus: 0 0 0 0 
+nvs: 1 5 2 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  4  
+  0  0  0  2  
+  0  4  2  0  
+
+Bid: 994
+mus: 0 0 0 0 
+nvs: 1 2 5 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+Bid: 999
+mus: 0 0 0 0 
+nvs: 1 3 3 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  0  3  
+  0  0  0  3  
+  1  3  3  0  
+
+Bid: 1003
+mus: 0 0 0 0 
+nvs: 1 3 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  3  
+  1  2  3  0  
+
+Bid: 1008
+mus: 0 0 0 0 
+nvs: 1 4 3 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
+
+Bid: 1013
+mus: 0 0 0 0 
+nvs: 1 3 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+Bid: 1018
+mus: 0 0 0 0 
+nvs: 1 5 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  1  3  
+  0  1  0  2  
+  0  3  2  0  
+
+Bid: 1023
+mus: 0 0 0 0 
+nvs: 1 3 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+Bid: 1027
+mus: 0 0 0 0 
+nvs: 1 5 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
+
+Bid: 1031
+mus: 0 0 0 0 
+nvs: 1 4 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  3  
+  0  2  3  0  
+
+Bid: 1036
+mus: 0 0 0 0 
+nvs: 2 2 3 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  3  
+  2  2  3  0  
+
+Bid: 1040
+mus: 0 0 0 0 
+nvs: 2 4 2 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  0  3  
+  0  0  0  2  
+  1  3  2  0  
+
+Bid: 1045
+mus: 0 0 0 0 
+nvs: 2 2 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+Bid: 1049
+mus: 0 0 0 0 
+nvs: 2 5 2 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  0  3  
+  0  0  0  2  
+  0  3  2  0  
+
+Bid: 1053
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  3  
+  1  1  3  0  
+
+Bid: 1056
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  4  
+  1  0  4  0  
+
+Bid: 1060
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+Bid: 1063
+mus: 0 0 0 0 
+nvs: 3 3 2 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  2  
+  1  0  0  2  
+  0  0  0  2  
+  2  2  2  0  
+
+Bid: 1067
+mus: 0 0 0 0 
+nvs: 2 3 3 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+Bid: 1072
+mus: 0 0 0 0 
+nvs: 2 5 3 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+Bid: 1077
+mus: 0 0 0 0 
+nvs: 2 4 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  1  2  
+  0  1  0  2  
+  1  2  2  0  
+
+Bid: 1082
+mus: 0 0 0 0 
+nvs: 2 4 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+Bid: 1087
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+Bid: 1092
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  3  
+  0  2  3  0  
+
+Bid: 1097
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+Bid: 1102
+mus: 0 0 0 0 
+nvs: 2 4 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+Bid: 1106
+mus: 0 0 0 0 
+nvs: 2 4 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  2  1  
+  0  2  0  2  
+  1  1  2  0  
+
+Bid: 1110
+mus: 0 0 0 0 
+nvs: 3 3 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  1  
+  2  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+Bid: 1115
+mus: 0 0 0 0 
+nvs: 3 3 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  2  
+  1  0  1  1  
+  0  1  0  2  
+  2  1  2  0  
+
+Bid: 1119
+mus: 0 0 0 0 
+nvs: 3 4 3 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  3  0  0  
+  3  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 1123
+mus: 0 0 0 0 
+nvs: 3 4 3 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  1  
+  2  0  1  1  
+  0  1  0  2  
+  1  1  2  0  
+
+Bid: 1127
+mus: 0 0 0 0 
+nvs: 3 4 3 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  1  0  
+  2  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+Bid: 1131
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+Bid: 1134
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  1  
+  2  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+Bid: 1138
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 1141
+mus: 0 0 0 0 
+nvs: 0 0 8 8 
 level: 0 dim 4 maxpoly 16
 0 0 0 0
-  0  0  2  2  
-  0  0  2  2  
-  2  2  0  0  
-  2  2  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  8  
+  0  0  8  0  
+
+Bid: 1175
+mus: 0 0 0 0 
+nvs: 1 1 6 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  6  
+  1  1  6  0  
+
+Bid: 1179
+mus: 0 0 0 0 
+nvs: 1 1 7 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  6  
+  1  0  6  0  
+
+Bid: 1183
+mus: 0 0 0 0 
+nvs: 1 1 7 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  7  
+  0  0  7  0  
+
+Bid: 1186
+mus: 0 0 0 0 
+nvs: 1 2 5 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  5  
+  1  2  5  0  
+
+Bid: 1191
+mus: 0 0 0 0 
+nvs: 1 2 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  5  
+  1  1  5  0  
+
+Bid: 1196
+mus: 0 0 0 0 
+nvs: 1 2 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  5  
+  0  2  5  0  
+
+Bid: 1201
+mus: 0 0 0 0 
+nvs: 1 2 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  6  
+  0  1  6  0  
+
+Bid: 1206
+mus: 0 0 0 0 
+nvs: 1 3 4 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  0  3  
+  0  0  0  4  
+  1  3  4  0  
+
+Bid: 1211
+mus: 0 0 0 0 
+nvs: 1 3 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  4  
+  1  2  4  0  
+
+Bid: 1216
+mus: 0 0 0 0 
+nvs: 1 5 3 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  4  
+  0  0  0  3  
+  0  4  3  0  
+
+Bid: 1221
+mus: 0 0 0 0 
+nvs: 1 3 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  5  
+  0  2  5  0  
+
+Bid: 1226
+mus: 0 0 0 0 
+nvs: 1 6 3 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  1  4  
+  0  1  0  2  
+  0  4  2  0  
+
+Bid: 1231
+mus: 0 0 0 0 
+nvs: 1 3 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  5  
+  0  1  5  0  
+
+Bid: 1239
+mus: 0 0 0 0 
+nvs: 1 4 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  3  
+  0  0  0  4  
+  0  3  4  0  
+
+Bid: 1244
+mus: 0 0 0 0 
+nvs: 1 6 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  2  3  
+  0  2  0  2  
+  0  3  2  0  
+
+Bid: 1249
+mus: 0 0 0 0 
+nvs: 1 5 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  1  3  
+  0  1  0  3  
+  0  3  3  0  
+
+Bid: 1254
+mus: 0 0 0 0 
+nvs: 1 4 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  4  
+  0  2  4  0  
+
+Bid: 1259
+mus: 0 0 0 0 
+nvs: 1 5 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  2  2  
+  0  2  0  3  
+  0  2  3  0  
+
+Bid: 1263
+mus: 0 0 0 0 
+nvs: 2 2 4 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  4  
+  2  2  4  0  
+
+Bid: 1267
+mus: 0 0 0 0 
+nvs: 2 5 2 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  0  4  
+  0  0  0  2  
+  1  4  2  0  
+
+Bid: 1272
+mus: 0 0 0 0 
+nvs: 2 2 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  5  
+  1  1  5  0  
+
+Bid: 1276
+mus: 0 0 0 0 
+nvs: 2 6 2 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  4  
+  0  0  0  2  
+  0  4  2  0  
+
+Bid: 1280
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  4  
+  1  1  4  0  
+
+Bid: 1283
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  5  
+  1  0  5  0  
+
+Bid: 1287
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+Bid: 1294
+mus: 0 0 0 0 
+nvs: 3 4 2 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  2  
+  1  0  0  3  
+  0  0  0  2  
+  2  3  2  0  
+
+Bid: 1299
+mus: 0 0 0 0 
+nvs: 2 4 3 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  0  3  
+  0  0  0  3  
+  1  3  3  0  
+
+Bid: 1304
+mus: 0 0 0 0 
+nvs: 2 3 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  4  
+  1  2  4  0  
+
+Bid: 1309
+mus: 0 0 0 0 
+nvs: 2 6 3 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  1  3  
+  0  1  0  2  
+  0  3  2  0  
+
+Bid: 1314
+mus: 0 0 0 0 
+nvs: 2 5 3 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  1  3  
+  0  1  0  2  
+  1  3  2  0  
+
+Bid: 1319
+mus: 0 0 0 0 
+nvs: 2 5 3 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
+
+Bid: 1324
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  4  
+  1  1  4  0  
+
+Bid: 1329
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  4  
+  0  2  4  0  
+
+Bid: 1334
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+Bid: 1339
+mus: 0 0 0 0 
+nvs: 2 6 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
+
+Bid: 1343
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  1  2  
+  0  1  0  3  
+  1  2  3  0  
+
+Bid: 1348
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+Bid: 1353
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  0  
+  1  0  0  3  
+  1  0  0  3  
+  0  3  3  0  
+
+Bid: 1357
+mus: 0 0 0 0 
+nvs: 2 5 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  1  2  
+  0  1  0  3  
+  0  2  3  0  
+
+Bid: 1362
+mus: 0 0 0 0 
+nvs: 2 5 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  2  2  
+  0  2  0  2  
+  1  2  2  0  
+
+Bid: 1366
+mus: 0 0 0 0 
+nvs: 2 4 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  2  1  
+  0  2  0  3  
+  1  1  3  0  
+
+Bid: 1371
+mus: 0 0 0 0 
+nvs: 2 4 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+Bid: 1375
+mus: 0 0 0 0 
+nvs: 3 3 3 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  2  
+  1  0  0  2  
+  0  0  0  3  
+  2  2  3  0  
+
+Bid: 1380
+mus: 0 0 0 0 
+nvs: 3 4 3 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+Bid: 1385
+mus: 0 0 0 0 
+nvs: 3 4 3 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  2  
+  1  0  1  2  
+  0  1  0  2  
+  2  2  2  0  
+
+Bid: 1389
+mus: 0 0 0 0 
+nvs: 3 3 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  2  
+  1  0  1  1  
+  0  1  0  3  
+  2  1  3  0  
+
+Bid: 1394
+mus: 0 0 0 0 
+nvs: 3 3 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+Bid: 1398
+mus: 0 0 0 0 
+nvs: 3 5 3 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  3  0  0  
+  3  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+Bid: 1402
+mus: 0 0 0 0 
+nvs: 3 5 3 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  1  2  
+  0  1  0  2  
+  1  2  2  0  
+
+Bid: 1406
+mus: 0 0 0 0 
+nvs: 3 5 3 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  1  0  
+  2  0  0  3  
+  1  0  0  2  
+  0  3  2  0  
+
+Bid: 1410
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  3  
+  1  1  3  0  
+
+Bid: 1413
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  1  0  
+  0  1  0  4  
+  1  0  4  0  
+
+Bid: 1417
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
 
 Bid: 1420
 mus: 0 0 0 0 
+nvs: 3 5 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  3  0  0  
+  3  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+Bid: 1424
+mus: 0 0 0 0 
+nvs: 3 5 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  2  1  
+  0  2  0  2  
+  1  1  2  0  
+
+Bid: 1429
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+Bid: 1434
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  3  0  0  
+  3  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+Bid: 1439
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  1  
+  1  0  1  2  
+  1  1  0  2  
+  1  2  2  0  
+
+Bid: 1443
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  1  0  
+  2  0  0  2  
+  1  0  0  3  
+  0  2  3  0  
+
+Bid: 1448
+mus: 0 0 0 0 
 nvs: 4 4 4 4 
 level: 0 dim 4 maxpoly 16
 0 0 0 0
-  0  1  1  2  
-  1  0  2  1  
+  0  4  0  0  
+  4  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 1452
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  3  0  1  
+  3  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+Bid: 1456
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  2  
+  2  0  2  0  
+  0  2  0  2  
+  2  0  2  0  
+
+Bid: 1459
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  1  1  
+  2  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+Bid: 1463
+mus: 0 0 0 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 1464
+mus: 0 0 0 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1466
+mus: 0 1 0 0 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 1 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1468
+mus: 0 0 0 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 1472
+mus: 0 1 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 1475
+mus: 0 0 0 1 
+nvs: 2 2 0 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 1477
+mus: 0 0 0 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1484
+mus: 0 0 0 1 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 1492
+mus: 0 0 0 1 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 1494
+mus: 0 1 0 0 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 1497
+mus: 1 0 0 0 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+1 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 1501
+mus: 0 0 0 1 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 1505
+mus: 0 0 0 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 1508
+mus: 1 0 0 0 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+1 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 1511
+mus: 0 0 0 1 
+nvs: 2 2 1 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1514
+mus: 0 0 0 1 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 1524
+mus: 0 0 0 1 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 1540
+mus: 0 1 0 0 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 1542
+mus: 0 1 0 0 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 1545
+mus: 1 0 0 0 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 1550
+mus: 0 0 0 1 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+Bid: 1554
+mus: 0 0 0 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 1560
+mus: 0 0 0 1 
+nvs: 2 2 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 1563
+mus: 0 0 0 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 1567
+mus: 0 0 0 1 
+nvs: 2 3 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 1571
+mus: 0 0 0 1 
+nvs: 1 3 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 1575
+mus: 0 0 0 1 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 1579
+mus: 1 0 0 0 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 1583
+mus: 0 0 0 1 
+nvs: 3 3 1 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1586
+mus: 1 0 0 0 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  1  0  
+  0  0  0  1  
+  1  0  0  2  
+  0  1  2  0  
+
+Bid: 1594
+mus: 0 0 0 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 1598
+mus: 0 0 0 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+Bid: 1601
+mus: 0 0 0 1 
+nvs: 2 3 2 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  2  0  0  
+  2  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 1606
+mus: 1 0 0 0 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+Bid: 1615
+mus: 0 0 0 1 
+nvs: 0 0 5 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+Bid: 1634
+mus: 0 1 0 0 
+nvs: 0 3 3 4 
+level: 0 dim 4 maxpoly 10
+0 1 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+Bid: 1637
+mus: 0 1 0 0 
+nvs: 0 2 3 5 
+level: 0 dim 4 maxpoly 10
+0 1 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+Bid: 1640
+mus: 0 1 0 0 
+nvs: 0 2 4 4 
+level: 0 dim 4 maxpoly 10
+0 1 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+Bid: 1642
+mus: 0 1 0 0 
+nvs: 0 1 4 5 
+level: 0 dim 4 maxpoly 10
+0 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+Bid: 1645
+mus: 1 0 0 0 
+nvs: 0 0 5 5 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+Bid: 1647
+mus: 0 0 0 1 
+nvs: 1 1 3 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+Bid: 1650
+mus: 0 0 0 1 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+Bid: 1654
+mus: 0 0 0 1 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 1657
+mus: 0 0 0 1 
+nvs: 1 1 5 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  3  
+  0  0  3  0  
+
+Bid: 1660
+mus: 0 0 0 1 
+nvs: 1 2 2 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
+
+Bid: 1663
+mus: 0 0 0 1 
+nvs: 2 3 1 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  1  
+  1  2  1  0  
+
+Bid: 1667
+mus: 0 0 0 1 
+nvs: 1 3 2 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 1671
+mus: 0 0 0 1 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 1675
+mus: 0 0 0 1 
+nvs: 2 4 1 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+Bid: 1679
+mus: 0 0 0 1 
+nvs: 1 4 2 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  1  
+  0  2  1  0  
+
+Bid: 1683
+mus: 0 0 0 1 
+nvs: 1 2 4 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+Bid: 1687
+mus: 0 0 0 1 
+nvs: 1 2 5 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  2  
+  0  0  2  0  
+
+Bid: 1691
+mus: 0 0 0 1 
+nvs: 3 3 1 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  1  
+  2  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 1694
+mus: 0 0 0 1 
+nvs: 1 3 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 1698
+mus: 0 0 0 1 
+nvs: 3 4 1 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  3  0  0  
+  3  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 1702
+mus: 1 0 0 0 
+nvs: 2 1 3 4 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  1  1  
+  0  0  0  1  
+  1  0  0  2  
+  1  1  2  0  
+
+Bid: 1706
+mus: 0 0 0 1 
+nvs: 1 3 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
+
+Bid: 1710
+mus: 1 0 0 0 
+nvs: 1 1 3 5 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+Bid: 1714
+mus: 0 0 0 1 
+nvs: 4 4 1 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  4  0  0  
+  4  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1717
+mus: 0 0 0 1 
+nvs: 1 4 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  3  0  
+  0  3  0  1  
+  0  0  1  0  
+
+Bid: 1725
+mus: 0 0 0 1 
+nvs: 2 2 2 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 1729
+mus: 0 0 0 1 
+nvs: 2 3 2 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 1733
+mus: 0 0 0 1 
+nvs: 2 3 2 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+Bid: 1736
+mus: 0 0 0 1 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+Bid: 1740
+mus: 0 0 0 1 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 1743
+mus: 0 0 0 1 
+nvs: 2 4 2 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 1747
+mus: 0 0 0 1 
+nvs: 2 2 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+Bid: 1750
+mus: 1 0 0 0 
+nvs: 1 2 2 5 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
+
+Bid: 1753
+mus: 0 0 0 1 
+nvs: 3 3 2 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 1756
+mus: 0 0 0 1 
+nvs: 3 3 2 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  1  0  
+  2  0  0  1  
+  1  0  0  1  
+  0  1  1  0  
+
+Bid: 1760
+mus: 0 0 0 1 
+nvs: 2 3 3 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 1764
+mus: 0 0 0 1 
+nvs: 2 3 3 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  1  1  
+  1  1  0  1  
+  0  1  1  0  
+
+Bid: 1767
+mus: 0 0 0 1 
+nvs: 3 4 2 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  3  0  0  
+  3  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 1771
+mus: 0 0 0 1 
+nvs: 2 4 3 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  2  0  
+  0  2  0  1  
+  0  0  1  0  
+
+Bid: 1775
+mus: 0 0 0 1 
+nvs: 2 3 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  2  0  
   1  2  0  1  
-  2  1  1  0  
+  0  0  1  0  
 
-Bid: 258
-mus: 0 0 0 
-nvs: 6 6 6 
-level: 0 dim 3 maxpoly 18
-0 0 0
-  0  3  3  
-  3  0  3  
-  3  3  0  
+Bid: 1786
+mus: 0 0 0 1 
+nvs: 3 3 3 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  1  0  
+  2  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
 
-Bid: 659
-mus: 1 1 1 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-1 1 1
-  0  1  1  
-  1  0  1  
-  1  1  0  
+Bid: 1794
+mus: 0 0 0 1 
+nvs: 0 0 6 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
 
-Bid: 489
-mus: 0 1 1 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 1 1
-  0  1  1  
-  1  0  1  
-  1  1  0  
+Bid: 1799
+mus: 0 1 0 0 
+nvs: 0 5 1 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  0  5  
+  0  0  0  1  
+  0  5  1  0  
 
-Bid: 2362
+Bid: 1805
+mus: 0 1 0 0 
+nvs: 0 5 2 5 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  1  4  
+  0  1  0  1  
+  0  4  1  0  
+
+Bid: 1808
+mus: 0 1 0 0 
+nvs: 0 4 2 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  0  4  
+  0  0  0  2  
+  0  4  2  0  
+
+Bid: 1813
+mus: 0 1 0 0 
+nvs: 0 5 3 4 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  2  3  
+  0  2  0  1  
+  0  3  1  0  
+
+Bid: 1816
+mus: 0 1 0 0 
+nvs: 0 4 3 5 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  1  3  
+  0  1  0  2  
+  0  3  2  0  
+
+Bid: 1819
+mus: 0 1 0 0 
+nvs: 0 3 3 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
+
+Bid: 1822
+mus: 0 0 0 1 
+nvs: 0 4 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
+
+Bid: 1824
+mus: 0 1 0 0 
+nvs: 0 3 4 5 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  3  
+  0  2  3  0  
+
+Bid: 1827
+mus: 0 1 0 0 
+nvs: 0 2 4 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+Bid: 1830
+mus: 0 1 0 0 
+nvs: 0 2 5 5 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+Bid: 1832
+mus: 0 1 0 0 
+nvs: 0 1 5 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+Bid: 1835
+mus: 0 1 0 0 
+nvs: 0 0 6 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+Bid: 1840
+mus: 0 0 0 1 
+nvs: 1 5 1 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  4  
+  0  0  0  1  
+  0  4  1  0  
+
+Bid: 1844
+mus: 0 0 0 1 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+Bid: 1850
+mus: 0 0 0 1 
+nvs: 1 2 3 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+Bid: 1854
+mus: 0 0 0 1 
+nvs: 2 4 1 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  0  3  
+  0  0  0  1  
+  1  3  1  0  
+
+Bid: 1858
+mus: 0 0 0 1 
+nvs: 1 4 2 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  3  
+  0  0  0  2  
+  0  3  2  0  
+
+Bid: 1862
+mus: 0 0 0 1 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+Bid: 1866
+mus: 0 0 0 1 
+nvs: 2 5 1 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  0  3  
+  0  0  0  1  
+  0  3  1  0  
+
+Bid: 1870
+mus: 0 0 0 1 
+nvs: 1 5 2 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  1  3  
+  0  1  0  1  
+  0  3  1  0  
+
+Bid: 1874
+mus: 0 0 0 1 
+nvs: 1 2 5 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  4  
+  0  0  4  0  
+
+Bid: 1882
+mus: 0 0 0 1 
+nvs: 3 3 1 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  2  
+  1  0  0  2  
+  0  0  0  1  
+  2  2  1  0  
+
+Bid: 1885
+mus: 0 0 0 1 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+Bid: 1889
+mus: 0 0 0 1 
+nvs: 3 4 1 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  1  
+  2  0  0  2  
+  0  0  0  1  
+  1  2  1  0  
+
+Bid: 1893
+mus: 0 0 0 1 
+nvs: 1 4 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+Bid: 1897
+mus: 0 0 0 1 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+Bid: 1901
+mus: 0 0 0 1 
+nvs: 3 5 1 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  0  
+  3  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+Bid: 1905
+mus: 0 0 0 1 
+nvs: 1 5 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  2  2  
+  0  2  0  1  
+  0  2  1  0  
+
+Bid: 1909
+mus: 0 0 0 1 
+nvs: 1 3 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  2  0  
+  0  2  0  3  
+  0  0  3  0  
+
+Bid: 1917
+mus: 0 0 0 1 
+nvs: 4 4 1 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  1  
+  3  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 1920
+mus: 0 0 0 1 
+nvs: 1 4 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  2  1  
+  0  2  0  2  
+  0  1  2  0  
+
+Bid: 1924
+mus: 0 0 0 1 
+nvs: 4 5 1 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  4  0  0  
+  4  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 1932
+mus: 0 0 0 1 
+nvs: 1 4 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  3  0  
+  0  3  0  2  
+  0  0  2  0  
+
+Bid: 1936
+mus: 1 0 0 0 
+nvs: 1 1 4 6 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+Bid: 1940
+mus: 0 0 0 1 
+nvs: 5 5 1 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  5  0  0  
+  5  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 1943
+mus: 1 0 0 0 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  1  0  
+  0  0  0  1  
+  1  0  0  4  
+  0  1  4  0  
+
+Bid: 1951
+mus: 0 0 0 1 
+nvs: 2 2 2 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  2  
+  2  2  2  0  
+
+Bid: 1953
+mus: 0 0 0 1 
+nvs: 2 3 2 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
+
+Bid: 1957
+mus: 0 0 0 1 
+nvs: 2 2 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+Bid: 1960
+mus: 0 0 0 1 
+nvs: 2 4 2 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 1964
+mus: 0 0 0 1 
+nvs: 2 4 2 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  1  2  
+  0  1  0  1  
+  1  2  1  0  
+
+Bid: 1967
+mus: 0 0 0 1 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+Bid: 1971
+mus: 0 0 0 1 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 1974
+mus: 0 0 0 1 
+nvs: 2 5 2 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  1  2  
+  0  1  0  1  
+  0  2  1  0  
+
+Bid: 1978
+mus: 0 0 0 1 
+nvs: 2 2 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  3  
+  0  0  3  0  
+
+Bid: 1981
+mus: 1 0 0 0 
+nvs: 2 2 2 6 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  2  
+  2  2  2  0  
+
+Bid: 1984
+mus: 0 0 0 1 
+nvs: 3 3 2 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  1  
+  2  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 1987
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  2  
+  1  1  2  0  
+
+Bid: 1991
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 1995
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+Bid: 1998
+mus: 0 0 0 1 
+nvs: 3 4 2 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  0  
+  3  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2002
+mus: 0 0 0 1 
+nvs: 3 4 2 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  1  
+  2  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+Bid: 2006
+mus: 0 0 0 1 
+nvs: 2 4 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 2010
+mus: 0 0 0 1 
+nvs: 3 4 2 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  1  0  
+  2  0  0  2  
+  1  0  0  1  
+  0  2  1  0  
+
+Bid: 2014
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  1  1  
+  1  1  0  2  
+  0  1  2  0  
+
+Bid: 2018
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+Bid: 2022
+mus: 0 0 0 1 
+nvs: 3 5 2 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  0  
+  3  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2026
+mus: 0 0 0 1 
+nvs: 2 5 3 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  2  1  
+  0  2  0  1  
+  0  1  1  0  
+
+Bid: 2030
+mus: 0 0 0 1 
+nvs: 2 3 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  2  0  
+  1  2  0  2  
+  0  0  2  0  
+
+Bid: 2034
+mus: 1 0 0 0 
+nvs: 1 2 3 6 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+Bid: 2038
+mus: 0 0 0 1 
+nvs: 4 4 2 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  4  0  0  
+  4  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2041
+mus: 0 0 0 1 
+nvs: 4 4 2 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  1  0  
+  3  0  0  1  
+  1  0  0  1  
+  0  1  1  0  
+
+Bid: 2045
+mus: 0 0 0 1 
+nvs: 2 4 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
+
+Bid: 2049
+mus: 1 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+Bid: 2052
+mus: 0 0 0 1 
+nvs: 4 5 2 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  4  0  0  
+  4  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2056
+mus: 0 0 0 1 
+nvs: 2 5 4 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  3  0  
+  0  3  0  1  
+  0  0  1  0  
+
+Bid: 2060
+mus: 1 0 0 0 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+Bid: 2071
+mus: 0 0 0 1 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2075
+mus: 0 0 0 1 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  1  0  
+  2  0  0  1  
+  1  0  0  2  
+  0  1  2  0  
+
+Bid: 2079
+mus: 0 0 0 1 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  1  
+  1  1  1  0  
+
+Bid: 2081
+mus: 0 0 0 1 
+nvs: 3 4 3 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  0  
+  3  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 2086
+mus: 1 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+Bid: 2089
+mus: 0 0 0 1 
+nvs: 3 4 3 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  1  0  
+  2  0  1  1  
+  1  1  0  1  
+  0  1  1  0  
+
+Bid: 2094
+mus: 0 0 0 1 
+nvs: 3 3 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  1  0  
+  2  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+Bid: 2097
+mus: 0 0 0 1 
+nvs: 3 5 3 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  0  0  
+  3  0  2  0  
+  0  2  0  1  
+  0  0  1  0  
+
+Bid: 2102
+mus: 1 0 0 0 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  2  
+  1  2  2  0  
+
+Bid: 2108
+mus: 0 0 0 1 
+nvs: 4 4 3 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  3  1  0  
+  3  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+Bid: 2111
+mus: 0 0 0 1 
+nvs: 3 4 4 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  1  0  
+  2  0  2  0  
+  1  2  0  1  
+  0  0  1  0  
+
+Bid: 2122
+mus: 0 0 0 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2123
+mus: 0 0 1 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2124
+mus: 0 0 0 2 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2126
+mus: 0 0 1 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2127
+mus: 0 0 0 2 
+nvs: 1 1 0 0 
+level: 0 dim 4 maxpoly 2
+0 0 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2129
+mus: 0 1 0 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 1 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2131
+mus: 0 0 1 1 
+nvs: 1 1 0 0 
+level: 0 dim 4 maxpoly 2
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2133
+mus: 0 0 0 2 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2135
+mus: 0 0 1 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2138
+mus: 0 2 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 2 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2143
+mus: 2 0 0 0 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+2 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2145
+mus: 0 1 0 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 1 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2147
+mus: 0 1 0 1 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+0 1 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2149
+mus: 0 0 0 2 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2158
+mus: 0 1 0 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 1 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2161
+mus: 0 0 1 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2163
+mus: 1 1 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+1 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2166
+mus: 1 1 0 0 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+1 1 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2168
+mus: 0 0 0 2 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2170
+mus: 0 0 1 1 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2179
+mus: 0 0 0 2 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2181
+mus: 0 2 0 0 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 2 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2184
+mus: 0 1 0 1 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2186
+mus: 0 0 1 1 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2188
+mus: 0 2 0 0 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 2 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2190
+mus: 0 1 0 1 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2192
+mus: 0 1 0 1 
+nvs: 0 1 3 2 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 2194
+mus: 0 0 0 2 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 2196
+mus: 0 0 0 2 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2200
+mus: 0 0 0 2 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2203
+mus: 2 0 0 0 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+2 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 2206
+mus: 0 0 1 1 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 2208
+mus: 0 1 0 1 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2211
+mus: 0 0 1 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2213
+mus: 0 0 0 2 
+nvs: 2 2 1 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2216
+mus: 0 0 0 2 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2227
+mus: 0 1 0 1 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2230
+mus: 0 1 0 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2233
+mus: 0 0 1 1 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2239
+mus: 1 0 0 1 
+nvs: 1 1 3 1 
+level: 0 dim 4 maxpoly 6
+1 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+Bid: 2244
+mus: 1 0 0 1 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+1 0 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2246
+mus: 0 1 0 1 
+nvs: 2 1 2 1 
+level: 0 dim 4 maxpoly 6
+0 1 0 1
+  0  1  1  0  
+  1  0  0  0  
+  1  0  0  1  
+  0  0  1  0  
+
+Bid: 2250
+mus: 0 0 1 1 
+nvs: 2 2 1 1 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2252
+mus: 1 1 0 0 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+1 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2255
+mus: 0 0 1 1 
+nvs: 3 3 0 0 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2257
+mus: 0 0 0 2 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 2259
+mus: 0 0 1 1 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 2260
+mus: 0 2 0 0 
+nvs: 0 4 1 3 
+level: 0 dim 4 maxpoly 8
+0 2 0 0
+  0  0  0  0  
+  0  0  1  3  
+  0  1  0  0  
+  0  3  0  0  
+
+Bid: 2263
+mus: 0 2 0 0 
+nvs: 0 3 1 4 
+level: 0 dim 4 maxpoly 8
+0 2 0 0
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  1  
+  0  3  1  0  
+
+Bid: 2266
+mus: 0 1 0 1 
+nvs: 0 3 1 4 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  1  
+  0  3  1  0  
+
+Bid: 2270
+mus: 0 2 0 0 
+nvs: 0 3 2 3 
+level: 0 dim 4 maxpoly 8
+0 2 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  1  
+  0  2  1  0  
+
+Bid: 2273
+mus: 0 2 0 0 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+0 2 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 2276
+mus: 0 0 1 1 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 2278
+mus: 0 1 0 1 
+nvs: 0 3 2 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  1  
+  0  2  1  0  
+
+Bid: 2280
+mus: 0 2 0 0 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 2 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 2282
+mus: 0 2 0 0 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 2 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 2285
+mus: 0 1 0 1 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 2287
+mus: 0 1 0 1 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 2289
+mus: 0 0 0 2 
+nvs: 4 4 0 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  4  0  0  
+  4  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2291
+mus: 1 0 0 1 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+Bid: 2293
+mus: 0 1 0 1 
+nvs: 0 1 4 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+Bid: 2295
+mus: 0 1 0 1 
+nvs: 0 2 4 2 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
+
+Bid: 2297
+mus: 0 0 0 2 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 2300
+mus: 0 0 0 2 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+Bid: 2304
+mus: 0 0 0 2 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2312
+mus: 0 1 0 1 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+Bid: 2315
+mus: 0 0 1 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2317
+mus: 0 0 0 2 
+nvs: 2 2 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 2320
+mus: 0 0 0 2 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2324
+mus: 0 0 0 2 
+nvs: 2 3 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2328
+mus: 0 0 0 2 
+nvs: 1 3 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2332
+mus: 0 0 0 2 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 2336
+mus: 2 0 0 0 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+2 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 2340
+mus: 1 0 0 1 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 2343
+mus: 0 1 0 1 
+nvs: 1 3 2 2 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2346
+mus: 0 1 0 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2349
+mus: 0 0 1 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+Bid: 2352
+mus: 0 0 0 2 
+nvs: 3 3 1 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2355
+mus: 2 0 0 0 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+2 0 0 0
+  0  0  1  0  
+  0  0  0  1  
+  1  0  0  2  
+  0  1  2  0  
+
+Bid: 2366
+mus: 0 1 0 1 
+nvs: 1 3 3 1 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  0  
+  1  0  2  0  
+  0  2  0  1  
+  0  0  1  0  
+
+Bid: 2369
+mus: 0 1 0 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+Bid: 2372
+mus: 0 0 1 1 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+Bid: 2375
+mus: 0 1 0 1 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 2378
+mus: 0 0 1 1 
+nvs: 1 3 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2384
+mus: 1 0 0 1 
+nvs: 1 1 4 2 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+Bid: 2387
+mus: 0 0 0 2 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2391
+mus: 0 0 0 2 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+Bid: 2394
+mus: 0 0 0 2 
+nvs: 2 3 2 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  2  0  0  
+  2  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2398
+mus: 2 0 0 0 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+2 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+Bid: 2406
+mus: 0 1 0 1 
+nvs: 2 1 2 3 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  1  
+  1  0  0  0  
+  0  0  0  2  
+  1  0  2  0  
+
+Bid: 2410
+mus: 0 0 1 1 
+nvs: 2 2 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+Bid: 2412
+mus: 0 1 0 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2415
+mus: 0 1 0 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+Bid: 2417
 mus: 0 0 1 1 
 nvs: 2 2 2 2 
 level: 0 dim 4 maxpoly 8
@@ -1837,6 +5967,476 @@ level: 0 dim 4 maxpoly 8
   1  0  1  0  
   0  1  0  1  
   1  0  1  0  
+
+Bid: 2421
+mus: 0 0 1 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2429
+mus: 0 1 0 1 
+nvs: 2 2 3 1 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+Bid: 2432
+mus: 0 1 0 1 
+nvs: 2 1 3 2 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  1  0  
+  1  0  0  0  
+  1  0  0  2  
+  0  0  2  0  
+
+Bid: 2435
+mus: 0 0 1 1 
+nvs: 2 3 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2441
+mus: 1 1 0 0 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+1 1 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 2444
+mus: 1 1 0 0 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+1 1 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 2446
+mus: 0 1 0 1 
+nvs: 3 1 3 1 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  1  2  0  
+  1  0  0  0  
+  2  0  0  1  
+  0  0  1  0  
+
+Bid: 2450
+mus: 0 0 1 1 
+nvs: 3 3 1 1 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2452
+mus: 1 1 0 0 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+1 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 2455
+mus: 0 0 1 1 
+nvs: 4 4 0 0 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  4  0  0  
+  4  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2457
+mus: 0 0 0 3 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2458
+mus: 0 0 1 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2459
+mus: 0 1 1 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2460
+mus: 0 0 0 3 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2462
+mus: 0 0 1 2 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2463
+mus: 0 3 0 0 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 3 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2465
+mus: 0 1 0 2 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 1 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2467
+mus: 0 1 0 2 
+nvs: 1 1 0 0 
+level: 0 dim 4 maxpoly 2
+0 1 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2469
+mus: 0 1 1 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2470
+mus: 1 2 0 0 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+1 2 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2472
+mus: 0 1 1 1 
+nvs: 1 1 0 0 
+level: 0 dim 4 maxpoly 2
+0 1 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2474
+mus: 0 0 0 3 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2476
+mus: 0 0 1 2 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2477
+mus: 0 3 0 0 
+nvs: 0 2 1 1 
+level: 0 dim 4 maxpoly 4
+0 3 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  0  
+  0  1  0  0  
+
+Bid: 2479
+mus: 0 3 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 3 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2482
+mus: 0 0 1 2 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2484
+mus: 0 2 0 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 2 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2486
+mus: 0 0 0 3 
+nvs: 2 2 0 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2488
+mus: 1 0 0 2 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+1 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2490
+mus: 0 2 0 1 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+0 2 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2492
+mus: 0 2 0 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 2 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2494
+mus: 0 1 1 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2495
+mus: 0 1 1 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2496
+mus: 0 0 0 3 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2505
+mus: 0 1 0 2 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 1 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2508
+mus: 0 0 1 2 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2512
+mus: 1 2 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+1 2 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2515
+mus: 2 1 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+2 1 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+Bid: 2520
+mus: 0 1 1 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+Bid: 2522
+mus: 1 2 0 0 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+1 2 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+Bid: 2524
+mus: 0 1 1 1 
+nvs: 2 2 0 0 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2526
+mus: 1 1 0 1 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+1 1 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+Bid: 2528
+mus: 0 0 0 4 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 4
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2529
+mus: 0 0 1 3 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 1 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2530
+mus: 0 0 2 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 2 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2531
+mus: 0 1 1 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 1 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+Bid: 2532
+mus: 1 1 1 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+1 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
 
 Bid: 97
 mus: 0 0 0 
@@ -1847,43 +6447,6 @@ level: 0 dim 3 maxpoly 4
   0  0  1  
   1  1  0  
 
-Bid: 269
-mus: 0 0 1 
-nvs: 1 2 1 
-level: 0 dim 3 maxpoly 4
-0 0 1
-  0  1  0  
-  1  0  1  
-  0  1  0  
-
-Bid: 455
-mus: 0 0 2 
-nvs: 1 2 1 
-level: 0 dim 3 maxpoly 4
-0 0 2
-  0  1  0  
-  1  0  1  
-  0  1  0  
-
-Bid: 605
-mus: 0 0 3 
-nvs: 1 2 1 
-level: 0 dim 3 maxpoly 4
-0 0 3
-  0  1  0  
-  1  0  1  
-  0  1  0  
-
-Bid: 699
-mus: 0 0 0 0 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  1  
-  1  0  1  0  
-
 Bid: 102
 mus: 0 0 0 
 nvs: 1 2 3 
@@ -1893,52 +6456,14 @@ level: 0 dim 3 maxpoly 6
   0  0  2  
   1  2  0  
 
-Bid: 284
-mus: 0 0 1 
-nvs: 2 3 1 
+Bid: 106
+mus: 0 0 0 
+nvs: 2 2 2 
 level: 0 dim 3 maxpoly 6
-0 0 1
-  0  2  0  
-  2  0  1  
-  0  1  0  
-
-Bid: 477
-mus: 0 0 2 
-nvs: 2 3 1 
-level: 0 dim 3 maxpoly 6
-0 0 2
-  0  2  0  
-  2  0  1  
-  0  1  0  
-
-Bid: 633
-mus: 0 0 3 
-nvs: 2 3 1 
-level: 0 dim 3 maxpoly 6
-0 0 3
-  0  2  0  
-  2  0  1  
-  0  1  0  
-
-Bid: 728
-mus: 0 0 0 0 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  1  
-  0  2  1  0  
-
-Bid: 793
-mus: 0 0 0 0 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  1  
-  2  0  1  0  
+0 0 0
+  0  1  1  
+  1  0  1  
+  1  1  0  
 
 Bid: 110
 mus: 0 0 0 
@@ -1949,54 +6474,6 @@ level: 0 dim 3 maxpoly 8
   0  0  3  
   1  3  0  
 
-Bid: 307
-mus: 0 0 1 
-nvs: 3 4 1 
-level: 0 dim 3 maxpoly 8
-0 0 1
-  0  3  0  
-  3  0  1  
-  0  1  0  
-
-Bid: 511
-mus: 0 0 2 
-nvs: 3 4 1 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  3  0  
-  3  0  1  
-  0  1  0  
-
-Bid: 781
-mus: 0 0 0 0 
-nvs: 1 2 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  3  
-  0  1  3  0  
-
-Bid: 890
-mus: 0 0 0 0 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  2  0  
-  0  0  0  3  
-  2  0  0  1  
-  0  3  1  0  
-
-Bid: 1064
-mus: 0 0 0 0 
-nvs: 3 3 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  3  
-  0  0  3  0  
-  0  3  0  1  
-  3  0  1  0  
-
 Bid: 114
 mus: 0 0 0 
 nvs: 2 2 4 
@@ -2005,44 +6482,6 @@ level: 0 dim 3 maxpoly 8
   0  0  2  
   0  0  2  
   2  2  0  
-
-Bid: 302
-mus: 0 0 1 
-nvs: 2 4 2 
-level: 0 dim 3 maxpoly 8
-0 0 1
-  0  2  0  
-  2  0  2  
-  0  2  0  
-
-Bid: 506
-mus: 0 0 2 
-nvs: 2 4 2 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  2  0  
-  2  0  2  
-  0  2  0  
-
-Bid: 789
-mus: 0 0 0 0 
-nvs: 2 2 2 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  1  
-  2  1  1  0  
-
-Bid: 883
-mus: 0 0 0 0 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  2  
-  2  0  2  0  
 
 Bid: 117
 mus: 0 0 0 
@@ -2053,54 +6492,6 @@ level: 0 dim 3 maxpoly 8
   1  0  2  
   1  2  0  
 
-Bid: 305
-mus: 0 0 1 
-nvs: 3 3 2 
-level: 0 dim 3 maxpoly 8
-0 0 1
-  0  2  1  
-  2  0  1  
-  1  1  0  
-
-Bid: 509
-mus: 0 0 2 
-nvs: 3 3 2 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  2  1  
-  2  0  1  
-  1  1  0  
-
-Bid: 802
-mus: 0 0 0 0 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  2  
-  1  0  2  0  
-
-Bid: 886
-mus: 0 0 0 0 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  2  
-  0  0  2  1  
-  0  2  0  1  
-  2  1  1  0  
-
-Bid: 919
-mus: 0 0 0 0 
-nvs: 3 3 3 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  1  2  
-  0  0  2  1  
-  1  2  0  0  
-  2  1  0  0  
-
 Bid: 122
 mus: 0 0 0 
 nvs: 1 4 5 
@@ -2109,54 +6500,6 @@ level: 0 dim 3 maxpoly 10
   0  0  1  
   0  0  4  
   1  4  0  
-
-Bid: 339
-mus: 0 0 1 
-nvs: 4 5 1 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  4  0  
-  4  0  1  
-  0  1  0  
-
-Bid: 560
-mus: 0 0 2 
-nvs: 4 5 1 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  4  0  
-  4  0  1  
-  0  1  0  
-
-Bid: 867
-mus: 0 0 0 0 
-nvs: 1 2 4 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  4  
-  0  1  4  0  
-
-Bid: 1047
-mus: 0 0 0 0 
-nvs: 2 3 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  2  0  0  
-  2  0  0  1  
-  0  0  0  4  
-  0  1  4  0  
-
-Bid: 1314
-mus: 0 0 0 0 
-nvs: 3 4 4 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  3  0  
-  0  0  0  4  
-  3  0  0  1  
-  0  4  1  0  
 
 Bid: 126
 mus: 0 0 0 
@@ -2167,64 +6510,6 @@ level: 0 dim 3 maxpoly 10
   0  0  3  
   2  3  0  
 
-Bid: 334
-mus: 0 0 1 
-nvs: 3 5 2 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  3  0  
-  3  0  2  
-  0  2  0  
-
-Bid: 555
-mus: 0 0 2 
-nvs: 3 5 2 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  3  0  
-  3  0  2  
-  0  2  0  
-
-Bid: 898
-mus: 0 0 0 0 
-nvs: 2 2 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  0  1  
-  1  0  0  1  
-  0  0  0  3  
-  1  1  3  0  
-
-Bid: 1038
-mus: 0 0 0 0 
-nvs: 2 3 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  2  0  
-  0  0  0  3  
-  2  0  0  2  
-  0  3  2  0  
-
-Bid: 1060
-mus: 0 0 0 0 
-nvs: 3 3 3 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  3  
-  0  0  2  1  
-  0  2  0  1  
-  3  1  1  0  
-
-Bid: 1307
-mus: 0 0 0 0 
-nvs: 3 3 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  3  
-  0  0  3  0  
-  0  3  0  2  
-  3  0  2  0  
-
 Bid: 130
 mus: 0 0 0 
 nvs: 2 4 4 
@@ -2233,74 +6518,6 @@ level: 0 dim 3 maxpoly 10
   0  1  1  
   1  0  3  
   1  3  0  
-
-Bid: 337
-mus: 0 0 1 
-nvs: 4 4 2 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  3  1  
-  3  0  1  
-  1  1  0  
-
-Bid: 558
-mus: 0 0 2 
-nvs: 4 4 2 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  3  1  
-  3  0  1  
-  1  1  0  
-
-Bid: 912
-mus: 0 0 0 0 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  3  
-  1  0  3  0  
-
-Bid: 1043
-mus: 0 0 0 0 
-nvs: 2 4 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  2  
-  0  0  3  1  
-  0  3  0  1  
-  2  1  1  0  
-
-Bid: 1109
-mus: 0 0 0 0 
-nvs: 3 3 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  2  0  1  
-  2  0  1  0  
-  0  1  0  3  
-  1  0  3  0  
-
-Bid: 1310
-mus: 0 0 0 0 
-nvs: 3 4 4 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  3  
-  0  0  3  1  
-  0  3  0  1  
-  3  1  1  0  
-
-Bid: 1409
-mus: 0 0 0 0 
-nvs: 4 4 4 4 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  3  
-  0  0  3  1  
-  1  3  0  0  
-  3  1  0  0  
 
 Bid: 133
 mus: 0 0 0 
@@ -2311,44 +6528,6 @@ level: 0 dim 3 maxpoly 10
   1  0  2  
   2  2  0  
 
-Bid: 331
-mus: 0 0 1 
-nvs: 3 4 3 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  2  1  
-  2  0  2  
-  1  2  0  
-
-Bid: 552
-mus: 0 0 2 
-nvs: 3 4 3 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  2  1  
-  2  0  2  
-  1  2  0  
-
-Bid: 1103
-mus: 0 0 0 0 
-nvs: 3 3 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  2  
-  0  0  2  1  
-  1  2  0  1  
-  2  1  1  0  
-
-Bid: 1106
-mus: 0 0 0 0 
-nvs: 3 3 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  2  
-  1  0  2  0  
-  0  2  0  2  
-  2  0  2  0  
-
 Bid: 138
 mus: 0 0 0 
 nvs: 1 5 6 
@@ -2357,35 +6536,6 @@ level: 0 dim 3 maxpoly 12
   0  0  1  
   0  0  5  
   1  5  0  
-
-Bid: 382
-mus: 0 0 1 
-nvs: 5 6 1 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  5  0  
-  5  0  1  
-  0  1  0  
-
-Bid: 1009
-mus: 0 0 0 0 
-nvs: 1 2 5 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  5  
-  0  1  5  0  
-
-Bid: 1285
-mus: 0 0 0 0 
-nvs: 2 3 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  2  0  0  
-  2  0  0  1  
-  0  0  0  5  
-  0  1  5  0  
 
 Bid: 142
 mus: 0 0 0 
@@ -2396,74 +6546,7 @@ level: 0 dim 3 maxpoly 12
   0  0  4  
   2  4  0  
 
-Bid: 377
-mus: 0 0 1 
-nvs: 4 6 2 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  4  0  
-  4  0  2  
-  0  2  0  
-
-Bid: 1070
-mus: 0 0 0 0 
-nvs: 2 2 4 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  1  
-  1  0  0  1  
-  0  0  0  4  
-  1  1  4  0  
-
-Bid: 1276
-mus: 0 0 0 0 
-nvs: 2 4 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  2  0  
-  0  0  0  4  
-  2  0  0  2  
-  0  4  2  0  
-
-Bid: 1327
-mus: 0 0 0 0 
-nvs: 3 3 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  2  0  1  
-  2  0  0  1  
-  0  0  0  4  
-  1  1  4  0  
-
 Bid: 146
-mus: 0 0 0 
-nvs: 3 3 6 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  0  0  3  
-  0  0  3  
-  3  3  0  
-
-Bid: 371
-mus: 0 0 1 
-nvs: 3 6 3 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  3  0  
-  3  0  3  
-  0  3  0  
-
-Bid: 1302
-mus: 0 0 0 0 
-nvs: 3 3 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  3  
-  0  0  2  1  
-  0  2  0  2  
-  3  1  2  0  
-
-Bid: 149
 mus: 0 0 0 
 nvs: 2 5 5 
 level: 0 dim 3 maxpoly 12
@@ -2472,44 +6555,14 @@ level: 0 dim 3 maxpoly 12
   1  0  4  
   1  4  0  
 
-Bid: 380
-mus: 0 0 1 
-nvs: 5 5 2 
+Bid: 149
+mus: 0 0 0 
+nvs: 3 3 6 
 level: 0 dim 3 maxpoly 12
-0 0 1
-  0  4  1  
-  4  0  1  
-  1  1  0  
-
-Bid: 1087
-mus: 0 0 0 0 
-nvs: 2 2 5 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  4  
-  1  0  4  0  
-
-Bid: 1281
-mus: 0 0 0 0 
-nvs: 2 4 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  2  0  0  
-  2  0  1  1  
-  0  1  0  4  
-  0  1  4  0  
-
-Bid: 1406
-mus: 0 0 0 0 
-nvs: 3 3 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  2  0  1  
-  2  0  1  0  
-  0  1  0  4  
-  1  0  4  0  
+0 0 0
+  0  0  3  
+  0  0  3  
+  3  3  0  
 
 Bid: 152
 mus: 0 0 0 
@@ -2520,34 +6573,14 @@ level: 0 dim 3 maxpoly 12
   1  0  3  
   2  3  0  
 
-Bid: 374
-mus: 0 0 1 
-nvs: 4 5 3 
+Bid: 156
+mus: 0 0 0 
+nvs: 4 4 4 
 level: 0 dim 3 maxpoly 12
-0 0 1
-  0  3  1  
-  3  0  2  
-  1  2  0  
-
-Bid: 1396
-mus: 0 0 0 0 
-nvs: 3 4 4 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  2  1  
-  0  0  1  3  
-  2  1  0  1  
-  1  3  1  0  
-
-Bid: 1401
-mus: 0 0 0 0 
-nvs: 3 4 4 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  2  0  
-  1  0  0  3  
-  2  0  0  2  
-  0  3  2  0  
+0 0 0
+  0  2  2  
+  2  0  2  
+  2  2  0  
 
 Bid: 160
 mus: 0 0 0 
@@ -2558,25 +6591,6 @@ level: 0 dim 3 maxpoly 14
   0  0  6  
   1  6  0  
 
-Bid: 437
-mus: 0 0 1 
-nvs: 6 7 1 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  6  0  
-  6  0  1  
-  0  1  0  
-
-Bid: 1228
-mus: 0 0 0 0 
-nvs: 1 2 6 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  6  
-  0  1  6  0  
-
 Bid: 164
 mus: 0 0 0 
 nvs: 2 5 7 
@@ -2586,44 +6600,7 @@ level: 0 dim 3 maxpoly 14
   0  0  5  
   2  5  0  
 
-Bid: 432
-mus: 0 0 1 
-nvs: 5 7 2 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  5  0  
-  5  0  2  
-  0  2  0  
-
-Bid: 1333
-mus: 0 0 0 0 
-nvs: 2 2 5 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  1  
-  1  0  0  1  
-  0  0  0  5  
-  1  1  5  0  
-
 Bid: 168
-mus: 0 0 0 
-nvs: 3 4 7 
-level: 0 dim 3 maxpoly 14
-0 0 0
-  0  0  3  
-  0  0  4  
-  3  4  0  
-
-Bid: 426
-mus: 0 0 1 
-nvs: 4 7 3 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  4  0  
-  4  0  3  
-  0  3  0  
-
-Bid: 172
 mus: 0 0 0 
 nvs: 2 6 6 
 level: 0 dim 3 maxpoly 14
@@ -2632,24 +6609,14 @@ level: 0 dim 3 maxpoly 14
   1  0  5  
   1  5  0  
 
-Bid: 435
-mus: 0 0 1 
-nvs: 6 6 2 
+Bid: 171
+mus: 0 0 0 
+nvs: 3 4 7 
 level: 0 dim 3 maxpoly 14
-0 0 1
-  0  5  1  
-  5  0  1  
-  1  1  0  
-
-Bid: 1355
-mus: 0 0 0 0 
-nvs: 2 2 6 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  5  
-  1  0  5  0  
+0 0 0
+  0  0  3  
+  0  0  4  
+  3  4  0  
 
 Bid: 175
 mus: 0 0 0 
@@ -2660,15 +6627,6 @@ level: 0 dim 3 maxpoly 14
   1  0  4  
   2  4  0  
 
-Bid: 429
-mus: 0 0 1 
-nvs: 5 6 3 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  4  1  
-  4  0  2  
-  1  2  0  
-
 Bid: 179
 mus: 0 0 0 
 nvs: 4 4 6 
@@ -2678,15 +6636,6 @@ level: 0 dim 3 maxpoly 14
   1  0  3  
   3  3  0  
 
-Bid: 421
-mus: 0 0 1 
-nvs: 4 6 4 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  3  1  
-  3  0  3  
-  1  3  0  
-
 Bid: 182
 mus: 0 0 0 
 nvs: 4 5 5 
@@ -2695,15 +6644,6 @@ level: 0 dim 3 maxpoly 14
   0  2  2  
   2  0  3  
   2  3  0  
-
-Bid: 424
-mus: 0 0 1 
-nvs: 5 5 4 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  3  2  
-  3  0  2  
-  2  2  0  
 
 Bid: 187
 mus: 0 0 0 
@@ -2725,24 +6665,6 @@ level: 0 dim 3 maxpoly 16
 
 Bid: 195
 mus: 0 0 0 
-nvs: 3 5 8 
-level: 0 dim 3 maxpoly 16
-0 0 0
-  0  0  3  
-  0  0  5  
-  3  5  0  
-
-Bid: 199
-mus: 0 0 0 
-nvs: 4 4 8 
-level: 0 dim 3 maxpoly 16
-0 0 0
-  0  0  4  
-  0  0  4  
-  4  4  0  
-
-Bid: 202
-mus: 0 0 0 
 nvs: 2 7 7 
 level: 0 dim 3 maxpoly 16
 0 0 0
@@ -2750,7 +6672,16 @@ level: 0 dim 3 maxpoly 16
   1  0  6  
   1  6  0  
 
-Bid: 205
+Bid: 198
+mus: 0 0 0 
+nvs: 3 5 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  3  
+  0  0  5  
+  3  5  0  
+
+Bid: 202
 mus: 0 0 0 
 nvs: 3 6 7 
 level: 0 dim 3 maxpoly 16
@@ -2758,6 +6689,15 @@ level: 0 dim 3 maxpoly 16
   0  1  2  
   1  0  5  
   2  5  0  
+
+Bid: 206
+mus: 0 0 0 
+nvs: 4 4 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  4  
+  0  0  4  
+  4  4  0  
 
 Bid: 209
 mus: 0 0 0 
@@ -2806,24 +6746,6 @@ level: 0 dim 3 maxpoly 18
 
 Bid: 229
 mus: 0 0 0 
-nvs: 3 6 9 
-level: 0 dim 3 maxpoly 18
-0 0 0
-  0  0  3  
-  0  0  6  
-  3  6  0  
-
-Bid: 233
-mus: 0 0 0 
-nvs: 4 5 9 
-level: 0 dim 3 maxpoly 18
-0 0 0
-  0  0  4  
-  0  0  5  
-  4  5  0  
-
-Bid: 237
-mus: 0 0 0 
 nvs: 2 8 8 
 level: 0 dim 3 maxpoly 18
 0 0 0
@@ -2831,7 +6753,16 @@ level: 0 dim 3 maxpoly 18
   1  0  7  
   1  7  0  
 
-Bid: 240
+Bid: 232
+mus: 0 0 0 
+nvs: 3 6 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  3  
+  0  0  6  
+  3  6  0  
+
+Bid: 236
 mus: 0 0 0 
 nvs: 3 7 8 
 level: 0 dim 3 maxpoly 18
@@ -2839,6 +6770,15 @@ level: 0 dim 3 maxpoly 18
   0  1  2  
   1  0  6  
   2  6  0  
+
+Bid: 240
+mus: 0 0 0 
+nvs: 4 5 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  4  
+  0  0  5  
+  4  5  0  
 
 Bid: 244
 mus: 0 0 0 
@@ -2851,21 +6791,21 @@ level: 0 dim 3 maxpoly 18
 
 Bid: 248
 mus: 0 0 0 
-nvs: 5 5 8 
-level: 0 dim 3 maxpoly 18
-0 0 0
-  0  1  4  
-  1  0  4  
-  4  4  0  
-
-Bid: 251
-mus: 0 0 0 
 nvs: 4 7 7 
 level: 0 dim 3 maxpoly 18
 0 0 0
   0  2  2  
   2  0  5  
   2  5  0  
+
+Bid: 251
+mus: 0 0 0 
+nvs: 5 5 8 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  1  4  
+  1  0  4  
+  4  4  0  
 
 Bid: 254
 mus: 0 0 0 
@@ -2876,6 +6816,15 @@ level: 0 dim 3 maxpoly 18
   2  0  4  
   3  4  0  
 
+Bid: 258
+mus: 0 0 0 
+nvs: 6 6 6 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  3  3  
+  3  0  3  
+  3  3  0  
+
 Bid: 267
 mus: 0 0 1 
 nvs: 1 1 2 
@@ -2884,74 +6833,6 @@ level: 0 dim 3 maxpoly 4
   0  0  1  
   0  0  1  
   1  1  0  
-
-Bid: 461
-mus: 0 1 1 
-nvs: 1 1 2 
-level: 0 dim 3 maxpoly 4
-0 1 1
-  0  0  1  
-  0  0  1  
-  1  1  0  
-
-Bid: 615
-mus: 0 1 2 
-nvs: 1 2 1 
-level: 0 dim 3 maxpoly 4
-0 1 2
-  0  1  0  
-  1  0  1  
-  0  1  0  
-
-Bid: 1459
-mus: 0 0 0 1 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  1  
-  1  0  1  0  
-
-Bid: 1515
-mus: 0 0 0 1 
-nvs: 1 2 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  1  
-  0  0  2  0  
-  0  2  0  1  
-  1  0  1  0  
-
-Bid: 1624
-mus: 0 0 0 1 
-nvs: 1 3 4 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  3  0  
-  0  3  0  1  
-  1  0  1  0  
-
-Bid: 1823
-mus: 0 0 0 1 
-nvs: 1 4 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  4  0  
-  0  4  0  1  
-  1  0  1  0  
-
-Bid: 2170
-mus: 0 0 1 1 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  1  
-  1  0  1  0  
 
 Bid: 276
 mus: 0 0 1 
@@ -2962,64 +6843,6 @@ level: 0 dim 3 maxpoly 6
   0  0  2  
   1  2  0  
 
-Bid: 485
-mus: 0 1 1 
-nvs: 2 1 3 
-level: 0 dim 3 maxpoly 6
-0 1 1
-  0  0  2  
-  0  0  1  
-  2  1  0  
-
-Bid: 651
-mus: 0 1 2 
-nvs: 2 3 1 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  2  0  
-  2  0  1  
-  0  1  0  
-
-Bid: 1522
-mus: 0 0 0 1 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  1  
-  0  2  1  0  
-
-Bid: 1638
-mus: 0 0 0 1 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  1  
-  2  0  1  0  
-
-Bid: 1847
-mus: 0 0 0 1 
-nvs: 2 3 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  2  
-  0  0  3  0  
-  0  3  0  1  
-  2  0  1  0  
-
-Bid: 2322
-mus: 0 0 1 1 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  1  
-  0  2  1  0  
-
 Bid: 279
 mus: 0 0 1 
 nvs: 1 3 2 
@@ -3028,64 +6851,6 @@ level: 0 dim 3 maxpoly 6
   0  1  0  
   1  0  2  
   0  2  0  
-
-Bid: 491
-mus: 0 1 1 
-nvs: 3 1 2 
-level: 0 dim 3 maxpoly 6
-0 1 1
-  0  1  2  
-  1  0  0  
-  2  0  0  
-
-Bid: 653
-mus: 0 1 2 
-nvs: 3 2 1 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  2  1  
-  2  0  0  
-  1  0  0  
-
-Bid: 1539
-mus: 0 0 0 1 
-nvs: 1 2 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  1  0  0  
-  1  0  1  0  
-  0  1  0  2  
-  0  0  2  0  
-
-Bid: 1713
-mus: 0 0 0 1 
-nvs: 2 3 3 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  2  0  
-  0  0  1  2  
-  2  1  0  0  
-  0  2  0  0  
-
-Bid: 1983
-mus: 0 0 0 1 
-nvs: 3 3 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  2  
-  0  0  3  0  
-  1  3  0  0  
-  2  0  0  0  
-
-Bid: 2325
-mus: 0 0 1 1 
-nvs: 1 3 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
-  0  0  2  1  
-  0  2  0  0  
-  1  1  0  0  
 
 Bid: 291
 mus: 0 0 1 
@@ -3096,84 +6861,7 @@ level: 0 dim 3 maxpoly 8
   0  0  3  
   1  3  0  
 
-Bid: 521
-mus: 0 1 1 
-nvs: 3 1 4 
-level: 0 dim 3 maxpoly 8
-0 1 1
-  0  0  3  
-  0  0  1  
-  3  1  0  
-
-Bid: 1645
-mus: 0 0 0 1 
-nvs: 1 2 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  3  
-  0  1  3  0  
-
-Bid: 1861
-mus: 0 0 0 1 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  0  3  
-  2  0  0  1  
-  0  3  1  0  
-
 Bid: 294
-mus: 0 0 1 
-nvs: 2 2 4 
-level: 0 dim 3 maxpoly 8
-0 0 1
-  0  0  2  
-  0  0  2  
-  2  2  0  
-
-Bid: 519
-mus: 0 1 1 
-nvs: 2 2 4 
-level: 0 dim 3 maxpoly 8
-0 1 1
-  0  0  2  
-  0  0  2  
-  2  2  0  
-
-Bid: 1635
-mus: 0 0 0 1 
-nvs: 2 2 2 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  1  
-  2  1  1  0  
-
-Bid: 1840
-mus: 0 0 0 1 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  2  
-  2  0  2  0  
-
-Bid: 1844
-mus: 0 0 0 1 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  2  
-  0  0  2  1  
-  0  2  0  1  
-  2  1  1  0  
-
-Bid: 296
 mus: 0 0 1 
 nvs: 1 4 3 
 level: 0 dim 3 maxpoly 8
@@ -3182,34 +6870,14 @@ level: 0 dim 3 maxpoly 8
   1  0  3  
   0  3  0  
 
-Bid: 529
-mus: 0 1 1 
-nvs: 4 1 3 
+Bid: 297
+mus: 0 0 1 
+nvs: 2 2 4 
 level: 0 dim 3 maxpoly 8
-0 1 1
-  0  1  3  
-  1  0  0  
-  3  0  0  
-
-Bid: 1666
-mus: 0 0 0 1 
-nvs: 1 2 4 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  0  0  
-  1  0  1  0  
-  0  1  0  3  
-  0  0  3  0  
-
-Bid: 1987
-mus: 0 0 0 1 
-nvs: 2 3 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  2  0  0  
-  2  0  1  0  
-  0  1  0  3  
-  0  0  3  0  
+0 0 1
+  0  0  2  
+  0  0  2  
+  2  2  0  
 
 Bid: 299
 mus: 0 0 1 
@@ -3220,44 +6888,14 @@ level: 0 dim 3 maxpoly 8
   1  0  2  
   1  2  0  
 
-Bid: 527
-mus: 0 1 1 
-nvs: 3 2 3 
+Bid: 302
+mus: 0 0 1 
+nvs: 2 4 2 
 level: 0 dim 3 maxpoly 8
-0 1 1
-  0  1  2  
-  1  0  1  
-  2  1  0  
-
-Bid: 1697
-mus: 0 0 0 1 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  2  
-  1  0  2  0  
-
-Bid: 1975
-mus: 0 0 0 1 
-nvs: 2 3 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  1  2  
-  2  1  0  1  
-  0  2  1  0  
-
-Bid: 1979
-mus: 0 0 0 1 
-nvs: 3 3 3 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  2  
-  0  0  2  1  
-  1  2  0  0  
-  2  1  0  0  
+0 0 1
+  0  2  0  
+  2  0  2  
+  0  2  0  
 
 Bid: 314
 mus: 0 0 1 
@@ -3268,54 +6906,7 @@ level: 0 dim 3 maxpoly 10
   0  0  4  
   1  4  0  
 
-Bid: 572
-mus: 0 1 1 
-nvs: 4 1 5 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  0  4  
-  0  0  1  
-  4  1  0  
-
-Bid: 1868
-mus: 0 0 0 1 
-nvs: 1 2 4 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  4  
-  0  1  4  0  
-
 Bid: 317
-mus: 0 0 1 
-nvs: 2 3 5 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  0  2  
-  0  0  3  
-  2  3  0  
-
-Bid: 570
-mus: 0 1 1 
-nvs: 3 2 5 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  0  3  
-  0  0  2  
-  3  2  0  
-
-Bid: 1858
-mus: 0 0 0 1 
-nvs: 2 2 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  1  
-  1  0  0  1  
-  0  0  0  3  
-  1  1  3  0  
-
-Bid: 320
 mus: 0 0 1 
 nvs: 1 5 4 
 level: 0 dim 3 maxpoly 10
@@ -3324,24 +6915,14 @@ level: 0 dim 3 maxpoly 10
   1  0  4  
   0  4  0  
 
-Bid: 582
-mus: 0 1 1 
-nvs: 5 1 4 
+Bid: 320
+mus: 0 0 1 
+nvs: 2 3 5 
 level: 0 dim 3 maxpoly 10
-0 1 1
-  0  1  4  
-  1  0  0  
-  4  0  0  
-
-Bid: 1893
-mus: 0 0 0 1 
-nvs: 1 2 5 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  0  
-  1  0  1  0  
-  0  1  0  4  
-  0  0  4  0  
+0 0 1
+  0  0  2  
+  0  0  3  
+  2  3  0  
 
 Bid: 323
 mus: 0 0 1 
@@ -3352,44 +6933,7 @@ level: 0 dim 3 maxpoly 10
   1  0  3  
   1  3  0  
 
-Bid: 580
-mus: 0 1 1 
-nvs: 4 2 4 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  1  3  
-  1  0  1  
-  3  1  0  
-
-Bid: 1944
-mus: 0 0 0 1 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  3  
-  1  0  3  0  
-
 Bid: 326
-mus: 0 0 1 
-nvs: 3 3 4 
-level: 0 dim 3 maxpoly 10
-0 0 1
-  0  1  2  
-  1  0  2  
-  2  2  0  
-
-Bid: 578
-mus: 0 1 1 
-nvs: 3 3 4 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  1  2  
-  1  0  2  
-  2  2  0  
-
-Bid: 328
 mus: 0 0 1 
 nvs: 2 5 3 
 level: 0 dim 3 maxpoly 10
@@ -3398,44 +6942,34 @@ level: 0 dim 3 maxpoly 10
   2  0  3  
   0  3  0  
 
-Bid: 586
-mus: 0 1 1 
-nvs: 5 2 3 
+Bid: 329
+mus: 0 0 1 
+nvs: 3 3 4 
 level: 0 dim 3 maxpoly 10
-0 1 1
-  0  2  3  
-  2  0  0  
-  3  0  0  
-
-Bid: 2024
-mus: 0 0 0 1 
-nvs: 2 2 5 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  1  0  
-  1  1  0  3  
-  0  0  3  0  
+0 0 1
+  0  1  2  
+  1  0  2  
+  2  2  0  
 
 Bid: 346
 mus: 0 0 1 
-nvs: 1 5 6 
+nvs: 5 1 6 
 level: 0 dim 3 maxpoly 12
 0 0 1
-  0  0  1  
   0  0  5  
-  1  5  0  
-
-Bid: 349
-mus: 0 0 1 
-nvs: 2 4 6 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  0  2  
-  0  0  4  
-  2  4  0  
+  0  0  1  
+  5  1  0  
 
 Bid: 352
+mus: 0 0 1 
+nvs: 4 2 6 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  0  4  
+  0  0  2  
+  4  2  0  
+
+Bid: 361
 mus: 0 0 1 
 nvs: 3 3 6 
 level: 0 dim 3 maxpoly 12
@@ -3443,71 +6977,6 @@ level: 0 dim 3 maxpoly 12
   0  0  3  
   0  0  3  
   3  3  0  
-
-Bid: 354
-mus: 0 0 1 
-nvs: 1 6 5 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  1  0  
-  1  0  5  
-  0  5  0  
-
-Bid: 357
-mus: 0 0 1 
-nvs: 2 5 5 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  1  1  
-  1  0  4  
-  1  4  0  
-
-Bid: 360
-mus: 0 0 1 
-nvs: 3 4 5 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  1  2  
-  1  0  3  
-  2  3  0  
-
-Bid: 363
-mus: 0 0 1 
-nvs: 2 6 4 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  2  0  
-  2  0  4  
-  0  4  0  
-
-Bid: 366
-mus: 0 0 1 
-nvs: 3 5 4 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  2  1  
-  2  0  3  
-  1  3  0  
-
-Bid: 1385
-mus: 0 0 0 0 
-nvs: 3 3 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  2  
-  0  0  2  1  
-  1  2  0  2  
-  2  1  2  0  
-
-Bid: 1388
-mus: 0 0 0 0 
-nvs: 3 4 4 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  2  
-  0  0  2  2  
-  1  2  0  1  
-  2  2  1  0  
 
 Bid: 389
 mus: 0 0 1 
@@ -3518,7 +6987,7 @@ level: 0 dim 3 maxpoly 14
   0  0  6  
   1  6  0  
 
-Bid: 392
+Bid: 395
 mus: 0 0 1 
 nvs: 2 5 7 
 level: 0 dim 3 maxpoly 14
@@ -3527,25 +6996,7 @@ level: 0 dim 3 maxpoly 14
   0  0  5  
   2  5  0  
 
-Bid: 395
-mus: 0 0 1 
-nvs: 3 4 7 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  0  3  
-  0  0  4  
-  3  4  0  
-
 Bid: 398
-mus: 0 0 1 
-nvs: 1 7 6 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  1  0  
-  1  0  6  
-  0  6  0  
-
-Bid: 401
 mus: 0 0 1 
 nvs: 2 6 6 
 level: 0 dim 3 maxpoly 14
@@ -3556,6 +7007,15 @@ level: 0 dim 3 maxpoly 14
 
 Bid: 404
 mus: 0 0 1 
+nvs: 3 4 7 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  0  3  
+  0  0  4  
+  3  4  0  
+
+Bid: 407
+mus: 0 0 1 
 nvs: 3 5 6 
 level: 0 dim 3 maxpoly 14
 0 0 1
@@ -3563,7 +7023,7 @@ level: 0 dim 3 maxpoly 14
   1  0  4  
   2  4  0  
 
-Bid: 407
+Bid: 416
 mus: 0 0 1 
 nvs: 4 4 6 
 level: 0 dim 3 maxpoly 14
@@ -3572,43 +7032,7 @@ level: 0 dim 3 maxpoly 14
   1  0  3  
   3  3  0  
 
-Bid: 409
-mus: 0 0 1 
-nvs: 2 7 5 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  2  0  
-  2  0  5  
-  0  5  0  
-
-Bid: 412
-mus: 0 0 1 
-nvs: 3 6 5 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  2  1  
-  2  0  4  
-  1  4  0  
-
-Bid: 415
-mus: 0 0 1 
-nvs: 4 5 5 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  2  2  
-  2  0  3  
-  2  3  0  
-
-Bid: 418
-mus: 0 0 1 
-nvs: 3 7 4 
-level: 0 dim 3 maxpoly 14
-0 0 1
-  0  3  0  
-  3  0  4  
-  0  4  0  
-
-Bid: 453
+Bid: 454
 mus: 0 0 2 
 nvs: 1 1 2 
 level: 0 dim 3 maxpoly 4
@@ -3617,134 +7041,16 @@ level: 0 dim 3 maxpoly 4
   0  0  1  
   1  1  0  
 
-Bid: 611
-mus: 0 1 2 
+Bid: 459
+mus: 0 1 1 
 nvs: 1 1 2 
 level: 0 dim 3 maxpoly 4
-0 1 2
+0 1 1
   0  0  1  
   0  0  1  
   1  1  0  
 
-Bid: 2131
-mus: 0 0 0 2 
-nvs: 1 1 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  1  
-  1  0  1  0  
-
-Bid: 2233
-mus: 0 0 0 2 
-nvs: 1 2 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  1  
-  0  0  2  0  
-  0  2  0  1  
-  1  0  1  0  
-
-Bid: 465
-mus: 0 1 1 
-nvs: 2 1 1 
-level: 0 dim 3 maxpoly 4
-0 1 1
-  0  1  1  
-  1  0  0  
-  1  0  0  
-
-Bid: 617
-mus: 0 1 2 
-nvs: 2 1 1 
-level: 0 dim 3 maxpoly 4
-0 1 2
-  0  1  1  
-  1  0  0  
-  1  0  0  
-
-Bid: 1472
-mus: 0 0 0 1 
-nvs: 1 2 2 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  1  0  
-  0  0  1  1  
-  1  1  0  0  
-  0  1  0  0  
-
-Bid: 1558
-mus: 0 0 0 1 
-nvs: 2 2 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  1  
-  0  0  2  0  
-  1  2  0  0  
-  1  0  0  0  
-
-Bid: 1709
-mus: 0 0 0 1 
-nvs: 2 3 4 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  1  
-  0  0  3  0  
-  1  3  0  0  
-  1  0  0  0  
-
-Bid: 1968
-mus: 0 0 0 1 
-nvs: 2 4 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  4  0  
-  1  4  0  0  
-  1  0  0  0  
-
-Bid: 2172
-mus: 0 0 1 1 
-nvs: 1 2 1 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  0  
-  1  1  0  0  
-
-Bid: 2191
-mus: 0 0 1 1 
-nvs: 2 2 1 1 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  1  0  1  
-  1  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
-Bid: 2333
-mus: 0 0 1 1 
-nvs: 2 2 1 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  0  
-  2  1  0  0  
-
-Bid: 2367
-mus: 0 0 1 1 
-nvs: 2 3 1 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  1  0  
-  1  0  0  2  
-  1  0  0  0  
-  0  2  0  0  
-
-Bid: 469
+Bid: 470
 mus: 0 0 2 
 nvs: 1 2 3 
 level: 0 dim 3 maxpoly 6
@@ -3753,26 +7059,7 @@ level: 0 dim 3 maxpoly 6
   0  0  2  
   1  2  0  
 
-Bid: 641
-mus: 0 1 2 
-nvs: 2 1 3 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  0  2  
-  0  0  1  
-  2  1  0  
-
-Bid: 2240
-mus: 0 0 0 2 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  1  
-  0  2  1  0  
-
-Bid: 472
+Bid: 473
 mus: 0 0 2 
 nvs: 1 3 2 
 level: 0 dim 3 maxpoly 6
@@ -3781,26 +7068,7 @@ level: 0 dim 3 maxpoly 6
   1  0  2  
   0  2  0  
 
-Bid: 649
-mus: 0 1 2 
-nvs: 3 1 2 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  1  2  
-  1  0  0  
-  2  0  0  
-
-Bid: 2257
-mus: 0 0 0 2 
-nvs: 1 2 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  1  0  0  
-  1  0  1  0  
-  0  1  0  2  
-  0  0  2  0  
-
-Bid: 483
+Bid: 476
 mus: 0 1 1 
 nvs: 1 2 3 
 level: 0 dim 3 maxpoly 6
@@ -3809,35 +7077,7 @@ level: 0 dim 3 maxpoly 6
   0  0  2  
   1  2  0  
 
-Bid: 658
-mus: 1 1 1 
-nvs: 1 2 3 
-level: 0 dim 3 maxpoly 6
-1 1 1
-  0  0  1  
-  0  0  2  
-  1  2  0  
-
-Bid: 2342
-mus: 0 0 1 1 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  2  
-  0  1  2  0  
-
-Bid: 495
-mus: 0 0 2 
-nvs: 1 3 4 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  0  1  
-  0  0  3  
-  1  3  0  
-
-Bid: 498
+Bid: 504
 mus: 0 0 2 
 nvs: 2 2 4 
 level: 0 dim 3 maxpoly 8
@@ -3846,272 +7086,7 @@ level: 0 dim 3 maxpoly 8
   0  0  2  
   2  2  0  
 
-Bid: 500
-mus: 0 0 2 
-nvs: 1 4 3 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  1  0  
-  1  0  3  
-  0  3  0  
-
-Bid: 990
-mus: 0 0 0 0 
-nvs: 1 3 4 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  0  
-  0  0  0  3  
-  1  0  0  3  
-  0  3  3  0  
-
-Bid: 995
-mus: 0 0 0 0 
-nvs: 1 4 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  0  
-  0  0  1  3  
-  1  1  0  2  
-  0  3  2  0  
-
-Bid: 1209
-mus: 0 0 0 0 
-nvs: 1 4 4 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  0  
-  0  0  0  4  
-  1  0  0  3  
-  0  4  3  0  
-
-Bid: 1214
-mus: 0 0 0 0 
-nvs: 1 4 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  0  
-  1  0  1  2  
-  0  1  0  4  
-  0  2  4  0  
-
-Bid: 1885
-mus: 0 0 0 1 
-nvs: 1 3 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  1  2  
-  1  1  0  2  
-  0  2  2  0  
-
-Bid: 503
-mus: 0 0 2 
-nvs: 2 3 3 
-level: 0 dim 3 maxpoly 8
-0 0 2
-  0  1  1  
-  1  0  2  
-  1  2  0  
-
-Bid: 1055
-mus: 0 0 0 0 
-nvs: 2 3 3 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  1  
-  0  0  0  3  
-  1  0  0  2  
-  1  3  2  0  
-
-Bid: 1082
-mus: 0 0 0 0 
-nvs: 2 3 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  1  
-  1  0  1  1  
-  0  1  0  3  
-  1  1  3  0  
-
-Bid: 1094
-mus: 0 0 0 0 
-nvs: 2 3 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  1  0  
-  1  0  0  2  
-  1  0  0  3  
-  0  2  3  0  
-
-Bid: 1322
-mus: 0 0 0 0 
-nvs: 2 3 4 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  1  
-  1  0  0  2  
-  0  0  0  4  
-  1  2  4  0  
-
-Bid: 1350
-mus: 0 0 0 0 
-nvs: 2 3 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  1  
-  1  0  1  1  
-  0  1  0  4  
-  1  1  4  0  
-
-Bid: 1367
-mus: 0 0 0 0 
-nvs: 2 3 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  1  0  
-  1  0  0  2  
-  1  0  0  4  
-  0  2  4  0  
-
-Bid: 1940
-mus: 0 0 0 1 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  1  2  
-  1  1  0  1  
-  1  2  1  0  
-
-Bid: 1972
-mus: 0 0 0 1 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  0  2  
-  1  0  0  2  
-  0  2  2  0  
-
-Bid: 517
-mus: 0 1 1 
-nvs: 1 3 4 
-level: 0 dim 3 maxpoly 8
-0 1 1
-  0  0  1  
-  0  0  3  
-  1  3  0  
-
-Bid: 1609
-mus: 0 0 0 1 
-nvs: 1 1 4 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  3  
-  1  0  3  0  
-
-Bid: 1613
-mus: 0 0 0 1 
-nvs: 1 2 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  2  
-  1  1  2  0  
-
-Bid: 1812
-mus: 0 0 0 1 
-nvs: 1 3 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  2  1  
-  0  2  0  2  
-  1  1  2  0  
-
-Bid: 525
-mus: 0 1 1 
-nvs: 2 3 3 
-level: 0 dim 3 maxpoly 8
-0 1 1
-  0  1  1  
-  1  0  2  
-  1  2  0  
-
-Bid: 1658
-mus: 0 0 0 1 
-nvs: 1 2 4 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  1  1  
-  1  1  0  2  
-  0  1  2  0  
-
-Bid: 1694
-mus: 0 0 0 1 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  1  
-  1  1  1  0  
-
-Bid: 1952
-mus: 0 0 0 1 
-nvs: 2 3 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  2  1  
-  1  2  0  1  
-  1  1  1  0  
-
-Bid: 531
-mus: 0 1 1 
-nvs: 4 2 2 
-level: 0 dim 3 maxpoly 8
-0 1 1
-  0  2  2  
-  2  0  0  
-  2  0  0  
-
-Bid: 1728
-mus: 0 0 0 1 
-nvs: 2 2 4 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  1  0  
-  1  0  1  0  
-  1  1  0  2  
-  0  0  2  0  
-
-Bid: 1998
-mus: 0 0 0 1 
-nvs: 2 4 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  2  2  
-  2  2  0  0  
-  0  2  0  0  
-
-Bid: 2054
-mus: 0 0 0 1 
-nvs: 3 3 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  2  1  0  
-  2  0  1  0  
-  1  1  0  2  
-  0  0  2  0  
-
-Bid: 535
+Bid: 536
 mus: 0 0 2 
 nvs: 1 4 5 
 level: 0 dim 3 maxpoly 10
@@ -4119,1750 +7094,15 @@ level: 0 dim 3 maxpoly 10
   0  0  1  
   0  0  4  
   1  4  0  
-
-Bid: 538
-mus: 0 0 2 
-nvs: 2 3 5 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  0  2  
-  0  0  3  
-  2  3  0  
-
-Bid: 541
-mus: 0 0 2 
-nvs: 1 5 4 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  1  0  
-  1  0  4  
-  0  4  0  
-
-Bid: 981
-mus: 0 0 0 0 
-nvs: 1 3 5 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  2  1  
-  0  2  0  3  
-  1  1  3  0  
-
-Bid: 986
-mus: 0 0 0 0 
-nvs: 1 4 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  2  2  
-  0  2  0  2  
-  1  2  2  0  
-
-Bid: 1195
-mus: 0 0 0 0 
-nvs: 1 3 5 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  0  
-  0  0  0  3  
-  1  0  0  4  
-  0  3  4  0  
-
-Bid: 1200
-mus: 0 0 0 0 
-nvs: 1 4 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  0  
-  0  0  1  3  
-  1  1  0  3  
-  0  3  3  0  
-
-Bid: 1205
-mus: 0 0 0 0 
-nvs: 1 5 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  3  2  
-  0  3  0  2  
-  1  2  2  0  
 
 Bid: 544
 mus: 0 0 2 
-nvs: 2 4 4 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  1  1  
-  1  0  3  
-  1  3  0  
-
-Bid: 1077
-mus: 0 0 0 0 
-nvs: 2 3 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  1  
-  0  0  1  2  
-  1  1  0  2  
-  1  2  2  0  
-
-Bid: 1090
-mus: 0 0 0 0 
-nvs: 2 4 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  1  
-  0  0  2  2  
-  1  2  0  1  
-  1  2  1  0  
-
-Bid: 1293
-mus: 0 0 0 0 
-nvs: 2 3 4 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  1  
-  0  0  0  3  
-  1  0  0  3  
-  1  3  3  0  
-
-Bid: 1345
-mus: 0 0 0 0 
-nvs: 2 4 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  1  
-  0  0  1  3  
-  1  1  0  2  
-  1  3  2  0  
-
-Bid: 1362
-mus: 0 0 0 0 
-nvs: 2 4 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  1  
-  1  0  2  1  
-  0  2  0  3  
-  1  1  3  0  
-
-Bid: 1372
-mus: 0 0 0 0 
-nvs: 2 4 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  1  0  
-  1  0  0  3  
-  1  0  0  3  
-  0  3  3  0  
-
-Bid: 547
-mus: 0 0 2 
-nvs: 3 3 4 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  1  2  
-  1  0  2  
-  2  2  0  
-
-Bid: 1099
-mus: 0 0 0 0 
-nvs: 3 3 3 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  2  
-  0  0  1  2  
-  1  1  0  1  
-  2  2  1  0  
-
-Bid: 1112
-mus: 0 0 0 0 
-nvs: 3 3 4 4 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  1  1  
-  1  0  1  1  
-  1  1  0  2  
-  1  1  2  0  
-
-Bid: 1298
-mus: 0 0 0 0 
-nvs: 3 3 3 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  3  
-  0  0  1  2  
-  0  1  0  2  
-  3  2  2  0  
-
-Bid: 1380
-mus: 0 0 0 0 
-nvs: 3 3 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  2  
-  1  0  1  1  
-  0  1  0  3  
-  2  1  3  0  
-
-Bid: 1393
-mus: 0 0 0 0 
-nvs: 3 3 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  2  
-  1  0  2  0  
-  0  2  0  3  
-  2  0  3  0  
-
-Bid: 1413
-mus: 0 0 0 0 
-nvs: 3 3 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  1  1  
-  1  0  1  1  
-  1  1  0  3  
-  1  1  3  0  
-
-Bid: 549
-mus: 0 0 2 
-nvs: 2 5 3 
-level: 0 dim 3 maxpoly 10
-0 0 2
-  0  2  0  
-  2  0  3  
-  0  3  0  
-
-Bid: 1030
-mus: 0 0 0 0 
-nvs: 2 2 5 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  3  
-  2  0  3  0  
-
-Bid: 1033
-mus: 0 0 0 0 
-nvs: 2 3 4 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  2  
-  0  0  2  1  
-  0  2  0  2  
-  2  1  2  0  
-
-Bid: 1266
-mus: 0 0 0 0 
-nvs: 2 3 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  2  0  
-  0  0  0  3  
-  2  0  0  3  
-  0  3  3  0  
-
-Bid: 1271
-mus: 0 0 0 0 
-nvs: 2 4 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  3  1  
-  0  3  0  2  
-  2  1  2  0  
-
-Bid: 1808
-mus: 0 0 0 1 
-nvs: 1 2 5 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  2  0  
-  0  2  0  3  
-  1  0  3  0  
-
-Bid: 1948
-mus: 0 0 0 1 
-nvs: 2 2 5 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  2  0  
-  1  2  0  2  
-  1  0  2  0  
-
-Bid: 566
-mus: 0 1 1 
-nvs: 1 4 5 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  0  1  
-  0  0  4  
-  1  4  0  
-
-Bid: 568
-mus: 0 1 1 
 nvs: 2 3 5 
 level: 0 dim 3 maxpoly 10
-0 1 1
+0 0 2
   0  0  2  
   0  0  3  
   2  3  0  
-
-Bid: 1832
-mus: 0 0 0 1 
-nvs: 1 2 4 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  3  
-  0  2  3  0  
-
-Bid: 1836
-mus: 0 0 0 1 
-nvs: 2 2 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  2  
-  2  1  2  0  
-
-Bid: 576
-mus: 0 1 1 
-nvs: 2 4 4 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  1  1  
-  1  0  3  
-  1  3  0  
-
-Bid: 1881
-mus: 0 0 0 1 
-nvs: 1 2 5 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  1  1  
-  1  1  0  3  
-  0  1  3  0  
-
-Bid: 1937
-mus: 0 0 0 1 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  2  
-  1  1  2  0  
-
-Bid: 584
-mus: 0 1 1 
-nvs: 4 3 3 
-level: 0 dim 3 maxpoly 10
-0 1 1
-  0  2  2  
-  2  0  1  
-  2  1  0  
-
-Bid: 1905
-mus: 0 0 0 1 
-nvs: 1 4 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  2  2  
-  1  2  0  1  
-  0  2  1  0  
-
-Bid: 1956
-mus: 0 0 0 1 
-nvs: 2 3 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  1  
-  1  0  2  0  
-  0  2  0  2  
-  1  0  2  0  
-
-Bid: 2027
-mus: 0 0 0 1 
-nvs: 2 3 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  1  1  
-  1  1  0  2  
-  0  1  2  0  
-
-Bid: 603
-mus: 0 0 3 
-nvs: 1 1 2 
-level: 0 dim 3 maxpoly 4
-0 0 3
-  0  0  1  
-  0  0  1  
-  1  1  0  
-
-Bid: 622
-mus: 1 1 1 
-nvs: 1 1 2 
-level: 0 dim 3 maxpoly 4
-1 1 1
-  0  0  1  
-  0  0  1  
-  1  1  0  
-
-Bid: 2180
-mus: 0 0 1 1 
-nvs: 1 2 1 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  1  
-  0  1  1  0  
-
-Bid: 2372
-mus: 0 0 1 1 
-nvs: 2 3 1 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  2  0  0  
-  2  0  0  1  
-  0  0  0  1  
-  0  1  1  0  
-
-Bid: 625
-mus: 0 0 3 
-nvs: 1 2 3 
-level: 0 dim 3 maxpoly 6
-0 0 3
-  0  0  1  
-  0  0  2  
-  1  2  0  
-
-Bid: 628
-mus: 0 0 3 
-nvs: 1 3 2 
-level: 0 dim 3 maxpoly 6
-0 0 3
-  0  1  0  
-  1  0  2  
-  0  2  0  
-
-Bid: 1000
-mus: 0 0 0 0 
-nvs: 1 3 4 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  0  
-  1  0  0  2  
-  0  0  0  4  
-  0  2  4  0  
-
-Bid: 1005
-mus: 0 0 0 0 
-nvs: 1 3 5 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  1  0  0  
-  1  0  1  1  
-  0  1  0  4  
-  0  1  4  0  
-
-Bid: 1219
-mus: 0 0 0 0 
-nvs: 1 3 5 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  0  
-  1  0  0  2  
-  0  0  0  5  
-  0  2  5  0  
-
-Bid: 1224
-mus: 0 0 0 0 
-nvs: 1 3 6 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  0  0  
-  1  0  1  1  
-  0  1  0  5  
-  0  1  5  0  
-
-Bid: 1631
-mus: 0 0 0 1 
-nvs: 1 2 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  2  
-  0  2  2  0  
-
-Bid: 1662
-mus: 0 0 0 1 
-nvs: 1 3 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  1  2  
-  1  1  0  1  
-  0  2  1  0  
-
-Bid: 1678
-mus: 0 0 0 1 
-nvs: 1 3 4 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  0  0  
-  1  0  2  0  
-  0  2  0  2  
-  0  0  2  0  
-
-Bid: 1854
-mus: 0 0 0 1 
-nvs: 1 3 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  0  3  
-  1  0  0  2  
-  0  3  2  0  
-
-Bid: 1889
-mus: 0 0 0 1 
-nvs: 1 3 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  0  
-  1  0  1  1  
-  0  1  0  3  
-  0  1  3  0  
-
-Bid: 1909
-mus: 0 0 0 1 
-nvs: 1 3 5 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  0  
-  1  0  2  0  
-  0  2  0  3  
-  0  0  3  0  
-
-Bid: 2351
-mus: 0 0 1 1 
-nvs: 1 3 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  0  
-  1  0  1  1  
-  0  1  0  1  
-  0  1  1  0  
-
-Bid: 639
-mus: 0 1 2 
-nvs: 1 2 3 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  0  1  
-  0  0  2  
-  1  2  0  
-
-Bid: 2226
-mus: 0 0 0 2 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  2  
-  1  0  2  0  
-
-Bid: 2230
-mus: 0 0 0 2 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  1  
-  1  1  1  0  
-
-Bid: 645
-mus: 0 1 2 
-nvs: 1 3 2 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  1  0  
-  1  0  2  
-  0  2  0  
-
-Bid: 1617
-mus: 0 0 0 1 
-nvs: 1 2 4 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  2  0  
-  0  2  0  2  
-  1  0  2  0  
-
-Bid: 1621
-mus: 0 0 0 1 
-nvs: 1 3 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  2  1  
-  0  2  0  1  
-  1  1  1  0  
-
-Bid: 1816
-mus: 0 0 0 1 
-nvs: 1 3 5 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  3  0  
-  0  3  0  2  
-  1  0  2  0  
-
-Bid: 1820
-mus: 0 0 0 1 
-nvs: 1 4 4 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  3  1  
-  0  3  0  1  
-  1  1  1  0  
-
-Bid: 2314
-mus: 0 0 1 1 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  2  
-  1  0  2  0  
-
-Bid: 647
-mus: 0 1 2 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 1 2
-  0  1  1  
-  1  0  1  
-  1  1  0  
-
-Bid: 1701
-mus: 0 0 0 1 
-nvs: 2 2 4 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  1  
-  0  0  2  0  
-  1  2  0  1  
-  1  0  1  0  
-
-Bid: 1705
-mus: 0 0 0 1 
-nvs: 2 3 3 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  1  
-  0  0  2  1  
-  1  2  0  0  
-  1  1  0  0  
-
-Bid: 1960
-mus: 0 0 0 1 
-nvs: 2 3 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  3  0  
-  1  3  0  1  
-  1  0  1  0  
-
-Bid: 1964
-mus: 0 0 0 1 
-nvs: 2 4 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  1  
-  0  0  3  1  
-  1  3  0  0  
-  1  1  0  0  
-
-Bid: 2316
-mus: 0 0 1 1 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  1  
-  1  1  1  0  
-
-Bid: 976
-mus: 0 0 0 0 
-nvs: 1 2 5 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  4  
-  0  2  4  0  
-
-Bid: 1021
-mus: 0 0 0 0 
-nvs: 2 2 4 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  3  
-  2  1  3  0  
-
-Bid: 1026
-mus: 0 0 0 0 
-nvs: 2 3 3 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  2  
-  0  0  1  2  
-  0  1  0  2  
-  2  2  2  0  
-
-Bid: 1254
-mus: 0 0 0 0 
-nvs: 2 2 6 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  2  0  
-  0  2  0  4  
-  2  0  4  0  
-
-Bid: 1257
-mus: 0 0 0 0 
-nvs: 2 3 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  2  1  
-  0  2  0  3  
-  2  1  3  0  
-
-Bid: 1262
-mus: 0 0 0 0 
-nvs: 2 4 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  2  2  
-  0  2  0  2  
-  2  2  2  0  
-
-Bid: 1017
-mus: 0 0 0 0 
-nvs: 2 2 3 7 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  2  
-  0  0  0  2  
-  0  0  0  3  
-  2  2  3  0  
-
-Bid: 1074
-mus: 0 0 0 0 
-nvs: 2 2 5 5 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  3  
-  1  1  3  0  
-
-Bid: 1236
-mus: 0 0 0 0 
-nvs: 2 2 4 8 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  0  2  
-  0  0  0  4  
-  2  2  4  0  
-
-Bid: 1244
-mus: 0 0 0 0 
-nvs: 2 2 5 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  4  
-  2  1  4  0  
-
-Bid: 1337
-mus: 0 0 0 0 
-nvs: 2 2 6 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  4  
-  1  1  4  0  
-
-Bid: 1674
-mus: 0 0 0 1 
-nvs: 1 3 4 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  2  1  
-  1  2  0  1  
-  0  1  1  0  
-
-Bid: 1994
-mus: 0 0 0 1 
-nvs: 2 3 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  2  1  
-  2  2  0  1  
-  0  1  1  0  
-
-Bid: 1830
-mus: 0 0 0 1 
-nvs: 2 2 2 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  2  
-  0  0  0  2  
-  0  0  0  2  
-  2  2  2  0  
-
-Bid: 2144
-mus: 0 0 0 2 
-nvs: 1 2 2 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  1  0  
-  0  0  1  1  
-  1  1  0  0  
-  0  1  0  0  
-
-Bid: 2276
-mus: 0 0 0 2 
-nvs: 2 2 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  1  
-  0  0  2  0  
-  1  2  0  0  
-  1  0  0  0  
-
-Bid: 678
-mus: 0 0 0 0 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 679
-mus: 0 0 0 0 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 1425
-mus: 0 0 0 1 
-nvs: 0 1 1 0 
-level: 0 dim 4 maxpoly 2
-0 0 0 1
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  0  
-  0  0  0  0  
-
-Bid: 2074
-mus: 0 0 0 2 
-nvs: 0 1 1 0 
-level: 0 dim 4 maxpoly 2
-0 0 0 2
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  0  
-  0  0  0  0  
-
-Bid: 2397
-mus: 0 0 0 3 
-nvs: 0 1 1 0 
-level: 0 dim 4 maxpoly 2
-0 0 0 3
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  0  
-  0  0  0  0  
-
-Bid: 2079
-mus: 0 0 1 1 
-nvs: 1 1 0 0 
-level: 0 dim 4 maxpoly 2
-0 0 1 1
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2404
-mus: 0 0 1 2 
-nvs: 1 1 0 0 
-level: 0 dim 4 maxpoly 2
-0 0 1 2
-  0  1  0  0  
-  1  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 681
-mus: 0 0 0 0 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 1434
-mus: 0 0 0 1 
-nvs: 0 2 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 0 1
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  0  
-  0  0  0  0  
-
-Bid: 2088
-mus: 0 0 0 2 
-nvs: 0 2 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 0 2
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  0  
-  0  0  0  0  
-
-Bid: 2416
-mus: 0 0 0 3 
-nvs: 0 2 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 0 3
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  0  
-  0  0  0  0  
-
-Bid: 2112
-mus: 0 0 1 1 
-nvs: 2 2 0 0 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2450
-mus: 0 0 1 2 
-nvs: 2 2 0 0 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  2  0  0  
-  2  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 688
-mus: 0 0 0 0 
-nvs: 0 0 3 3 
-level: 0 dim 4 maxpoly 6
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 1455
-mus: 0 0 0 1 
-nvs: 0 3 3 0 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  0  
-  0  0  3  0  
-  0  3  0  0  
-  0  0  0  0  
-
-Bid: 2127
-mus: 0 0 0 2 
-nvs: 0 3 3 0 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  0  0  
-  0  0  3  0  
-  0  3  0  0  
-  0  0  0  0  
-
-Bid: 2198
-mus: 0 0 1 1 
-nvs: 3 3 0 0 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  3  0  0  
-  3  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 705
-mus: 0 0 0 0 
-nvs: 0 0 4 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 1503
-mus: 0 0 0 1 
-nvs: 0 4 4 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  0  
-  0  0  4  0  
-  0  4  0  0  
-  0  0  0  0  
-
-Bid: 2221
-mus: 0 0 0 2 
-nvs: 0 4 4 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  4  0  
-  0  4  0  0  
-  0  0  0  0  
-
-Bid: 2390
-mus: 0 0 1 1 
-nvs: 4 4 0 0 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  4  0  0  
-  4  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 740
-mus: 0 0 0 0 
-nvs: 0 0 5 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  5  
-  0  0  5  0  
-
-Bid: 1601
-mus: 0 0 0 1 
-nvs: 0 5 5 0 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  5  0  
-  0  5  0  0  
-  0  0  0  0  
-
-Bid: 805
-mus: 0 0 0 0 
-nvs: 0 0 6 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  6  
-  0  0  6  0  
-
-Bid: 1788
-mus: 0 0 0 1 
-nvs: 0 6 6 0 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  6  0  
-  0  6  0  0  
-  0  0  0  0  
-
-Bid: 923
-mus: 0 0 0 0 
-nvs: 0 0 7 7 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  7  
-  0  0  7  0  
-
-Bid: 1115
-mus: 0 0 0 0 
-nvs: 0 0 8 8 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  8  
-  0  0  8  0  
-
-Bid: 1422
-mus: 0 0 0 1 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2071
-mus: 0 0 1 1 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2393
-mus: 0 0 1 2 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 1 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2463
-mus: 0 0 1 3 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 1 3
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2394
-mus: 0 1 1 1 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 1 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2465
-mus: 0 1 1 2 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 1 1 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 1423
-mus: 0 0 0 1 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2077
-mus: 0 0 1 1 
-nvs: 0 1 0 1 
-level: 0 dim 4 maxpoly 2
-0 0 1 1
-  0  0  0  0  
-  0  0  0  1  
-  0  0  0  0  
-  0  1  0  0  
-
-Bid: 2402
-mus: 0 0 1 2 
-nvs: 0 1 1 0 
-level: 0 dim 4 maxpoly 2
-0 0 1 2
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  0  
-  0  0  0  0  
-
-Bid: 2407
-mus: 0 1 1 1 
-nvs: 1 0 0 1 
-level: 0 dim 4 maxpoly 2
-0 1 1 1
-  0  0  0  1  
-  0  0  0  0  
-  0  0  0  0  
-  1  0  0  0  
-
-Bid: 1427
-mus: 0 0 0 1 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2099
-mus: 0 0 1 1 
-nvs: 0 2 0 2 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  0  0  0  
-  0  0  0  2  
-  0  0  0  0  
-  0  2  0  0  
-
-Bid: 2433
-mus: 0 0 1 2 
-nvs: 0 2 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  0  
-  0  0  0  0  
-
-Bid: 2458
-mus: 0 1 1 1 
-nvs: 2 0 0 2 
-level: 0 dim 4 maxpoly 4
-0 1 1 1
-  0  0  0  2  
-  0  0  0  0  
-  0  0  0  0  
-  2  0  0  0  
-
-Bid: 1442
-mus: 0 0 0 1 
-nvs: 0 0 3 3 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 2159
-mus: 0 0 1 1 
-nvs: 0 3 0 3 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  0  
-  0  0  0  3  
-  0  0  0  0  
-  0  3  0  0  
-
-Bid: 1482
-mus: 0 0 0 1 
-nvs: 0 0 4 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 2296
-mus: 0 0 1 1 
-nvs: 0 4 0 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  0  
-  0  0  0  4  
-  0  0  0  0  
-  0  4  0  0  
-
-Bid: 1571
-mus: 0 0 0 1 
-nvs: 0 0 5 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  5  
-  0  0  5  0  
-
-Bid: 1747
-mus: 0 0 0 1 
-nvs: 0 0 6 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  6  
-  0  0  6  0  
-
-Bid: 2070
-mus: 0 0 0 2 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 0 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2464
-mus: 0 0 2 2 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 2 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2466
-mus: 1 1 1 1 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-1 1 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2072
-mus: 0 0 0 2 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 0 0 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2400
-mus: 0 0 1 2 
-nvs: 0 1 0 1 
-level: 0 dim 4 maxpoly 2
-0 0 1 2
-  0  0  0  0  
-  0  0  0  1  
-  0  0  0  0  
-  0  1  0  0  
-
-Bid: 2076
-mus: 0 0 1 1 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 0 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2406
-mus: 0 1 1 1 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 1 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2081
-mus: 0 0 0 2 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 0 0 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2427
-mus: 0 0 1 2 
-nvs: 0 2 0 2 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  0  
-  0  0  0  2  
-  0  0  0  0  
-  0  2  0  0  
-
-Bid: 2096
-mus: 0 0 1 1 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2452
-mus: 0 1 1 1 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 1 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2114
-mus: 0 0 0 2 
-nvs: 0 0 3 3 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 2154
-mus: 0 0 1 1 
-nvs: 0 0 3 3 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  3  
-  0  0  3  0  
-
-Bid: 2200
-mus: 0 0 0 2 
-nvs: 0 0 4 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 2289
-mus: 0 0 1 1 
-nvs: 0 0 4 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  4  
-  0  0  4  0  
-
-Bid: 2392
-mus: 0 0 0 3 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 0 3
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 2395
-mus: 0 0 0 3 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 0 0 3
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2399
-mus: 0 0 1 2 
-nvs: 0 0 1 1 
-level: 0 dim 4 maxpoly 2
-0 0 1 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  1  
-  0  0  1  0  
-
-Bid: 2409
-mus: 0 0 0 3 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 0 0 3
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2424
-mus: 0 0 1 2 
-nvs: 0 0 2 2 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  2  
-  0  0  2  0  
-
-Bid: 2462
-mus: 0 0 0 4 
-nvs: 0 0 0 0 
-level: 0 dim 4 maxpoly 0
-0 0 0 4
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-  0  0  0  0  
-
-Bid: 738
-mus: 0 0 0 0 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  0  
-  1  1  0  0  
-
-Bid: 2273
-mus: 0 0 0 2 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  0  
-  1  1  0  0  
-
-Bid: 694
-mus: 0 0 0 0 
-nvs: 0 2 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 0
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  1  
-  0  1  1  0  
-
-Bid: 1480
-mus: 0 0 0 1 
-nvs: 2 2 2 0 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  1  1  0  
-  1  0  1  0  
-  1  1  0  0  
-  0  0  0  0  
-
-Bid: 2152
-mus: 0 0 0 2 
-nvs: 2 2 2 0 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  1  1  0  
-  1  0  1  0  
-  1  1  0  0  
-  0  0  0  0  
-
-Bid: 1450
-mus: 0 0 0 1 
-nvs: 0 2 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  1  
-  0  1  1  0  
-
-Bid: 2189
-mus: 0 0 1 1 
-nvs: 2 2 0 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  1  0  1  
-  1  0  0  1  
-  0  0  0  0  
-  1  1  0  0  
-
-Bid: 2122
-mus: 0 0 0 2 
-nvs: 0 2 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  1  
-  0  1  1  0  
-
-Bid: 724
-mus: 0 0 0 0 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  1  
-  1  1  1  0  
-
-Bid: 1565
-mus: 0 0 0 1 
-nvs: 2 2 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  1  1  0  
-  1  0  1  0  
-  1  1  0  1  
-  0  0  1  0  
-
-Bid: 2283
-mus: 0 0 0 2 
-nvs: 2 2 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  1  1  0  
-  1  0  1  0  
-  1  1  0  1  
-  0  0  1  0  
-
-Bid: 1512
-mus: 0 0 0 1 
-nvs: 1 2 2 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  1  
-  1  1  1  0  
-
-Bid: 2357
-mus: 0 0 1 1 
-nvs: 2 2 1 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  1  
-  1  0  0  1  
-  0  0  0  1  
-  1  1  1  0  
-
-Bid: 904
-mus: 0 0 0 0 
-nvs: 2 2 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  2  
-  1  1  2  0  
-
-Bid: 2035
-mus: 0 0 0 1 
-nvs: 2 4 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  2  1  
-  1  2  0  1  
-  0  1  1  0  
-
-Bid: 853
-mus: 0 0 0 0 
-nvs: 1 3 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  1  
-  0  0  2  1  
-  0  2  0  2  
-  1  1  2  0  
-
-Bid: 2060
-mus: 0 0 0 1 
-nvs: 3 4 4 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  2  0  
-  1  0  2  1  
-  2  2  0  0  
-  0  1  0  0  
-
-Bid: 825
-mus: 0 0 0 0 
-nvs: 0 4 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  0  
-  0  0  2  2  
-  0  2  0  2  
-  0  2  2  0  
-
-Bid: 2068
-mus: 0 0 0 1 
-nvs: 4 4 4 0 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  2  2  0  
-  2  0  2  0  
-  2  2  0  0  
-  0  0  0  0  
-
-Bid: 1772
-mus: 0 0 0 1 
-nvs: 0 4 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  2  2  
-  0  2  0  2  
-  0  2  2  0  
-
-Bid: 2161
-mus: 0 0 1 1 
-nvs: 0 2 2 2 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  1  
-  0  1  1  0  
 
 Bid: 683
 mus: 0 0 0 0 
@@ -5874,97 +7114,7 @@ level: 0 dim 4 maxpoly 4
   0  0  0  1  
   0  1  1  0  
 
-Bid: 1439
-mus: 0 0 0 1 
-nvs: 1 1 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 0 1
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  0  
-  0  0  0  0  
-
-Bid: 2093
-mus: 0 0 0 2 
-nvs: 1 1 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 0 2
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  0  
-  0  0  0  0  
-
-Bid: 2421
-mus: 0 0 0 3 
-nvs: 1 1 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 0 3
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  0  
-  0  0  0  0  
-
-Bid: 1431
-mus: 0 0 0 1 
-nvs: 0 1 2 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 1
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  1  
-  0  0  1  0  
-
-Bid: 2109
-mus: 0 0 1 1 
-nvs: 1 2 0 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  0  
-  0  1  0  0  
-
-Bid: 2447
-mus: 0 0 1 2 
-nvs: 1 2 1 0 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  1  0  0  
-  1  0  1  0  
-  0  1  0  0  
-  0  0  0  0  
-
-Bid: 2085
-mus: 0 0 0 2 
-nvs: 0 1 2 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 2
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  1  
-  0  0  1  0  
-
-Bid: 2444
-mus: 0 0 1 2 
-nvs: 1 2 0 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  1  0  0  
-  1  0  0  1  
-  0  0  0  0  
-  0  1  0  0  
-
-Bid: 2413
-mus: 0 0 0 3 
-nvs: 0 1 2 1 
-level: 0 dim 4 maxpoly 4
-0 0 0 3
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  1  
-  0  0  1  0  
-
-Bid: 690
+Bid: 692
 mus: 0 0 0 0 
 nvs: 0 1 2 3 
 level: 0 dim 4 maxpoly 6
@@ -5974,57 +7124,27 @@ level: 0 dim 4 maxpoly 6
   0  0  0  2  
   0  1  2  0  
 
-Bid: 1476
-mus: 0 0 0 1 
-nvs: 1 2 3 0 
+Bid: 696
+mus: 0 0 0 0 
+nvs: 0 2 2 2 
 level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  1  0  
-  0  0  2  0  
-  1  2  0  0  
+0 0 0 0
   0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
 
-Bid: 2148
-mus: 0 0 0 2 
-nvs: 1 2 3 0 
+Bid: 698
+mus: 0 0 0 0 
+nvs: 1 1 1 3 
 level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  1  0  
-  0  0  2  0  
-  1  2  0  0  
-  0  0  0  0  
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
 
-Bid: 1452
-mus: 0 0 0 1 
-nvs: 0 2 3 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  1  
-  0  0  1  0  
-
-Bid: 2195
-mus: 0 0 1 1 
-nvs: 2 3 0 1 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  2  0  0  
-  2  0  0  1  
-  0  0  0  0  
-  0  1  0  0  
-
-Bid: 2124
-mus: 0 0 0 2 
-nvs: 0 2 3 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  1  
-  0  0  1  0  
-
-Bid: 707
+Bid: 710
 mus: 0 0 0 0 
 nvs: 0 1 3 4 
 level: 0 dim 4 maxpoly 8
@@ -6034,97 +7154,7 @@ level: 0 dim 4 maxpoly 8
   0  0  0  3  
   0  1  3  0  
 
-Bid: 1551
-mus: 0 0 0 1 
-nvs: 1 3 4 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  0  
-  0  0  3  0  
-  1  3  0  0  
-  0  0  0  0  
-
-Bid: 2269
-mus: 0 0 0 2 
-nvs: 1 3 4 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  0  
-  0  0  3  0  
-  1  3  0  0  
-  0  0  0  0  
-
-Bid: 1500
-mus: 0 0 0 1 
-nvs: 0 3 4 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  0  
-  0  0  3  0  
-  0  3  0  1  
-  0  0  1  0  
-
-Bid: 2387
-mus: 0 0 1 1 
-nvs: 3 4 0 1 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  3  0  0  
-  3  0  0  1  
-  0  0  0  0  
-  0  1  0  0  
-
-Bid: 2218
-mus: 0 0 0 2 
-nvs: 0 3 4 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  3  0  
-  0  3  0  1  
-  0  0  1  0  
-
-Bid: 717
-mus: 0 0 0 0 
-nvs: 1 1 2 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  2  
-  1  1  2  0  
-
-Bid: 1543
-mus: 0 0 0 1 
-nvs: 1 2 4 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  0  
-  0  0  2  0  
-  1  2  0  1  
-  0  0  1  0  
-
-Bid: 2261
-mus: 0 0 0 2 
-nvs: 1 2 4 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  0  
-  0  0  2  0  
-  1  2  0  1  
-  0  0  1  0  
-
-Bid: 2378
-mus: 0 0 1 1 
-nvs: 2 4 1 1 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  2  0  0  
-  2  0  1  1  
-  0  1  0  0  
-  0  1  0  0  
-
-Bid: 711
+Bid: 714
 mus: 0 0 0 0 
 nvs: 0 2 2 4 
 level: 0 dim 4 maxpoly 8
@@ -6134,97 +7164,7 @@ level: 0 dim 4 maxpoly 8
   0  0  0  2  
   0  2  2  0  
 
-Bid: 1562
-mus: 0 0 0 1 
-nvs: 2 2 4 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  2  0  
-  0  0  2  0  
-  2  2  0  0  
-  0  0  0  0  
-
-Bid: 2280
-mus: 0 0 0 2 
-nvs: 2 2 4 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  2  0  
-  0  0  2  0  
-  2  2  0  0  
-  0  0  0  0  
-
-Bid: 1495
-mus: 0 0 0 1 
-nvs: 0 2 4 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  2  
-  0  0  2  0  
-
-Bid: 2375
-mus: 0 0 1 1 
-nvs: 2 4 0 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  2  0  0  
-  2  0  0  2  
-  0  0  0  0  
-  0  2  0  0  
-
-Bid: 2213
-mus: 0 0 0 2 
-nvs: 0 2 4 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  2  0  
-  0  2  0  2  
-  0  0  2  0  
-
-Bid: 721
-mus: 0 0 0 0 
-nvs: 1 1 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  2  
-  1  0  2  0  
-
-Bid: 1547
-mus: 0 0 0 1 
-nvs: 1 3 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  0  
-  0  0  2  1  
-  1  2  0  0  
-  0  1  0  0  
-
-Bid: 2265
-mus: 0 0 0 2 
-nvs: 1 3 3 1 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  0  
-  0  0  2  1  
-  1  2  0  0  
-  0  1  0  0  
-
-Bid: 2383
-mus: 0 0 1 1 
-nvs: 3 3 1 1 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  2  0  1  
-  2  0  1  0  
-  0  1  0  0  
-  1  0  0  0  
-
-Bid: 714
+Bid: 717
 mus: 0 0 0 0 
 nvs: 0 2 3 3 
 level: 0 dim 4 maxpoly 8
@@ -6234,77 +7174,37 @@ level: 0 dim 4 maxpoly 8
   0  1  0  2  
   0  1  2  0  
 
-Bid: 1568
-mus: 0 0 0 1 
-nvs: 2 3 3 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  1  1  0  
-  1  0  2  0  
-  1  2  0  0  
-  0  0  0  0  
-
-Bid: 2286
-mus: 0 0 0 2 
-nvs: 2 3 3 0 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  1  1  0  
-  1  0  2  0  
-  1  2  0  0  
-  0  0  0  0  
-
-Bid: 1498
-mus: 0 0 0 1 
-nvs: 0 3 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  0  
-  0  0  2  1  
-  0  2  0  1  
-  0  1  1  0  
-
-Bid: 2381
-mus: 0 0 1 1 
-nvs: 3 3 0 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  2  0  1  
-  2  0  0  1  
-  0  0  0  0  
-  1  1  0  0  
-
-Bid: 2216
-mus: 0 0 0 2 
-nvs: 0 3 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  2  1  
-  0  2  0  1  
-  0  1  1  0  
-
-Bid: 777
+Bid: 720
 mus: 0 0 0 0 
-nvs: 1 3 3 3 
-level: 0 dim 4 maxpoly 10
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
 0 0 0 0
   0  0  0  1  
-  0  0  2  1  
-  0  2  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+Bid: 724
+mus: 0 0 0 0 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  1  0  
+  0  0  0  1  
+  1  0  0  2  
+  0  1  2  0  
+
+Bid: 731
+mus: 0 0 0 0 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
   1  1  1  0  
 
-Bid: 1741
-mus: 0 0 0 1 
-nvs: 3 3 3 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  1  1  
-  1  0  2  0  
-  1  2  0  0  
-  1  0  0  0  
-
-Bid: 742
+Bid: 749
 mus: 0 0 0 0 
 nvs: 0 1 4 5 
 level: 0 dim 4 maxpoly 10
@@ -6314,47 +7214,7 @@ level: 0 dim 4 maxpoly 10
   0  0  0  4  
   0  1  4  0  
 
-Bid: 1690
-mus: 0 0 0 1 
-nvs: 1 4 5 0 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  4  0  
-  1  4  0  0  
-  0  0  0  0  
-
-Bid: 1598
-mus: 0 0 0 1 
-nvs: 0 4 5 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  4  0  
-  0  4  0  1  
-  0  0  1  0  
-
-Bid: 756
-mus: 0 0 0 0 
-nvs: 1 1 3 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  3  
-  1  1  3  0  
-
-Bid: 1682
-mus: 0 0 0 1 
-nvs: 1 3 5 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  3  0  
-  1  3  0  1  
-  0  0  1  0  
-
-Bid: 746
+Bid: 753
 mus: 0 0 0 0 
 nvs: 0 2 3 5 
 level: 0 dim 4 maxpoly 10
@@ -6364,67 +7224,7 @@ level: 0 dim 4 maxpoly 10
   0  0  0  3  
   0  2  3  0  
 
-Bid: 1724
-mus: 0 0 0 1 
-nvs: 2 3 5 0 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  2  0  
-  0  0  3  0  
-  2  3  0  0  
-  0  0  0  0  
-
-Bid: 1593
-mus: 0 0 0 1 
-nvs: 0 3 5 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  3  0  
-  0  3  0  2  
-  0  0  2  0  
-
-Bid: 858
-mus: 0 0 0 0 
-nvs: 1 3 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  1  0  
-  0  0  0  3  
-  1  0  0  2  
-  0  3  2  0  
-
-Bid: 2017
-mus: 0 0 0 1 
-nvs: 3 3 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  1  
-  0  0  3  0  
-  2  3  0  0  
-  1  0  0  0  
-
-Bid: 764
-mus: 0 0 0 0 
-nvs: 1 1 4 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  3  
-  1  0  3  0  
-
-Bid: 1686
-mus: 0 0 0 1 
-nvs: 1 4 4 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  3  1  
-  1  3  0  0  
-  0  1  0  0  
-
-Bid: 750
+Bid: 757
 mus: 0 0 0 0 
 nvs: 0 2 4 4 
 level: 0 dim 4 maxpoly 10
@@ -6434,127 +7234,7 @@ level: 0 dim 4 maxpoly 10
   0  1  0  3  
   0  1  3  0  
 
-Bid: 1738
-mus: 0 0 0 1 
-nvs: 2 4 4 0 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  1  0  
-  1  0  3  0  
-  1  3  0  0  
-  0  0  0  0  
-
-Bid: 1596
-mus: 0 0 0 1 
-nvs: 0 4 4 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  3  1  
-  0  3  0  1  
-  0  1  1  0  
-
-Bid: 863
-mus: 0 0 0 0 
-nvs: 1 3 4 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  0  0  
-  1  0  1  1  
-  0  1  0  3  
-  0  1  3  0  
-
-Bid: 2051
-mus: 0 0 0 1 
-nvs: 3 4 4 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  1  
-  1  0  3  0  
-  1  3  0  0  
-  1  0  0  0  
-
-Bid: 772
-mus: 0 0 0 0 
-nvs: 1 2 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  2  
-  0  2  2  0  
-
-Bid: 1720
-mus: 0 0 0 1 
-nvs: 2 3 4 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  2  0  
-  0  0  2  1  
-  2  2  0  0  
-  0  1  0  0  
-
-Bid: 915
-mus: 0 0 0 0 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  1  0  
-  1  0  0  2  
-  1  0  0  2  
-  0  2  2  0  
-
-Bid: 2014
-mus: 0 0 0 1 
-nvs: 3 3 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  1  
-  0  0  2  1  
-  2  2  0  0  
-  1  1  0  0  
-
-Bid: 767
-mus: 0 0 0 0 
-nvs: 1 2 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  2  
-  1  1  2  0  
-
-Bid: 1734
-mus: 0 0 0 1 
-nvs: 2 3 4 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  1  0  
-  1  0  2  0  
-  1  2  0  1  
-  0  0  1  0  
-
-Bid: 907
-mus: 0 0 0 0 
-nvs: 2 3 3 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  1  1  
-  0  0  1  2  
-  1  1  0  1  
-  1  2  1  0  
-
-Bid: 2047
-mus: 0 0 0 1 
-nvs: 3 3 4 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  1  
-  1  0  2  0  
-  1  2  0  1  
-  1  0  1  0  
-
-Bid: 753
+Bid: 760
 mus: 0 0 0 0 
 nvs: 0 3 3 4 
 level: 0 dim 4 maxpoly 10
@@ -6564,27 +7244,37 @@ level: 0 dim 4 maxpoly 10
   0  1  0  2  
   0  2  2  0  
 
-Bid: 1744
-mus: 0 0 0 1 
-nvs: 3 3 4 0 
+Bid: 763
+mus: 0 0 0 0 
+nvs: 1 1 3 5 
 level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  2  0  
-  1  0  2  0  
-  2  2  0  0  
-  0  0  0  0  
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
 
-Bid: 1590
-mus: 0 0 0 1 
-nvs: 0 3 4 3 
+Bid: 774
+mus: 0 0 0 0 
+nvs: 1 2 2 5 
 level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  2  1  
-  0  2  0  2  
-  0  1  2  0  
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
 
-Bid: 807
+Bid: 778
+mus: 0 0 0 0 
+nvs: 2 1 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  1  1  
+  0  0  0  1  
+  1  0  0  2  
+  1  1  2  0  
+
+Bid: 818
 mus: 0 0 0 0 
 nvs: 0 1 5 6 
 level: 0 dim 4 maxpoly 12
@@ -6594,47 +7284,7 @@ level: 0 dim 4 maxpoly 12
   0  0  0  5  
   0  1  5  0  
 
-Bid: 1933
-mus: 0 0 0 1 
-nvs: 1 5 6 0 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  5  0  
-  1  5  0  0  
-  0  0  0  0  
-
-Bid: 1785
-mus: 0 0 0 1 
-nvs: 0 5 6 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  5  0  
-  0  5  0  1  
-  0  0  1  0  
-
-Bid: 827
-mus: 0 0 0 0 
-nvs: 1 1 4 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  4  
-  1  1  4  0  
-
-Bid: 1925
-mus: 0 0 0 1 
-nvs: 1 4 6 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  4  0  
-  1  4  0  1  
-  0  0  1  0  
-
-Bid: 811
+Bid: 822
 mus: 0 0 0 0 
 nvs: 0 2 4 6 
 level: 0 dim 4 maxpoly 12
@@ -6644,107 +7294,7 @@ level: 0 dim 4 maxpoly 12
   0  0  0  4  
   0  2  4  0  
 
-Bid: 2010
-mus: 0 0 0 1 
-nvs: 2 4 6 0 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  4  0  
-  2  4  0  0  
-  0  0  0  0  
-
-Bid: 1780
-mus: 0 0 0 1 
-nvs: 0 4 6 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  4  0  
-  0  4  0  2  
-  0  0  2  0  
-
-Bid: 831
-mus: 0 0 0 0 
-nvs: 1 2 3 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  3  
-  1  2  3  0  
-
-Bid: 2002
-mus: 0 0 0 1 
-nvs: 2 3 6 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  3  0  
-  2  3  0  1  
-  0  0  1  0  
-
-Bid: 1913
-mus: 0 0 0 1 
-nvs: 1 3 6 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  3  0  
-  1  3  0  2  
-  0  0  2  0  
-
-Bid: 815
-mus: 0 0 0 0 
-nvs: 0 3 3 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  0  
-  0  0  0  3  
-  0  0  0  3  
-  0  3  3  0  
-
-Bid: 2021
-mus: 0 0 0 1 
-nvs: 3 3 6 0 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  3  0  
-  0  0  3  0  
-  3  3  0  0  
-  0  0  0  0  
-
-Bid: 1774
-mus: 0 0 0 1 
-nvs: 0 3 6 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  3  0  
-  0  3  0  3  
-  0  0  3  0  
-
-Bid: 836
-mus: 0 0 0 0 
-nvs: 1 1 5 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  4  
-  1  0  4  0  
-
-Bid: 1929
-mus: 0 0 0 1 
-nvs: 1 5 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  4  1  
-  1  4  0  0  
-  0  1  0  0  
-
-Bid: 818
+Bid: 826
 mus: 0 0 0 0 
 nvs: 0 2 5 5 
 level: 0 dim 4 maxpoly 12
@@ -6754,87 +7304,17 @@ level: 0 dim 4 maxpoly 12
   0  1  0  4  
   0  1  4  0  
 
-Bid: 2042
-mus: 0 0 0 1 
-nvs: 2 5 5 0 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  4  0  
-  1  4  0  0  
-  0  0  0  0  
-
-Bid: 1783
-mus: 0 0 0 1 
-nvs: 0 5 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  4  1  
-  0  4  0  1  
-  0  1  1  0  
-
-Bid: 848
+Bid: 829
 mus: 0 0 0 0 
-nvs: 1 2 4 5 
+nvs: 0 3 3 6 
 level: 0 dim 4 maxpoly 12
 0 0 0 0
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  3  
-  0  2  3  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
 
-Bid: 2006
-mus: 0 0 0 1 
-nvs: 2 4 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  3  1  
-  2  3  0  0  
-  0  1  0  0  
-
-Bid: 1921
-mus: 0 0 0 1 
-nvs: 1 4 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  0  0  
-  1  0  3  0  
-  0  3  0  2  
-  0  0  2  0  
-
-Bid: 839
-mus: 0 0 0 0 
-nvs: 1 2 4 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  3  
-  1  1  3  0  
-
-Bid: 2038
-mus: 0 0 0 1 
-nvs: 2 4 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  3  0  
-  1  3  0  1  
-  0  0  1  0  
-
-Bid: 1917
-mus: 0 0 0 1 
-nvs: 1 4 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  3  1  
-  1  3  0  1  
-  0  1  1  0  
-
-Bid: 821
+Bid: 832
 mus: 0 0 0 0 
 nvs: 0 3 4 5 
 level: 0 dim 4 maxpoly 12
@@ -6844,27 +7324,97 @@ level: 0 dim 4 maxpoly 12
   0  1  0  3  
   0  2  3  0  
 
-Bid: 2064
-mus: 0 0 0 1 
-nvs: 3 4 5 0 
+Bid: 836
+mus: 0 0 0 0 
+nvs: 0 4 4 4 
 level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  2  0  
-  1  0  3  0  
-  2  3  0  0  
+0 0 0 0
   0  0  0  0  
+  0  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
 
-Bid: 1777
-mus: 0 0 0 1 
-nvs: 0 4 5 3 
+Bid: 838
+mus: 0 0 0 0 
+nvs: 1 1 4 6 
 level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  3  1  
-  0  3  0  2  
-  0  1  2  0  
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
 
-Bid: 925
+Bid: 842
+mus: 0 0 0 0 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  0  
+  0  0  0  1  
+  1  0  0  4  
+  0  1  4  0  
+
+Bid: 849
+mus: 0 0 0 0 
+nvs: 1 2 3 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+Bid: 854
+mus: 0 0 0 0 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+Bid: 869
+mus: 0 0 0 0 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  2  
+  1  2  2  0  
+
+Bid: 887
+mus: 0 0 0 0 
+nvs: 2 2 2 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  2  
+  2  2  2  0  
+
+Bid: 903
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+Bid: 927
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+Bid: 943
 mus: 0 0 0 0 
 nvs: 0 1 6 7 
 level: 0 dim 4 maxpoly 14
@@ -6874,17 +7424,7 @@ level: 0 dim 4 maxpoly 14
   0  0  0  6  
   0  1  6  0  
 
-Bid: 950
-mus: 0 0 0 0 
-nvs: 1 1 5 7 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  5  
-  1  1  5  0  
-
-Bid: 929
+Bid: 947
 mus: 0 0 0 0 
 nvs: 0 2 5 7 
 level: 0 dim 4 maxpoly 14
@@ -6894,37 +7434,7 @@ level: 0 dim 4 maxpoly 14
   0  0  0  5  
   0  2  5  0  
 
-Bid: 954
-mus: 0 0 0 0 
-nvs: 1 2 4 7 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  4  
-  1  2  4  0  
-
-Bid: 933
-mus: 0 0 0 0 
-nvs: 0 3 4 7 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  0  
-  0  0  0  3  
-  0  0  0  4  
-  0  3  4  0  
-
-Bid: 963
-mus: 0 0 0 0 
-nvs: 1 1 6 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  5  
-  1  0  5  0  
-
-Bid: 937
+Bid: 951
 mus: 0 0 0 0 
 nvs: 0 2 6 6 
 level: 0 dim 4 maxpoly 14
@@ -6934,17 +7444,17 @@ level: 0 dim 4 maxpoly 14
   0  1  0  5  
   0  1  5  0  
 
-Bid: 966
+Bid: 954
 mus: 0 0 0 0 
-nvs: 1 2 5 6 
+nvs: 0 3 4 7 
 level: 0 dim 4 maxpoly 14
 0 0 0 0
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  4  
-  1  1  4  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  4  
+  0  3  4  0  
 
-Bid: 940
+Bid: 958
 mus: 0 0 0 0 
 nvs: 0 3 5 6 
 level: 0 dim 4 maxpoly 14
@@ -6954,17 +7464,7 @@ level: 0 dim 4 maxpoly 14
   0  1  0  4  
   0  2  4  0  
 
-Bid: 971
-mus: 0 0 0 0 
-nvs: 1 3 4 6 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  1  2  
-  0  1  0  3  
-  1  2  3  0  
-
-Bid: 944
+Bid: 962
 mus: 0 0 0 0 
 nvs: 0 4 4 6 
 level: 0 dim 4 maxpoly 14
@@ -6974,7 +7474,7 @@ level: 0 dim 4 maxpoly 14
   0  1  0  3  
   0  3  3  0  
 
-Bid: 947
+Bid: 965
 mus: 0 0 0 0 
 nvs: 0 4 5 5 
 level: 0 dim 4 maxpoly 14
@@ -6984,7 +7484,7 @@ level: 0 dim 4 maxpoly 14
   0  2  0  3  
   0  2  3  0  
 
-Bid: 1117
+Bid: 1143
 mus: 0 0 0 0 
 nvs: 0 1 7 8 
 level: 0 dim 4 maxpoly 16
@@ -6994,17 +7494,7 @@ level: 0 dim 4 maxpoly 16
   0  0  0  7  
   0  1  7  0  
 
-Bid: 1149
-mus: 0 0 0 0 
-nvs: 1 1 6 8 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  6  
-  1  1  6  0  
-
-Bid: 1121
+Bid: 1147
 mus: 0 0 0 0 
 nvs: 0 2 6 8 
 level: 0 dim 4 maxpoly 16
@@ -7014,17 +7504,17 @@ level: 0 dim 4 maxpoly 16
   0  0  0  6  
   0  2  6  0  
 
-Bid: 1153
+Bid: 1151
 mus: 0 0 0 0 
-nvs: 1 2 5 8 
+nvs: 0 2 7 7 
 level: 0 dim 4 maxpoly 16
 0 0 0 0
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  5  
-  1  2  5  0  
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  6  
+  0  1  6  0  
 
-Bid: 1125
+Bid: 1154
 mus: 0 0 0 0 
 nvs: 0 3 5 8 
 level: 0 dim 4 maxpoly 16
@@ -7036,15 +7526,15 @@ level: 0 dim 4 maxpoly 16
 
 Bid: 1158
 mus: 0 0 0 0 
-nvs: 1 3 4 8 
+nvs: 0 3 6 7 
 level: 0 dim 4 maxpoly 16
 0 0 0 0
-  0  0  0  1  
-  0  0  0  3  
-  0  0  0  4  
-  1  3  4  0  
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  5  
+  0  2  5  0  
 
-Bid: 1129
+Bid: 1162
 mus: 0 0 0 0 
 nvs: 0 4 4 8 
 level: 0 dim 4 maxpoly 16
@@ -7054,67 +7544,7 @@ level: 0 dim 4 maxpoly 16
   0  0  0  4  
   0  4  4  0  
 
-Bid: 1163
-mus: 0 0 0 0 
-nvs: 1 1 7 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  6  
-  1  0  6  0  
-
-Bid: 1132
-mus: 0 0 0 0 
-nvs: 0 2 7 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  6  
-  0  1  6  0  
-
-Bid: 1180
-mus: 0 0 0 0 
-nvs: 1 2 6 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  0  
-  0  0  0  2  
-  1  0  0  5  
-  0  2  5  0  
-
-Bid: 1166
-mus: 0 0 0 0 
-nvs: 1 2 6 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  1  1  
-  0  1  0  5  
-  1  1  5  0  
-
-Bid: 1135
-mus: 0 0 0 0 
-nvs: 0 3 6 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  0  
-  0  0  1  2  
-  0  1  0  5  
-  0  2  5  0  
-
-Bid: 1171
-mus: 0 0 0 0 
-nvs: 1 3 5 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  1  2  
-  0  1  0  4  
-  1  2  4  0  
-
-Bid: 1139
+Bid: 1165
 mus: 0 0 0 0 
 nvs: 0 4 5 7 
 level: 0 dim 4 maxpoly 16
@@ -7124,17 +7554,7 @@ level: 0 dim 4 maxpoly 16
   0  1  0  4  
   0  3  4  0  
 
-Bid: 1185
-mus: 0 0 0 0 
-nvs: 1 3 6 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  2  1  
-  0  2  0  4  
-  1  1  4  0  
-
-Bid: 1143
+Bid: 1169
 mus: 0 0 0 0 
 nvs: 0 4 6 6 
 level: 0 dim 4 maxpoly 16
@@ -7144,17 +7564,7 @@ level: 0 dim 4 maxpoly 16
   0  2  0  4  
   0  2  4  0  
 
-Bid: 1358
-mus: 0 0 0 0 
-nvs: 2 4 5 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  1  
-  0  0  2  2  
-  1  2  0  2  
-  1  2  2  0  
-
-Bid: 1146
+Bid: 1172
 mus: 0 0 0 0 
 nvs: 0 5 5 6 
 level: 0 dim 4 maxpoly 16
@@ -7164,7 +7574,27 @@ level: 0 dim 4 maxpoly 16
   0  2  0  3  
   0  3  3  0  
 
-Bid: 1429
+Bid: 1235
+mus: 0 0 0 0 
+nvs: 4 4 1 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  3  
+  1  0  0  3  
+  0  0  0  1  
+  3  3  1  0  
+
+Bid: 1290
+mus: 0 0 0 0 
+nvs: 2 3 3 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  0  3  
+  0  0  0  3  
+  2  3  3  0  
+
+Bid: 1470
 mus: 0 0 0 1 
 nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
@@ -7174,57 +7604,17 @@ level: 0 dim 4 maxpoly 4
   0  0  0  1  
   0  1  1  0  
 
-Bid: 2103
-mus: 0 0 1 1 
-nvs: 1 1 0 2 
-level: 0 dim 4 maxpoly 4
-0 0 1 1
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  0  
-  1  1  0  0  
-
-Bid: 2440
-mus: 0 0 1 2 
-nvs: 1 1 2 0 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  0  
-  0  0  0  0  
-
-Bid: 2097
-mus: 0 0 1 1 
+Bid: 1481
+mus: 1 0 0 0 
 nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
-0 0 1 1
+1 0 0 0
   0  0  0  0  
   0  0  0  1  
   0  0  0  1  
   0  1  1  0  
 
-Bid: 2454
-mus: 0 1 1 1 
-nvs: 1 0 1 2 
-level: 0 dim 4 maxpoly 4
-0 1 1 1
-  0  0  0  1  
-  0  0  0  0  
-  0  0  0  1  
-  1  0  1  0  
-
-Bid: 2429
-mus: 0 0 1 2 
-nvs: 0 1 2 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  1  
-  0  0  1  0  
-
-Bid: 1444
+Bid: 1486
 mus: 0 0 0 1 
 nvs: 0 1 2 3 
 level: 0 dim 4 maxpoly 6
@@ -7234,27 +7624,7 @@ level: 0 dim 4 maxpoly 6
   0  0  0  2  
   0  1  2  0  
 
-Bid: 2167
-mus: 0 0 1 1 
-nvs: 1 2 0 3 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  0  
-  1  2  0  0  
-
-Bid: 2157
-mus: 0 0 1 1 
-nvs: 0 2 1 3 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  0  
-  0  0  0  2  
-  0  0  0  1  
-  0  2  1  0  
-
-Bid: 1447
+Bid: 1489
 mus: 0 0 0 1 
 nvs: 0 1 3 2 
 level: 0 dim 4 maxpoly 6
@@ -7264,27 +7634,37 @@ level: 0 dim 4 maxpoly 6
   0  1  0  2  
   0  0  2  0  
 
-Bid: 2183
-mus: 0 0 1 1 
-nvs: 1 3 0 2 
+Bid: 1499
+mus: 0 0 0 1 
+nvs: 1 1 1 3 
 level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  1  0  0  
-  1  0  0  2  
-  0  0  0  0  
-  0  2  0  0  
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
 
-Bid: 2163
-mus: 0 0 1 1 
-nvs: 0 3 1 2 
+Bid: 1518
+mus: 1 0 0 0 
+nvs: 0 1 2 3 
 level: 0 dim 4 maxpoly 6
-0 0 1 1
+1 0 0 0
   0  0  0  0  
-  0  0  1  2  
-  0  1  0  0  
-  0  2  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
 
-Bid: 1484
+Bid: 1522
+mus: 1 0 0 0 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+1 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 1526
 mus: 0 0 0 1 
 nvs: 0 1 3 4 
 level: 0 dim 4 maxpoly 8
@@ -7294,77 +7674,7 @@ level: 0 dim 4 maxpoly 8
   0  0  0  3  
   0  1  3  0  
 
-Bid: 2311
-mus: 0 0 1 1 
-nvs: 1 3 0 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
-  0  0  0  3  
-  0  0  0  0  
-  1  3  0  0  
-
-Bid: 2294
-mus: 0 0 1 1 
-nvs: 0 3 1 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  0  
-  0  0  0  3  
-  0  0  0  1  
-  0  3  1  0  
-
-Bid: 1505
-mus: 0 0 0 1 
-nvs: 1 1 2 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  2  
-  1  1  2  0  
-
-Bid: 2308
-mus: 0 0 1 1 
-nvs: 1 2 1 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  1  
-  1  2  1  0  
-
-Bid: 1487
-mus: 0 0 0 1 
-nvs: 0 2 2 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  0  0  
-  0  0  0  2  
-  0  0  0  2  
-  0  2  2  0  
-
-Bid: 2331
-mus: 0 0 1 1 
-nvs: 2 2 0 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  2  
-  0  0  0  2  
-  0  0  0  0  
-  2  2  0  0  
-
-Bid: 2292
-mus: 0 0 1 1 
-nvs: 0 2 2 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  0  
-  0  0  0  2  
-  0  0  0  2  
-  0  2  2  0  
-
-Bid: 1489
+Bid: 1529
 mus: 0 0 0 1 
 nvs: 0 1 4 3 
 level: 0 dim 4 maxpoly 8
@@ -7374,57 +7684,17 @@ level: 0 dim 4 maxpoly 8
   0  1  0  3  
   0  0  3  0  
 
-Bid: 2348
-mus: 0 0 1 1 
-nvs: 1 4 0 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  0  
-  1  0  0  3  
-  0  0  0  0  
-  0  3  0  0  
-
-Bid: 2302
-mus: 0 0 1 1 
-nvs: 0 4 1 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  0  
-  0  0  1  3  
-  0  1  0  0  
-  0  3  0  0  
-
-Bid: 2319
-mus: 0 0 1 1 
-nvs: 1 3 1 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
-  0  0  1  2  
-  0  1  0  0  
-  1  2  0  0  
-
-Bid: 1508
+Bid: 1532
 mus: 0 0 0 1 
-nvs: 1 1 3 3 
+nvs: 0 2 2 4 
 level: 0 dim 4 maxpoly 8
 0 0 0 1
-  0  0  0  1  
-  0  0  1  0  
-  0  1  0  2  
-  1  0  2  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
 
-Bid: 2345
-mus: 0 0 1 1 
-nvs: 1 3 1 3 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  0  
-  1  0  0  2  
-  0  0  0  1  
-  0  2  1  0  
-
-Bid: 1492
+Bid: 1534
 mus: 0 0 0 1 
 nvs: 0 2 3 3 
 level: 0 dim 4 maxpoly 8
@@ -7434,27 +7704,67 @@ level: 0 dim 4 maxpoly 8
   0  1  0  2  
   0  1  2  0  
 
-Bid: 2359
-mus: 0 0 1 1 
-nvs: 2 3 0 3 
+Bid: 1537
+mus: 0 0 0 1 
+nvs: 0 2 4 2 
 level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  1  
-  1  0  0  2  
+0 0 0 1
   0  0  0  0  
-  1  2  0  0  
+  0  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
 
-Bid: 2300
-mus: 0 0 1 1 
-nvs: 0 3 2 3 
+Bid: 1547
+mus: 0 0 0 1 
+nvs: 1 1 2 4 
 level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  0  
-  0  0  1  2  
-  0  1  0  1  
-  0  2  1  0  
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
 
-Bid: 1573
+Bid: 1557
+mus: 0 0 0 1 
+nvs: 1 1 4 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+Bid: 1590
+mus: 1 0 0 0 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 1609
+mus: 1 0 0 0 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 1612
+mus: 1 0 0 0 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+1 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+Bid: 1617
 mus: 0 0 0 1 
 nvs: 0 1 4 5 
 level: 0 dim 4 maxpoly 10
@@ -7464,27 +7774,7 @@ level: 0 dim 4 maxpoly 10
   0  0  0  4  
   0  1  4  0  
 
-Bid: 1603
-mus: 0 0 0 1 
-nvs: 1 1 3 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  3  
-  1  1  3  0  
-
-Bid: 1576
-mus: 0 0 0 1 
-nvs: 0 2 3 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  0  2  
-  0  0  0  3  
-  0  2  3  0  
-
-Bid: 1579
+Bid: 1620
 mus: 0 0 0 1 
 nvs: 0 1 5 4 
 level: 0 dim 4 maxpoly 10
@@ -7494,7 +7784,17 @@ level: 0 dim 4 maxpoly 10
   0  1  0  4  
   0  0  4  0  
 
-Bid: 1582
+Bid: 1623
+mus: 0 0 0 1 
+nvs: 0 2 3 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+Bid: 1626
 mus: 0 0 0 1 
 nvs: 0 2 4 4 
 level: 0 dim 4 maxpoly 10
@@ -7504,27 +7804,7 @@ level: 0 dim 4 maxpoly 10
   0  1  0  3  
   0  1  3  0  
 
-Bid: 1585
-mus: 0 0 0 1 
-nvs: 0 3 3 4 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  0  
-  0  0  1  2  
-  0  1  0  2  
-  0  2  2  0  
-
-Bid: 1655
-mus: 0 0 0 1 
-nvs: 1 1 5 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  3  
-  0  0  3  0  
-
-Bid: 1587
+Bid: 1629
 mus: 0 0 0 1 
 nvs: 0 2 5 3 
 level: 0 dim 4 maxpoly 10
@@ -7534,47 +7814,77 @@ level: 0 dim 4 maxpoly 10
   0  2  0  3  
   0  0  3  0  
 
-Bid: 1749
+Bid: 1632
 mus: 0 0 0 1 
-nvs: 0 1 5 6 
-level: 0 dim 4 maxpoly 12
+nvs: 0 3 3 4 
+level: 0 dim 4 maxpoly 10
 0 0 0 1
   0  0  0  0  
-  0  0  0  1  
-  0  0  0  5  
-  0  1  5  0  
+  0  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
 
-Bid: 1790
-mus: 0 0 0 1 
-nvs: 1 1 4 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  4  
-  1  1  4  0  
-
-Bid: 1752
-mus: 0 0 0 1 
-nvs: 0 2 4 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
+Bid: 1721
+mus: 1 0 0 0 
+nvs: 0 1 4 5 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
   0  0  0  0  
-  0  0  0  2  
-  0  0  0  4  
-  0  2  4  0  
-
-Bid: 1793
-mus: 0 0 0 1 
-nvs: 1 2 3 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
   0  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+Bid: 1779
+mus: 1 0 0 0 
+nvs: 0 2 3 5 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  0  0  
   0  0  0  2  
   0  0  0  3  
-  1  2  3  0  
+  0  2  3  0  
 
-Bid: 1755
+Bid: 1783
+mus: 1 0 0 0 
+nvs: 0 2 4 4 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+Bid: 1791
+mus: 1 0 0 0 
+nvs: 0 3 3 4 
+level: 0 dim 4 maxpoly 10
+1 0 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+Bid: 1796
+mus: 0 0 0 1 
+nvs: 0 5 1 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  5  
+  0  0  0  1  
+  0  5  1  0  
+
+Bid: 1802
+mus: 0 0 0 1 
+nvs: 0 4 2 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  4  
+  0  0  0  2  
+  0  4  2  0  
+
+Bid: 1811
 mus: 0 0 0 1 
 nvs: 0 3 3 6 
 level: 0 dim 4 maxpoly 12
@@ -7584,167 +7894,117 @@ level: 0 dim 4 maxpoly 12
   0  0  0  3  
   0  3  3  0  
 
-Bid: 1757
+Bid: 1837
 mus: 0 0 0 1 
-nvs: 0 1 6 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  5  
-  0  0  5  0  
-
-Bid: 1797
-mus: 0 0 0 1 
-nvs: 1 1 5 5 
+nvs: 1 4 1 6 
 level: 0 dim 4 maxpoly 12
 0 0 0 1
   0  0  0  1  
-  0  0  1  0  
-  0  1  0  4  
-  1  0  4  0  
+  0  0  0  4  
+  0  0  0  1  
+  1  4  1  0  
 
-Bid: 1760
-mus: 0 0 0 1 
-nvs: 0 2 5 5 
+Bid: 1847
+mus: 0 1 0 0 
+nvs: 1 4 1 6 
 level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  4  
-  0  1  4  0  
+0 1 0 0
+  0  0  0  1  
+  0  0  0  4  
+  0  0  0  1  
+  1  4  1  0  
 
-Bid: 1801
-mus: 0 0 0 1 
+Bid: 1878
+mus: 0 1 0 0 
+nvs: 1 3 2 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  1  
+  0  0  0  3  
+  0  0  0  2  
+  1  3  2  0  
+
+Bid: 1913
+mus: 0 1 0 0 
+nvs: 1 2 3 6 
+level: 0 dim 4 maxpoly 12
+0 1 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+Bid: 1928
+mus: 0 1 0 0 
 nvs: 1 2 4 5 
 level: 0 dim 4 maxpoly 12
-0 0 0 1
+0 1 0 0
   0  0  0  1  
   0  0  1  1  
   0  1  0  3  
   1  1  3  0  
 
-Bid: 1763
-mus: 0 0 0 1 
+Bid: 1947
+mus: 1 0 0 0 
+nvs: 0 1 5 6 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+Bid: 2064
+mus: 1 0 0 0 
+nvs: 0 2 4 6 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+Bid: 2068
+mus: 1 0 0 0 
+nvs: 0 2 5 5 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+Bid: 2105
+mus: 1 0 0 0 
+nvs: 0 3 3 6 
+level: 0 dim 4 maxpoly 12
+1 0 0 0
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
+
+Bid: 2116
+mus: 1 0 0 0 
 nvs: 0 3 4 5 
 level: 0 dim 4 maxpoly 12
-0 0 0 1
+1 0 0 0
   0  0  0  0  
   0  0  1  2  
   0  1  0  3  
   0  2  3  0  
 
-Bid: 1878
-mus: 0 0 0 1 
-nvs: 1 1 6 4 
+Bid: 2120
+mus: 1 0 0 0 
+nvs: 0 4 4 4 
 level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  4  
-  0  0  4  0  
-
-Bid: 1766
-mus: 0 0 0 1 
-nvs: 0 2 6 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
+1 0 0 0
   0  0  0  0  
-  0  0  2  0  
-  0  2  0  4  
-  0  0  4  0  
+  0  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
 
-Bid: 878
-mus: 0 0 0 0 
-nvs: 2 2 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  2  
-  0  0  1  1  
-  0  1  0  2  
-  2  1  2  0  
-
-Bid: 2031
-mus: 0 0 0 1 
-nvs: 2 3 5 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  0  
-  1  0  2  0  
-  1  2  0  2  
-  0  0  2  0  
-
-Bid: 844
-mus: 0 0 0 0 
-nvs: 1 3 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  1  
-  0  0  1  2  
-  0  1  0  2  
-  1  2  2  0  
-
-Bid: 2057
-mus: 0 0 0 1 
-nvs: 3 3 5 1 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  2  0  
-  1  0  2  0  
-  2  2  0  1  
-  0  0  1  0  
-
-Bid: 1901
-mus: 0 0 0 1 
-nvs: 1 3 5 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  2  1  
-  1  2  0  2  
-  0  1  2  0  
-
-Bid: 1769
-mus: 0 0 0 1 
-nvs: 0 3 5 4 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  0  
-  0  0  2  1  
-  0  2  0  3  
-  0  1  3  0  
-
-Bid: 1376
-mus: 0 0 0 0 
-nvs: 3 3 4 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  2  
-  0  0  1  2  
-  1  1  0  2  
-  2  2  2  0  
-
-Bid: 1416
-mus: 0 0 0 0 
-nvs: 3 4 4 5 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  1  1  1  
-  1  0  1  2  
-  1  1  0  2  
-  1  2  2  0  
-
-Bid: 959
-mus: 0 0 0 0 
-nvs: 1 3 3 7 
-level: 0 dim 4 maxpoly 14
-0 0 0 0
-  0  0  0  1  
-  0  0  0  3  
-  0  0  0  3  
-  1  3  3  0  
-
-Bid: 2083
+Bid: 2136
 mus: 0 0 0 2 
 nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
@@ -7754,57 +8014,37 @@ level: 0 dim 4 maxpoly 4
   0  0  0  1  
   0  1  1  0  
 
-Bid: 2435
-mus: 0 0 1 2 
-nvs: 1 1 0 2 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  0  
-  1  1  0  0  
-
-Bid: 2425
-mus: 0 0 1 2 
+Bid: 2141
+mus: 0 0 1 1 
 nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
-0 0 1 2
+0 0 1 1
   0  0  0  0  
   0  0  0  1  
   0  0  0  1  
   0  1  1  0  
 
-Bid: 2101
-mus: 0 0 1 1 
-nvs: 0 2 1 1 
+Bid: 2153
+mus: 2 0 0 0 
+nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
-0 0 1 1
+2 0 0 0
   0  0  0  0  
-  0  0  1  1  
-  0  1  0  0  
-  0  1  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
 
-Bid: 2460
-mus: 0 1 1 1 
-nvs: 2 0 1 1 
+Bid: 2156
+mus: 1 0 0 1 
+nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
-0 1 1 1
-  0  0  1  1  
+1 0 0 1
   0  0  0  0  
-  1  0  0  0  
-  1  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
 
-Bid: 2431
-mus: 0 0 1 2 
-nvs: 0 2 1 1 
-level: 0 dim 4 maxpoly 4
-0 0 1 2
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  0  
-  0  1  0  0  
-
-Bid: 2116
+Bid: 2171
 mus: 0 0 0 2 
 nvs: 0 1 2 3 
 level: 0 dim 4 maxpoly 6
@@ -7814,7 +8054,7 @@ level: 0 dim 4 maxpoly 6
   0  0  0  2  
   0  1  2  0  
 
-Bid: 2119
+Bid: 2174
 mus: 0 0 0 2 
 nvs: 0 1 3 2 
 level: 0 dim 4 maxpoly 6
@@ -7824,7 +8064,7 @@ level: 0 dim 4 maxpoly 6
   0  1  0  2  
   0  0  2  0  
 
-Bid: 2155
+Bid: 2177
 mus: 0 0 1 1 
 nvs: 0 1 2 3 
 level: 0 dim 4 maxpoly 6
@@ -7834,27 +8074,47 @@ level: 0 dim 4 maxpoly 6
   0  0  0  2  
   0  1  2  0  
 
-Bid: 2202
-mus: 0 0 0 2 
-nvs: 0 1 3 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
+Bid: 2220
+mus: 2 0 0 0 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+2 0 0 0
   0  0  0  0  
   0  0  0  1  
-  0  0  0  3  
-  0  1  3  0  
+  0  0  0  2  
+  0  1  2  0  
 
-Bid: 2223
-mus: 0 0 0 2 
-nvs: 1 1 2 4 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  1  
+Bid: 2224
+mus: 1 0 0 1 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+1 0 0 1
+  0  0  0  0  
   0  0  0  1  
   0  0  0  2  
-  1  1  2  0  
+  0  1  2  0  
 
-Bid: 2205
+Bid: 2236
+mus: 1 0 0 1 
+nvs: 0 1 3 2 
+level: 0 dim 4 maxpoly 6
+1 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+Bid: 2242
+mus: 2 0 0 0 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+2 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+Bid: 2268
 mus: 0 0 0 2 
 nvs: 0 2 2 4 
 level: 0 dim 4 maxpoly 8
@@ -7864,403 +8124,143 @@ level: 0 dim 4 maxpoly 8
   0  0  0  2  
   0  2  2  0  
 
-Bid: 2250
-mus: 0 0 0 2 
-nvs: 1 1 4 2 
+Bid: 2307
+mus: 0 2 0 0 
+nvs: 1 2 1 4 
 level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  2  
-  0  0  2  0  
-
-Bid: 2207
-mus: 0 0 0 2 
-nvs: 0 1 4 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  1  0  
-  0  1  0  3  
-  0  0  3  0  
-
-Bid: 1535
-mus: 0 0 0 1 
-nvs: 1 2 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  0  
-  0  0  1  1  
-  1  1  0  1  
-  0  1  1  0  
-
-Bid: 2364
-mus: 0 0 1 1 
-nvs: 2 3 1 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  1  
-  1  0  1  1  
-  0  1  0  0  
-  1  1  0  0  
-
-Bid: 2253
-mus: 0 0 0 2 
-nvs: 1 2 3 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  1  0  
-  0  0  1  1  
-  1  1  0  1  
-  0  1  1  0  
-
-Bid: 2210
-mus: 0 0 0 2 
-nvs: 0 2 3 3 
-level: 0 dim 4 maxpoly 8
-0 0 0 2
-  0  0  0  0  
-  0  0  1  1  
-  0  1  0  2  
-  0  1  2  0  
-
-Bid: 2306
-mus: 0 0 1 1 
-nvs: 1 1 2 4 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  0  1  
+0 2 0 0
   0  0  0  1  
   0  0  0  2  
-  1  1  2  0  
+  0  0  0  1  
+  1  2  1  0  
 
-Bid: 2290
-mus: 0 0 1 1 
+Bid: 2310
+mus: 0 1 0 1 
+nvs: 1 2 1 4 
+level: 0 dim 4 maxpoly 8
+0 1 0 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  1  
+  1  2  1  0  
+
+Bid: 2359
+mus: 2 0 0 0 
 nvs: 0 1 3 4 
 level: 0 dim 4 maxpoly 8
-0 0 1 1
+2 0 0 0
   0  0  0  0  
   0  0  0  1  
   0  0  0  3  
   0  1  3  0  
 
-Bid: 2298
-mus: 0 0 1 1 
+Bid: 2363
+mus: 1 0 0 1 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+Bid: 2381
+mus: 1 0 0 1 
+nvs: 0 1 4 3 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+Bid: 2401
+mus: 2 0 0 0 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+2 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 2404
+mus: 1 0 0 1 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+Bid: 2423
+mus: 2 0 0 0 
 nvs: 0 2 3 3 
 level: 0 dim 4 maxpoly 8
-0 0 1 1
+2 0 0 0
   0  0  0  0  
   0  0  1  1  
   0  1  0  2  
   0  1  2  0  
 
-Bid: 1532
-mus: 0 0 0 1 
-nvs: 1 1 4 2 
+Bid: 2426
+mus: 1 0 0 1 
+nvs: 0 2 3 3 
 level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  2  
-  0  0  2  0  
-
-Bid: 2354
-mus: 0 0 1 1 
-nvs: 1 4 1 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  1  0  0  
-  1  0  1  2  
-  0  1  0  0  
-  0  2  0  0  
-
-Bid: 2304
-mus: 0 0 1 1 
-nvs: 0 4 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
+1 0 0 1
   0  0  0  0  
-  0  0  2  2  
-  0  2  0  0  
-  0  2  0  0  
-
-Bid: 799
-mus: 0 0 0 0 
-nvs: 2 2 3 3 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
   0  0  1  1  
-  0  0  1  1  
-  1  1  0  1  
-  1  1  1  0  
-
-Bid: 1731
-mus: 0 0 0 1 
-nvs: 2 3 3 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  1  1  0  
-  1  0  1  1  
-  1  1  0  1  
-  0  1  1  0  
-
-Bid: 921
-mus: 0 0 0 0 
-nvs: 3 3 3 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  1  1  1  
-  1  0  1  1  
-  1  1  0  1  
-  1  1  1  0  
-
-Bid: 2045
-mus: 0 0 0 1 
-nvs: 3 3 3 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  1  1  1  
-  1  0  1  1  
-  1  1  0  1  
-  1  1  1  0  
-
-Bid: 1805
-mus: 0 0 0 1 
-nvs: 1 3 3 5 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  0  1  
-  0  0  1  2  
   0  1  0  2  
-  1  2  2  0  
+  0  1  2  0  
 
-Bid: 760
-mus: 0 0 0 0 
-nvs: 1 2 2 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 0
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  2  
-  1  2  2  0  
-
-Bid: 1717
-mus: 0 0 0 1 
-nvs: 2 2 5 1 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
+Bid: 2438
+mus: 1 0 0 1 
+nvs: 0 2 4 2 
+level: 0 dim 4 maxpoly 8
+1 0 0 1
+  0  0  0  0  
   0  0  2  0  
-  0  0  2  0  
-  2  2  0  1  
-  0  0  1  0  
-
-Bid: 1670
-mus: 0 0 0 1 
-nvs: 1 2 5 2 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  1  0  
-  0  0  2  0  
-  1  2  0  2  
+  0  2  0  2  
   0  0  2  0  
 
-Bid: 1606
-mus: 0 0 0 1 
-nvs: 1 2 2 5 
-level: 0 dim 4 maxpoly 10
-0 0 0 1
-  0  0  0  1  
-  0  0  0  2  
-  0  0  0  2  
-  1  2  2  0  
-
-Bid: 2411
-mus: 0 0 0 3 
+Bid: 2500
+mus: 3 0 0 0 
 nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
-0 0 0 3
+3 0 0 0
   0  0  0  0  
   0  0  0  1  
   0  0  0  1  
   0  1  1  0  
 
-Bid: 2453
-mus: 0 1 1 1 
+Bid: 2503
+mus: 1 0 0 2 
 nvs: 0 1 1 2 
 level: 0 dim 4 maxpoly 4
-0 1 1 1
+1 0 0 2
   0  0  0  0  
   0  0  0  1  
   0  0  0  1  
   0  1  1  0  
 
-Bid: 696
-mus: 0 0 0 0 
-nvs: 1 1 1 3 
-level: 0 dim 4 maxpoly 6
-0 0 0 0
+Bid: 2510
+mus: 2 0 0 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+2 0 0 1
+  0  0  0  0  
   0  0  0  1  
   0  0  0  1  
-  0  0  0  1  
-  1  1  1  0  
+  0  1  1  0  
 
-Bid: 1469
-mus: 0 0 0 1 
-nvs: 1 1 3 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  1  
-  0  0  1  0  
-
-Bid: 2141
-mus: 0 0 0 2 
-nvs: 1 1 3 1 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
-  0  0  1  0  
-  0  0  1  0  
-  1  1  0  1  
-  0  0  1  0  
-
-Bid: 2186
-mus: 0 0 1 1 
-nvs: 1 3 1 1 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  1  0  0  
-  1  0  1  1  
-  0  1  0  0  
-  0  1  0  0  
-
-Bid: 2129
-mus: 0 0 0 2 
-nvs: 1 1 1 3 
-level: 0 dim 4 maxpoly 6
-0 0 0 2
+Bid: 2518
+mus: 1 0 1 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+1 0 1 1
+  0  0  0  0  
   0  0  0  1  
   0  0  0  1  
-  0  0  0  1  
-  1  1  1  0  
-
-Bid: 1457
-mus: 0 0 0 1 
-nvs: 1 1 1 3 
-level: 0 dim 4 maxpoly 6
-0 0 0 1
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  1  
-  1  1  1  0  
-
-Bid: 2165
-mus: 0 0 1 1 
-nvs: 1 1 1 3 
-level: 0 dim 4 maxpoly 6
-0 0 1 1
-  0  0  0  1  
-  0  0  0  1  
-  0  0  0  1  
-  1  1  1  0  
-
-Bid: 1555
-mus: 0 0 0 1 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 0 1
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  0  
-  1  1  0  0  
-
-Bid: 2338
-mus: 0 0 1 1 
-nvs: 2 2 2 2 
-level: 0 dim 4 maxpoly 8
-0 0 1 1
-  0  0  1  1  
-  0  0  1  1  
-  1  1  0  0  
-  1  1  0  0  
-
-Bid: 875
-mus: 0 0 0 0 
-nvs: 2 2 2 6 
-level: 0 dim 4 maxpoly 12
-0 0 0 0
-  0  0  0  2  
-  0  0  0  2  
-  0  0  0  2  
-  2  2  2  0  
-
-Bid: 1991
-mus: 0 0 0 1 
-nvs: 2 2 6 2 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  2  0  
-  0  0  2  0  
-  2  2  0  2  
-  0  0  2  0  
-
-Bid: 1897
-mus: 0 0 0 1 
-nvs: 1 2 6 3 
-level: 0 dim 4 maxpoly 12
-0 0 0 1
-  0  0  1  0  
-  0  0  2  0  
-  1  2  0  3  
-  0  0  3  0  
-
-Bid: 1249
-mus: 0 0 0 0 
-nvs: 2 3 4 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  1  2  
-  0  1  0  3  
-  2  2  3  0  
-
-Bid: 1176
-mus: 0 0 0 0 
-nvs: 1 4 4 7 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  1  3  
-  0  1  0  3  
-  1  3  3  0  
-
-Bid: 1340
-mus: 0 0 0 0 
-nvs: 2 3 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  1  1  
-  0  0  1  2  
-  1  1  0  3  
-  1  2  3  0  
-
-Bid: 1190
-mus: 0 0 0 0 
-nvs: 1 4 5 6 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  1  
-  0  0  2  2  
-  0  2  0  3  
-  1  2  3  0  
-
-Bid: 1240
-mus: 0 0 0 0 
-nvs: 2 3 3 8 
-level: 0 dim 4 maxpoly 16
-0 0 0 0
-  0  0  0  2  
-  0  0  0  3  
-  0  0  0  3  
-  2  3  3  0  
+  0  1  1  0  
 
