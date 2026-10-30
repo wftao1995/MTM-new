@@ -1,0 +1,74 @@
+Tensor id: 0
+
+Tensor id: 1
+
+Tensor id: 2
+
+Tensor id: 3
+
+Tensor id: 4
+
+Tensor id: 6
+
+Tensor id: 8
+
+Tensor id: 10
+
+Tensor id: 12
+
+Tensor id: 13
+
+Tensor id: 15
+
+Tensor id: 17
+
+Tensor id: 18
+
+Tensor id: 19
+
+Tensor id: 20
+  20 0 4
+
+Tensor id: 22
+  22 0 6
+
+Tensor id: 24
+  24 5 25
+  25 5 7
+
+Tensor id: 27
+  27 0 8
+
+Tensor id: 29
+  29 5 30
+  30 7 9
+
+Tensor id: 33
+
+Tensor id: 35
+  35 0 12
+
+Tensor id: 36
+  36 0 13
+
+Tensor id: 38
+  38 1 4
+
+Tensor id: 40
+  40 0 19
+
+Tensor id: 41
+  41 0 20
+
+Tensor id: 43
+  43 0 22
+
+Tensor id: 45
+  45 0 24
+
+Tensor id: 48
+  48 4 4
+
+Tensor id: 50
+  50 0 35
+

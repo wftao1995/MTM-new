@@ -1,0 +1,3272 @@
+Tensor id: 0
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 1
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 2
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 3
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 4
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 5
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 6
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 8
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 10
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 12
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 14
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 16
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 18
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 20
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 21
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 23
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 25
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 27
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 29
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 31
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 32
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 33
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 35
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 36
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 38
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 39
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 41
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 42
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 43
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 44
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 46
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 47
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 48
+Collections size: 2
+ Collection 0 :
+  48 0 6
+ Collection 1 :
+  48 7 49
+  49 0 7
+
+Tensor id: 50
+Collections size: 2
+ Collection 0 :
+  50 0 8
+ Collection 1 :
+  50 9 51
+  51 0 9
+
+Tensor id: 52
+Collections size: 2
+ Collection 0 :
+  52 7 53
+  53 7 9
+ Collection 1 :
+  52 9 54
+  54 7 7
+
+Tensor id: 55
+Collections size: 2
+ Collection 0 :
+  55 0 10
+ Collection 1 :
+  55 11 56
+  56 0 11
+
+Tensor id: 57
+Collections size: 3
+ Collection 0 :
+  57 7 58
+  58 9 11
+ Collection 1 :
+  57 9 59
+  59 7 11
+ Collection 2 :
+  57 11 60
+  60 7 9
+
+Tensor id: 61
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 63
+Collections size: 2
+ Collection 0 :
+  63 0 12
+ Collection 1 :
+  63 13 64
+  64 0 13
+
+Tensor id: 65
+Collections size: 3
+ Collection 0 :
+  65 7 66
+  66 11 13
+ Collection 1 :
+  65 11 67
+  67 7 13
+ Collection 2 :
+  65 13 68
+  68 7 11
+
+Tensor id: 69
+Collections size: 2
+ Collection 0 :
+  69 9 70
+  70 9 13
+ Collection 1 :
+  69 13 71
+  71 9 9
+
+Tensor id: 72
+Collections size: 2
+ Collection 0 :
+  72 9 73
+  73 11 11
+ Collection 1 :
+  72 11 74
+  74 9 11
+
+Tensor id: 75
+Collections size: 2
+ Collection 0 :
+  75 0 14
+ Collection 1 :
+  75 15 76
+  76 0 15
+
+Tensor id: 77
+Collections size: 3
+ Collection 0 :
+  77 7 78
+  78 13 15
+ Collection 1 :
+  77 13 79
+  79 7 15
+ Collection 2 :
+  77 15 80
+  80 7 13
+
+Tensor id: 81
+Collections size: 3
+ Collection 0 :
+  81 9 82
+  82 11 15
+ Collection 1 :
+  81 11 83
+  83 9 15
+ Collection 2 :
+  81 15 84
+  84 9 11
+
+Tensor id: 85
+Collections size: 2
+ Collection 0 :
+  85 9 86
+  86 13 13
+ Collection 1 :
+  85 13 87
+  87 9 13
+
+Tensor id: 88
+Collections size: 2
+ Collection 0 :
+  88 11 89
+  89 11 13
+ Collection 1 :
+  88 13 90
+  90 11 11
+
+Tensor id: 91
+Collections size: 2
+ Collection 0 :
+  91 0 16
+ Collection 1 :
+  91 17 92
+  92 0 17
+
+Tensor id: 93
+Collections size: 3
+ Collection 0 :
+  93 7 94
+  94 15 17
+ Collection 1 :
+  93 15 95
+  95 7 17
+ Collection 2 :
+  93 17 96
+  96 7 15
+
+Tensor id: 97
+Collections size: 3
+ Collection 0 :
+  97 9 98
+  98 13 17
+ Collection 1 :
+  97 13 99
+  99 9 17
+ Collection 2 :
+  97 17 100
+  100 9 13
+
+Tensor id: 101
+Collections size: 2
+ Collection 0 :
+  101 11 102
+  102 11 17
+ Collection 1 :
+  101 17 103
+  103 11 11
+
+Tensor id: 104
+Collections size: 2
+ Collection 0 :
+  104 9 105
+  105 15 15
+ Collection 1 :
+  104 15 106
+  106 9 15
+
+Tensor id: 107
+Collections size: 3
+ Collection 0 :
+  107 11 108
+  108 13 15
+ Collection 1 :
+  107 13 109
+  109 11 15
+ Collection 2 :
+  107 15 110
+  110 11 13
+
+Tensor id: 111
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 113
+Collections size: 2
+ Collection 0 :
+  113 0 20
+ Collection 1 :
+  113 1 5
+
+Tensor id: 114
+Collections size: 3
+ Collection 0 :
+  49 0 7
+  114 22 49
+ Collection 1 :
+  114 0 21
+ Collection 2 :
+  114 7 115
+  115 0 22
+
+Tensor id: 116
+Collections size: 2
+ Collection 0 :
+  116 1 6
+ Collection 1 :
+  116 7 117
+  117 1 7
+
+Tensor id: 118
+Collections size: 3
+ Collection 0 :
+  51 0 9
+  118 24 51
+ Collection 1 :
+  118 0 23
+ Collection 2 :
+  118 9 119
+  119 0 24
+
+Tensor id: 120
+Collections size: 2
+ Collection 0 :
+  54 7 7
+  120 24 54
+ Collection 1 :
+  120 7 121
+  121 7 24
+
+Tensor id: 122
+Collections size: 3
+ Collection 0 :
+  53 7 9
+  122 22 53
+ Collection 1 :
+  122 7 123
+  123 9 22
+ Collection 2 :
+  122 9 124
+  124 7 22
+
+Tensor id: 125
+Collections size: 2
+ Collection 0 :
+  125 1 8
+ Collection 1 :
+  125 9 126
+  126 1 9
+
+Tensor id: 127
+Collections size: 3
+ Collection 0 :
+  56 0 11
+  127 26 56
+ Collection 1 :
+  127 0 25
+ Collection 2 :
+  127 11 128
+  128 0 26
+
+Tensor id: 129
+Collections size: 3
+ Collection 0 :
+  60 7 9
+  129 26 60
+ Collection 1 :
+  129 7 130
+  130 9 26
+ Collection 2 :
+  129 9 131
+  131 7 26
+
+Tensor id: 132
+Collections size: 3
+ Collection 0 :
+  59 7 11
+  132 24 59
+ Collection 1 :
+  132 7 133
+  133 11 24
+ Collection 2 :
+  132 11 134
+  134 7 24
+
+Tensor id: 135
+Collections size: 2
+ Collection 0 :
+  135 9 136
+  136 9 24
+ Collection 1 :
+  135 24 62
+
+Tensor id: 137
+Collections size: 3
+ Collection 0 :
+  58 9 11
+  137 22 58
+ Collection 1 :
+  137 9 138
+  138 11 22
+ Collection 2 :
+  137 11 139
+  139 9 22
+
+Tensor id: 140
+Collections size: 2
+ Collection 0 :
+  140 1 10
+ Collection 1 :
+  140 11 141
+  141 1 11
+
+Tensor id: 142
+Collections size: 3
+ Collection 0 :
+  64 0 13
+  142 28 64
+ Collection 1 :
+  142 0 27
+ Collection 2 :
+  142 13 143
+  143 0 28
+
+Tensor id: 144
+Collections size: 3
+ Collection 0 :
+  68 7 11
+  144 28 68
+ Collection 1 :
+  144 7 145
+  145 11 28
+ Collection 2 :
+  144 11 146
+  146 7 28
+
+Tensor id: 147
+Collections size: 2
+ Collection 0 :
+  71 9 9
+  147 28 71
+ Collection 1 :
+  147 9 148
+  148 9 28
+
+Tensor id: 149
+Collections size: 3
+ Collection 0 :
+  67 7 13
+  149 26 67
+ Collection 1 :
+  149 7 150
+  150 13 26
+ Collection 2 :
+  149 13 151
+  151 7 26
+
+Tensor id: 152
+Collections size: 3
+ Collection 0 :
+  74 9 11
+  152 26 74
+ Collection 1 :
+  152 9 153
+  153 11 26
+ Collection 2 :
+  152 11 154
+  154 9 26
+
+Tensor id: 155
+Collections size: 3
+ Collection 0 :
+  70 9 13
+  155 24 70
+ Collection 1 :
+  155 9 156
+  156 13 24
+ Collection 2 :
+  155 13 157
+  157 9 24
+
+Tensor id: 158
+Collections size: 2
+ Collection 0 :
+  73 11 11
+  158 24 73
+ Collection 1 :
+  158 11 159
+  159 11 24
+
+Tensor id: 160
+Collections size: 3
+ Collection 0 :
+  66 11 13
+  160 22 66
+ Collection 1 :
+  160 11 161
+  161 13 22
+ Collection 2 :
+  160 13 162
+  162 11 22
+
+Tensor id: 163
+Collections size: 2
+ Collection 0 :
+  163 1 12
+ Collection 1 :
+  163 13 164
+  164 1 13
+
+Tensor id: 165
+Collections size: 2
+ Collection 0 :
+  165 0 31
+ Collection 1 :
+  165 2 5
+
+Tensor id: 166
+Collections size: 2
+ Collection 0 :
+  166 0 32
+ Collection 1 :
+  166 1 20
+
+Tensor id: 167
+Collections size: 3
+ Collection 0 :
+  49 0 7
+  167 34 49
+ Collection 1 :
+  167 0 33
+ Collection 2 :
+  167 7 168
+  168 0 34
+
+Tensor id: 169
+Collections size: 2
+ Collection 0 :
+  169 2 6
+ Collection 1 :
+  169 7 170
+  170 2 7
+
+Tensor id: 171
+Collections size: 2
+ Collection 0 :
+  115 0 22
+  171 22 115
+ Collection 1 :
+  171 0 35
+
+Tensor id: 172
+Collections size: 3
+ Collection 0 :
+  117 1 7
+  172 22 117
+ Collection 1 :
+  172 1 21
+ Collection 2 :
+  172 7 173
+  173 1 22
+
+Tensor id: 174
+Collections size: 3
+ Collection 0 :
+  51 0 9
+  174 37 51
+ Collection 1 :
+  174 0 36
+ Collection 2 :
+  174 9 175
+  175 0 37
+
+Tensor id: 176
+Collections size: 2
+ Collection 0 :
+  54 7 7
+  176 37 54
+ Collection 1 :
+  176 7 177
+  177 7 37
+
+Tensor id: 178
+Collections size: 3
+ Collection 0 :
+  53 7 9
+  178 34 53
+ Collection 1 :
+  178 7 179
+  179 9 34
+ Collection 2 :
+  178 9 180
+  180 7 34
+
+Tensor id: 181
+Collections size: 2
+ Collection 0 :
+  181 2 8
+ Collection 1 :
+  181 9 182
+  182 2 9
+
+Tensor id: 183
+Collections size: 2
+ Collection 0 :
+  119 0 24
+  183 24 119
+ Collection 1 :
+  183 0 38
+
+Tensor id: 184
+Collections size: 3
+ Collection 0 :
+  121 7 24
+  184 22 121
+ Collection 1 :
+  124 7 22
+  184 24 124
+ Collection 2 :
+  184 7 185
+  185 22 24
+
+Tensor id: 186
+Collections size: 3
+ Collection 0 :
+  126 1 9
+  186 24 126
+ Collection 1 :
+  186 1 23
+ Collection 2 :
+  186 9 187
+  187 1 24
+
+Tensor id: 188
+Collections size: 2
+ Collection 0 :
+  123 9 22
+  188 22 123
+ Collection 1 :
+  188 9 189
+  189 22 22
+
+Tensor id: 190
+Collections size: 2
+ Collection 0 :
+  190 0 42
+ Collection 1 :
+  190 3 5
+
+Tensor id: 191
+Collections size: 3
+ Collection 0 :
+  191 0 43
+ Collection 1 :
+  191 1 31
+ Collection 2 :
+  191 2 20
+
+Tensor id: 192
+Collections size: 1
+ Collection 0 :
+
+Tensor id: 193
+Collections size: 2
+ Collection 0 :
+  193 0 47
+ Collection 1 :
+  193 5 5
+
+Tensor id: 194
+Collections size: 6
+ Collection 0 :
+  48 0 6
+  194 0 48
+ Collection 1 :
+  48 7 49
+  49 0 7
+  194 0 48
+ Collection 2 :
+  49 0 7
+  194 7 195
+  195 0 49
+ Collection 3 :
+  49 0 7
+  194 49 49
+ Collection 4 :
+  194 5 6
+ Collection 5 :
+  194 7 195
+  195 5 7
+
+Tensor id: 196
+Collections size: 6
+ Collection 0 :
+  50 0 8
+  196 0 50
+ Collection 1 :
+  50 9 51
+  51 0 9
+  196 0 50
+ Collection 2 :
+  51 0 9
+  196 9 197
+  197 0 51
+ Collection 3 :
+  51 0 9
+  196 51 51
+ Collection 4 :
+  196 5 8
+ Collection 5 :
+  196 9 197
+  197 5 9
+
+Tensor id: 198
+Collections size: 9
+ Collection 0 :
+  49 0 7
+  53 7 9
+  198 49 53
+ Collection 1 :
+  49 0 7
+  198 7 199
+  199 9 49
+ Collection 2 :
+  49 0 7
+  198 9 200
+  200 7 49
+ Collection 3 :
+  51 0 9
+  54 7 7
+  198 51 54
+ Collection 4 :
+  51 0 9
+  198 7 199
+  199 7 51
+ Collection 5 :
+  52 7 53
+  53 7 9
+  198 0 52
+ Collection 6 :
+  52 9 54
+  54 7 7
+  198 0 52
+ Collection 7 :
+  53 7 9
+  198 7 199
+  199 0 53
+ Collection 8 :
+  54 7 7
+  198 9 200
+  200 0 54
+
+Tensor id: 201
+Collections size: 4
+ Collection 0 :
+  54 7 7
+  201 7 202
+  202 7 54
+ Collection 1 :
+  54 7 7
+  201 54 54
+ Collection 2 :
+  201 6 6
+ Collection 3 :
+  201 7 202
+  202 6 7
+
+Tensor id: 203
+Collections size: 6
+ Collection 0 :
+  55 0 10
+  203 0 55
+ Collection 1 :
+  55 11 56
+  56 0 11
+  203 0 55
+ Collection 2 :
+  56 0 11
+  203 11 204
+  204 0 56
+ Collection 3 :
+  56 0 11
+  203 56 56
+ Collection 4 :
+  203 5 10
+ Collection 5 :
+  203 11 204
+  204 5 11
+
+Tensor id: 205
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  58 9 11
+  205 49 58
+ Collection 1 :
+  49 0 7
+  205 9 207
+  207 11 49
+ Collection 2 :
+  49 0 7
+  205 11 208
+  208 9 49
+ Collection 3 :
+  51 0 9
+  59 7 11
+  205 51 59
+ Collection 4 :
+  51 0 9
+  205 7 206
+  206 11 51
+ Collection 5 :
+  51 0 9
+  205 11 208
+  208 7 51
+ Collection 6 :
+  56 0 11
+  60 7 9
+  205 56 60
+ Collection 7 :
+  56 0 11
+  205 7 206
+  206 9 56
+ Collection 8 :
+  56 0 11
+  205 9 207
+  207 7 56
+ Collection 9 :
+  57 7 58
+  58 9 11
+  205 0 57
+ Collection 10 :
+  57 9 59
+  59 7 11
+  205 0 57
+ Collection 11 :
+  57 11 60
+  60 7 9
+  205 0 57
+ Collection 12 :
+  58 9 11
+  205 7 206
+  206 0 58
+ Collection 13 :
+  59 7 11
+  205 9 207
+  207 0 59
+ Collection 14 :
+  60 7 9
+  205 11 208
+  208 0 60
+
+Tensor id: 209
+Collections size: 4
+ Collection 0 :
+  51 0 9
+  209 9 210
+  210 9 51
+ Collection 1 :
+  51 0 9
+  209 51 62
+ Collection 2 :
+  209 0 61
+ Collection 3 :
+  209 9 210
+  210 0 62
+
+Tensor id: 211
+Collections size: 4
+ Collection 0 :
+  54 7 7
+  59 7 11
+  211 54 59
+ Collection 1 :
+  54 7 7
+  211 7 212
+  212 11 54
+ Collection 2 :
+  54 7 7
+  211 11 213
+  213 7 54
+ Collection 3 :
+  59 7 11
+  211 7 212
+  212 7 59
+
+Tensor id: 214
+Collections size: 9
+ Collection 0 :
+  53 7 9
+  214 7 215
+  215 9 53
+ Collection 1 :
+  53 7 9
+  214 9 216
+  216 7 53
+ Collection 2 :
+  53 7 9
+  214 53 53
+ Collection 3 :
+  54 7 7
+  214 9 216
+  216 9 54
+ Collection 4 :
+  54 7 7
+  214 54 62
+ Collection 5 :
+  60 7 9
+  214 7 215
+  215 9 60
+ Collection 6 :
+  60 7 9
+  214 9 216
+  216 7 60
+ Collection 7 :
+  60 7 9
+  214 60 60
+ Collection 8 :
+  214 7 215
+  215 7 62
+
+Tensor id: 217
+Collections size: 6
+ Collection 0 :
+  60 7 9
+  217 7 218
+  218 9 60
+ Collection 1 :
+  60 7 9
+  217 9 219
+  219 7 60
+ Collection 2 :
+  60 7 9
+  217 60 60
+ Collection 3 :
+  217 6 8
+ Collection 4 :
+  217 7 218
+  218 7 8
+ Collection 5 :
+  217 9 219
+  219 6 9
+
+Tensor id: 220
+Collections size: 6
+ Collection 0 :
+  63 0 12
+  220 0 63
+ Collection 1 :
+  63 13 64
+  64 0 13
+  220 0 63
+ Collection 2 :
+  64 0 13
+  220 13 221
+  221 0 64
+ Collection 3 :
+  64 0 13
+  220 64 64
+ Collection 4 :
+  220 5 12
+ Collection 5 :
+  220 13 221
+  221 5 13
+
+Tensor id: 222
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  66 11 13
+  222 49 66
+ Collection 1 :
+  49 0 7
+  222 11 224
+  224 13 49
+ Collection 2 :
+  49 0 7
+  222 13 225
+  225 11 49
+ Collection 3 :
+  56 0 11
+  67 7 13
+  222 56 67
+ Collection 4 :
+  56 0 11
+  222 7 223
+  223 13 56
+ Collection 5 :
+  56 0 11
+  222 13 225
+  225 7 56
+ Collection 6 :
+  64 0 13
+  68 7 11
+  222 64 68
+ Collection 7 :
+  64 0 13
+  222 7 223
+  223 11 64
+ Collection 8 :
+  64 0 13
+  222 11 224
+  224 7 64
+ Collection 9 :
+  65 7 66
+  66 11 13
+  222 0 65
+ Collection 10 :
+  65 11 67
+  67 7 13
+  222 0 65
+ Collection 11 :
+  65 13 68
+  68 7 11
+  222 0 65
+ Collection 12 :
+  66 11 13
+  222 7 223
+  223 0 66
+ Collection 13 :
+  67 7 13
+  222 11 224
+  224 0 67
+ Collection 14 :
+  68 7 11
+  222 13 225
+  225 0 68
+
+Tensor id: 226
+Collections size: 9
+ Collection 0 :
+  51 0 9
+  70 9 13
+  226 51 70
+ Collection 1 :
+  51 0 9
+  226 9 227
+  227 13 51
+ Collection 2 :
+  51 0 9
+  226 13 228
+  228 9 51
+ Collection 3 :
+  64 0 13
+  71 9 9
+  226 64 71
+ Collection 4 :
+  64 0 13
+  226 9 227
+  227 9 64
+ Collection 5 :
+  69 9 70
+  70 9 13
+  226 0 69
+ Collection 6 :
+  69 13 71
+  71 9 9
+  226 0 69
+ Collection 7 :
+  70 9 13
+  226 9 227
+  227 0 70
+ Collection 8 :
+  71 9 9
+  226 13 228
+  228 0 71
+
+Tensor id: 229
+Collections size: 9
+ Collection 0 :
+  51 0 9
+  73 11 11
+  229 51 73
+ Collection 1 :
+  51 0 9
+  229 11 231
+  231 11 51
+ Collection 2 :
+  56 0 11
+  74 9 11
+  229 56 74
+ Collection 3 :
+  56 0 11
+  229 9 230
+  230 11 56
+ Collection 4 :
+  56 0 11
+  229 11 231
+  231 9 56
+ Collection 5 :
+  72 9 73
+  73 11 11
+  229 0 72
+ Collection 6 :
+  72 11 74
+  74 9 11
+  229 0 72
+ Collection 7 :
+  73 11 11
+  229 9 230
+  230 0 73
+ Collection 8 :
+  74 9 11
+  229 11 231
+  231 0 74
+
+Tensor id: 232
+Collections size: 9
+ Collection 0 :
+  54 7 7
+  70 9 13
+  232 54 70
+ Collection 1 :
+  54 7 7
+  232 9 234
+  234 13 54
+ Collection 2 :
+  54 7 7
+  232 13 235
+  235 9 54
+ Collection 3 :
+  60 7 9
+  67 7 13
+  232 60 67
+ Collection 4 :
+  60 7 9
+  232 7 233
+  233 13 60
+ Collection 5 :
+  60 7 9
+  232 13 235
+  235 7 60
+ Collection 6 :
+  67 7 13
+  232 7 233
+  233 9 67
+ Collection 7 :
+  67 7 13
+  232 9 234
+  234 7 67
+ Collection 8 :
+  70 9 13
+  232 7 233
+  233 7 70
+
+Tensor id: 236
+Collections size: 9
+ Collection 0 :
+  54 7 7
+  73 11 11
+  236 54 73
+ Collection 1 :
+  54 7 7
+  236 11 238
+  238 11 54
+ Collection 2 :
+  59 7 11
+  236 7 237
+  237 11 59
+ Collection 3 :
+  59 7 11
+  236 11 238
+  238 7 59
+ Collection 4 :
+  59 7 11
+  236 59 59
+ Collection 5 :
+  68 7 11
+  236 7 237
+  237 11 68
+ Collection 6 :
+  68 7 11
+  236 11 238
+  238 7 68
+ Collection 7 :
+  68 7 11
+  236 68 68
+ Collection 8 :
+  73 11 11
+  236 7 237
+  237 7 73
+
+Tensor id: 239
+Collections size: 9
+ Collection 0 :
+  59 7 11
+  239 9 241
+  241 9 59
+ Collection 1 :
+  59 7 11
+  239 59 62
+ Collection 2 :
+  60 7 9
+  74 9 11
+  239 60 74
+ Collection 3 :
+  60 7 9
+  239 9 241
+  241 11 60
+ Collection 4 :
+  60 7 9
+  239 11 242
+  242 9 60
+ Collection 5 :
+  74 9 11
+  239 7 240
+  240 9 74
+ Collection 6 :
+  74 9 11
+  239 9 241
+  241 7 74
+ Collection 7 :
+  239 7 240
+  240 11 62
+ Collection 8 :
+  239 11 242
+  242 7 62
+
+Tensor id: 243
+Collections size: 15
+ Collection 0 :
+  53 7 9
+  58 9 11
+  243 53 58
+ Collection 1 :
+  53 7 9
+  243 9 245
+  245 11 53
+ Collection 2 :
+  53 7 9
+  243 11 247
+  247 9 53
+ Collection 3 :
+  58 9 11
+  243 7 244
+  244 9 58
+ Collection 4 :
+  58 9 11
+  243 9 246
+  246 7 58
+ Collection 5 :
+  60 7 9
+  74 9 11
+  243 60 74
+ Collection 6 :
+  60 7 9
+  243 9 246
+  246 11 60
+ Collection 7 :
+  60 7 9
+  243 11 247
+  247 9 60
+ Collection 8 :
+  68 7 11
+  71 9 9
+  243 68 71
+ Collection 9 :
+  68 7 11
+  243 9 245
+  245 9 68
+ Collection 10 :
+  68 7 11
+  243 9 246
+  246 9 68
+ Collection 11 :
+  71 9 9
+  243 7 244
+  244 11 71
+ Collection 12 :
+  71 9 9
+  243 11 247
+  247 7 71
+ Collection 13 :
+  74 9 11
+  243 7 244
+  244 9 74
+ Collection 14 :
+  74 9 11
+  243 9 245
+  245 7 74
+
+Tensor id: 248
+Collections size: 6
+ Collection 0 :
+  68 7 11
+  248 7 249
+  249 11 68
+ Collection 1 :
+  68 7 11
+  248 11 250
+  250 7 68
+ Collection 2 :
+  68 7 11
+  248 68 68
+ Collection 3 :
+  248 6 10
+ Collection 4 :
+  248 7 249
+  249 7 10
+ Collection 5 :
+  248 11 250
+  250 6 11
+
+Tensor id: 251
+Collections size: 4
+ Collection 0 :
+  71 9 9
+  251 9 252
+  252 9 71
+ Collection 1 :
+  71 9 9
+  251 71 71
+ Collection 2 :
+  251 8 8
+ Collection 3 :
+  251 9 252
+  252 8 9
+
+Tensor id: 253
+Collections size: 4
+ Collection 0 :
+  71 9 9
+  253 9 254
+  254 9 71
+ Collection 1 :
+  71 9 9
+  253 71 71
+ Collection 2 :
+  253 9 254
+  254 9 62
+ Collection 3 :
+  253 62 62
+
+Tensor id: 255
+Collections size: 6
+ Collection 0 :
+  75 0 14
+  255 0 75
+ Collection 1 :
+  75 15 76
+  76 0 15
+  255 0 75
+ Collection 2 :
+  76 0 15
+  255 15 256
+  256 0 76
+ Collection 3 :
+  76 0 15
+  255 76 76
+ Collection 4 :
+  255 5 14
+ Collection 5 :
+  255 15 256
+  256 5 15
+
+Tensor id: 257
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  78 13 15
+  257 49 78
+ Collection 1 :
+  49 0 7
+  257 13 259
+  259 15 49
+ Collection 2 :
+  49 0 7
+  257 15 260
+  260 13 49
+ Collection 3 :
+  64 0 13
+  79 7 15
+  257 64 79
+ Collection 4 :
+  64 0 13
+  257 7 258
+  258 15 64
+ Collection 5 :
+  64 0 13
+  257 15 260
+  260 7 64
+ Collection 6 :
+  76 0 15
+  80 7 13
+  257 76 80
+ Collection 7 :
+  76 0 15
+  257 7 258
+  258 13 76
+ Collection 8 :
+  76 0 15
+  257 13 259
+  259 7 76
+ Collection 9 :
+  77 7 78
+  78 13 15
+  257 0 77
+ Collection 10 :
+  77 13 79
+  79 7 15
+  257 0 77
+ Collection 11 :
+  77 15 80
+  80 7 13
+  257 0 77
+ Collection 12 :
+  78 13 15
+  257 7 258
+  258 0 78
+ Collection 13 :
+  79 7 15
+  257 13 259
+  259 0 79
+ Collection 14 :
+  80 7 13
+  257 15 260
+  260 0 80
+
+Tensor id: 261
+Collections size: 15
+ Collection 0 :
+  51 0 9
+  82 11 15
+  261 51 82
+ Collection 1 :
+  51 0 9
+  261 11 263
+  263 15 51
+ Collection 2 :
+  51 0 9
+  261 15 264
+  264 11 51
+ Collection 3 :
+  56 0 11
+  83 9 15
+  261 56 83
+ Collection 4 :
+  56 0 11
+  261 9 262
+  262 15 56
+ Collection 5 :
+  56 0 11
+  261 15 264
+  264 9 56
+ Collection 6 :
+  76 0 15
+  84 9 11
+  261 76 84
+ Collection 7 :
+  76 0 15
+  261 9 262
+  262 11 76
+ Collection 8 :
+  76 0 15
+  261 11 263
+  263 9 76
+ Collection 9 :
+  81 9 82
+  82 11 15
+  261 0 81
+ Collection 10 :
+  81 11 83
+  83 9 15
+  261 0 81
+ Collection 11 :
+  81 15 84
+  84 9 11
+  261 0 81
+ Collection 12 :
+  82 11 15
+  261 9 262
+  262 0 82
+ Collection 13 :
+  83 9 15
+  261 11 263
+  263 0 83
+ Collection 14 :
+  84 9 11
+  261 15 264
+  264 0 84
+
+Tensor id: 265
+Collections size: 9
+ Collection 0 :
+  51 0 9
+  86 13 13
+  265 51 86
+ Collection 1 :
+  51 0 9
+  265 13 267
+  267 13 51
+ Collection 2 :
+  64 0 13
+  87 9 13
+  265 64 87
+ Collection 3 :
+  64 0 13
+  265 9 266
+  266 13 64
+ Collection 4 :
+  64 0 13
+  265 13 267
+  267 9 64
+ Collection 5 :
+  85 9 86
+  86 13 13
+  265 0 85
+ Collection 6 :
+  85 13 87
+  87 9 13
+  265 0 85
+ Collection 7 :
+  86 13 13
+  265 9 266
+  266 0 86
+ Collection 8 :
+  87 9 13
+  265 13 267
+  267 0 87
+
+Tensor id: 268
+Collections size: 9
+ Collection 0 :
+  56 0 11
+  89 11 13
+  268 56 89
+ Collection 1 :
+  56 0 11
+  268 11 269
+  269 13 56
+ Collection 2 :
+  56 0 11
+  268 13 270
+  270 11 56
+ Collection 3 :
+  64 0 13
+  90 11 11
+  268 64 90
+ Collection 4 :
+  64 0 13
+  268 11 269
+  269 11 64
+ Collection 5 :
+  88 11 89
+  89 11 13
+  268 0 88
+ Collection 6 :
+  88 13 90
+  90 11 11
+  268 0 88
+ Collection 7 :
+  89 11 13
+  268 11 269
+  269 0 89
+ Collection 8 :
+  90 11 11
+  268 13 270
+  270 0 90
+
+Tensor id: 271
+Collections size: 9
+ Collection 0 :
+  54 7 7
+  82 11 15
+  271 54 82
+ Collection 1 :
+  54 7 7
+  271 11 273
+  273 15 54
+ Collection 2 :
+  54 7 7
+  271 15 274
+  274 11 54
+ Collection 3 :
+  68 7 11
+  79 7 15
+  271 68 79
+ Collection 4 :
+  68 7 11
+  271 7 272
+  272 15 68
+ Collection 5 :
+  68 7 11
+  271 15 274
+  274 7 68
+ Collection 6 :
+  79 7 15
+  271 7 272
+  272 11 79
+ Collection 7 :
+  79 7 15
+  271 11 273
+  273 7 79
+ Collection 8 :
+  82 11 15
+  271 7 272
+  272 7 82
+
+Tensor id: 275
+Collections size: 9
+ Collection 0 :
+  60 7 9
+  83 9 15
+  275 60 83
+ Collection 1 :
+  60 7 9
+  275 9 277
+  277 15 60
+ Collection 2 :
+  60 7 9
+  275 15 278
+  278 9 60
+ Collection 3 :
+  71 9 9
+  79 7 15
+  275 71 79
+ Collection 4 :
+  71 9 9
+  275 7 276
+  276 15 71
+ Collection 5 :
+  71 9 9
+  275 15 278
+  278 7 71
+ Collection 6 :
+  79 7 15
+  275 9 277
+  277 9 79
+ Collection 7 :
+  83 9 15
+  275 7 276
+  276 9 83
+ Collection 8 :
+  83 9 15
+  275 9 277
+  277 7 83
+
+Tensor id: 279
+Collections size: 9
+ Collection 0 :
+  54 7 7
+  86 13 13
+  279 54 86
+ Collection 1 :
+  54 7 7
+  279 13 281
+  281 13 54
+ Collection 2 :
+  67 7 13
+  279 7 280
+  280 13 67
+ Collection 3 :
+  67 7 13
+  279 13 281
+  281 7 67
+ Collection 4 :
+  67 7 13
+  279 67 67
+ Collection 5 :
+  80 7 13
+  279 7 280
+  280 13 80
+ Collection 6 :
+  80 7 13
+  279 13 281
+  281 7 80
+ Collection 7 :
+  80 7 13
+  279 80 80
+ Collection 8 :
+  86 13 13
+  279 7 280
+  280 7 86
+
+Tensor id: 282
+Collections size: 15
+ Collection 0 :
+  60 7 9
+  89 11 13
+  282 60 89
+ Collection 1 :
+  60 7 9
+  282 11 285
+  285 13 60
+ Collection 2 :
+  60 7 9
+  282 13 286
+  286 11 60
+ Collection 3 :
+  67 7 13
+  74 9 11
+  282 67 74
+ Collection 4 :
+  67 7 13
+  282 9 284
+  284 11 67
+ Collection 5 :
+  67 7 13
+  282 11 285
+  285 9 67
+ Collection 6 :
+  68 7 11
+  87 9 13
+  282 68 87
+ Collection 7 :
+  68 7 11
+  282 9 284
+  284 13 68
+ Collection 8 :
+  68 7 11
+  282 13 286
+  286 9 68
+ Collection 9 :
+  74 9 11
+  282 7 283
+  283 13 74
+ Collection 10 :
+  74 9 11
+  282 13 286
+  286 7 74
+ Collection 11 :
+  87 9 13
+  282 7 283
+  283 11 87
+ Collection 12 :
+  87 9 13
+  282 11 285
+  285 7 87
+ Collection 13 :
+  89 11 13
+  282 7 283
+  283 9 89
+ Collection 14 :
+  89 11 13
+  282 9 284
+  284 7 89
+
+Tensor id: 287
+Collections size: 15
+ Collection 0 :
+  59 7 11
+  70 9 13
+  287 59 70
+ Collection 1 :
+  59 7 11
+  287 9 289
+  289 13 59
+ Collection 2 :
+  59 7 11
+  287 13 291
+  291 9 59
+ Collection 3 :
+  60 7 9
+  89 11 13
+  287 60 89
+ Collection 4 :
+  60 7 9
+  287 11 290
+  290 13 60
+ Collection 5 :
+  60 7 9
+  287 13 291
+  291 11 60
+ Collection 6 :
+  70 9 13
+  287 7 288
+  288 11 70
+ Collection 7 :
+  70 9 13
+  287 11 290
+  290 7 70
+ Collection 8 :
+  80 7 13
+  84 9 11
+  287 80 84
+ Collection 9 :
+  80 7 13
+  287 9 289
+  289 11 80
+ Collection 10 :
+  80 7 13
+  287 11 290
+  290 9 80
+ Collection 11 :
+  84 9 11
+  287 7 288
+  288 13 84
+ Collection 12 :
+  84 9 11
+  287 13 291
+  291 7 84
+ Collection 13 :
+  89 11 13
+  287 7 288
+  288 9 89
+ Collection 14 :
+  89 11 13
+  287 9 289
+  289 7 89
+
+Tensor id: 292
+Collections size: 9
+ Collection 0 :
+  59 7 11
+  73 11 11
+  292 59 73
+ Collection 1 :
+  59 7 11
+  292 11 294
+  294 11 59
+ Collection 2 :
+  68 7 11
+  90 11 11
+  292 68 90
+ Collection 3 :
+  68 7 11
+  292 11 294
+  294 11 68
+ Collection 4 :
+  68 7 11
+  292 11 295
+  295 11 68
+ Collection 5 :
+  73 11 11
+  292 7 293
+  293 11 73
+ Collection 6 :
+  73 11 11
+  292 11 295
+  295 7 73
+ Collection 7 :
+  90 11 11
+  292 7 293
+  293 11 90
+ Collection 8 :
+  90 11 11
+  292 11 294
+  294 7 90
+
+Tensor id: 296
+Collections size: 15
+ Collection 0 :
+  53 7 9
+  66 11 13
+  296 53 66
+ Collection 1 :
+  53 7 9
+  296 11 299
+  299 13 53
+ Collection 2 :
+  53 7 9
+  296 13 300
+  300 11 53
+ Collection 3 :
+  66 11 13
+  296 7 297
+  297 9 66
+ Collection 4 :
+  66 11 13
+  296 9 298
+  298 7 66
+ Collection 5 :
+  68 7 11
+  87 9 13
+  296 68 87
+ Collection 6 :
+  68 7 11
+  296 9 298
+  298 13 68
+ Collection 7 :
+  68 7 11
+  296 13 300
+  300 9 68
+ Collection 8 :
+  80 7 13
+  84 9 11
+  296 80 84
+ Collection 9 :
+  80 7 13
+  296 9 298
+  298 11 80
+ Collection 10 :
+  80 7 13
+  296 11 299
+  299 9 80
+ Collection 11 :
+  84 9 11
+  296 7 297
+  297 13 84
+ Collection 12 :
+  84 9 11
+  296 13 300
+  300 7 84
+ Collection 13 :
+  87 9 13
+  296 7 297
+  297 11 87
+ Collection 14 :
+  87 9 13
+  296 11 299
+  299 7 87
+
+Tensor id: 301
+Collections size: 6
+ Collection 0 :
+  80 7 13
+  301 7 302
+  302 13 80
+ Collection 1 :
+  80 7 13
+  301 13 303
+  303 7 80
+ Collection 2 :
+  80 7 13
+  301 80 80
+ Collection 3 :
+  301 6 12
+ Collection 4 :
+  301 7 302
+  302 7 12
+ Collection 5 :
+  301 13 303
+  303 6 13
+
+Tensor id: 304
+Collections size: 9
+ Collection 0 :
+  70 9 13
+  304 9 306
+  306 9 70
+ Collection 1 :
+  70 9 13
+  304 62 70
+ Collection 2 :
+  71 9 9
+  87 9 13
+  304 71 87
+ Collection 3 :
+  71 9 9
+  304 9 306
+  306 13 71
+ Collection 4 :
+  71 9 9
+  304 13 307
+  307 9 71
+ Collection 5 :
+  87 9 13
+  304 9 305
+  305 9 87
+ Collection 6 :
+  87 9 13
+  304 9 306
+  306 9 87
+ Collection 7 :
+  304 9 305
+  305 13 62
+ Collection 8 :
+  304 13 307
+  307 9 62
+
+Tensor id: 308
+Collections size: 9
+ Collection 0 :
+  58 9 11
+  308 9 309
+  309 11 58
+ Collection 1 :
+  58 9 11
+  308 11 310
+  310 9 58
+ Collection 2 :
+  58 9 11
+  308 58 58
+ Collection 3 :
+  71 9 9
+  90 11 11
+  308 71 90
+ Collection 4 :
+  71 9 9
+  308 11 310
+  310 11 71
+ Collection 5 :
+  84 9 11
+  308 9 309
+  309 11 84
+ Collection 6 :
+  84 9 11
+  308 11 310
+  310 9 84
+ Collection 7 :
+  84 9 11
+  308 84 84
+ Collection 8 :
+  90 11 11
+  308 9 309
+  309 9 90
+
+Tensor id: 311
+Collections size: 6
+ Collection 0 :
+  84 9 11
+  311 9 312
+  312 11 84
+ Collection 1 :
+  84 9 11
+  311 11 313
+  313 9 84
+ Collection 2 :
+  84 9 11
+  311 84 84
+ Collection 3 :
+  311 8 10
+ Collection 4 :
+  311 9 312
+  312 9 10
+ Collection 5 :
+  311 11 313
+  313 8 11
+
+Tensor id: 314
+Collections size: 6
+ Collection 0 :
+  71 9 9
+  90 11 11
+  314 71 90
+ Collection 1 :
+  71 9 9
+  314 11 316
+  316 11 71
+ Collection 2 :
+  74 9 11
+  314 9 315
+  315 11 74
+ Collection 3 :
+  74 9 11
+  314 11 316
+  316 9 74
+ Collection 4 :
+  74 9 11
+  314 74 74
+ Collection 5 :
+  90 11 11
+  314 9 315
+  315 9 90
+
+Tensor id: 317
+Collections size: 9
+ Collection 0 :
+  73 11 11
+  317 9 318
+  318 9 73
+ Collection 1 :
+  73 11 11
+  317 62 73
+ Collection 2 :
+  74 9 11
+  317 9 318
+  318 11 74
+ Collection 3 :
+  74 9 11
+  317 11 319
+  319 9 74
+ Collection 4 :
+  74 9 11
+  317 74 74
+ Collection 5 :
+  84 9 11
+  317 9 318
+  318 11 84
+ Collection 6 :
+  84 9 11
+  317 11 319
+  319 9 84
+ Collection 7 :
+  84 9 11
+  317 84 84
+ Collection 8 :
+  317 11 319
+  319 11 62
+
+Tensor id: 320
+Collections size: 4
+ Collection 0 :
+  113 0 20
+  320 0 113
+ Collection 1 :
+  113 1 5
+  320 0 113
+ Collection 2 :
+  320 1 47
+ Collection 3 :
+  320 5 20
+
+Tensor id: 321
+Collections size: 9
+ Collection 0 :
+  49 0 7
+  114 22 49
+  321 0 114
+ Collection 1 :
+  49 0 7
+  115 0 22
+  321 49 115
+ Collection 2 :
+  49 0 7
+  195 0 49
+  321 22 195
+ Collection 3 :
+  114 0 21
+  321 0 114
+ Collection 4 :
+  114 7 115
+  115 0 22
+  321 0 114
+ Collection 5 :
+  115 0 22
+  321 7 322
+  322 0 115
+ Collection 6 :
+  195 5 7
+  321 22 195
+ Collection 7 :
+  321 5 21
+ Collection 8 :
+  321 7 322
+  322 5 22
+
+Tensor id: 323
+Collections size: 9
+ Collection 0 :
+  48 0 6
+  323 1 48
+ Collection 1 :
+  48 7 49
+  49 0 7
+  323 1 48
+ Collection 2 :
+  49 0 7
+  117 1 7
+  323 49 117
+ Collection 3 :
+  49 0 7
+  323 7 324
+  324 1 49
+ Collection 4 :
+  116 1 6
+  323 0 116
+ Collection 5 :
+  116 7 117
+  117 1 7
+  323 0 116
+ Collection 6 :
+  117 1 7
+  323 7 324
+  324 0 117
+ Collection 7 :
+  323 6 20
+ Collection 8 :
+  323 7 324
+  324 7 20
+
+Tensor id: 325
+Collections size: 9
+ Collection 0 :
+  51 0 9
+  118 24 51
+  325 0 118
+ Collection 1 :
+  51 0 9
+  119 0 24
+  325 51 119
+ Collection 2 :
+  51 0 9
+  197 0 51
+  325 24 197
+ Collection 3 :
+  118 0 23
+  325 0 118
+ Collection 4 :
+  118 9 119
+  119 0 24
+  325 0 118
+ Collection 5 :
+  119 0 24
+  325 9 326
+  326 0 119
+ Collection 6 :
+  197 5 9
+  325 24 197
+ Collection 7 :
+  325 5 23
+ Collection 8 :
+  325 9 326
+  326 5 24
+
+Tensor id: 327
+Collections size: 9
+ Collection 0 :
+  49 0 7
+  121 7 24
+  327 49 121
+ Collection 1 :
+  49 0 7
+  200 7 49
+  327 24 200
+ Collection 2 :
+  49 0 7
+  327 7 328
+  328 24 49
+ Collection 3 :
+  54 7 7
+  119 0 24
+  327 54 119
+ Collection 4 :
+  54 7 7
+  120 24 54
+  327 0 120
+ Collection 5 :
+  54 7 7
+  200 0 54
+  327 24 200
+ Collection 6 :
+  119 0 24
+  327 7 328
+  328 7 119
+ Collection 7 :
+  120 7 121
+  121 7 24
+  327 0 120
+ Collection 8 :
+  121 7 24
+  327 7 328
+  328 0 121
+
+Tensor id: 329
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  123 9 22
+  329 49 123
+ Collection 1 :
+  49 0 7
+  199 9 49
+  329 22 199
+ Collection 2 :
+  49 0 7
+  329 9 331
+  331 22 49
+ Collection 3 :
+  51 0 9
+  124 7 22
+  329 51 124
+ Collection 4 :
+  51 0 9
+  199 7 51
+  329 22 199
+ Collection 5 :
+  51 0 9
+  329 7 330
+  330 22 51
+ Collection 6 :
+  53 7 9
+  115 0 22
+  329 53 115
+ Collection 7 :
+  53 7 9
+  122 22 53
+  329 0 122
+ Collection 8 :
+  53 7 9
+  199 0 53
+  329 22 199
+ Collection 9 :
+  115 0 22
+  329 7 330
+  330 9 115
+ Collection 10 :
+  115 0 22
+  329 9 331
+  331 7 115
+ Collection 11 :
+  122 7 123
+  123 9 22
+  329 0 122
+ Collection 12 :
+  122 9 124
+  124 7 22
+  329 0 122
+ Collection 13 :
+  123 9 22
+  329 7 330
+  330 0 123
+ Collection 14 :
+  124 7 22
+  329 9 331
+  331 0 124
+
+Tensor id: 332
+Collections size: 9
+ Collection 0 :
+  50 0 8
+  332 1 50
+ Collection 1 :
+  50 9 51
+  51 0 9
+  332 1 50
+ Collection 2 :
+  51 0 9
+  126 1 9
+  332 51 126
+ Collection 3 :
+  51 0 9
+  332 9 333
+  333 1 51
+ Collection 4 :
+  125 1 8
+  332 0 125
+ Collection 5 :
+  125 9 126
+  126 1 9
+  332 0 125
+ Collection 6 :
+  126 1 9
+  332 9 333
+  333 0 126
+ Collection 7 :
+  332 8 20
+ Collection 8 :
+  332 9 333
+  333 9 20
+
+Tensor id: 334
+Collections size: 9
+ Collection 0 :
+  54 7 7
+  124 7 22
+  334 54 124
+ Collection 1 :
+  54 7 7
+  202 7 54
+  334 22 202
+ Collection 2 :
+  54 7 7
+  334 7 336
+  336 22 54
+ Collection 3 :
+  124 7 22
+  334 7 335
+  335 7 124
+ Collection 4 :
+  124 7 22
+  334 7 336
+  336 7 124
+ Collection 5 :
+  202 6 7
+  334 22 202
+ Collection 6 :
+  334 6 21
+ Collection 7 :
+  334 7 335
+  335 6 22
+ Collection 8 :
+  334 7 336
+  336 7 21
+
+Tensor id: 337
+Collections size: 9
+ Collection 0 :
+  52 7 53
+  53 7 9
+  337 1 52
+ Collection 1 :
+  52 9 54
+  54 7 7
+  337 1 52
+ Collection 2 :
+  53 7 9
+  117 1 7
+  337 53 117
+ Collection 3 :
+  53 7 9
+  337 7 338
+  338 1 53
+ Collection 4 :
+  54 7 7
+  126 1 9
+  337 54 126
+ Collection 5 :
+  54 7 7
+  337 9 339
+  339 1 54
+ Collection 6 :
+  117 1 7
+  337 7 338
+  338 9 117
+ Collection 7 :
+  117 1 7
+  337 9 339
+  339 7 117
+ Collection 8 :
+  126 1 9
+  337 7 338
+  338 7 126
+
+Tensor id: 340
+Collections size: 9
+ Collection 0 :
+  56 0 11
+  127 26 56
+  340 0 127
+ Collection 1 :
+  56 0 11
+  128 0 26
+  340 56 128
+ Collection 2 :
+  56 0 11
+  204 0 56
+  340 26 204
+ Collection 3 :
+  127 0 25
+  340 0 127
+ Collection 4 :
+  127 11 128
+  128 0 26
+  340 0 127
+ Collection 5 :
+  128 0 26
+  340 11 341
+  341 0 128
+ Collection 6 :
+  204 5 11
+  340 26 204
+ Collection 7 :
+  340 5 25
+ Collection 8 :
+  340 11 341
+  341 5 26
+
+Tensor id: 342
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  130 9 26
+  342 49 130
+ Collection 1 :
+  49 0 7
+  208 9 49
+  342 26 208
+ Collection 2 :
+  49 0 7
+  342 9 344
+  344 26 49
+ Collection 3 :
+  51 0 9
+  131 7 26
+  342 51 131
+ Collection 4 :
+  51 0 9
+  208 7 51
+  342 26 208
+ Collection 5 :
+  51 0 9
+  342 7 343
+  343 26 51
+ Collection 6 :
+  60 7 9
+  128 0 26
+  342 60 128
+ Collection 7 :
+  60 7 9
+  129 26 60
+  342 0 129
+ Collection 8 :
+  60 7 9
+  208 0 60
+  342 26 208
+ Collection 9 :
+  128 0 26
+  342 7 343
+  343 9 128
+ Collection 10 :
+  128 0 26
+  342 9 344
+  344 7 128
+ Collection 11 :
+  129 7 130
+  130 9 26
+  342 0 129
+ Collection 12 :
+  129 9 131
+  131 7 26
+  342 0 129
+ Collection 13 :
+  130 9 26
+  342 7 343
+  343 0 130
+ Collection 14 :
+  131 7 26
+  342 9 344
+  344 0 131
+
+Tensor id: 345
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  133 11 24
+  345 49 133
+ Collection 1 :
+  49 0 7
+  207 11 49
+  345 24 207
+ Collection 2 :
+  49 0 7
+  345 11 347
+  347 24 49
+ Collection 3 :
+  56 0 11
+  134 7 24
+  345 56 134
+ Collection 4 :
+  56 0 11
+  207 7 56
+  345 24 207
+ Collection 5 :
+  56 0 11
+  345 7 346
+  346 24 56
+ Collection 6 :
+  59 7 11
+  119 0 24
+  345 59 119
+ Collection 7 :
+  59 7 11
+  132 24 59
+  345 0 132
+ Collection 8 :
+  59 7 11
+  207 0 59
+  345 24 207
+ Collection 9 :
+  119 0 24
+  345 7 346
+  346 11 119
+ Collection 10 :
+  119 0 24
+  345 11 347
+  347 7 119
+ Collection 11 :
+  132 7 133
+  133 11 24
+  345 0 132
+ Collection 12 :
+  132 11 134
+  134 7 24
+  345 0 132
+ Collection 13 :
+  133 11 24
+  345 7 346
+  346 0 133
+ Collection 14 :
+  134 7 24
+  345 11 347
+  347 0 134
+
+Tensor id: 348
+Collections size: 9
+ Collection 0 :
+  51 0 9
+  136 9 24
+  348 51 136
+ Collection 1 :
+  51 0 9
+  210 9 51
+  348 24 210
+ Collection 2 :
+  51 0 9
+  348 9 349
+  349 24 51
+ Collection 3 :
+  119 0 24
+  348 9 349
+  349 9 119
+ Collection 4 :
+  119 0 24
+  348 62 119
+ Collection 5 :
+  135 9 136
+  136 9 24
+  348 0 135
+ Collection 6 :
+  135 24 62
+  348 0 135
+ Collection 7 :
+  136 9 24
+  348 9 349
+  349 0 136
+ Collection 8 :
+  210 0 62
+  348 24 210
+
+Tensor id: 350
+Collections size: 15
+ Collection 0 :
+  51 0 9
+  138 11 22
+  350 51 138
+ Collection 1 :
+  51 0 9
+  206 11 51
+  350 22 206
+ Collection 2 :
+  51 0 9
+  350 11 352
+  352 22 51
+ Collection 3 :
+  56 0 11
+  139 9 22
+  350 56 139
+ Collection 4 :
+  56 0 11
+  206 9 56
+  350 22 206
+ Collection 5 :
+  56 0 11
+  350 9 351
+  351 22 56
+ Collection 6 :
+  58 9 11
+  115 0 22
+  350 58 115
+ Collection 7 :
+  58 9 11
+  137 22 58
+  350 0 137
+ Collection 8 :
+  58 9 11
+  206 0 58
+  350 22 206
+ Collection 9 :
+  115 0 22
+  350 9 351
+  351 11 115
+ Collection 10 :
+  115 0 22
+  350 11 352
+  352 9 115
+ Collection 11 :
+  137 9 138
+  138 11 22
+  350 0 137
+ Collection 12 :
+  137 11 139
+  139 9 22
+  350 0 137
+ Collection 13 :
+  138 11 22
+  350 9 351
+  351 0 138
+ Collection 14 :
+  139 9 22
+  350 11 352
+  352 0 139
+
+Tensor id: 353
+Collections size: 9
+ Collection 0 :
+  55 0 10
+  353 1 55
+ Collection 1 :
+  55 11 56
+  56 0 11
+  353 1 55
+ Collection 2 :
+  56 0 11
+  141 1 11
+  353 56 141
+ Collection 3 :
+  56 0 11
+  353 11 354
+  354 1 56
+ Collection 4 :
+  140 1 10
+  353 0 140
+ Collection 5 :
+  140 11 141
+  141 1 11
+  353 0 140
+ Collection 6 :
+  141 1 11
+  353 11 354
+  354 0 141
+ Collection 7 :
+  353 10 20
+ Collection 8 :
+  353 11 354
+  354 11 20
+
+Tensor id: 355
+Collections size: 4
+ Collection 0 :
+  54 7 7
+  131 7 26
+  355 54 131
+ Collection 1 :
+  54 7 7
+  213 7 54
+  355 26 213
+ Collection 2 :
+  54 7 7
+  355 7 356
+  356 26 54
+ Collection 3 :
+  131 7 26
+  355 7 356
+  356 7 131
+
+Tensor id: 357
+Collections size: 15
+ Collection 0 :
+  53 7 9
+  121 7 24
+  357 53 121
+ Collection 1 :
+  53 7 9
+  216 7 53
+  357 24 216
+ Collection 2 :
+  53 7 9
+  357 7 358
+  358 24 53
+ Collection 3 :
+  54 7 7
+  136 9 24
+  357 54 136
+ Collection 4 :
+  54 7 7
+  216 9 54
+  357 24 216
+ Collection 5 :
+  54 7 7
+  357 9 360
+  360 24 54
+ Collection 6 :
+  60 7 9
+  134 7 24
+  357 60 134
+ Collection 7 :
+  60 7 9
+  216 7 60
+  357 24 216
+ Collection 8 :
+  60 7 9
+  357 7 359
+  359 24 60
+ Collection 9 :
+  121 7 24
+  357 7 359
+  359 9 121
+ Collection 10 :
+  121 7 24
+  357 9 360
+  360 7 121
+ Collection 11 :
+  134 7 24
+  357 7 358
+  358 9 134
+ Collection 12 :
+  134 7 24
+  357 9 360
+  360 7 134
+ Collection 13 :
+  136 9 24
+  357 7 358
+  358 7 136
+ Collection 14 :
+  136 9 24
+  357 7 359
+  359 7 136
+
+Tensor id: 361
+Collections size: 9
+ Collection 0 :
+  60 7 9
+  139 9 22
+  361 60 139
+ Collection 1 :
+  60 7 9
+  218 9 60
+  361 22 218
+ Collection 2 :
+  60 7 9
+  361 9 363
+  363 22 60
+ Collection 3 :
+  139 9 22
+  361 7 362
+  362 9 139
+ Collection 4 :
+  139 9 22
+  361 9 363
+  363 7 139
+ Collection 5 :
+  218 7 8
+  361 22 218
+ Collection 6 :
+  361 7 362
+  362 8 22
+ Collection 7 :
+  361 8 21
+ Collection 8 :
+  361 9 363
+  363 9 21
+
+Tensor id: 364
+Collections size: 9
+ Collection 0 :
+  60 7 9
+  134 7 24
+  364 60 134
+ Collection 1 :
+  60 7 9
+  219 7 60
+  364 24 219
+ Collection 2 :
+  60 7 9
+  364 7 365
+  365 24 60
+ Collection 3 :
+  134 7 24
+  364 7 365
+  365 9 134
+ Collection 4 :
+  134 7 24
+  364 9 366
+  366 7 134
+ Collection 5 :
+  219 6 9
+  364 24 219
+ Collection 6 :
+  364 6 23
+ Collection 7 :
+  364 7 365
+  365 7 23
+ Collection 8 :
+  364 9 366
+  366 6 24
+
+Tensor id: 367
+Collections size: 9
+ Collection 0 :
+  54 7 7
+  138 11 22
+  367 54 138
+ Collection 1 :
+  54 7 7
+  212 11 54
+  367 22 212
+ Collection 2 :
+  54 7 7
+  367 11 369
+  369 22 54
+ Collection 3 :
+  59 7 11
+  124 7 22
+  367 59 124
+ Collection 4 :
+  59 7 11
+  212 7 59
+  367 22 212
+ Collection 5 :
+  59 7 11
+  367 7 368
+  368 22 59
+ Collection 6 :
+  124 7 22
+  367 7 368
+  368 11 124
+ Collection 7 :
+  124 7 22
+  367 11 369
+  369 7 124
+ Collection 8 :
+  138 11 22
+  367 7 368
+  368 7 138
+
+Tensor id: 370
+Collections size: 15
+ Collection 0 :
+  53 7 9
+  123 9 22
+  370 53 123
+ Collection 1 :
+  53 7 9
+  215 9 53
+  370 22 215
+ Collection 2 :
+  53 7 9
+  370 9 372
+  372 22 53
+ Collection 3 :
+  60 7 9
+  139 9 22
+  370 60 139
+ Collection 4 :
+  60 7 9
+  215 9 60
+  370 22 215
+ Collection 5 :
+  60 7 9
+  370 9 373
+  373 22 60
+ Collection 6 :
+  123 9 22
+  370 7 371
+  371 9 123
+ Collection 7 :
+  123 9 22
+  370 9 373
+  373 7 123
+ Collection 8 :
+  124 7 22
+  370 9 372
+  372 9 124
+ Collection 9 :
+  124 7 22
+  370 9 373
+  373 9 124
+ Collection 10 :
+  124 7 22
+  370 62 124
+ Collection 11 :
+  139 9 22
+  370 7 371
+  371 9 139
+ Collection 12 :
+  139 9 22
+  370 9 372
+  372 7 139
+ Collection 13 :
+  215 7 62
+  370 22 215
+ Collection 14 :
+  370 7 371
+  371 22 62
+
+Tensor id: 374
+Collections size: 15
+ Collection 0 :
+  57 7 58
+  58 9 11
+  374 1 57
+ Collection 1 :
+  57 9 59
+  59 7 11
+  374 1 57
+ Collection 2 :
+  57 11 60
+  60 7 9
+  374 1 57
+ Collection 3 :
+  58 9 11
+  117 1 7
+  374 58 117
+ Collection 4 :
+  58 9 11
+  374 7 375
+  375 1 58
+ Collection 5 :
+  59 7 11
+  126 1 9
+  374 59 126
+ Collection 6 :
+  59 7 11
+  374 9 376
+  376 1 59
+ Collection 7 :
+  60 7 9
+  141 1 11
+  374 60 141
+ Collection 8 :
+  60 7 9
+  374 11 377
+  377 1 60
+ Collection 9 :
+  117 1 7
+  374 9 376
+  376 11 117
+ Collection 10 :
+  117 1 7
+  374 11 377
+  377 9 117
+ Collection 11 :
+  126 1 9
+  374 7 375
+  375 11 126
+ Collection 12 :
+  126 1 9
+  374 11 377
+  377 7 126
+ Collection 13 :
+  141 1 11
+  374 7 375
+  375 9 141
+ Collection 14 :
+  141 1 11
+  374 9 376
+  376 7 141
+
+Tensor id: 378
+Collections size: 4
+ Collection 0 :
+  126 1 9
+  378 9 379
+  379 9 126
+ Collection 1 :
+  126 1 9
+  378 62 126
+ Collection 2 :
+  378 1 61
+ Collection 3 :
+  378 9 379
+  379 1 62
+
+Tensor id: 380
+Collections size: 4
+ Collection 0 :
+  165 0 31
+  380 0 165
+ Collection 1 :
+  165 2 5
+  380 0 165
+ Collection 2 :
+  380 2 47
+ Collection 3 :
+  380 5 31
+
+Tensor id: 381
+Collections size: 6
+ Collection 0 :
+  113 0 20
+  381 1 113
+ Collection 1 :
+  113 1 5
+  381 1 113
+ Collection 2 :
+  166 0 32
+  381 0 166
+ Collection 3 :
+  166 1 20
+  381 0 166
+ Collection 4 :
+  381 5 32
+ Collection 5 :
+  381 20 20
+
+Tensor id: 382
+Collections size: 9
+ Collection 0 :
+  49 0 7
+  167 34 49
+  382 0 167
+ Collection 1 :
+  49 0 7
+  168 0 34
+  382 49 168
+ Collection 2 :
+  49 0 7
+  195 0 49
+  382 34 195
+ Collection 3 :
+  167 0 33
+  382 0 167
+ Collection 4 :
+  167 7 168
+  168 0 34
+  382 0 167
+ Collection 5 :
+  168 0 34
+  382 7 383
+  383 0 168
+ Collection 6 :
+  195 5 7
+  382 34 195
+ Collection 7 :
+  382 5 33
+ Collection 8 :
+  382 7 383
+  383 5 34
+
+Tensor id: 384
+Collections size: 9
+ Collection 0 :
+  48 0 6
+  384 2 48
+ Collection 1 :
+  48 7 49
+  49 0 7
+  384 2 48
+ Collection 2 :
+  49 0 7
+  170 2 7
+  384 49 170
+ Collection 3 :
+  49 0 7
+  384 7 385
+  385 2 49
+ Collection 4 :
+  169 2 6
+  384 0 169
+ Collection 5 :
+  169 7 170
+  170 2 7
+  384 0 169
+ Collection 6 :
+  170 2 7
+  384 7 385
+  385 0 170
+ Collection 7 :
+  384 6 31
+ Collection 8 :
+  384 7 385
+  385 7 31
+
+Tensor id: 386
+Collections size: 6
+ Collection 0 :
+  115 0 22
+  171 22 115
+  386 0 171
+ Collection 1 :
+  115 0 22
+  322 0 115
+  386 22 322
+ Collection 2 :
+  115 0 22
+  386 115 115
+ Collection 3 :
+  171 0 35
+  386 0 171
+ Collection 4 :
+  322 5 22
+  386 22 322
+ Collection 5 :
+  386 5 35
+
+Tensor id: 387
+Collections size: 15
+ Collection 0 :
+  49 0 7
+  114 22 49
+  387 1 114
+ Collection 1 :
+  49 0 7
+  173 1 22
+  387 49 173
+ Collection 2 :
+  49 0 7
+  324 1 49
+  387 22 324
+ Collection 3 :
+  114 0 21
+  387 1 114
+ Collection 4 :
+  114 7 115
+  115 0 22
+  387 1 114
+ Collection 5 :
+  115 0 22
+  117 1 7
+  387 115 117
+ Collection 6 :
+  115 0 22
+  387 7 388
+  388 1 115
+ Collection 7 :
+  117 1 7
+  172 22 117
+  387 0 172
+ Collection 8 :
+  117 1 7
+  324 0 117
+  387 22 324
+ Collection 9 :
+  172 1 21
+  387 0 172
+ Collection 10 :
+  172 7 173
+  173 1 22
+  387 0 172
+ Collection 11 :
+  173 1 22
+  387 7 388
+  388 0 173
+ Collection 12 :
+  324 7 20
+  387 22 324
+ Collection 13 :
+  387 7 388
+  388 20 22
+ Collection 14 :
+  387 20 21
+
+Tensor id: 389
+Collections size: 6
+ Collection 0 :
+  116 1 6
+  389 1 116
+ Collection 1 :
+  116 7 117
+  117 1 7
+  389 1 116
+ Collection 2 :
+  117 1 7
+  389 7 390
+  390 1 117
+ Collection 3 :
+  117 1 7
+  389 117 117
+ Collection 4 :
+  389 6 32
+ Collection 5 :
+  389 7 390
+  390 7 32
+

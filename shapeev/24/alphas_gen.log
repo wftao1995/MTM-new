@@ -1,0 +1,9994 @@
+Tensor id: 0
+Bid: 0
+mus: 0 
+nvs: 0 
+level: 0 dim 1 maxpoly 0
+0
+  0  
+
+
+Tensor id: 1
+Bid: 1
+mus: 1 
+nvs: 0 
+level: 0 dim 1 maxpoly 0
+1
+  0  
+
+
+Tensor id: 2
+Bid: 2
+mus: 2 
+nvs: 0 
+level: 0 dim 1 maxpoly 0
+2
+  0  
+
+
+Tensor id: 3
+Bid: 3
+mus: 3 
+nvs: 0 
+level: 0 dim 1 maxpoly 0
+3
+  0  
+
+
+Tensor id: 4
+Bid: 4
+mus: 4 
+nvs: 0 
+level: 0 dim 1 maxpoly 0
+4
+  0  
+
+
+Tensor id: 5
+Bid: 5
+mus: 5 
+nvs: 0 
+level: 0 dim 1 maxpoly 0
+5
+  0  
+
+
+Tensor id: 6
+Bid: 6
+mus: 0 0 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+0 0
+  0  0  
+  0  0  
+
+
+Tensor id: 7
+Bid: 7
+mus: 0 0 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 0
+  0  1  
+  1  0  
+
+
+Tensor id: 9
+Bid: 9
+mus: 0 0 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+0 0
+  0  2  
+  2  0  
+
+
+Tensor id: 11
+Bid: 11
+mus: 0 0 
+nvs: 3 3 
+level: 0 dim 2 maxpoly 6
+0 0
+  0  3  
+  3  0  
+
+
+Tensor id: 13
+Bid: 13
+mus: 0 0 
+nvs: 4 4 
+level: 0 dim 2 maxpoly 8
+0 0
+  0  4  
+  4  0  
+
+
+Tensor id: 15
+Bid: 15
+mus: 0 0 
+nvs: 5 5 
+level: 0 dim 2 maxpoly 10
+0 0
+  0  5  
+  5  0  
+
+
+Tensor id: 17
+Bid: 17
+mus: 0 0 
+nvs: 6 6 
+level: 0 dim 2 maxpoly 12
+0 0
+  0  6  
+  6  0  
+
+
+Tensor id: 19
+Bid: 19
+mus: 0 0 
+nvs: 7 7 
+level: 0 dim 2 maxpoly 14
+0 0
+  0  7  
+  7  0  
+
+
+Tensor id: 21
+Bid: 21
+mus: 0 0 
+nvs: 8 8 
+level: 0 dim 2 maxpoly 16
+0 0
+  0  8  
+  8  0  
+
+
+Tensor id: 23
+Bid: 23
+mus: 0 0 
+nvs: 9 9 
+level: 0 dim 2 maxpoly 18
+0 0
+  0  9  
+  9  0  
+
+
+Tensor id: 25
+Bid: 25
+mus: 0 0 
+nvs: 10 10 
+level: 0 dim 2 maxpoly 20
+0 0
+  0  10  
+  10  0  
+
+
+Tensor id: 27
+Bid: 27
+mus: 0 1 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+0 1
+  0  0  
+  0  0  
+
+
+Tensor id: 28
+Bid: 28
+mus: 0 1 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 1
+  0  1  
+  1  0  
+
+
+Tensor id: 30
+Bid: 30
+mus: 0 1 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+0 1
+  0  2  
+  2  0  
+
+
+Tensor id: 32
+Bid: 32
+mus: 0 1 
+nvs: 3 3 
+level: 0 dim 2 maxpoly 6
+0 1
+  0  3  
+  3  0  
+
+
+Tensor id: 34
+Bid: 34
+mus: 0 1 
+nvs: 4 4 
+level: 0 dim 2 maxpoly 8
+0 1
+  0  4  
+  4  0  
+
+
+Tensor id: 36
+Bid: 36
+mus: 0 1 
+nvs: 5 5 
+level: 0 dim 2 maxpoly 10
+0 1
+  0  5  
+  5  0  
+
+
+Tensor id: 38
+Bid: 38
+mus: 0 1 
+nvs: 6 6 
+level: 0 dim 2 maxpoly 12
+0 1
+  0  6  
+  6  0  
+
+
+Tensor id: 40
+Bid: 40
+mus: 0 1 
+nvs: 7 7 
+level: 0 dim 2 maxpoly 14
+0 1
+  0  7  
+  7  0  
+
+
+Tensor id: 42
+Bid: 42
+mus: 0 1 
+nvs: 8 8 
+level: 0 dim 2 maxpoly 16
+0 1
+  0  8  
+  8  0  
+
+
+Tensor id: 44
+Bid: 44
+mus: 0 2 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+0 2
+  0  0  
+  0  0  
+
+
+Tensor id: 45
+Bid: 45
+mus: 1 1 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+1 1
+  0  0  
+  0  0  
+
+
+Tensor id: 46
+Bid: 46
+mus: 0 2 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 2
+  0  1  
+  1  0  
+
+
+Tensor id: 48
+Bid: 48
+mus: 1 1 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+1 1
+  0  1  
+  1  0  
+
+
+Tensor id: 49
+Bid: 49
+mus: 0 2 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+0 2
+  0  2  
+  2  0  
+
+
+Tensor id: 51
+Bid: 51
+mus: 1 1 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+1 1
+  0  2  
+  2  0  
+
+
+Tensor id: 52
+Bid: 52
+mus: 0 2 
+nvs: 3 3 
+level: 0 dim 2 maxpoly 6
+0 2
+  0  3  
+  3  0  
+
+
+Tensor id: 54
+Bid: 54
+mus: 1 1 
+nvs: 3 3 
+level: 0 dim 2 maxpoly 6
+1 1
+  0  3  
+  3  0  
+
+
+Tensor id: 55
+Bid: 55
+mus: 0 2 
+nvs: 4 4 
+level: 0 dim 2 maxpoly 8
+0 2
+  0  4  
+  4  0  
+
+
+Tensor id: 57
+Bid: 57
+mus: 1 1 
+nvs: 4 4 
+level: 0 dim 2 maxpoly 8
+1 1
+  0  4  
+  4  0  
+
+
+Tensor id: 58
+Bid: 58
+mus: 0 2 
+nvs: 5 5 
+level: 0 dim 2 maxpoly 10
+0 2
+  0  5  
+  5  0  
+
+
+Tensor id: 60
+Bid: 60
+mus: 1 1 
+nvs: 5 5 
+level: 0 dim 2 maxpoly 10
+1 1
+  0  5  
+  5  0  
+
+
+Tensor id: 61
+Bid: 61
+mus: 0 2 
+nvs: 6 6 
+level: 0 dim 2 maxpoly 12
+0 2
+  0  6  
+  6  0  
+
+
+Tensor id: 63
+Bid: 63
+mus: 1 1 
+nvs: 6 6 
+level: 0 dim 2 maxpoly 12
+1 1
+  0  6  
+  6  0  
+
+
+Tensor id: 64
+Bid: 64
+mus: 0 3 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+0 3
+  0  0  
+  0  0  
+
+
+Tensor id: 65
+Bid: 65
+mus: 1 2 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+1 2
+  0  0  
+  0  0  
+
+
+Tensor id: 66
+Bid: 66
+mus: 0 3 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 3
+  0  1  
+  1  0  
+
+
+Tensor id: 68
+Bid: 68
+mus: 1 2 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+1 2
+  0  1  
+  1  0  
+
+
+Tensor id: 69
+Bid: 69
+mus: 0 3 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+0 3
+  0  2  
+  2  0  
+
+
+Tensor id: 71
+Bid: 71
+mus: 1 2 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+1 2
+  0  2  
+  2  0  
+
+
+Tensor id: 72
+Bid: 72
+mus: 0 3 
+nvs: 3 3 
+level: 0 dim 2 maxpoly 6
+0 3
+  0  3  
+  3  0  
+
+
+Tensor id: 74
+Bid: 74
+mus: 1 2 
+nvs: 3 3 
+level: 0 dim 2 maxpoly 6
+1 2
+  0  3  
+  3  0  
+
+
+Tensor id: 75
+Bid: 75
+mus: 0 3 
+nvs: 4 4 
+level: 0 dim 2 maxpoly 8
+0 3
+  0  4  
+  4  0  
+
+
+Tensor id: 77
+Bid: 77
+mus: 1 2 
+nvs: 4 4 
+level: 0 dim 2 maxpoly 8
+1 2
+  0  4  
+  4  0  
+
+
+Tensor id: 78
+Bid: 78
+mus: 0 4 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+0 4
+  0  0  
+  0  0  
+
+
+Tensor id: 79
+Bid: 79
+mus: 1 3 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+1 3
+  0  0  
+  0  0  
+
+
+Tensor id: 80
+Bid: 80
+mus: 2 2 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+2 2
+  0  0  
+  0  0  
+
+
+Tensor id: 81
+Bid: 81
+mus: 0 4 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 4
+  0  1  
+  1  0  
+
+
+Tensor id: 83
+Bid: 83
+mus: 1 3 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+1 3
+  0  1  
+  1  0  
+
+
+Tensor id: 84
+Bid: 84
+mus: 2 2 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+2 2
+  0  1  
+  1  0  
+
+
+Tensor id: 85
+Bid: 85
+mus: 0 4 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+0 4
+  0  2  
+  2  0  
+
+
+Tensor id: 87
+Bid: 87
+mus: 1 3 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+1 3
+  0  2  
+  2  0  
+
+
+Tensor id: 88
+Bid: 88
+mus: 2 2 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+2 2
+  0  2  
+  2  0  
+
+
+Tensor id: 89
+Bid: 89
+mus: 0 5 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+0 5
+  0  0  
+  0  0  
+
+
+Tensor id: 90
+Bid: 90
+mus: 1 4 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+1 4
+  0  0  
+  0  0  
+
+
+Tensor id: 91
+Bid: 91
+mus: 2 3 
+nvs: 0 0 
+level: 0 dim 2 maxpoly 0
+2 3
+  0  0  
+  0  0  
+
+
+Tensor id: 92
+Bid: 92
+mus: 0 0 0 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 0 0
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 93
+Bid: 93
+mus: 0 0 0 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 0 0
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 95
+Bid: 95
+mus: 0 0 0 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+0 0 0
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 97
+Bid: 97
+mus: 0 0 0 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 0 0
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 100
+Bid: 100
+mus: 0 0 0 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+0 0 0
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 102
+Bid: 102
+mus: 0 0 0 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+0 0 0
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 106
+Bid: 106
+mus: 0 0 0 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 0 0
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 108
+Bid: 108
+mus: 0 0 0 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+0 0 0
+  0  0  0  
+  0  0  4  
+  0  4  0  
+
+
+Tensor id: 110
+Bid: 110
+mus: 0 0 0 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+0 0 0
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+
+Tensor id: 114
+Bid: 114
+mus: 0 0 0 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+0 0 0
+  0  0  2  
+  0  0  2  
+  2  2  0  
+
+
+Tensor id: 117
+Bid: 117
+mus: 0 0 0 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+0 0 0
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+
+Tensor id: 120
+Bid: 120
+mus: 0 0 0 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+0 0 0
+  0  0  0  
+  0  0  5  
+  0  5  0  
+
+
+Tensor id: 122
+Bid: 122
+mus: 0 0 0 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+0 0 0
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+
+Tensor id: 126
+Bid: 126
+mus: 0 0 0 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+0 0 0
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+
+Tensor id: 130
+Bid: 130
+mus: 0 0 0 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+0 0 0
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+
+Tensor id: 133
+Bid: 133
+mus: 0 0 0 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+0 0 0
+  0  1  2  
+  1  0  2  
+  2  2  0  
+
+
+Tensor id: 136
+Bid: 136
+mus: 0 0 0 
+nvs: 0 6 6 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  0  0  
+  0  0  6  
+  0  6  0  
+
+
+Tensor id: 138
+Bid: 138
+mus: 0 0 0 
+nvs: 1 5 6 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  0  1  
+  0  0  5  
+  1  5  0  
+
+
+Tensor id: 142
+Bid: 142
+mus: 0 0 0 
+nvs: 2 4 6 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  0  2  
+  0  0  4  
+  2  4  0  
+
+
+Tensor id: 146
+Bid: 146
+mus: 0 0 0 
+nvs: 3 3 6 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  0  3  
+  0  0  3  
+  3  3  0  
+
+
+Tensor id: 149
+Bid: 149
+mus: 0 0 0 
+nvs: 2 5 5 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  1  1  
+  1  0  4  
+  1  4  0  
+
+
+Tensor id: 152
+Bid: 152
+mus: 0 0 0 
+nvs: 3 4 5 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  1  2  
+  1  0  3  
+  2  3  0  
+
+
+Tensor id: 156
+Bid: 156
+mus: 0 0 0 
+nvs: 4 4 4 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  2  2  
+  2  0  2  
+  2  2  0  
+
+
+Tensor id: 158
+Bid: 158
+mus: 0 0 0 
+nvs: 0 7 7 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  0  0  
+  0  0  7  
+  0  7  0  
+
+
+Tensor id: 160
+Bid: 160
+mus: 0 0 0 
+nvs: 1 6 7 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  0  1  
+  0  0  6  
+  1  6  0  
+
+
+Tensor id: 164
+Bid: 164
+mus: 0 0 0 
+nvs: 2 5 7 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  0  2  
+  0  0  5  
+  2  5  0  
+
+
+Tensor id: 168
+Bid: 168
+mus: 0 0 0 
+nvs: 3 4 7 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  0  3  
+  0  0  4  
+  3  4  0  
+
+
+Tensor id: 172
+Bid: 172
+mus: 0 0 0 
+nvs: 2 6 6 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  1  1  
+  1  0  5  
+  1  5  0  
+
+
+Tensor id: 175
+Bid: 175
+mus: 0 0 0 
+nvs: 3 5 6 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  1  2  
+  1  0  4  
+  2  4  0  
+
+
+Tensor id: 179
+Bid: 179
+mus: 0 0 0 
+nvs: 4 4 6 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  1  3  
+  1  0  3  
+  3  3  0  
+
+
+Tensor id: 182
+Bid: 182
+mus: 0 0 0 
+nvs: 4 5 5 
+level: 0 dim 3 maxpoly 14
+0 0 0
+  0  2  2  
+  2  0  3  
+  2  3  0  
+
+
+Tensor id: 185
+Bid: 185
+mus: 0 0 0 
+nvs: 0 8 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  0  
+  0  0  8  
+  0  8  0  
+
+
+Tensor id: 187
+Bid: 187
+mus: 0 0 0 
+nvs: 1 7 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  1  
+  0  0  7  
+  1  7  0  
+
+
+Tensor id: 191
+Bid: 191
+mus: 0 0 0 
+nvs: 2 6 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  2  
+  0  0  6  
+  2  6  0  
+
+
+Tensor id: 195
+Bid: 195
+mus: 0 0 0 
+nvs: 3 5 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  3  
+  0  0  5  
+  3  5  0  
+
+
+Tensor id: 199
+Bid: 199
+mus: 0 0 0 
+nvs: 4 4 8 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  0  4  
+  0  0  4  
+  4  4  0  
+
+
+Tensor id: 202
+Bid: 202
+mus: 0 0 0 
+nvs: 2 7 7 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  1  1  
+  1  0  6  
+  1  6  0  
+
+
+Tensor id: 205
+Bid: 205
+mus: 0 0 0 
+nvs: 3 6 7 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  1  2  
+  1  0  5  
+  2  5  0  
+
+
+Tensor id: 209
+Bid: 209
+mus: 0 0 0 
+nvs: 4 5 7 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  1  3  
+  1  0  4  
+  3  4  0  
+
+
+Tensor id: 213
+Bid: 213
+mus: 0 0 0 
+nvs: 4 6 6 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  2  2  
+  2  0  4  
+  2  4  0  
+
+
+Tensor id: 216
+Bid: 216
+mus: 0 0 0 
+nvs: 5 5 6 
+level: 0 dim 3 maxpoly 16
+0 0 0
+  0  2  3  
+  2  0  3  
+  3  3  0  
+
+
+Tensor id: 219
+Bid: 219
+mus: 0 0 0 
+nvs: 0 9 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  0  
+  0  0  9  
+  0  9  0  
+
+
+Tensor id: 221
+Bid: 221
+mus: 0 0 0 
+nvs: 1 8 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  1  
+  0  0  8  
+  1  8  0  
+
+
+Tensor id: 225
+Bid: 225
+mus: 0 0 0 
+nvs: 2 7 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  2  
+  0  0  7  
+  2  7  0  
+
+
+Tensor id: 229
+Bid: 229
+mus: 0 0 0 
+nvs: 3 6 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  3  
+  0  0  6  
+  3  6  0  
+
+
+Tensor id: 233
+Bid: 233
+mus: 0 0 0 
+nvs: 4 5 9 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  0  4  
+  0  0  5  
+  4  5  0  
+
+
+Tensor id: 237
+Bid: 237
+mus: 0 0 0 
+nvs: 2 8 8 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  1  1  
+  1  0  7  
+  1  7  0  
+
+
+Tensor id: 240
+Bid: 240
+mus: 0 0 0 
+nvs: 3 7 8 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  1  2  
+  1  0  6  
+  2  6  0  
+
+
+Tensor id: 244
+Bid: 244
+mus: 0 0 0 
+nvs: 4 6 8 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  1  3  
+  1  0  5  
+  3  5  0  
+
+
+Tensor id: 248
+Bid: 248
+mus: 0 0 0 
+nvs: 5 5 8 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  1  4  
+  1  0  4  
+  4  4  0  
+
+
+Tensor id: 251
+Bid: 251
+mus: 0 0 0 
+nvs: 4 7 7 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  2  2  
+  2  0  5  
+  2  5  0  
+
+
+Tensor id: 254
+Bid: 254
+mus: 0 0 0 
+nvs: 5 6 7 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  2  3  
+  2  0  4  
+  3  4  0  
+
+
+Tensor id: 258
+Bid: 258
+mus: 0 0 0 
+nvs: 6 6 6 
+level: 0 dim 3 maxpoly 18
+0 0 0
+  0  3  3  
+  3  0  3  
+  3  3  0  
+
+
+Tensor id: 260
+Bid: 260
+mus: 0 0 1 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 0 1
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 261
+Bid: 261
+mus: 0 0 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 0 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 263
+Bid: 263
+mus: 0 0 1 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+0 0 1
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 265
+Bid: 265
+mus: 0 0 1 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+0 0 1
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 267
+Bid: 267
+mus: 0 0 1 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 0 1
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 269
+Bid: 269
+mus: 0 0 1 
+nvs: 1 2 1 
+level: 0 dim 3 maxpoly 4
+0 0 1
+  0  1  0  
+  1  0  1  
+  0  1  0  
+
+
+Tensor id: 272
+Bid: 272
+mus: 0 0 1 
+nvs: 2 2 0 
+level: 0 dim 3 maxpoly 4
+0 0 1
+  0  2  0  
+  2  0  0  
+  0  0  0  
+
+
+Tensor id: 274
+Bid: 274
+mus: 0 0 1 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+0 0 1
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 276
+Bid: 276
+mus: 0 0 1 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+0 0 1
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 279
+Bid: 279
+mus: 0 0 1 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+0 0 1
+  0  1  0  
+  1  0  2  
+  0  2  0  
+
+
+Tensor id: 282
+Bid: 282
+mus: 0 0 1 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 0 1
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 284
+Bid: 284
+mus: 0 0 1 
+nvs: 2 3 1 
+level: 0 dim 3 maxpoly 6
+0 0 1
+  0  2  0  
+  2  0  1  
+  0  1  0  
+
+
+Tensor id: 287
+Bid: 287
+mus: 0 0 1 
+nvs: 3 3 0 
+level: 0 dim 3 maxpoly 6
+0 0 1
+  0  3  0  
+  3  0  0  
+  0  0  0  
+
+
+Tensor id: 289
+Bid: 289
+mus: 0 0 1 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  0  0  
+  0  0  4  
+  0  4  0  
+
+
+Tensor id: 291
+Bid: 291
+mus: 0 0 1 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+
+Tensor id: 294
+Bid: 294
+mus: 0 0 1 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  0  2  
+  0  0  2  
+  2  2  0  
+
+
+Tensor id: 296
+Bid: 296
+mus: 0 0 1 
+nvs: 1 4 3 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  1  0  
+  1  0  3  
+  0  3  0  
+
+
+Tensor id: 299
+Bid: 299
+mus: 0 0 1 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+
+Tensor id: 302
+Bid: 302
+mus: 0 0 1 
+nvs: 2 4 2 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  2  0  
+  2  0  2  
+  0  2  0  
+
+
+Tensor id: 305
+Bid: 305
+mus: 0 0 1 
+nvs: 3 3 2 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  2  1  
+  2  0  1  
+  1  1  0  
+
+
+Tensor id: 307
+Bid: 307
+mus: 0 0 1 
+nvs: 3 4 1 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  3  0  
+  3  0  1  
+  0  1  0  
+
+
+Tensor id: 310
+Bid: 310
+mus: 0 0 1 
+nvs: 4 4 0 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  4  0  
+  4  0  0  
+  0  0  0  
+
+
+Tensor id: 312
+Bid: 312
+mus: 0 0 1 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  0  0  
+  0  0  5  
+  0  5  0  
+
+
+Tensor id: 314
+Bid: 314
+mus: 0 0 1 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+
+Tensor id: 317
+Bid: 317
+mus: 0 0 1 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+
+Tensor id: 320
+Bid: 320
+mus: 0 0 1 
+nvs: 1 5 4 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  1  0  
+  1  0  4  
+  0  4  0  
+
+
+Tensor id: 323
+Bid: 323
+mus: 0 0 1 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+
+Tensor id: 326
+Bid: 326
+mus: 0 0 1 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  1  2  
+  1  0  2  
+  2  2  0  
+
+
+Tensor id: 328
+Bid: 328
+mus: 0 0 1 
+nvs: 2 5 3 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  2  0  
+  2  0  3  
+  0  3  0  
+
+
+Tensor id: 331
+Bid: 331
+mus: 0 0 1 
+nvs: 3 4 3 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  2  1  
+  2  0  2  
+  1  2  0  
+
+
+Tensor id: 334
+Bid: 334
+mus: 0 0 1 
+nvs: 3 5 2 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  3  0  
+  3  0  2  
+  0  2  0  
+
+
+Tensor id: 337
+Bid: 337
+mus: 0 0 1 
+nvs: 4 4 2 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  3  1  
+  3  0  1  
+  1  1  0  
+
+
+Tensor id: 339
+Bid: 339
+mus: 0 0 1 
+nvs: 4 5 1 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  4  0  
+  4  0  1  
+  0  1  0  
+
+
+Tensor id: 342
+Bid: 342
+mus: 0 0 1 
+nvs: 5 5 0 
+level: 0 dim 3 maxpoly 10
+0 0 1
+  0  5  0  
+  5  0  0  
+  0  0  0  
+
+
+Tensor id: 344
+Bid: 344
+mus: 0 0 1 
+nvs: 0 6 6 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  0  0  
+  0  0  6  
+  0  6  0  
+
+
+Tensor id: 346
+Bid: 346
+mus: 0 0 1 
+nvs: 1 5 6 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  0  1  
+  0  0  5  
+  1  5  0  
+
+
+Tensor id: 349
+Bid: 349
+mus: 0 0 1 
+nvs: 2 4 6 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  0  2  
+  0  0  4  
+  2  4  0  
+
+
+Tensor id: 352
+Bid: 352
+mus: 0 0 1 
+nvs: 3 3 6 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  0  3  
+  0  0  3  
+  3  3  0  
+
+
+Tensor id: 354
+Bid: 354
+mus: 0 0 1 
+nvs: 1 6 5 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  1  0  
+  1  0  5  
+  0  5  0  
+
+
+Tensor id: 357
+Bid: 357
+mus: 0 0 1 
+nvs: 2 5 5 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  1  1  
+  1  0  4  
+  1  4  0  
+
+
+Tensor id: 360
+Bid: 360
+mus: 0 0 1 
+nvs: 3 4 5 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  1  2  
+  1  0  3  
+  2  3  0  
+
+
+Tensor id: 363
+Bid: 363
+mus: 0 0 1 
+nvs: 2 6 4 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  2  0  
+  2  0  4  
+  0  4  0  
+
+
+Tensor id: 366
+Bid: 366
+mus: 0 0 1 
+nvs: 3 5 4 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  2  1  
+  2  0  3  
+  1  3  0  
+
+
+Tensor id: 369
+Bid: 369
+mus: 0 0 1 
+nvs: 4 4 4 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  2  2  
+  2  0  2  
+  2  2  0  
+
+
+Tensor id: 371
+Bid: 371
+mus: 0 0 1 
+nvs: 3 6 3 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  3  0  
+  3  0  3  
+  0  3  0  
+
+
+Tensor id: 374
+Bid: 374
+mus: 0 0 1 
+nvs: 4 5 3 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  3  1  
+  3  0  2  
+  1  2  0  
+
+
+Tensor id: 377
+Bid: 377
+mus: 0 0 1 
+nvs: 4 6 2 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  4  0  
+  4  0  2  
+  0  2  0  
+
+
+Tensor id: 380
+Bid: 380
+mus: 0 0 1 
+nvs: 5 5 2 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  4  1  
+  4  0  1  
+  1  1  0  
+
+
+Tensor id: 382
+Bid: 382
+mus: 0 0 1 
+nvs: 5 6 1 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  5  0  
+  5  0  1  
+  0  1  0  
+
+
+Tensor id: 385
+Bid: 385
+mus: 0 0 1 
+nvs: 6 6 0 
+level: 0 dim 3 maxpoly 12
+0 0 1
+  0  6  0  
+  6  0  0  
+  0  0  0  
+
+
+Tensor id: 387
+Bid: 387
+mus: 0 0 1 
+nvs: 0 7 7 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  0  0  
+  0  0  7  
+  0  7  0  
+
+
+Tensor id: 389
+Bid: 389
+mus: 0 0 1 
+nvs: 1 6 7 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  0  1  
+  0  0  6  
+  1  6  0  
+
+
+Tensor id: 392
+Bid: 392
+mus: 0 0 1 
+nvs: 2 5 7 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  0  2  
+  0  0  5  
+  2  5  0  
+
+
+Tensor id: 395
+Bid: 395
+mus: 0 0 1 
+nvs: 3 4 7 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  0  3  
+  0  0  4  
+  3  4  0  
+
+
+Tensor id: 398
+Bid: 398
+mus: 0 0 1 
+nvs: 1 7 6 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  1  0  
+  1  0  6  
+  0  6  0  
+
+
+Tensor id: 401
+Bid: 401
+mus: 0 0 1 
+nvs: 2 6 6 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  1  1  
+  1  0  5  
+  1  5  0  
+
+
+Tensor id: 404
+Bid: 404
+mus: 0 0 1 
+nvs: 3 5 6 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  1  2  
+  1  0  4  
+  2  4  0  
+
+
+Tensor id: 407
+Bid: 407
+mus: 0 0 1 
+nvs: 4 4 6 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  1  3  
+  1  0  3  
+  3  3  0  
+
+
+Tensor id: 409
+Bid: 409
+mus: 0 0 1 
+nvs: 2 7 5 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  2  0  
+  2  0  5  
+  0  5  0  
+
+
+Tensor id: 412
+Bid: 412
+mus: 0 0 1 
+nvs: 3 6 5 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  2  1  
+  2  0  4  
+  1  4  0  
+
+
+Tensor id: 415
+Bid: 415
+mus: 0 0 1 
+nvs: 4 5 5 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  2  2  
+  2  0  3  
+  2  3  0  
+
+
+Tensor id: 418
+Bid: 418
+mus: 0 0 1 
+nvs: 3 7 4 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  3  0  
+  3  0  4  
+  0  4  0  
+
+
+Tensor id: 421
+Bid: 421
+mus: 0 0 1 
+nvs: 4 6 4 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  3  1  
+  3  0  3  
+  1  3  0  
+
+
+Tensor id: 424
+Bid: 424
+mus: 0 0 1 
+nvs: 5 5 4 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  3  2  
+  3  0  2  
+  2  2  0  
+
+
+Tensor id: 426
+Bid: 426
+mus: 0 0 1 
+nvs: 4 7 3 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  4  0  
+  4  0  3  
+  0  3  0  
+
+
+Tensor id: 429
+Bid: 429
+mus: 0 0 1 
+nvs: 5 6 3 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  4  1  
+  4  0  2  
+  1  2  0  
+
+
+Tensor id: 432
+Bid: 432
+mus: 0 0 1 
+nvs: 5 7 2 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  5  0  
+  5  0  2  
+  0  2  0  
+
+
+Tensor id: 435
+Bid: 435
+mus: 0 0 1 
+nvs: 6 6 2 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  5  1  
+  5  0  1  
+  1  1  0  
+
+
+Tensor id: 437
+Bid: 437
+mus: 0 0 1 
+nvs: 6 7 1 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  6  0  
+  6  0  1  
+  0  1  0  
+
+
+Tensor id: 440
+Bid: 440
+mus: 0 0 1 
+nvs: 7 7 0 
+level: 0 dim 3 maxpoly 14
+0 0 1
+  0  7  0  
+  7  0  0  
+  0  0  0  
+
+
+Tensor id: 442
+Bid: 442
+mus: 0 0 2 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 0 2
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 443
+Bid: 443
+mus: 0 1 1 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 1 1
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 444
+Bid: 444
+mus: 0 0 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 0 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 446
+Bid: 446
+mus: 0 0 2 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+0 0 2
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 448
+Bid: 448
+mus: 0 1 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 1 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 449
+Bid: 449
+mus: 0 1 1 
+nvs: 1 0 1 
+level: 0 dim 3 maxpoly 2
+0 1 1
+  0  0  1  
+  0  0  0  
+  1  0  0  
+
+
+Tensor id: 451
+Bid: 451
+mus: 0 0 2 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+0 0 2
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 453
+Bid: 453
+mus: 0 0 2 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 0 2
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 455
+Bid: 455
+mus: 0 0 2 
+nvs: 1 2 1 
+level: 0 dim 3 maxpoly 4
+0 0 2
+  0  1  0  
+  1  0  1  
+  0  1  0  
+
+
+Tensor id: 458
+Bid: 458
+mus: 0 0 2 
+nvs: 2 2 0 
+level: 0 dim 3 maxpoly 4
+0 0 2
+  0  2  0  
+  2  0  0  
+  0  0  0  
+
+
+Tensor id: 460
+Bid: 460
+mus: 0 1 1 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+0 1 1
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 461
+Bid: 461
+mus: 0 1 1 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 1 1
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 463
+Bid: 463
+mus: 0 1 1 
+nvs: 2 0 2 
+level: 0 dim 3 maxpoly 4
+0 1 1
+  0  0  2  
+  0  0  0  
+  2  0  0  
+
+
+Tensor id: 465
+Bid: 465
+mus: 0 1 1 
+nvs: 2 1 1 
+level: 0 dim 3 maxpoly 4
+0 1 1
+  0  1  1  
+  1  0  0  
+  1  0  0  
+
+
+Tensor id: 467
+Bid: 467
+mus: 0 0 2 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 469
+Bid: 469
+mus: 0 0 2 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 472
+Bid: 472
+mus: 0 0 2 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  1  0  
+  1  0  2  
+  0  2  0  
+
+
+Tensor id: 475
+Bid: 475
+mus: 0 0 2 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 477
+Bid: 477
+mus: 0 0 2 
+nvs: 2 3 1 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  2  0  
+  2  0  1  
+  0  1  0  
+
+
+Tensor id: 480
+Bid: 480
+mus: 0 0 2 
+nvs: 3 3 0 
+level: 0 dim 3 maxpoly 6
+0 0 2
+  0  3  0  
+  3  0  0  
+  0  0  0  
+
+
+Tensor id: 482
+Bid: 482
+mus: 0 1 1 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 483
+Bid: 483
+mus: 0 1 1 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 485
+Bid: 485
+mus: 0 1 1 
+nvs: 2 1 3 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  0  2  
+  0  0  1  
+  2  1  0  
+
+
+Tensor id: 487
+Bid: 487
+mus: 0 1 1 
+nvs: 3 0 3 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  0  3  
+  0  0  0  
+  3  0  0  
+
+
+Tensor id: 489
+Bid: 489
+mus: 0 1 1 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 491
+Bid: 491
+mus: 0 1 1 
+nvs: 3 1 2 
+level: 0 dim 3 maxpoly 6
+0 1 1
+  0  1  2  
+  1  0  0  
+  2  0  0  
+
+
+Tensor id: 493
+Bid: 493
+mus: 0 0 2 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  0  0  
+  0  0  4  
+  0  4  0  
+
+
+Tensor id: 495
+Bid: 495
+mus: 0 0 2 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+
+Tensor id: 498
+Bid: 498
+mus: 0 0 2 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  0  2  
+  0  0  2  
+  2  2  0  
+
+
+Tensor id: 500
+Bid: 500
+mus: 0 0 2 
+nvs: 1 4 3 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  1  0  
+  1  0  3  
+  0  3  0  
+
+
+Tensor id: 503
+Bid: 503
+mus: 0 0 2 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+
+Tensor id: 506
+Bid: 506
+mus: 0 0 2 
+nvs: 2 4 2 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  2  0  
+  2  0  2  
+  0  2  0  
+
+
+Tensor id: 509
+Bid: 509
+mus: 0 0 2 
+nvs: 3 3 2 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  2  1  
+  2  0  1  
+  1  1  0  
+
+
+Tensor id: 511
+Bid: 511
+mus: 0 0 2 
+nvs: 3 4 1 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  3  0  
+  3  0  1  
+  0  1  0  
+
+
+Tensor id: 514
+Bid: 514
+mus: 0 0 2 
+nvs: 4 4 0 
+level: 0 dim 3 maxpoly 8
+0 0 2
+  0  4  0  
+  4  0  0  
+  0  0  0  
+
+
+Tensor id: 516
+Bid: 516
+mus: 0 1 1 
+nvs: 0 4 4 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  0  0  
+  0  0  4  
+  0  4  0  
+
+
+Tensor id: 517
+Bid: 517
+mus: 0 1 1 
+nvs: 1 3 4 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  0  1  
+  0  0  3  
+  1  3  0  
+
+
+Tensor id: 519
+Bid: 519
+mus: 0 1 1 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  0  2  
+  0  0  2  
+  2  2  0  
+
+
+Tensor id: 521
+Bid: 521
+mus: 0 1 1 
+nvs: 3 1 4 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  0  3  
+  0  0  1  
+  3  1  0  
+
+
+Tensor id: 523
+Bid: 523
+mus: 0 1 1 
+nvs: 4 0 4 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  0  4  
+  0  0  0  
+  4  0  0  
+
+
+Tensor id: 525
+Bid: 525
+mus: 0 1 1 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  1  1  
+  1  0  2  
+  1  2  0  
+
+
+Tensor id: 527
+Bid: 527
+mus: 0 1 1 
+nvs: 3 2 3 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  1  2  
+  1  0  1  
+  2  1  0  
+
+
+Tensor id: 529
+Bid: 529
+mus: 0 1 1 
+nvs: 4 1 3 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  1  3  
+  1  0  0  
+  3  0  0  
+
+
+Tensor id: 531
+Bid: 531
+mus: 0 1 1 
+nvs: 4 2 2 
+level: 0 dim 3 maxpoly 8
+0 1 1
+  0  2  2  
+  2  0  0  
+  2  0  0  
+
+
+Tensor id: 533
+Bid: 533
+mus: 0 0 2 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  0  0  
+  0  0  5  
+  0  5  0  
+
+
+Tensor id: 535
+Bid: 535
+mus: 0 0 2 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+
+Tensor id: 538
+Bid: 538
+mus: 0 0 2 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+
+Tensor id: 541
+Bid: 541
+mus: 0 0 2 
+nvs: 1 5 4 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  1  0  
+  1  0  4  
+  0  4  0  
+
+
+Tensor id: 544
+Bid: 544
+mus: 0 0 2 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+
+Tensor id: 547
+Bid: 547
+mus: 0 0 2 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  1  2  
+  1  0  2  
+  2  2  0  
+
+
+Tensor id: 549
+Bid: 549
+mus: 0 0 2 
+nvs: 2 5 3 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  2  0  
+  2  0  3  
+  0  3  0  
+
+
+Tensor id: 552
+Bid: 552
+mus: 0 0 2 
+nvs: 3 4 3 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  2  1  
+  2  0  2  
+  1  2  0  
+
+
+Tensor id: 555
+Bid: 555
+mus: 0 0 2 
+nvs: 3 5 2 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  3  0  
+  3  0  2  
+  0  2  0  
+
+
+Tensor id: 558
+Bid: 558
+mus: 0 0 2 
+nvs: 4 4 2 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  3  1  
+  3  0  1  
+  1  1  0  
+
+
+Tensor id: 560
+Bid: 560
+mus: 0 0 2 
+nvs: 4 5 1 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  4  0  
+  4  0  1  
+  0  1  0  
+
+
+Tensor id: 563
+Bid: 563
+mus: 0 0 2 
+nvs: 5 5 0 
+level: 0 dim 3 maxpoly 10
+0 0 2
+  0  5  0  
+  5  0  0  
+  0  0  0  
+
+
+Tensor id: 565
+Bid: 565
+mus: 0 1 1 
+nvs: 0 5 5 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  0  0  
+  0  0  5  
+  0  5  0  
+
+
+Tensor id: 566
+Bid: 566
+mus: 0 1 1 
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  0  1  
+  0  0  4  
+  1  4  0  
+
+
+Tensor id: 568
+Bid: 568
+mus: 0 1 1 
+nvs: 2 3 5 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  0  2  
+  0  0  3  
+  2  3  0  
+
+
+Tensor id: 570
+Bid: 570
+mus: 0 1 1 
+nvs: 3 2 5 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  0  3  
+  0  0  2  
+  3  2  0  
+
+
+Tensor id: 572
+Bid: 572
+mus: 0 1 1 
+nvs: 4 1 5 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  0  4  
+  0  0  1  
+  4  1  0  
+
+
+Tensor id: 574
+Bid: 574
+mus: 0 1 1 
+nvs: 5 0 5 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  0  5  
+  0  0  0  
+  5  0  0  
+
+
+Tensor id: 576
+Bid: 576
+mus: 0 1 1 
+nvs: 2 4 4 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  1  1  
+  1  0  3  
+  1  3  0  
+
+
+Tensor id: 578
+Bid: 578
+mus: 0 1 1 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  1  2  
+  1  0  2  
+  2  2  0  
+
+
+Tensor id: 580
+Bid: 580
+mus: 0 1 1 
+nvs: 4 2 4 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  1  3  
+  1  0  1  
+  3  1  0  
+
+
+Tensor id: 582
+Bid: 582
+mus: 0 1 1 
+nvs: 5 1 4 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  1  4  
+  1  0  0  
+  4  0  0  
+
+
+Tensor id: 584
+Bid: 584
+mus: 0 1 1 
+nvs: 4 3 3 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  2  2  
+  2  0  1  
+  2  1  0  
+
+
+Tensor id: 586
+Bid: 586
+mus: 0 1 1 
+nvs: 5 2 3 
+level: 0 dim 3 maxpoly 10
+0 1 1
+  0  2  3  
+  2  0  0  
+  3  0  0  
+
+
+Tensor id: 588
+Bid: 588
+mus: 0 0 3 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 0 3
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 589
+Bid: 589
+mus: 0 1 2 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 1 2
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 590
+Bid: 590
+mus: 1 1 1 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+1 1 1
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 591
+Bid: 591
+mus: 0 0 3 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 0 3
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 593
+Bid: 593
+mus: 0 0 3 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+0 0 3
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 595
+Bid: 595
+mus: 0 1 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 1 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 596
+Bid: 596
+mus: 0 1 2 
+nvs: 1 0 1 
+level: 0 dim 3 maxpoly 2
+0 1 2
+  0  0  1  
+  0  0  0  
+  1  0  0  
+
+
+Tensor id: 598
+Bid: 598
+mus: 0 1 2 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+0 1 2
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 600
+Bid: 600
+mus: 1 1 1 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+1 1 1
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 601
+Bid: 601
+mus: 0 0 3 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+0 0 3
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 603
+Bid: 603
+mus: 0 0 3 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 0 3
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 605
+Bid: 605
+mus: 0 0 3 
+nvs: 1 2 1 
+level: 0 dim 3 maxpoly 4
+0 0 3
+  0  1  0  
+  1  0  1  
+  0  1  0  
+
+
+Tensor id: 608
+Bid: 608
+mus: 0 0 3 
+nvs: 2 2 0 
+level: 0 dim 3 maxpoly 4
+0 0 3
+  0  2  0  
+  2  0  0  
+  0  0  0  
+
+
+Tensor id: 610
+Bid: 610
+mus: 0 1 2 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 611
+Bid: 611
+mus: 0 1 2 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 613
+Bid: 613
+mus: 0 1 2 
+nvs: 2 0 2 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  0  2  
+  0  0  0  
+  2  0  0  
+
+
+Tensor id: 615
+Bid: 615
+mus: 0 1 2 
+nvs: 1 2 1 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  1  0  
+  1  0  1  
+  0  1  0  
+
+
+Tensor id: 617
+Bid: 617
+mus: 0 1 2 
+nvs: 2 1 1 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  1  1  
+  1  0  0  
+  1  0  0  
+
+
+Tensor id: 619
+Bid: 619
+mus: 0 1 2 
+nvs: 2 2 0 
+level: 0 dim 3 maxpoly 4
+0 1 2
+  0  2  0  
+  2  0  0  
+  0  0  0  
+
+
+Tensor id: 621
+Bid: 621
+mus: 1 1 1 
+nvs: 0 2 2 
+level: 0 dim 3 maxpoly 4
+1 1 1
+  0  0  0  
+  0  0  2  
+  0  2  0  
+
+
+Tensor id: 622
+Bid: 622
+mus: 1 1 1 
+nvs: 1 1 2 
+level: 0 dim 3 maxpoly 4
+1 1 1
+  0  0  1  
+  0  0  1  
+  1  1  0  
+
+
+Tensor id: 623
+Bid: 623
+mus: 0 0 3 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 625
+Bid: 625
+mus: 0 0 3 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 628
+Bid: 628
+mus: 0 0 3 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  1  0  
+  1  0  2  
+  0  2  0  
+
+
+Tensor id: 631
+Bid: 631
+mus: 0 0 3 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 633
+Bid: 633
+mus: 0 0 3 
+nvs: 2 3 1 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  2  0  
+  2  0  1  
+  0  1  0  
+
+
+Tensor id: 636
+Bid: 636
+mus: 0 0 3 
+nvs: 3 3 0 
+level: 0 dim 3 maxpoly 6
+0 0 3
+  0  3  0  
+  3  0  0  
+  0  0  0  
+
+
+Tensor id: 638
+Bid: 638
+mus: 0 1 2 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 639
+Bid: 639
+mus: 0 1 2 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 641
+Bid: 641
+mus: 0 1 2 
+nvs: 2 1 3 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  0  2  
+  0  0  1  
+  2  1  0  
+
+
+Tensor id: 643
+Bid: 643
+mus: 0 1 2 
+nvs: 3 0 3 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  0  3  
+  0  0  0  
+  3  0  0  
+
+
+Tensor id: 645
+Bid: 645
+mus: 0 1 2 
+nvs: 1 3 2 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  1  0  
+  1  0  2  
+  0  2  0  
+
+
+Tensor id: 647
+Bid: 647
+mus: 0 1 2 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 649
+Bid: 649
+mus: 0 1 2 
+nvs: 3 1 2 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  1  2  
+  1  0  0  
+  2  0  0  
+
+
+Tensor id: 651
+Bid: 651
+mus: 0 1 2 
+nvs: 2 3 1 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  2  0  
+  2  0  1  
+  0  1  0  
+
+
+Tensor id: 653
+Bid: 653
+mus: 0 1 2 
+nvs: 3 2 1 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  2  1  
+  2  0  0  
+  1  0  0  
+
+
+Tensor id: 655
+Bid: 655
+mus: 0 1 2 
+nvs: 3 3 0 
+level: 0 dim 3 maxpoly 6
+0 1 2
+  0  3  0  
+  3  0  0  
+  0  0  0  
+
+
+Tensor id: 657
+Bid: 657
+mus: 1 1 1 
+nvs: 0 3 3 
+level: 0 dim 3 maxpoly 6
+1 1 1
+  0  0  0  
+  0  0  3  
+  0  3  0  
+
+
+Tensor id: 658
+Bid: 658
+mus: 1 1 1 
+nvs: 1 2 3 
+level: 0 dim 3 maxpoly 6
+1 1 1
+  0  0  1  
+  0  0  2  
+  1  2  0  
+
+
+Tensor id: 659
+Bid: 659
+mus: 1 1 1 
+nvs: 2 2 2 
+level: 0 dim 3 maxpoly 6
+1 1 1
+  0  1  1  
+  1  0  1  
+  1  1  0  
+
+
+Tensor id: 660
+Bid: 660
+mus: 0 0 4 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 0 4
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 661
+Bid: 661
+mus: 0 1 3 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 1 3
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 662
+Bid: 662
+mus: 0 2 2 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+0 2 2
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 663
+Bid: 663
+mus: 1 1 2 
+nvs: 0 0 0 
+level: 0 dim 3 maxpoly 0
+1 1 2
+  0  0  0  
+  0  0  0  
+  0  0  0  
+
+
+Tensor id: 664
+Bid: 664
+mus: 0 0 4 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 0 4
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 666
+Bid: 666
+mus: 0 0 4 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+0 0 4
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 668
+Bid: 668
+mus: 0 1 3 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 1 3
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 669
+Bid: 669
+mus: 0 1 3 
+nvs: 1 0 1 
+level: 0 dim 3 maxpoly 2
+0 1 3
+  0  0  1  
+  0  0  0  
+  1  0  0  
+
+
+Tensor id: 671
+Bid: 671
+mus: 0 1 3 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+0 1 3
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 673
+Bid: 673
+mus: 0 2 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+0 2 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 674
+Bid: 674
+mus: 0 2 2 
+nvs: 1 0 1 
+level: 0 dim 3 maxpoly 2
+0 2 2
+  0  0  1  
+  0  0  0  
+  1  0  0  
+
+
+Tensor id: 676
+Bid: 676
+mus: 1 1 2 
+nvs: 0 1 1 
+level: 0 dim 3 maxpoly 2
+1 1 2
+  0  0  0  
+  0  0  1  
+  0  1  0  
+
+
+Tensor id: 677
+Bid: 677
+mus: 1 1 2 
+nvs: 1 1 0 
+level: 0 dim 3 maxpoly 2
+1 1 2
+  0  1  0  
+  1  0  0  
+  0  0  0  
+
+
+Tensor id: 678
+Bid: 678
+mus: 0 0 0 0 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 679
+Bid: 679
+mus: 0 0 0 0 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 681
+Bid: 681
+mus: 0 0 0 0 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 683
+Bid: 683
+mus: 0 0 0 0 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 686
+Bid: 686
+mus: 0 0 0 0 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 688
+Bid: 688
+mus: 0 0 0 0 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 690
+Bid: 690
+mus: 0 0 0 0 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+
+Tensor id: 694
+Bid: 694
+mus: 0 0 0 0 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 696
+Bid: 696
+mus: 0 0 0 0 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+
+Tensor id: 699
+Bid: 699
+mus: 0 0 0 0 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+
+Tensor id: 702
+Bid: 702
+mus: 0 0 0 0 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 705
+Bid: 705
+mus: 0 0 0 0 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 707
+Bid: 707
+mus: 0 0 0 0 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+
+Tensor id: 711
+Bid: 711
+mus: 0 0 0 0 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 714
+Bid: 714
+mus: 0 0 0 0 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+
+Tensor id: 717
+Bid: 717
+mus: 0 0 0 0 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+
+Tensor id: 721
+Bid: 721
+mus: 0 0 0 0 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+
+Tensor id: 724
+Bid: 724
+mus: 0 0 0 0 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 728
+Bid: 728
+mus: 0 0 0 0 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  1  
+  0  2  1  0  
+
+
+Tensor id: 733
+Bid: 733
+mus: 0 0 0 0 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 736
+Bid: 736
+mus: 0 0 0 0 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  0  
+  2  0  0  0  
+
+
+Tensor id: 738
+Bid: 738
+mus: 0 0 0 0 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  0  
+  1  1  0  0  
+
+
+Tensor id: 740
+Bid: 740
+mus: 0 0 0 0 
+nvs: 0 0 5 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+
+Tensor id: 742
+Bid: 742
+mus: 0 0 0 0 
+nvs: 0 1 4 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+
+Tensor id: 746
+Bid: 746
+mus: 0 0 0 0 
+nvs: 0 2 3 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+
+Tensor id: 750
+Bid: 750
+mus: 0 0 0 0 
+nvs: 0 2 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+
+Tensor id: 753
+Bid: 753
+mus: 0 0 0 0 
+nvs: 0 3 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+
+Tensor id: 756
+Bid: 756
+mus: 0 0 0 0 
+nvs: 1 1 3 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+
+Tensor id: 760
+Bid: 760
+mus: 0 0 0 0 
+nvs: 1 2 2 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
+
+
+Tensor id: 764
+Bid: 764
+mus: 0 0 0 0 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+
+Tensor id: 767
+Bid: 767
+mus: 0 0 0 0 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  2  
+  1  1  2  0  
+
+
+Tensor id: 772
+Bid: 772
+mus: 0 0 0 0 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 777
+Bid: 777
+mus: 0 0 0 0 
+nvs: 1 3 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  1  
+  1  1  1  0  
+
+
+Tensor id: 781
+Bid: 781
+mus: 0 0 0 0 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+
+Tensor id: 786
+Bid: 786
+mus: 0 0 0 0 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 789
+Bid: 789
+mus: 0 0 0 0 
+nvs: 2 2 2 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  1  
+  2  1  1  0  
+
+
+Tensor id: 793
+Bid: 793
+mus: 0 0 0 0 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  1  
+  2  0  1  0  
+
+
+Tensor id: 796
+Bid: 796
+mus: 0 0 0 0 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 799
+Bid: 799
+mus: 0 0 0 0 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 802
+Bid: 802
+mus: 0 0 0 0 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+
+Tensor id: 805
+Bid: 805
+mus: 0 0 0 0 
+nvs: 0 0 6 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+
+Tensor id: 807
+Bid: 807
+mus: 0 0 0 0 
+nvs: 0 1 5 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+
+Tensor id: 811
+Bid: 811
+mus: 0 0 0 0 
+nvs: 0 2 4 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+
+Tensor id: 815
+Bid: 815
+mus: 0 0 0 0 
+nvs: 0 3 3 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
+
+
+Tensor id: 818
+Bid: 818
+mus: 0 0 0 0 
+nvs: 0 2 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+
+Tensor id: 821
+Bid: 821
+mus: 0 0 0 0 
+nvs: 0 3 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  3  
+  0  2  3  0  
+
+
+Tensor id: 825
+Bid: 825
+mus: 0 0 0 0 
+nvs: 0 4 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  0  
+  0  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
+
+
+Tensor id: 827
+Bid: 827
+mus: 0 0 0 0 
+nvs: 1 1 4 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+
+Tensor id: 831
+Bid: 831
+mus: 0 0 0 0 
+nvs: 1 2 3 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+
+Tensor id: 836
+Bid: 836
+mus: 0 0 0 0 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  4  
+  1  0  4  0  
+
+
+Tensor id: 839
+Bid: 839
+mus: 0 0 0 0 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+
+Tensor id: 844
+Bid: 844
+mus: 0 0 0 0 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  2  
+  1  2  2  0  
+
+
+Tensor id: 848
+Bid: 848
+mus: 0 0 0 0 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  3  
+  0  2  3  0  
+
+
+Tensor id: 853
+Bid: 853
+mus: 0 0 0 0 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  2  
+  1  1  2  0  
+
+
+Tensor id: 858
+Bid: 858
+mus: 0 0 0 0 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  0  
+  0  0  0  3  
+  1  0  0  2  
+  0  3  2  0  
+
+
+Tensor id: 863
+Bid: 863
+mus: 0 0 0 0 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+
+Tensor id: 867
+Bid: 867
+mus: 0 0 0 0 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+
+Tensor id: 872
+Bid: 872
+mus: 0 0 0 0 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+
+Tensor id: 875
+Bid: 875
+mus: 0 0 0 0 
+nvs: 2 2 2 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  2  
+  2  2  2  0  
+
+
+Tensor id: 878
+Bid: 878
+mus: 0 0 0 0 
+nvs: 2 2 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  2  
+  2  1  2  0  
+
+
+Tensor id: 883
+Bid: 883
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  2  
+  2  0  2  0  
+
+
+Tensor id: 886
+Bid: 886
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  2  
+  0  0  2  1  
+  0  2  0  1  
+  2  1  1  0  
+
+
+Tensor id: 890
+Bid: 890
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  2  0  
+  0  0  0  3  
+  2  0  0  1  
+  0  3  1  0  
+
+
+Tensor id: 895
+Bid: 895
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 898
+Bid: 898
+mus: 0 0 0 0 
+nvs: 2 2 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+
+Tensor id: 902
+Bid: 902
+mus: 0 0 0 0 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  0  3  
+  0  0  3  0  
+  0  3  0  0  
+  3  0  0  0  
+
+
+Tensor id: 904
+Bid: 904
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+
+Tensor id: 907
+Bid: 907
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  1  
+  0  0  1  2  
+  1  1  0  1  
+  1  2  1  0  
+
+
+Tensor id: 912
+Bid: 912
+mus: 0 0 0 0 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+
+Tensor id: 915
+Bid: 915
+mus: 0 0 0 0 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 919
+Bid: 919
+mus: 0 0 0 0 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  0  1  2  
+  0  0  2  1  
+  1  2  0  0  
+  2  1  0  0  
+
+
+Tensor id: 921
+Bid: 921
+mus: 0 0 0 0 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 0
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 923
+Bid: 923
+mus: 0 0 0 0 
+nvs: 0 0 7 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  7  
+  0  0  7  0  
+
+
+Tensor id: 925
+Bid: 925
+mus: 0 0 0 0 
+nvs: 0 1 6 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  6  
+  0  1  6  0  
+
+
+Tensor id: 929
+Bid: 929
+mus: 0 0 0 0 
+nvs: 0 2 5 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  5  
+  0  2  5  0  
+
+
+Tensor id: 933
+Bid: 933
+mus: 0 0 0 0 
+nvs: 0 3 4 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  4  
+  0  3  4  0  
+
+
+Tensor id: 937
+Bid: 937
+mus: 0 0 0 0 
+nvs: 0 2 6 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  5  
+  0  1  5  0  
+
+
+Tensor id: 940
+Bid: 940
+mus: 0 0 0 0 
+nvs: 0 3 5 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  4  
+  0  2  4  0  
+
+
+Tensor id: 944
+Bid: 944
+mus: 0 0 0 0 
+nvs: 0 4 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  1  3  
+  0  1  0  3  
+  0  3  3  0  
+
+
+Tensor id: 947
+Bid: 947
+mus: 0 0 0 0 
+nvs: 0 4 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  0  
+  0  0  2  2  
+  0  2  0  3  
+  0  2  3  0  
+
+
+Tensor id: 950
+Bid: 950
+mus: 0 0 0 0 
+nvs: 1 1 5 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  5  
+  1  1  5  0  
+
+
+Tensor id: 954
+Bid: 954
+mus: 0 0 0 0 
+nvs: 1 2 4 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  4  
+  1  2  4  0  
+
+
+Tensor id: 959
+Bid: 959
+mus: 0 0 0 0 
+nvs: 1 3 3 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  0  3  
+  0  0  0  3  
+  1  3  3  0  
+
+
+Tensor id: 963
+Bid: 963
+mus: 0 0 0 0 
+nvs: 1 1 6 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  5  
+  1  0  5  0  
+
+
+Tensor id: 966
+Bid: 966
+mus: 0 0 0 0 
+nvs: 1 2 5 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  4  
+  1  1  4  0  
+
+
+Tensor id: 971
+Bid: 971
+mus: 0 0 0 0 
+nvs: 1 3 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  3  
+  1  2  3  0  
+
+
+Tensor id: 976
+Bid: 976
+mus: 0 0 0 0 
+nvs: 1 2 5 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  4  
+  0  2  4  0  
+
+
+Tensor id: 981
+Bid: 981
+mus: 0 0 0 0 
+nvs: 1 3 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  3  
+  1  1  3  0  
+
+
+Tensor id: 986
+Bid: 986
+mus: 0 0 0 0 
+nvs: 1 4 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  1  
+  0  0  2  2  
+  0  2  0  2  
+  1  2  2  0  
+
+
+Tensor id: 990
+Bid: 990
+mus: 0 0 0 0 
+nvs: 1 3 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  0  
+  0  0  0  3  
+  1  0  0  3  
+  0  3  3  0  
+
+
+Tensor id: 995
+Bid: 995
+mus: 0 0 0 0 
+nvs: 1 4 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  0  
+  0  0  1  3  
+  1  1  0  2  
+  0  3  2  0  
+
+
+Tensor id: 1000
+Bid: 1000
+mus: 0 0 0 0 
+nvs: 1 3 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+
+Tensor id: 1005
+Bid: 1005
+mus: 0 0 0 0 
+nvs: 1 3 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+
+Tensor id: 1009
+Bid: 1009
+mus: 0 0 0 0 
+nvs: 1 2 5 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+
+Tensor id: 1014
+Bid: 1014
+mus: 0 0 0 0 
+nvs: 1 1 6 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+
+Tensor id: 1017
+Bid: 1017
+mus: 0 0 0 0 
+nvs: 2 2 3 7 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  3  
+  2  2  3  0  
+
+
+Tensor id: 1021
+Bid: 1021
+mus: 0 0 0 0 
+nvs: 2 2 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  3  
+  2  1  3  0  
+
+
+Tensor id: 1026
+Bid: 1026
+mus: 0 0 0 0 
+nvs: 2 3 3 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  1  2  
+  0  1  0  2  
+  2  2  2  0  
+
+
+Tensor id: 1030
+Bid: 1030
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  3  
+  2  0  3  0  
+
+
+Tensor id: 1033
+Bid: 1033
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  2  1  
+  0  2  0  2  
+  2  1  2  0  
+
+
+Tensor id: 1038
+Bid: 1038
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  2  0  
+  0  0  0  3  
+  2  0  0  2  
+  0  3  2  0  
+
+
+Tensor id: 1043
+Bid: 1043
+mus: 0 0 0 0 
+nvs: 2 4 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  2  
+  0  0  3  1  
+  0  3  0  1  
+  2  1  1  0  
+
+
+Tensor id: 1047
+Bid: 1047
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+
+Tensor id: 1052
+Bid: 1052
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+
+Tensor id: 1055
+Bid: 1055
+mus: 0 0 0 0 
+nvs: 2 3 3 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  1  
+  0  0  0  3  
+  1  0  0  2  
+  1  3  2  0  
+
+
+Tensor id: 1060
+Bid: 1060
+mus: 0 0 0 0 
+nvs: 3 3 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  3  
+  0  0  2  1  
+  0  2  0  1  
+  3  1  1  0  
+
+
+Tensor id: 1064
+Bid: 1064
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  0  3  
+  0  0  3  0  
+  0  3  0  1  
+  3  0  1  0  
+
+
+Tensor id: 1067
+Bid: 1067
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1070
+Bid: 1070
+mus: 0 0 0 0 
+nvs: 2 2 4 6 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+
+Tensor id: 1074
+Bid: 1074
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1077
+Bid: 1077
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  1  
+  0  0  1  2  
+  1  1  0  2  
+  1  2  2  0  
+
+
+Tensor id: 1082
+Bid: 1082
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1087
+Bid: 1087
+mus: 0 0 0 0 
+nvs: 2 2 5 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  4  
+  1  0  4  0  
+
+
+Tensor id: 1090
+Bid: 1090
+mus: 0 0 0 0 
+nvs: 2 4 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  1  
+  0  0  2  2  
+  1  2  0  1  
+  1  2  1  0  
+
+
+Tensor id: 1094
+Bid: 1094
+mus: 0 0 0 0 
+nvs: 2 3 4 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  3  
+  0  2  3  0  
+
+
+Tensor id: 1099
+Bid: 1099
+mus: 0 0 0 0 
+nvs: 3 3 3 5 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  2  
+  0  0  1  2  
+  1  1  0  1  
+  2  2  1  0  
+
+
+Tensor id: 1103
+Bid: 1103
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  0  1  2  
+  0  0  2  1  
+  1  2  0  1  
+  2  1  1  0  
+
+
+Tensor id: 1106
+Bid: 1106
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  0  2  
+  1  0  2  0  
+  0  2  0  2  
+  2  0  2  0  
+
+
+Tensor id: 1109
+Bid: 1109
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  2  0  1  
+  2  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+
+Tensor id: 1112
+Bid: 1112
+mus: 0 0 0 0 
+nvs: 3 3 4 4 
+level: 0 dim 4 maxpoly 14
+0 0 0 0
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+
+Tensor id: 1115
+Bid: 1115
+mus: 0 0 0 0 
+nvs: 0 0 8 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  8  
+  0  0  8  0  
+
+
+Tensor id: 1117
+Bid: 1117
+mus: 0 0 0 0 
+nvs: 0 1 7 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  7  
+  0  1  7  0  
+
+
+Tensor id: 1121
+Bid: 1121
+mus: 0 0 0 0 
+nvs: 0 2 6 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  6  
+  0  2  6  0  
+
+
+Tensor id: 1125
+Bid: 1125
+mus: 0 0 0 0 
+nvs: 0 3 5 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  5  
+  0  3  5  0  
+
+
+Tensor id: 1129
+Bid: 1129
+mus: 0 0 0 0 
+nvs: 0 4 4 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  0  4  
+  0  0  0  4  
+  0  4  4  0  
+
+
+Tensor id: 1132
+Bid: 1132
+mus: 0 0 0 0 
+nvs: 0 2 7 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  6  
+  0  1  6  0  
+
+
+Tensor id: 1135
+Bid: 1135
+mus: 0 0 0 0 
+nvs: 0 3 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  5  
+  0  2  5  0  
+
+
+Tensor id: 1139
+Bid: 1139
+mus: 0 0 0 0 
+nvs: 0 4 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  1  3  
+  0  1  0  4  
+  0  3  4  0  
+
+
+Tensor id: 1143
+Bid: 1143
+mus: 0 0 0 0 
+nvs: 0 4 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  2  2  
+  0  2  0  4  
+  0  2  4  0  
+
+
+Tensor id: 1146
+Bid: 1146
+mus: 0 0 0 0 
+nvs: 0 5 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  0  
+  0  0  2  3  
+  0  2  0  3  
+  0  3  3  0  
+
+
+Tensor id: 1149
+Bid: 1149
+mus: 0 0 0 0 
+nvs: 1 1 6 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  6  
+  1  1  6  0  
+
+
+Tensor id: 1153
+Bid: 1153
+mus: 0 0 0 0 
+nvs: 1 2 5 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  5  
+  1  2  5  0  
+
+
+Tensor id: 1158
+Bid: 1158
+mus: 0 0 0 0 
+nvs: 1 3 4 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  0  3  
+  0  0  0  4  
+  1  3  4  0  
+
+
+Tensor id: 1163
+Bid: 1163
+mus: 0 0 0 0 
+nvs: 1 1 7 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  6  
+  1  0  6  0  
+
+
+Tensor id: 1166
+Bid: 1166
+mus: 0 0 0 0 
+nvs: 1 2 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  5  
+  1  1  5  0  
+
+
+Tensor id: 1171
+Bid: 1171
+mus: 0 0 0 0 
+nvs: 1 3 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  4  
+  1  2  4  0  
+
+
+Tensor id: 1176
+Bid: 1176
+mus: 0 0 0 0 
+nvs: 1 4 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  1  3  
+  0  1  0  3  
+  1  3  3  0  
+
+
+Tensor id: 1180
+Bid: 1180
+mus: 0 0 0 0 
+nvs: 1 2 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  5  
+  0  2  5  0  
+
+
+Tensor id: 1185
+Bid: 1185
+mus: 0 0 0 0 
+nvs: 1 3 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  4  
+  1  1  4  0  
+
+
+Tensor id: 1190
+Bid: 1190
+mus: 0 0 0 0 
+nvs: 1 4 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  2  2  
+  0  2  0  3  
+  1  2  3  0  
+
+
+Tensor id: 1195
+Bid: 1195
+mus: 0 0 0 0 
+nvs: 1 3 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  0  
+  0  0  0  3  
+  1  0  0  4  
+  0  3  4  0  
+
+
+Tensor id: 1200
+Bid: 1200
+mus: 0 0 0 0 
+nvs: 1 4 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  0  
+  0  0  1  3  
+  1  1  0  3  
+  0  3  3  0  
+
+
+Tensor id: 1205
+Bid: 1205
+mus: 0 0 0 0 
+nvs: 1 5 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  1  
+  0  0  3  2  
+  0  3  0  2  
+  1  2  2  0  
+
+
+Tensor id: 1209
+Bid: 1209
+mus: 0 0 0 0 
+nvs: 1 4 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  0  
+  0  0  0  4  
+  1  0  0  3  
+  0  4  3  0  
+
+
+Tensor id: 1214
+Bid: 1214
+mus: 0 0 0 0 
+nvs: 1 4 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  4  
+  0  2  4  0  
+
+
+Tensor id: 1219
+Bid: 1219
+mus: 0 0 0 0 
+nvs: 1 3 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  5  
+  0  2  5  0  
+
+
+Tensor id: 1224
+Bid: 1224
+mus: 0 0 0 0 
+nvs: 1 3 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  5  
+  0  1  5  0  
+
+
+Tensor id: 1228
+Bid: 1228
+mus: 0 0 0 0 
+nvs: 1 2 6 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  6  
+  0  1  6  0  
+
+
+Tensor id: 1233
+Bid: 1233
+mus: 0 0 0 0 
+nvs: 1 1 7 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  7  
+  0  0  7  0  
+
+
+Tensor id: 1236
+Bid: 1236
+mus: 0 0 0 0 
+nvs: 2 2 4 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  4  
+  2  2  4  0  
+
+
+Tensor id: 1240
+Bid: 1240
+mus: 0 0 0 0 
+nvs: 2 3 3 8 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  0  3  
+  0  0  0  3  
+  2  3  3  0  
+
+
+Tensor id: 1244
+Bid: 1244
+mus: 0 0 0 0 
+nvs: 2 2 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  4  
+  2  1  4  0  
+
+
+Tensor id: 1249
+Bid: 1249
+mus: 0 0 0 0 
+nvs: 2 3 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  1  2  
+  0  1  0  3  
+  2  2  3  0  
+
+
+Tensor id: 1254
+Bid: 1254
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  4  
+  2  0  4  0  
+
+
+Tensor id: 1257
+Bid: 1257
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  2  1  
+  0  2  0  3  
+  2  1  3  0  
+
+
+Tensor id: 1262
+Bid: 1262
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  2  2  
+  0  2  0  2  
+  2  2  2  0  
+
+
+Tensor id: 1266
+Bid: 1266
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  2  0  
+  0  0  0  3  
+  2  0  0  3  
+  0  3  3  0  
+
+
+Tensor id: 1271
+Bid: 1271
+mus: 0 0 0 0 
+nvs: 2 4 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  2  
+  0  0  3  1  
+  0  3  0  2  
+  2  1  2  0  
+
+
+Tensor id: 1276
+Bid: 1276
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  2  0  
+  0  0  0  4  
+  2  0  0  2  
+  0  4  2  0  
+
+
+Tensor id: 1281
+Bid: 1281
+mus: 0 0 0 0 
+nvs: 2 4 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+
+Tensor id: 1285
+Bid: 1285
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+
+Tensor id: 1290
+Bid: 1290
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+
+Tensor id: 1293
+Bid: 1293
+mus: 0 0 0 0 
+nvs: 2 3 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  1  
+  0  0  0  3  
+  1  0  0  3  
+  1  3  3  0  
+
+
+Tensor id: 1298
+Bid: 1298
+mus: 0 0 0 0 
+nvs: 3 3 3 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  3  
+  0  0  1  2  
+  0  1  0  2  
+  3  2  2  0  
+
+
+Tensor id: 1302
+Bid: 1302
+mus: 0 0 0 0 
+nvs: 3 3 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  3  
+  0  0  2  1  
+  0  2  0  2  
+  3  1  2  0  
+
+
+Tensor id: 1307
+Bid: 1307
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  3  
+  0  0  3  0  
+  0  3  0  2  
+  3  0  2  0  
+
+
+Tensor id: 1310
+Bid: 1310
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  3  
+  0  0  3  1  
+  0  3  0  1  
+  3  1  1  0  
+
+
+Tensor id: 1314
+Bid: 1314
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  3  0  
+  0  0  0  4  
+  3  0  0  1  
+  0  4  1  0  
+
+
+Tensor id: 1319
+Bid: 1319
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+
+Tensor id: 1322
+Bid: 1322
+mus: 0 0 0 0 
+nvs: 2 3 4 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  4  
+  1  2  4  0  
+
+
+Tensor id: 1327
+Bid: 1327
+mus: 0 0 0 0 
+nvs: 3 3 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+
+Tensor id: 1331
+Bid: 1331
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  0  4  
+  0  0  4  0  
+  0  4  0  0  
+  4  0  0  0  
+
+
+Tensor id: 1333
+Bid: 1333
+mus: 0 0 0 0 
+nvs: 2 2 5 7 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  5  
+  1  1  5  0  
+
+
+Tensor id: 1337
+Bid: 1337
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  4  
+  1  1  4  0  
+
+
+Tensor id: 1340
+Bid: 1340
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  1  
+  0  0  1  2  
+  1  1  0  3  
+  1  2  3  0  
+
+
+Tensor id: 1345
+Bid: 1345
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  1  
+  0  0  1  3  
+  1  1  0  2  
+  1  3  2  0  
+
+
+Tensor id: 1350
+Bid: 1350
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  4  
+  1  1  4  0  
+
+
+Tensor id: 1355
+Bid: 1355
+mus: 0 0 0 0 
+nvs: 2 2 6 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  5  
+  1  0  5  0  
+
+
+Tensor id: 1358
+Bid: 1358
+mus: 0 0 0 0 
+nvs: 2 4 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  1  
+  0  0  2  2  
+  1  2  0  2  
+  1  2  2  0  
+
+
+Tensor id: 1362
+Bid: 1362
+mus: 0 0 0 0 
+nvs: 2 4 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  1  
+  1  0  2  1  
+  0  2  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1367
+Bid: 1367
+mus: 0 0 0 0 
+nvs: 2 3 5 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  4  
+  0  2  4  0  
+
+
+Tensor id: 1372
+Bid: 1372
+mus: 0 0 0 0 
+nvs: 2 4 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  0  
+  1  0  0  3  
+  1  0  0  3  
+  0  3  3  0  
+
+
+Tensor id: 1376
+Bid: 1376
+mus: 0 0 0 0 
+nvs: 3 3 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  2  
+  0  0  1  2  
+  1  1  0  2  
+  2  2  2  0  
+
+
+Tensor id: 1380
+Bid: 1380
+mus: 0 0 0 0 
+nvs: 3 3 4 6 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  2  
+  1  0  1  1  
+  0  1  0  3  
+  2  1  3  0  
+
+
+Tensor id: 1385
+Bid: 1385
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  2  
+  0  0  2  1  
+  1  2  0  2  
+  2  1  2  0  
+
+
+Tensor id: 1388
+Bid: 1388
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  2  
+  0  0  2  2  
+  1  2  0  1  
+  2  2  1  0  
+
+
+Tensor id: 1393
+Bid: 1393
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  0  2  
+  1  0  2  0  
+  0  2  0  3  
+  2  0  3  0  
+
+
+Tensor id: 1396
+Bid: 1396
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  2  1  
+  0  0  1  3  
+  2  1  0  1  
+  1  3  1  0  
+
+
+Tensor id: 1401
+Bid: 1401
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  2  0  
+  1  0  0  3  
+  2  0  0  2  
+  0  3  2  0  
+
+
+Tensor id: 1406
+Bid: 1406
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  2  0  1  
+  2  0  1  0  
+  0  1  0  4  
+  1  0  4  0  
+
+
+Tensor id: 1409
+Bid: 1409
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  1  3  
+  0  0  3  1  
+  1  3  0  0  
+  3  1  0  0  
+
+
+Tensor id: 1411
+Bid: 1411
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  0  2  2  
+  0  0  2  2  
+  2  2  0  0  
+  2  2  0  0  
+
+
+Tensor id: 1413
+Bid: 1413
+mus: 0 0 0 0 
+nvs: 3 3 5 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1416
+Bid: 1416
+mus: 0 0 0 0 
+nvs: 3 4 4 5 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  1  
+  1  0  1  2  
+  1  1  0  2  
+  1  2  2  0  
+
+
+Tensor id: 1420
+Bid: 1420
+mus: 0 0 0 0 
+nvs: 4 4 4 4 
+level: 0 dim 4 maxpoly 16
+0 0 0 0
+  0  1  1  2  
+  1  0  2  1  
+  1  2  0  1  
+  2  1  1  0  
+
+
+Tensor id: 1422
+Bid: 1422
+mus: 0 0 0 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1423
+Bid: 1423
+mus: 0 0 0 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1425
+Bid: 1425
+mus: 0 0 0 1 
+nvs: 0 1 1 0 
+level: 0 dim 4 maxpoly 2
+0 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1427
+Bid: 1427
+mus: 0 0 0 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1429
+Bid: 1429
+mus: 0 0 0 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1431
+Bid: 1431
+mus: 0 0 0 1 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1434
+Bid: 1434
+mus: 0 0 0 1 
+nvs: 0 2 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1436
+Bid: 1436
+mus: 0 0 0 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1439
+Bid: 1439
+mus: 0 0 0 1 
+nvs: 1 1 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1442
+Bid: 1442
+mus: 0 0 0 1 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1444
+Bid: 1444
+mus: 0 0 0 1 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+
+Tensor id: 1447
+Bid: 1447
+mus: 0 0 0 1 
+nvs: 0 1 3 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1450
+Bid: 1450
+mus: 0 0 0 1 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1452
+Bid: 1452
+mus: 0 0 0 1 
+nvs: 0 2 3 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1455
+Bid: 1455
+mus: 0 0 0 1 
+nvs: 0 3 3 0 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  0  
+  0  0  3  0  
+  0  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1457
+Bid: 1457
+mus: 0 0 0 1 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+
+Tensor id: 1459
+Bid: 1459
+mus: 0 0 0 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+
+Tensor id: 1463
+Bid: 1463
+mus: 0 0 0 1 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  0  1  
+  0  0  2  0  
+  0  2  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1466
+Bid: 1466
+mus: 0 0 0 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1469
+Bid: 1469
+mus: 0 0 0 1 
+nvs: 1 1 3 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1472
+Bid: 1472
+mus: 0 0 0 1 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  1  0  
+  0  0  1  1  
+  1  1  0  0  
+  0  1  0  0  
+
+
+Tensor id: 1476
+Bid: 1476
+mus: 0 0 0 1 
+nvs: 1 2 3 0 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1480
+Bid: 1480
+mus: 0 0 0 1 
+nvs: 2 2 2 0 
+level: 0 dim 4 maxpoly 6
+0 0 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1482
+Bid: 1482
+mus: 0 0 0 1 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1484
+Bid: 1484
+mus: 0 0 0 1 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+
+Tensor id: 1487
+Bid: 1487
+mus: 0 0 0 1 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 1489
+Bid: 1489
+mus: 0 0 0 1 
+nvs: 0 1 4 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1492
+Bid: 1492
+mus: 0 0 0 1 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+
+Tensor id: 1495
+Bid: 1495
+mus: 0 0 0 1 
+nvs: 0 2 4 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1498
+Bid: 1498
+mus: 0 0 0 1 
+nvs: 0 3 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  2  1  
+  0  2  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1500
+Bid: 1500
+mus: 0 0 0 1 
+nvs: 0 3 4 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  3  0  
+  0  3  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1503
+Bid: 1503
+mus: 0 0 0 1 
+nvs: 0 4 4 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  0  
+  0  0  4  0  
+  0  4  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1505
+Bid: 1505
+mus: 0 0 0 1 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+
+Tensor id: 1508
+Bid: 1508
+mus: 0 0 0 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+
+Tensor id: 1512
+Bid: 1512
+mus: 0 0 0 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 1515
+Bid: 1515
+mus: 0 0 0 1 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  1  
+  0  0  2  0  
+  0  2  0  1  
+  1  0  1  0  
+
+
+Tensor id: 1519
+Bid: 1519
+mus: 0 0 0 1 
+nvs: 1 3 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  1  
+  0  0  3  0  
+  0  3  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1522
+Bid: 1522
+mus: 0 0 0 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  1  
+  0  2  1  0  
+
+
+Tensor id: 1526
+Bid: 1526
+mus: 0 0 0 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  0  
+  2  0  0  0  
+
+
+Tensor id: 1529
+Bid: 1529
+mus: 0 0 0 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1532
+Bid: 1532
+mus: 0 0 0 1 
+nvs: 1 1 4 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1535
+Bid: 1535
+mus: 0 0 0 1 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  1  1  
+  1  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1539
+Bid: 1539
+mus: 0 0 0 1 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1543
+Bid: 1543
+mus: 0 0 0 1 
+nvs: 1 2 4 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1547
+Bid: 1547
+mus: 0 0 0 1 
+nvs: 1 3 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  2  1  
+  1  2  0  0  
+  0  1  0  0  
+
+
+Tensor id: 1551
+Bid: 1551
+mus: 0 0 0 1 
+nvs: 1 3 4 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  0  
+  0  0  3  0  
+  1  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1555
+Bid: 1555
+mus: 0 0 0 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  0  
+  1  1  0  0  
+
+
+Tensor id: 1558
+Bid: 1558
+mus: 0 0 0 1 
+nvs: 2 2 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  1  1  
+  0  0  2  0  
+  1  2  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1562
+Bid: 1562
+mus: 0 0 0 1 
+nvs: 2 2 4 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  0  2  0  
+  0  0  2  0  
+  2  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1565
+Bid: 1565
+mus: 0 0 0 1 
+nvs: 2 2 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1568
+Bid: 1568
+mus: 0 0 0 1 
+nvs: 2 3 3 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 1
+  0  1  1  0  
+  1  0  2  0  
+  1  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1571
+Bid: 1571
+mus: 0 0 0 1 
+nvs: 0 0 5 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+
+Tensor id: 1573
+Bid: 1573
+mus: 0 0 0 1 
+nvs: 0 1 4 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+
+Tensor id: 1576
+Bid: 1576
+mus: 0 0 0 1 
+nvs: 0 2 3 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  3  
+  0  2  3  0  
+
+
+Tensor id: 1579
+Bid: 1579
+mus: 0 0 0 1 
+nvs: 0 1 5 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1582
+Bid: 1582
+mus: 0 0 0 1 
+nvs: 0 2 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+
+Tensor id: 1585
+Bid: 1585
+mus: 0 0 0 1 
+nvs: 0 3 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  2  
+  0  2  2  0  
+
+
+Tensor id: 1587
+Bid: 1587
+mus: 0 0 0 1 
+nvs: 0 2 5 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1590
+Bid: 1590
+mus: 0 0 0 1 
+nvs: 0 3 4 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  2  1  
+  0  2  0  2  
+  0  1  2  0  
+
+
+Tensor id: 1593
+Bid: 1593
+mus: 0 0 0 1 
+nvs: 0 3 5 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  3  0  
+  0  3  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1596
+Bid: 1596
+mus: 0 0 0 1 
+nvs: 0 4 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  3  1  
+  0  3  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1598
+Bid: 1598
+mus: 0 0 0 1 
+nvs: 0 4 5 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  4  0  
+  0  4  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1601
+Bid: 1601
+mus: 0 0 0 1 
+nvs: 0 5 5 0 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  0  
+  0  0  5  0  
+  0  5  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1603
+Bid: 1603
+mus: 0 0 0 1 
+nvs: 1 1 3 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1606
+Bid: 1606
+mus: 0 0 0 1 
+nvs: 1 2 2 5 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  2  
+  1  2  2  0  
+
+
+Tensor id: 1609
+Bid: 1609
+mus: 0 0 0 1 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+
+Tensor id: 1613
+Bid: 1613
+mus: 0 0 0 1 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  2  
+  1  1  2  0  
+
+
+Tensor id: 1617
+Bid: 1617
+mus: 0 0 0 1 
+nvs: 1 2 4 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  2  0  
+  0  2  0  2  
+  1  0  2  0  
+
+
+Tensor id: 1621
+Bid: 1621
+mus: 0 0 0 1 
+nvs: 1 3 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  1  
+  1  1  1  0  
+
+
+Tensor id: 1624
+Bid: 1624
+mus: 0 0 0 1 
+nvs: 1 3 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  3  0  
+  0  3  0  1  
+  1  0  1  0  
+
+
+Tensor id: 1628
+Bid: 1628
+mus: 0 0 0 1 
+nvs: 1 4 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  1  
+  0  0  4  0  
+  0  4  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1631
+Bid: 1631
+mus: 0 0 0 1 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 1635
+Bid: 1635
+mus: 0 0 0 1 
+nvs: 2 2 2 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  1  
+  2  1  1  0  
+
+
+Tensor id: 1638
+Bid: 1638
+mus: 0 0 0 1 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  1  
+  2  0  1  0  
+
+
+Tensor id: 1642
+Bid: 1642
+mus: 0 0 0 1 
+nvs: 2 3 3 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  0  2  
+  0  0  3  0  
+  0  3  0  0  
+  2  0  0  0  
+
+
+Tensor id: 1645
+Bid: 1645
+mus: 0 0 0 1 
+nvs: 1 2 3 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+
+Tensor id: 1649
+Bid: 1649
+mus: 0 0 0 1 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1652
+Bid: 1652
+mus: 0 0 0 1 
+nvs: 1 1 4 4 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1655
+Bid: 1655
+mus: 0 0 0 1 
+nvs: 1 1 5 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1658
+Bid: 1658
+mus: 0 0 0 1 
+nvs: 1 2 4 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  1  1  
+  1  1  0  2  
+  0  1  2  0  
+
+
+Tensor id: 1662
+Bid: 1662
+mus: 0 0 0 1 
+nvs: 1 3 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  1  2  
+  1  1  0  1  
+  0  2  1  0  
+
+
+Tensor id: 1666
+Bid: 1666
+mus: 0 0 0 1 
+nvs: 1 2 4 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1670
+Bid: 1670
+mus: 0 0 0 1 
+nvs: 1 2 5 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1674
+Bid: 1674
+mus: 0 0 0 1 
+nvs: 1 3 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  2  1  
+  1  2  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1678
+Bid: 1678
+mus: 0 0 0 1 
+nvs: 1 3 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  0  
+  1  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1682
+Bid: 1682
+mus: 0 0 0 1 
+nvs: 1 3 5 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  3  0  
+  1  3  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1686
+Bid: 1686
+mus: 0 0 0 1 
+nvs: 1 4 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  3  1  
+  1  3  0  0  
+  0  1  0  0  
+
+
+Tensor id: 1690
+Bid: 1690
+mus: 0 0 0 1 
+nvs: 1 4 5 0 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  0  
+  0  0  4  0  
+  1  4  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1694
+Bid: 1694
+mus: 0 0 0 1 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 1697
+Bid: 1697
+mus: 0 0 0 1 
+nvs: 2 2 3 3 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+
+Tensor id: 1701
+Bid: 1701
+mus: 0 0 0 1 
+nvs: 2 2 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  1  
+  0  0  2  0  
+  1  2  0  1  
+  1  0  1  0  
+
+
+Tensor id: 1705
+Bid: 1705
+mus: 0 0 0 1 
+nvs: 2 3 3 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  1  
+  0  0  2  1  
+  1  2  0  0  
+  1  1  0  0  
+
+
+Tensor id: 1709
+Bid: 1709
+mus: 0 0 0 1 
+nvs: 2 3 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  1  1  
+  0  0  3  0  
+  1  3  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1713
+Bid: 1713
+mus: 0 0 0 1 
+nvs: 2 3 3 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  2  0  
+  0  0  1  2  
+  2  1  0  0  
+  0  2  0  0  
+
+
+Tensor id: 1717
+Bid: 1717
+mus: 0 0 0 1 
+nvs: 2 2 5 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  2  0  
+  0  0  2  0  
+  2  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1720
+Bid: 1720
+mus: 0 0 0 1 
+nvs: 2 3 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  2  0  
+  0  0  2  1  
+  2  2  0  0  
+  0  1  0  0  
+
+
+Tensor id: 1724
+Bid: 1724
+mus: 0 0 0 1 
+nvs: 2 3 5 0 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  0  2  0  
+  0  0  3  0  
+  2  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1728
+Bid: 1728
+mus: 0 0 0 1 
+nvs: 2 2 4 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1731
+Bid: 1731
+mus: 0 0 0 1 
+nvs: 2 3 3 2 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  1  1  
+  1  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1734
+Bid: 1734
+mus: 0 0 0 1 
+nvs: 2 3 4 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  2  0  
+  1  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1738
+Bid: 1738
+mus: 0 0 0 1 
+nvs: 2 4 4 0 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  0  
+  1  0  3  0  
+  1  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1741
+Bid: 1741
+mus: 0 0 0 1 
+nvs: 3 3 3 1 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  1  1  
+  1  0  2  0  
+  1  2  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1744
+Bid: 1744
+mus: 0 0 0 1 
+nvs: 3 3 4 0 
+level: 0 dim 4 maxpoly 10
+0 0 0 1
+  0  1  2  0  
+  1  0  2  0  
+  2  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1747
+Bid: 1747
+mus: 0 0 0 1 
+nvs: 0 0 6 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  6  
+  0  0  6  0  
+
+
+Tensor id: 1749
+Bid: 1749
+mus: 0 0 0 1 
+nvs: 0 1 5 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  5  
+  0  1  5  0  
+
+
+Tensor id: 1752
+Bid: 1752
+mus: 0 0 0 1 
+nvs: 0 2 4 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  4  
+  0  2  4  0  
+
+
+Tensor id: 1755
+Bid: 1755
+mus: 0 0 0 1 
+nvs: 0 3 3 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  3  
+  0  3  3  0  
+
+
+Tensor id: 1757
+Bid: 1757
+mus: 0 0 0 1 
+nvs: 0 1 6 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  5  
+  0  0  5  0  
+
+
+Tensor id: 1760
+Bid: 1760
+mus: 0 0 0 1 
+nvs: 0 2 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  4  
+  0  1  4  0  
+
+
+Tensor id: 1763
+Bid: 1763
+mus: 0 0 0 1 
+nvs: 0 3 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  3  
+  0  2  3  0  
+
+
+Tensor id: 1766
+Bid: 1766
+mus: 0 0 0 1 
+nvs: 0 2 6 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1769
+Bid: 1769
+mus: 0 0 0 1 
+nvs: 0 3 5 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  2  1  
+  0  2  0  3  
+  0  1  3  0  
+
+
+Tensor id: 1772
+Bid: 1772
+mus: 0 0 0 1 
+nvs: 0 4 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  2  2  
+  0  2  0  2  
+  0  2  2  0  
+
+
+Tensor id: 1774
+Bid: 1774
+mus: 0 0 0 1 
+nvs: 0 3 6 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  3  0  
+  0  3  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1777
+Bid: 1777
+mus: 0 0 0 1 
+nvs: 0 4 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  3  1  
+  0  3  0  2  
+  0  1  2  0  
+
+
+Tensor id: 1780
+Bid: 1780
+mus: 0 0 0 1 
+nvs: 0 4 6 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  4  0  
+  0  4  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1783
+Bid: 1783
+mus: 0 0 0 1 
+nvs: 0 5 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  4  1  
+  0  4  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1785
+Bid: 1785
+mus: 0 0 0 1 
+nvs: 0 5 6 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  5  0  
+  0  5  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1788
+Bid: 1788
+mus: 0 0 0 1 
+nvs: 0 6 6 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  0  
+  0  0  6  0  
+  0  6  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1790
+Bid: 1790
+mus: 0 0 0 1 
+nvs: 1 1 4 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  4  
+  1  1  4  0  
+
+
+Tensor id: 1793
+Bid: 1793
+mus: 0 0 0 1 
+nvs: 1 2 3 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  3  
+  1  2  3  0  
+
+
+Tensor id: 1797
+Bid: 1797
+mus: 0 0 0 1 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  4  
+  1  0  4  0  
+
+
+Tensor id: 1801
+Bid: 1801
+mus: 0 0 0 1 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1805
+Bid: 1805
+mus: 0 0 0 1 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  2  
+  1  2  2  0  
+
+
+Tensor id: 1808
+Bid: 1808
+mus: 0 0 0 1 
+nvs: 1 2 5 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  2  0  
+  0  2  0  3  
+  1  0  3  0  
+
+
+Tensor id: 1812
+Bid: 1812
+mus: 0 0 0 1 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  2  
+  1  1  2  0  
+
+
+Tensor id: 1816
+Bid: 1816
+mus: 0 0 0 1 
+nvs: 1 3 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  3  0  
+  0  3  0  2  
+  1  0  2  0  
+
+
+Tensor id: 1820
+Bid: 1820
+mus: 0 0 0 1 
+nvs: 1 4 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  3  1  
+  0  3  0  1  
+  1  1  1  0  
+
+
+Tensor id: 1823
+Bid: 1823
+mus: 0 0 0 1 
+nvs: 1 4 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  4  0  
+  0  4  0  1  
+  1  0  1  0  
+
+
+Tensor id: 1827
+Bid: 1827
+mus: 0 0 0 1 
+nvs: 1 5 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  1  
+  0  0  5  0  
+  0  5  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1830
+Bid: 1830
+mus: 0 0 0 1 
+nvs: 2 2 2 6 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  2  
+  2  2  2  0  
+
+
+Tensor id: 1832
+Bid: 1832
+mus: 0 0 0 1 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  3  
+  0  2  3  0  
+
+
+Tensor id: 1836
+Bid: 1836
+mus: 0 0 0 1 
+nvs: 2 2 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  2  
+  2  1  2  0  
+
+
+Tensor id: 1840
+Bid: 1840
+mus: 0 0 0 1 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  2  
+  2  0  2  0  
+
+
+Tensor id: 1844
+Bid: 1844
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  2  1  
+  0  2  0  1  
+  2  1  1  0  
+
+
+Tensor id: 1847
+Bid: 1847
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  3  0  
+  0  3  0  1  
+  2  0  1  0  
+
+
+Tensor id: 1851
+Bid: 1851
+mus: 0 0 0 1 
+nvs: 2 4 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  2  
+  0  0  4  0  
+  0  4  0  0  
+  2  0  0  0  
+
+
+Tensor id: 1854
+Bid: 1854
+mus: 0 0 0 1 
+nvs: 1 3 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  0  3  
+  1  0  0  2  
+  0  3  2  0  
+
+
+Tensor id: 1858
+Bid: 1858
+mus: 0 0 0 1 
+nvs: 2 2 3 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  3  
+  1  1  3  0  
+
+
+Tensor id: 1861
+Bid: 1861
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  0  3  
+  2  0  0  1  
+  0  3  1  0  
+
+
+Tensor id: 1865
+Bid: 1865
+mus: 0 0 0 1 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  0  3  
+  0  0  3  0  
+  0  3  0  0  
+  3  0  0  0  
+
+
+Tensor id: 1868
+Bid: 1868
+mus: 0 0 0 1 
+nvs: 1 2 4 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  4  
+  0  1  4  0  
+
+
+Tensor id: 1872
+Bid: 1872
+mus: 0 0 0 1 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1875
+Bid: 1875
+mus: 0 0 0 1 
+nvs: 1 1 5 5 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  5  
+  0  0  5  0  
+
+
+Tensor id: 1878
+Bid: 1878
+mus: 0 0 0 1 
+nvs: 1 1 6 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1881
+Bid: 1881
+mus: 0 0 0 1 
+nvs: 1 2 5 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  1  1  
+  1  1  0  3  
+  0  1  3  0  
+
+
+Tensor id: 1885
+Bid: 1885
+mus: 0 0 0 1 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  1  2  
+  1  1  0  2  
+  0  2  2  0  
+
+
+Tensor id: 1889
+Bid: 1889
+mus: 0 0 0 1 
+nvs: 1 3 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  3  
+  0  1  3  0  
+
+
+Tensor id: 1893
+Bid: 1893
+mus: 0 0 0 1 
+nvs: 1 2 5 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  4  
+  0  0  4  0  
+
+
+Tensor id: 1897
+Bid: 1897
+mus: 0 0 0 1 
+nvs: 1 2 6 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1901
+Bid: 1901
+mus: 0 0 0 1 
+nvs: 1 3 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  2  1  
+  1  2  0  2  
+  0  1  2  0  
+
+
+Tensor id: 1905
+Bid: 1905
+mus: 0 0 0 1 
+nvs: 1 4 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  2  2  
+  1  2  0  1  
+  0  2  1  0  
+
+
+Tensor id: 1909
+Bid: 1909
+mus: 0 0 0 1 
+nvs: 1 3 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  2  0  
+  0  2  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1913
+Bid: 1913
+mus: 0 0 0 1 
+nvs: 1 3 6 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  3  0  
+  1  3  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1917
+Bid: 1917
+mus: 0 0 0 1 
+nvs: 1 4 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  3  1  
+  1  3  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1921
+Bid: 1921
+mus: 0 0 0 1 
+nvs: 1 4 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  0  
+  1  0  3  0  
+  0  3  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1925
+Bid: 1925
+mus: 0 0 0 1 
+nvs: 1 4 6 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  4  0  
+  1  4  0  1  
+  0  0  1  0  
+
+
+Tensor id: 1929
+Bid: 1929
+mus: 0 0 0 1 
+nvs: 1 5 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  4  1  
+  1  4  0  0  
+  0  1  0  0  
+
+
+Tensor id: 1933
+Bid: 1933
+mus: 0 0 0 1 
+nvs: 1 5 6 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  0  
+  0  0  5  0  
+  1  5  0  0  
+  0  0  0  0  
+
+
+Tensor id: 1937
+Bid: 1937
+mus: 0 0 0 1 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  2  
+  1  1  2  0  
+
+
+Tensor id: 1940
+Bid: 1940
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  1  2  
+  1  1  0  1  
+  1  2  1  0  
+
+
+Tensor id: 1944
+Bid: 1944
+mus: 0 0 0 1 
+nvs: 2 2 4 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  3  
+  1  0  3  0  
+
+
+Tensor id: 1948
+Bid: 1948
+mus: 0 0 0 1 
+nvs: 2 2 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  2  0  
+  1  2  0  2  
+  1  0  2  0  
+
+
+Tensor id: 1952
+Bid: 1952
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  2  1  
+  1  2  0  1  
+  1  1  1  0  
+
+
+Tensor id: 1956
+Bid: 1956
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  0  1  
+  1  0  2  0  
+  0  2  0  2  
+  1  0  2  0  
+
+
+Tensor id: 1960
+Bid: 1960
+mus: 0 0 0 1 
+nvs: 2 3 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  3  0  
+  1  3  0  1  
+  1  0  1  0  
+
+
+Tensor id: 1964
+Bid: 1964
+mus: 0 0 0 1 
+nvs: 2 4 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  3  1  
+  1  3  0  0  
+  1  1  0  0  
+
+
+Tensor id: 1968
+Bid: 1968
+mus: 0 0 0 1 
+nvs: 2 4 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  1  
+  0  0  4  0  
+  1  4  0  0  
+  1  0  0  0  
+
+
+Tensor id: 1972
+Bid: 1972
+mus: 0 0 0 1 
+nvs: 2 3 3 4 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 1975
+Bid: 1975
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  1  2  
+  2  1  0  1  
+  0  2  1  0  
+
+
+Tensor id: 1979
+Bid: 1979
+mus: 0 0 0 1 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  2  
+  0  0  2  1  
+  1  2  0  0  
+  2  1  0  0  
+
+
+Tensor id: 1983
+Bid: 1983
+mus: 0 0 0 1 
+nvs: 3 3 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  1  2  
+  0  0  3  0  
+  1  3  0  0  
+  2  0  0  0  
+
+
+Tensor id: 1987
+Bid: 1987
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  0  0  
+  2  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+
+Tensor id: 1991
+Bid: 1991
+mus: 0 0 0 1 
+nvs: 2 2 6 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  2  0  
+  2  2  0  2  
+  0  0  2  0  
+
+
+Tensor id: 1994
+Bid: 1994
+mus: 0 0 0 1 
+nvs: 2 3 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  2  1  
+  2  2  0  1  
+  0  1  1  0  
+
+
+Tensor id: 1998
+Bid: 1998
+mus: 0 0 0 1 
+nvs: 2 4 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  2  2  
+  2  2  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2002
+Bid: 2002
+mus: 0 0 0 1 
+nvs: 2 3 6 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  3  0  
+  2  3  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2006
+Bid: 2006
+mus: 0 0 0 1 
+nvs: 2 4 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  3  1  
+  2  3  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2010
+Bid: 2010
+mus: 0 0 0 1 
+nvs: 2 4 6 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  0  
+  0  0  4  0  
+  2  4  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2014
+Bid: 2014
+mus: 0 0 0 1 
+nvs: 3 3 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  1  
+  0  0  2  1  
+  2  2  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2017
+Bid: 2017
+mus: 0 0 0 1 
+nvs: 3 3 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  2  1  
+  0  0  3  0  
+  2  3  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2021
+Bid: 2021
+mus: 0 0 0 1 
+nvs: 3 3 6 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  0  3  0  
+  0  0  3  0  
+  3  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2024
+Bid: 2024
+mus: 0 0 0 1 
+nvs: 2 2 5 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  3  
+  0  0  3  0  
+
+
+Tensor id: 2027
+Bid: 2027
+mus: 0 0 0 1 
+nvs: 2 3 4 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  1  1  
+  1  1  0  2  
+  0  1  2  0  
+
+
+Tensor id: 2031
+Bid: 2031
+mus: 0 0 0 1 
+nvs: 2 3 5 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  2  0  
+  1  2  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2035
+Bid: 2035
+mus: 0 0 0 1 
+nvs: 2 4 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  2  1  
+  1  2  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2038
+Bid: 2038
+mus: 0 0 0 1 
+nvs: 2 4 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  3  0  
+  1  3  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2042
+Bid: 2042
+mus: 0 0 0 1 
+nvs: 2 5 5 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  0  
+  1  0  4  0  
+  1  4  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2045
+Bid: 2045
+mus: 0 0 0 1 
+nvs: 3 3 3 3 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  1  
+  1  0  1  1  
+  1  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 2047
+Bid: 2047
+mus: 0 0 0 1 
+nvs: 3 3 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  1  
+  1  0  2  0  
+  1  2  0  1  
+  1  0  1  0  
+
+
+Tensor id: 2051
+Bid: 2051
+mus: 0 0 0 1 
+nvs: 3 4 4 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  1  1  
+  1  0  3  0  
+  1  3  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2054
+Bid: 2054
+mus: 0 0 0 1 
+nvs: 3 3 4 2 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  1  0  
+  2  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2057
+Bid: 2057
+mus: 0 0 0 1 
+nvs: 3 3 5 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  2  0  
+  1  0  2  0  
+  2  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2060
+Bid: 2060
+mus: 0 0 0 1 
+nvs: 3 4 4 1 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  2  0  
+  1  0  2  1  
+  2  2  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2064
+Bid: 2064
+mus: 0 0 0 1 
+nvs: 3 4 5 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  1  2  0  
+  1  0  3  0  
+  2  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2068
+Bid: 2068
+mus: 0 0 0 1 
+nvs: 4 4 4 0 
+level: 0 dim 4 maxpoly 12
+0 0 0 1
+  0  2  2  0  
+  2  0  2  0  
+  2  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2070
+Bid: 2070
+mus: 0 0 0 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2071
+Bid: 2071
+mus: 0 0 1 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2072
+Bid: 2072
+mus: 0 0 0 2 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2074
+Bid: 2074
+mus: 0 0 0 2 
+nvs: 0 1 1 0 
+level: 0 dim 4 maxpoly 2
+0 0 0 2
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2076
+Bid: 2076
+mus: 0 0 1 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2077
+Bid: 2077
+mus: 0 0 1 1 
+nvs: 0 1 0 1 
+level: 0 dim 4 maxpoly 2
+0 0 1 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2079
+Bid: 2079
+mus: 0 0 1 1 
+nvs: 1 1 0 0 
+level: 0 dim 4 maxpoly 2
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2081
+Bid: 2081
+mus: 0 0 0 2 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2083
+Bid: 2083
+mus: 0 0 0 2 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2085
+Bid: 2085
+mus: 0 0 0 2 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2088
+Bid: 2088
+mus: 0 0 0 2 
+nvs: 0 2 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2090
+Bid: 2090
+mus: 0 0 0 2 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2093
+Bid: 2093
+mus: 0 0 0 2 
+nvs: 1 1 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 2
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2096
+Bid: 2096
+mus: 0 0 1 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2097
+Bid: 2097
+mus: 0 0 1 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2099
+Bid: 2099
+mus: 0 0 1 1 
+nvs: 0 2 0 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2101
+Bid: 2101
+mus: 0 0 1 1 
+nvs: 0 2 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2103
+Bid: 2103
+mus: 0 0 1 1 
+nvs: 1 1 0 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2105
+Bid: 2105
+mus: 0 0 1 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2107
+Bid: 2107
+mus: 0 0 1 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2109
+Bid: 2109
+mus: 0 0 1 1 
+nvs: 1 2 0 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2112
+Bid: 2112
+mus: 0 0 1 1 
+nvs: 2 2 0 0 
+level: 0 dim 4 maxpoly 4
+0 0 1 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2114
+Bid: 2114
+mus: 0 0 0 2 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 2116
+Bid: 2116
+mus: 0 0 0 2 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+
+Tensor id: 2119
+Bid: 2119
+mus: 0 0 0 2 
+nvs: 0 1 3 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2122
+Bid: 2122
+mus: 0 0 0 2 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2124
+Bid: 2124
+mus: 0 0 0 2 
+nvs: 0 2 3 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2127
+Bid: 2127
+mus: 0 0 0 2 
+nvs: 0 3 3 0 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  0  
+  0  0  3  0  
+  0  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2129
+Bid: 2129
+mus: 0 0 0 2 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+
+Tensor id: 2131
+Bid: 2131
+mus: 0 0 0 2 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+
+Tensor id: 2135
+Bid: 2135
+mus: 0 0 0 2 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  0  1  
+  0  0  2  0  
+  0  2  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2138
+Bid: 2138
+mus: 0 0 0 2 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2141
+Bid: 2141
+mus: 0 0 0 2 
+nvs: 1 1 3 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2144
+Bid: 2144
+mus: 0 0 0 2 
+nvs: 1 2 2 1 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  1  0  
+  0  0  1  1  
+  1  1  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2148
+Bid: 2148
+mus: 0 0 0 2 
+nvs: 1 2 3 0 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2152
+Bid: 2152
+mus: 0 0 0 2 
+nvs: 2 2 2 0 
+level: 0 dim 4 maxpoly 6
+0 0 0 2
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2154
+Bid: 2154
+mus: 0 0 1 1 
+nvs: 0 0 3 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 2155
+Bid: 2155
+mus: 0 0 1 1 
+nvs: 0 1 2 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+
+Tensor id: 2157
+Bid: 2157
+mus: 0 0 1 1 
+nvs: 0 2 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+
+Tensor id: 2159
+Bid: 2159
+mus: 0 0 1 1 
+nvs: 0 3 0 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  0  
+  0  3  0  0  
+
+
+Tensor id: 2161
+Bid: 2161
+mus: 0 0 1 1 
+nvs: 0 2 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2163
+Bid: 2163
+mus: 0 0 1 1 
+nvs: 0 3 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2165
+Bid: 2165
+mus: 0 0 1 1 
+nvs: 1 1 1 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+
+Tensor id: 2167
+Bid: 2167
+mus: 0 0 1 1 
+nvs: 1 2 0 3 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  0  
+  1  2  0  0  
+
+
+Tensor id: 2170
+Bid: 2170
+mus: 0 0 1 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+
+Tensor id: 2172
+Bid: 2172
+mus: 0 0 1 1 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2175
+Bid: 2175
+mus: 0 0 1 1 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2178
+Bid: 2178
+mus: 0 0 1 1 
+nvs: 1 1 2 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2180
+Bid: 2180
+mus: 0 0 1 1 
+nvs: 1 2 1 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2183
+Bid: 2183
+mus: 0 0 1 1 
+nvs: 1 3 0 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2186
+Bid: 2186
+mus: 0 0 1 1 
+nvs: 1 3 1 1 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2189
+Bid: 2189
+mus: 0 0 1 1 
+nvs: 2 2 0 2 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2191
+Bid: 2191
+mus: 0 0 1 1 
+nvs: 2 2 1 1 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2193
+Bid: 2193
+mus: 0 0 1 1 
+nvs: 2 2 1 1 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2195
+Bid: 2195
+mus: 0 0 1 1 
+nvs: 2 3 0 1 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2198
+Bid: 2198
+mus: 0 0 1 1 
+nvs: 3 3 0 0 
+level: 0 dim 4 maxpoly 6
+0 0 1 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2200
+Bid: 2200
+mus: 0 0 0 2 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 2202
+Bid: 2202
+mus: 0 0 0 2 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+
+Tensor id: 2205
+Bid: 2205
+mus: 0 0 0 2 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 2207
+Bid: 2207
+mus: 0 0 0 2 
+nvs: 0 1 4 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  3  
+  0  0  3  0  
+
+
+Tensor id: 2210
+Bid: 2210
+mus: 0 0 0 2 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+
+Tensor id: 2213
+Bid: 2213
+mus: 0 0 0 2 
+nvs: 0 2 4 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2216
+Bid: 2216
+mus: 0 0 0 2 
+nvs: 0 3 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  2  1  
+  0  2  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2218
+Bid: 2218
+mus: 0 0 0 2 
+nvs: 0 3 4 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  3  0  
+  0  3  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2221
+Bid: 2221
+mus: 0 0 0 2 
+nvs: 0 4 4 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  0  
+  0  0  4  0  
+  0  4  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2223
+Bid: 2223
+mus: 0 0 0 2 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+
+Tensor id: 2226
+Bid: 2226
+mus: 0 0 0 2 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+
+Tensor id: 2230
+Bid: 2230
+mus: 0 0 0 2 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 2233
+Bid: 2233
+mus: 0 0 0 2 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  1  
+  0  0  2  0  
+  0  2  0  1  
+  1  0  1  0  
+
+
+Tensor id: 2237
+Bid: 2237
+mus: 0 0 0 2 
+nvs: 1 3 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  1  
+  0  0  3  0  
+  0  3  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2240
+Bid: 2240
+mus: 0 0 0 2 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  1  
+  0  2  1  0  
+
+
+Tensor id: 2244
+Bid: 2244
+mus: 0 0 0 2 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  0  
+  2  0  0  0  
+
+
+Tensor id: 2247
+Bid: 2247
+mus: 0 0 0 2 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 2250
+Bid: 2250
+mus: 0 0 0 2 
+nvs: 1 1 4 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2253
+Bid: 2253
+mus: 0 0 0 2 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  0  
+  0  0  1  1  
+  1  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2257
+Bid: 2257
+mus: 0 0 0 2 
+nvs: 1 2 3 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2261
+Bid: 2261
+mus: 0 0 0 2 
+nvs: 1 2 4 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  0  
+  0  0  2  0  
+  1  2  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2265
+Bid: 2265
+mus: 0 0 0 2 
+nvs: 1 3 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  0  
+  0  0  2  1  
+  1  2  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2269
+Bid: 2269
+mus: 0 0 0 2 
+nvs: 1 3 4 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  0  
+  0  0  3  0  
+  1  3  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2273
+Bid: 2273
+mus: 0 0 0 2 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2276
+Bid: 2276
+mus: 0 0 0 2 
+nvs: 2 2 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  1  1  
+  0  0  2  0  
+  1  2  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2280
+Bid: 2280
+mus: 0 0 0 2 
+nvs: 2 2 4 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  0  2  0  
+  0  0  2  0  
+  2  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2283
+Bid: 2283
+mus: 0 0 0 2 
+nvs: 2 2 3 1 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  1  0  
+  1  0  1  0  
+  1  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2286
+Bid: 2286
+mus: 0 0 0 2 
+nvs: 2 3 3 0 
+level: 0 dim 4 maxpoly 8
+0 0 0 2
+  0  1  1  0  
+  1  0  2  0  
+  1  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2289
+Bid: 2289
+mus: 0 0 1 1 
+nvs: 0 0 4 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  4  
+  0  0  4  0  
+
+
+Tensor id: 2290
+Bid: 2290
+mus: 0 0 1 1 
+nvs: 0 1 3 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  3  
+  0  1  3  0  
+
+
+Tensor id: 2292
+Bid: 2292
+mus: 0 0 1 1 
+nvs: 0 2 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  2  
+  0  2  2  0  
+
+
+Tensor id: 2294
+Bid: 2294
+mus: 0 0 1 1 
+nvs: 0 3 1 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  3  
+  0  0  0  1  
+  0  3  1  0  
+
+
+Tensor id: 2296
+Bid: 2296
+mus: 0 0 1 1 
+nvs: 0 4 0 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  0  4  
+  0  0  0  0  
+  0  4  0  0  
+
+
+Tensor id: 2298
+Bid: 2298
+mus: 0 0 1 1 
+nvs: 0 2 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  2  
+  0  1  2  0  
+
+
+Tensor id: 2300
+Bid: 2300
+mus: 0 0 1 1 
+nvs: 0 3 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  1  2  
+  0  1  0  1  
+  0  2  1  0  
+
+
+Tensor id: 2302
+Bid: 2302
+mus: 0 0 1 1 
+nvs: 0 4 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  1  3  
+  0  1  0  0  
+  0  3  0  0  
+
+
+Tensor id: 2304
+Bid: 2304
+mus: 0 0 1 1 
+nvs: 0 4 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  0  
+  0  0  2  2  
+  0  2  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2306
+Bid: 2306
+mus: 0 0 1 1 
+nvs: 1 1 2 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  2  
+  1  1  2  0  
+
+
+Tensor id: 2308
+Bid: 2308
+mus: 0 0 1 1 
+nvs: 1 2 1 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  0  2  
+  0  0  0  1  
+  1  2  1  0  
+
+
+Tensor id: 2311
+Bid: 2311
+mus: 0 0 1 1 
+nvs: 1 3 0 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  0  3  
+  0  0  0  0  
+  1  3  0  0  
+
+
+Tensor id: 2314
+Bid: 2314
+mus: 0 0 1 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  2  
+  1  0  2  0  
+
+
+Tensor id: 2316
+Bid: 2316
+mus: 0 0 1 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  1  1  
+  0  1  0  1  
+  1  1  1  0  
+
+
+Tensor id: 2319
+Bid: 2319
+mus: 0 0 1 1 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  1  2  
+  0  1  0  0  
+  1  2  0  0  
+
+
+Tensor id: 2322
+Bid: 2322
+mus: 0 0 1 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  1  0  
+  0  0  0  2  
+  1  0  0  1  
+  0  2  1  0  
+
+
+Tensor id: 2325
+Bid: 2325
+mus: 0 0 1 1 
+nvs: 1 3 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  1  
+  0  0  2  1  
+  0  2  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2328
+Bid: 2328
+mus: 0 0 1 1 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  1  0  
+  0  0  0  3  
+  1  0  0  0  
+  0  3  0  0  
+
+
+Tensor id: 2331
+Bid: 2331
+mus: 0 0 1 1 
+nvs: 2 2 0 4 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  2  
+  0  0  0  2  
+  0  0  0  0  
+  2  2  0  0  
+
+
+Tensor id: 2333
+Bid: 2333
+mus: 0 0 1 1 
+nvs: 2 2 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  2  
+  0  0  1  1  
+  0  1  0  0  
+  2  1  0  0  
+
+
+Tensor id: 2336
+Bid: 2336
+mus: 0 0 1 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  0  2  
+  0  0  2  0  
+  0  2  0  0  
+  2  0  0  0  
+
+
+Tensor id: 2338
+Bid: 2338
+mus: 0 0 1 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  0  1  1  
+  0  0  1  1  
+  1  1  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2340
+Bid: 2340
+mus: 0 0 1 1 
+nvs: 1 1 3 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  3  
+  0  0  3  0  
+
+
+Tensor id: 2342
+Bid: 2342
+mus: 0 0 1 1 
+nvs: 1 2 2 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  2  
+  0  1  2  0  
+
+
+Tensor id: 2345
+Bid: 2345
+mus: 0 0 1 1 
+nvs: 1 3 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  2  
+  0  0  0  1  
+  0  2  1  0  
+
+
+Tensor id: 2348
+Bid: 2348
+mus: 0 0 1 1 
+nvs: 1 4 0 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  0  3  
+  0  0  0  0  
+  0  3  0  0  
+
+
+Tensor id: 2351
+Bid: 2351
+mus: 0 0 1 1 
+nvs: 1 3 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  1  1  
+  0  1  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2354
+Bid: 2354
+mus: 0 0 1 1 
+nvs: 1 4 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  0  
+  1  0  1  2  
+  0  1  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2357
+Bid: 2357
+mus: 0 0 1 1 
+nvs: 2 2 1 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  1  
+  1  0  0  1  
+  0  0  0  1  
+  1  1  1  0  
+
+
+Tensor id: 2359
+Bid: 2359
+mus: 0 0 1 1 
+nvs: 2 3 0 3 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  1  
+  1  0  0  2  
+  0  0  0  0  
+  1  2  0  0  
+
+
+Tensor id: 2362
+Bid: 2362
+mus: 0 0 1 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  1  
+  1  0  1  0  
+  0  1  0  1  
+  1  0  1  0  
+
+
+Tensor id: 2364
+Bid: 2364
+mus: 0 0 1 1 
+nvs: 2 3 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  0  1  
+  1  0  1  1  
+  0  1  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2367
+Bid: 2367
+mus: 0 0 1 1 
+nvs: 2 3 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  1  1  0  
+  1  0  0  2  
+  1  0  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2370
+Bid: 2370
+mus: 0 0 1 1 
+nvs: 2 2 2 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2372
+Bid: 2372
+mus: 0 0 1 1 
+nvs: 2 3 1 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  0  
+  2  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2375
+Bid: 2375
+mus: 0 0 1 1 
+nvs: 2 4 0 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  0  
+  2  0  0  2  
+  0  0  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2378
+Bid: 2378
+mus: 0 0 1 1 
+nvs: 2 4 1 1 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  0  
+  2  0  1  1  
+  0  1  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2381
+Bid: 2381
+mus: 0 0 1 1 
+nvs: 3 3 0 2 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  1  
+  2  0  0  1  
+  0  0  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2383
+Bid: 2383
+mus: 0 0 1 1 
+nvs: 3 3 1 1 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  2  0  1  
+  2  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2385
+Bid: 2385
+mus: 0 0 1 1 
+nvs: 3 3 1 1 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  3  0  0  
+  3  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2387
+Bid: 2387
+mus: 0 0 1 1 
+nvs: 3 4 0 1 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  3  0  0  
+  3  0  0  1  
+  0  0  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2390
+Bid: 2390
+mus: 0 0 1 1 
+nvs: 4 4 0 0 
+level: 0 dim 4 maxpoly 8
+0 0 1 1
+  0  4  0  0  
+  4  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2392
+Bid: 2392
+mus: 0 0 0 3 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2393
+Bid: 2393
+mus: 0 0 1 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2394
+Bid: 2394
+mus: 0 1 1 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2395
+Bid: 2395
+mus: 0 0 0 3 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 0 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2397
+Bid: 2397
+mus: 0 0 0 3 
+nvs: 0 1 1 0 
+level: 0 dim 4 maxpoly 2
+0 0 0 3
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2399
+Bid: 2399
+mus: 0 0 1 2 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 0 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2400
+Bid: 2400
+mus: 0 0 1 2 
+nvs: 0 1 0 1 
+level: 0 dim 4 maxpoly 2
+0 0 1 2
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2402
+Bid: 2402
+mus: 0 0 1 2 
+nvs: 0 1 1 0 
+level: 0 dim 4 maxpoly 2
+0 0 1 2
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2404
+Bid: 2404
+mus: 0 0 1 2 
+nvs: 1 1 0 0 
+level: 0 dim 4 maxpoly 2
+0 0 1 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2406
+Bid: 2406
+mus: 0 1 1 1 
+nvs: 0 0 1 1 
+level: 0 dim 4 maxpoly 2
+0 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2407
+Bid: 2407
+mus: 0 1 1 1 
+nvs: 1 0 0 1 
+level: 0 dim 4 maxpoly 2
+0 1 1 1
+  0  0  0  1  
+  0  0  0  0  
+  0  0  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2409
+Bid: 2409
+mus: 0 0 0 3 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2411
+Bid: 2411
+mus: 0 0 0 3 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2413
+Bid: 2413
+mus: 0 0 0 3 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2416
+Bid: 2416
+mus: 0 0 0 3 
+nvs: 0 2 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2418
+Bid: 2418
+mus: 0 0 0 3 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2421
+Bid: 2421
+mus: 0 0 0 3 
+nvs: 1 1 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 0 3
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2424
+Bid: 2424
+mus: 0 0 1 2 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2425
+Bid: 2425
+mus: 0 0 1 2 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2427
+Bid: 2427
+mus: 0 0 1 2 
+nvs: 0 2 0 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  0  2  
+  0  0  0  0  
+  0  2  0  0  
+
+
+Tensor id: 2429
+Bid: 2429
+mus: 0 0 1 2 
+nvs: 0 1 2 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  1  0  
+  0  1  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2431
+Bid: 2431
+mus: 0 0 1 2 
+nvs: 0 2 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  1  1  
+  0  1  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2433
+Bid: 2433
+mus: 0 0 1 2 
+nvs: 0 2 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  0  
+  0  0  2  0  
+  0  2  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2435
+Bid: 2435
+mus: 0 0 1 2 
+nvs: 1 1 0 2 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  1  
+  0  0  0  1  
+  0  0  0  0  
+  1  1  0  0  
+
+
+Tensor id: 2437
+Bid: 2437
+mus: 0 0 1 2 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2440
+Bid: 2440
+mus: 0 0 1 2 
+nvs: 1 1 2 0 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  0  1  0  
+  0  0  1  0  
+  1  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2442
+Bid: 2442
+mus: 0 0 1 2 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  1  0  0  
+  1  0  0  0  
+  0  0  0  1  
+  0  0  1  0  
+
+
+Tensor id: 2444
+Bid: 2444
+mus: 0 0 1 2 
+nvs: 1 2 0 1 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  1  0  0  
+  1  0  0  1  
+  0  0  0  0  
+  0  1  0  0  
+
+
+Tensor id: 2447
+Bid: 2447
+mus: 0 0 1 2 
+nvs: 1 2 1 0 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  1  0  0  
+  1  0  1  0  
+  0  1  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2450
+Bid: 2450
+mus: 0 0 1 2 
+nvs: 2 2 0 0 
+level: 0 dim 4 maxpoly 4
+0 0 1 2
+  0  2  0  0  
+  2  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2452
+Bid: 2452
+mus: 0 1 1 1 
+nvs: 0 0 2 2 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  2  
+  0  0  2  0  
+
+
+Tensor id: 2453
+Bid: 2453
+mus: 0 1 1 1 
+nvs: 0 1 1 2 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  0  
+  0  0  0  1  
+  0  0  0  1  
+  0  1  1  0  
+
+
+Tensor id: 2454
+Bid: 2454
+mus: 0 1 1 1 
+nvs: 1 0 1 2 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  1  
+  0  0  0  0  
+  0  0  0  1  
+  1  0  1  0  
+
+
+Tensor id: 2456
+Bid: 2456
+mus: 0 1 1 1 
+nvs: 1 1 1 1 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  1  
+  0  0  1  0  
+  0  1  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2458
+Bid: 2458
+mus: 0 1 1 1 
+nvs: 2 0 0 2 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  0  2  
+  0  0  0  0  
+  0  0  0  0  
+  2  0  0  0  
+
+
+Tensor id: 2460
+Bid: 2460
+mus: 0 1 1 1 
+nvs: 2 0 1 1 
+level: 0 dim 4 maxpoly 4
+0 1 1 1
+  0  0  1  1  
+  0  0  0  0  
+  1  0  0  0  
+  1  0  0  0  
+
+
+Tensor id: 2462
+Bid: 2462
+mus: 0 0 0 4 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 0 4
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2463
+Bid: 2463
+mus: 0 0 1 3 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 1 3
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2464
+Bid: 2464
+mus: 0 0 2 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 0 2 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2465
+Bid: 2465
+mus: 0 1 1 2 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+0 1 1 2
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
+Tensor id: 2466
+Bid: 2466
+mus: 1 1 1 1 
+nvs: 0 0 0 0 
+level: 0 dim 4 maxpoly 0
+1 1 1 1
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+  0  0  0  0  
+
+
