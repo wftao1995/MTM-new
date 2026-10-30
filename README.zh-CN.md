@@ -3,7 +3,7 @@
 [English](README.md)
 
 
-本仓库收集优化后的 Moment Tensor Potential（MTP）模板文件、对应的设置及相关数据。文件分为 `ps-1`、`ps-2` 和 `shapeev` 三组。其中，`shapeev` 组采用 Shapeev 的原始基函数定义，并对收缩图进行了优化。每组下的目录分别存放一套文件。
+本仓库收集优化后的 Moment Tensor Potential（MTP）模板文件、对应的设置及相关数据。文件分为 `ps-1`、`ps-2` 和 `shapeev` 三组。其中，`shapeev` 组采用 Shapeev 的原始基函数定义，并对张量缩并计算路径进行了优化。每组下的目录分别存放一套文件。
 
 ## 主要文件
 
