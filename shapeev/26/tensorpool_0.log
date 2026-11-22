@@ -1091,6 +1091,16 @@ level: 0 dim 2 maxpoly 3
   1  1  
 
 
+Tensor id: 115
+Bid: 115
+mus: 0 0 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 0
+  1  0  
+  0  1  
+
+
 Tensor id: 116
 Bid: 116
 mus: 0 0 0 
@@ -1131,6 +1141,16 @@ level: 0 dim 2 maxpoly 4
 0 0
   0  1  
   1  2  
+
+
+Tensor id: 121
+Bid: 121
+mus: 0 0 
+nvs: 1 2 
+level: 0 dim 2 maxpoly 3
+0 0
+  1  0  
+  0  2  
 
 
 Tensor id: 122
@@ -1194,6 +1214,16 @@ level: 0 dim 2 maxpoly 5
 0 0
   0  1  
   1  3  
+
+
+Tensor id: 129
+Bid: 129
+mus: 0 0 
+nvs: 1 3 
+level: 0 dim 2 maxpoly 4
+0 0
+  1  0  
+  0  3  
 
 
 Tensor id: 130
@@ -1300,6 +1330,16 @@ level: 0 dim 2 maxpoly 6
   1  4  
 
 
+Tensor id: 141
+Bid: 141
+mus: 0 0 
+nvs: 1 4 
+level: 0 dim 2 maxpoly 5
+0 0
+  1  0  
+  0  4  
+
+
 Tensor id: 142
 Bid: 142
 mus: 0 0 0 
@@ -1329,6 +1369,16 @@ level: 0 dim 2 maxpoly 7
 0 0
   0  2  
   2  3  
+
+
+Tensor id: 145
+Bid: 145
+mus: 0 0 
+nvs: 2 3 
+level: 0 dim 2 maxpoly 5
+0 0
+  2  0  
+  0  3  
 
 
 Tensor id: 146
@@ -1435,6 +1485,16 @@ level: 0 dim 2 maxpoly 7
   1  5  
 
 
+Tensor id: 157
+Bid: 157
+mus: 0 0 
+nvs: 1 5 
+level: 0 dim 2 maxpoly 6
+0 0
+  1  0  
+  0  5  
+
+
 Tensor id: 158
 Bid: 158
 mus: 0 0 0 
@@ -1464,6 +1524,16 @@ level: 0 dim 2 maxpoly 8
 0 0
   0  2  
   2  4  
+
+
+Tensor id: 161
+Bid: 161
+mus: 0 0 
+nvs: 2 4 
+level: 0 dim 2 maxpoly 6
+0 0
+  2  0  
+  0  4  
 
 
 Tensor id: 162
@@ -1663,6 +1733,16 @@ level: 0 dim 2 maxpoly 9
   2  5  
 
 
+Tensor id: 183
+Bid: 183
+mus: 0 0 
+nvs: 2 5 
+level: 0 dim 2 maxpoly 7
+0 0
+  2  0  
+  0  5  
+
+
 Tensor id: 184
 Bid: 184
 mus: 0 0 0 
@@ -1715,6 +1795,16 @@ level: 0 dim 2 maxpoly 12
   5  1  
 
 
+Tensor id: 190
+Bid: 190
+mus: 0 0 
+nvs: 2 6 
+level: 0 dim 2 maxpoly 8
+0 0
+  1  1  
+  1  5  
+
+
 Tensor id: 191
 Bid: 191
 mus: 0 0 0 
@@ -1744,6 +1834,16 @@ level: 0 dim 2 maxpoly 9
 0 0
   1  2  
   2  4  
+
+
+Tensor id: 194
+Bid: 194
+mus: 0 0 
+nvs: 3 5 
+level: 0 dim 2 maxpoly 8
+0 0
+  2  1  
+  1  4  
 
 
 Tensor id: 195
@@ -1838,6 +1938,16 @@ level: 0 dim 2 maxpoly 15
 0 0
   0  7  
   7  1  
+
+
+Tensor id: 206
+Bid: 206
+mus: 0 0 
+nvs: 1 7 
+level: 0 dim 2 maxpoly 8
+0 0
+  1  0  
+  0  7  
 
 
 Tensor id: 207
@@ -2090,14 +2200,14 @@ level: 0 dim 3 maxpoly 18
   1  8  0  
 
 
-Tensor id: 238
-Bid: 238
+Tensor id: 239
+Bid: 239
 mus: 0 0 
-nvs: 8 9 
-level: 0 dim 2 maxpoly 17
+nvs: 1 9 
+level: 0 dim 2 maxpoly 10
 0 0
-  0  8  
-  8  1  
+  0  1  
+  1  8  
 
 
 Tensor id: 241
@@ -2111,14 +2221,14 @@ level: 0 dim 3 maxpoly 18
   2  7  0  
 
 
-Tensor id: 242
-Bid: 242
+Tensor id: 243
+Bid: 243
 mus: 0 0 
-nvs: 7 9 
-level: 0 dim 2 maxpoly 16
+nvs: 2 9 
+level: 0 dim 2 maxpoly 11
 0 0
-  0  7  
-  7  2  
+  0  2  
+  2  7  
 
 
 Tensor id: 245
@@ -2130,16 +2240,6 @@ level: 0 dim 3 maxpoly 18
   0  0  3  
   0  0  6  
   3  6  0  
-
-
-Tensor id: 246
-Bid: 246
-mus: 0 0 
-nvs: 6 9 
-level: 0 dim 2 maxpoly 15
-0 0
-  0  6  
-  6  3  
 
 
 Tensor id: 247
@@ -2161,16 +2261,6 @@ level: 0 dim 3 maxpoly 18
   0  0  4  
   0  0  5  
   4  5  0  
-
-
-Tensor id: 250
-Bid: 250
-mus: 0 0 
-nvs: 5 9 
-level: 0 dim 2 maxpoly 14
-0 0
-  0  5  
-  5  4  
 
 
 Tensor id: 251
@@ -2299,14 +2389,14 @@ level: 0 dim 3 maxpoly 18
   3  4  0  
 
 
-Tensor id: 271
-Bid: 271
+Tensor id: 272
+Bid: 272
 mus: 0 0 
-nvs: 6 7 
-level: 0 dim 2 maxpoly 13
+nvs: 5 7 
+level: 0 dim 2 maxpoly 12
 0 0
-  2  4  
-  4  3  
+  2  3  
+  3  4  
 
 
 Tensor id: 274
@@ -2700,6 +2790,16 @@ level: 0 dim 2 maxpoly 3
   1  0  
 
 
+Tensor id: 336
+Bid: 336
+mus: 0 1 
+nvs: 1 1 
+level: 0 dim 2 maxpoly 2
+0 1
+  1  0  
+  0  1  
+
+
 Tensor id: 337
 Bid: 337
 mus: 0 0 1 
@@ -2774,6 +2874,16 @@ level: 0 dim 2 maxpoly 5
   2  0  
 
 
+Tensor id: 346
+Bid: 346
+mus: 0 1 
+nvs: 1 2 
+level: 0 dim 2 maxpoly 3
+0 1
+  1  0  
+  0  2  
+
+
 Tensor id: 347
 Bid: 347
 mus: 0 0 1 
@@ -2804,6 +2914,26 @@ level: 0 dim 3 maxpoly 6
   0  2  0  
   2  0  1  
   0  1  0  
+
+
+Tensor id: 350
+Bid: 350
+mus: 0 1 
+nvs: 3 1 
+level: 0 dim 2 maxpoly 4
+0 1
+  2  1  
+  1  0  
+
+
+Tensor id: 351
+Bid: 351
+mus: 0 1 
+nvs: 2 1 
+level: 0 dim 2 maxpoly 3
+0 1
+  2  0  
+  0  1  
 
 
 Tensor id: 352
@@ -2901,6 +3031,16 @@ level: 0 dim 2 maxpoly 7
   3  0  
 
 
+Tensor id: 363
+Bid: 363
+mus: 0 1 
+nvs: 1 3 
+level: 0 dim 2 maxpoly 4
+0 1
+  1  0  
+  0  3  
+
+
 Tensor id: 364
 Bid: 364
 mus: 0 0 1 
@@ -2953,6 +3093,16 @@ level: 0 dim 2 maxpoly 6
   2  0  
 
 
+Tensor id: 369
+Bid: 369
+mus: 0 1 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+0 1
+  2  0  
+  0  2  
+
+
 Tensor id: 370
 Bid: 370
 mus: 0 0 1 
@@ -2983,6 +3133,16 @@ level: 0 dim 3 maxpoly 8
   0  3  0  
   3  0  1  
   0  1  0  
+
+
+Tensor id: 373
+Bid: 373
+mus: 0 1 
+nvs: 4 1 
+level: 0 dim 2 maxpoly 5
+0 1
+  3  1  
+  1  0  
 
 
 Tensor id: 375
@@ -3026,6 +3186,16 @@ level: 0 dim 2 maxpoly 9
 0 1
   0  4  
   4  1  
+
+
+Tensor id: 381
+Bid: 381
+mus: 0 1 
+nvs: 1 5 
+level: 0 dim 2 maxpoly 6
+0 1
+  0  1  
+  1  4  
 
 
 Tensor id: 382
@@ -3078,6 +3248,16 @@ level: 0 dim 2 maxpoly 9
 0 1
   1  4  
   4  0  
+
+
+Tensor id: 387
+Bid: 387
+mus: 0 1 
+nvs: 1 4 
+level: 0 dim 2 maxpoly 5
+0 1
+  1  0  
+  0  4  
 
 
 Tensor id: 388
@@ -3227,6 +3407,16 @@ level: 0 dim 3 maxpoly 10
   0  1  0  
 
 
+Tensor id: 405
+Bid: 405
+mus: 0 1 
+nvs: 5 1 
+level: 0 dim 2 maxpoly 6
+0 1
+  4  1  
+  1  0  
+
+
 Tensor id: 407
 Bid: 407
 mus: 0 0 1 
@@ -3268,6 +3458,16 @@ level: 0 dim 2 maxpoly 11
 0 1
   0  5  
   5  1  
+
+
+Tensor id: 413
+Bid: 413
+mus: 0 1 
+nvs: 1 6 
+level: 0 dim 2 maxpoly 7
+0 1
+  0  1  
+  1  5  
 
 
 Tensor id: 414
@@ -3362,6 +3562,16 @@ level: 0 dim 2 maxpoly 10
 0 1
   1  4  
   4  1  
+
+
+Tensor id: 424
+Bid: 424
+mus: 0 1 
+nvs: 2 5 
+level: 0 dim 2 maxpoly 7
+0 1
+  1  1  
+  1  4  
 
 
 Tensor id: 425
@@ -3490,6 +3700,16 @@ level: 0 dim 3 maxpoly 12
   1  2  0  
 
 
+Tensor id: 440
+Bid: 440
+mus: 0 1 
+nvs: 5 3 
+level: 0 dim 2 maxpoly 8
+0 1
+  3  2  
+  2  1  
+
+
 Tensor id: 442
 Bid: 442
 mus: 0 0 1 
@@ -3556,14 +3776,14 @@ level: 0 dim 3 maxpoly 14
   1  6  0  
 
 
-Tensor id: 455
-Bid: 455
+Tensor id: 456
+Bid: 456
 mus: 0 1 
-nvs: 6 7 
-level: 0 dim 2 maxpoly 13
+nvs: 1 7 
+level: 0 dim 2 maxpoly 8
 0 1
-  0  6  
-  6  1  
+  0  1  
+  1  6  
 
 
 Tensor id: 457
@@ -3575,16 +3795,6 @@ level: 0 dim 3 maxpoly 14
   0  0  2  
   0  0  5  
   2  5  0  
-
-
-Tensor id: 458
-Bid: 458
-mus: 0 1 
-nvs: 5 7 
-level: 0 dim 2 maxpoly 12
-0 1
-  0  5  
-  5  2  
 
 
 Tensor id: 460
@@ -3640,16 +3850,6 @@ level: 0 dim 3 maxpoly 14
   1  5  0  
 
 
-Tensor id: 467
-Bid: 467
-mus: 0 1 
-nvs: 6 6 
-level: 0 dim 2 maxpoly 12
-0 1
-  1  5  
-  5  1  
-
-
 Tensor id: 469
 Bid: 469
 mus: 0 0 1 
@@ -3682,16 +3882,6 @@ level: 0 dim 3 maxpoly 14
   3  3  0  
 
 
-Tensor id: 473
-Bid: 473
-mus: 0 1 
-nvs: 4 6 
-level: 0 dim 2 maxpoly 10
-0 1
-  1  3  
-  3  3  
-
-
 Tensor id: 474
 Bid: 474
 mus: 0 0 1 
@@ -3701,16 +3891,6 @@ level: 0 dim 3 maxpoly 14
   0  2  0  
   2  0  5  
   0  5  0  
-
-
-Tensor id: 475
-Bid: 475
-mus: 0 1 
-nvs: 7 5 
-level: 0 dim 2 maxpoly 12
-0 1
-  2  5  
-  5  0  
 
 
 Tensor id: 477
@@ -3724,16 +3904,6 @@ level: 0 dim 3 maxpoly 14
   1  4  0  
 
 
-Tensor id: 478
-Bid: 478
-mus: 0 1 
-nvs: 6 5 
-level: 0 dim 2 maxpoly 11
-0 1
-  2  4  
-  4  1  
-
-
 Tensor id: 480
 Bid: 480
 mus: 0 0 1 
@@ -3745,16 +3915,6 @@ level: 0 dim 3 maxpoly 14
   2  3  0  
 
 
-Tensor id: 481
-Bid: 481
-mus: 0 1 
-nvs: 5 5 
-level: 0 dim 2 maxpoly 10
-0 1
-  2  3  
-  3  2  
-
-
 Tensor id: 483
 Bid: 483
 mus: 0 0 1 
@@ -3764,16 +3924,6 @@ level: 0 dim 3 maxpoly 14
   0  3  0  
   3  0  4  
   0  4  0  
-
-
-Tensor id: 484
-Bid: 484
-mus: 0 1 
-nvs: 7 4 
-level: 0 dim 2 maxpoly 11
-0 1
-  3  4  
-  4  0  
 
 
 Tensor id: 486
@@ -3884,16 +4034,6 @@ level: 0 dim 3 maxpoly 16
   0  0  1  
   0  0  7  
   1  7  0  
-
-
-Tensor id: 510
-Bid: 510
-mus: 0 1 
-nvs: 7 8 
-level: 0 dim 2 maxpoly 15
-0 1
-  0  7  
-  7  1  
 
 
 Tensor id: 512
@@ -4508,6 +4648,16 @@ level: 0 dim 3 maxpoly 6
   0  1  0  
 
 
+Tensor id: 612
+Bid: 612
+mus: 0 2 
+nvs: 3 1 
+level: 0 dim 2 maxpoly 4
+0 2
+  2  1  
+  1  0  
+
+
 Tensor id: 614
 Bid: 614
 mus: 0 0 2 
@@ -4560,6 +4710,16 @@ level: 0 dim 3 maxpoly 6
   0  0  2  
   0  0  1  
   2  1  0  
+
+
+Tensor id: 620
+Bid: 620
+mus: 1 1 
+nvs: 1 3 
+level: 0 dim 2 maxpoly 4
+1 1
+  0  1  
+  1  2  
 
 
 Tensor id: 621
@@ -4635,6 +4795,16 @@ level: 0 dim 2 maxpoly 7
 0 2
   0  3  
   3  1  
+
+
+Tensor id: 631
+Bid: 631
+mus: 0 2 
+nvs: 1 4 
+level: 0 dim 2 maxpoly 5
+0 2
+  0  1  
+  1  3  
 
 
 Tensor id: 632
@@ -4883,6 +5053,16 @@ level: 0 dim 3 maxpoly 8
   2  0  0  
 
 
+Tensor id: 666
+Bid: 666
+mus: 1 1 
+nvs: 2 2 
+level: 0 dim 2 maxpoly 4
+1 1
+  2  0  
+  0  2  
+
+
 Tensor id: 667
 Bid: 667
 mus: 0 0 2 
@@ -4905,14 +5085,14 @@ level: 0 dim 3 maxpoly 10
   1  4  0  
 
 
-Tensor id: 670
-Bid: 670
+Tensor id: 671
+Bid: 671
 mus: 0 2 
-nvs: 4 5 
-level: 0 dim 2 maxpoly 9
+nvs: 1 5 
+level: 0 dim 2 maxpoly 6
 0 2
-  0  4  
-  4  1  
+  0  1  
+  1  4  
 
 
 Tensor id: 672
@@ -4924,16 +5104,6 @@ level: 0 dim 3 maxpoly 10
   0  0  2  
   0  0  3  
   2  3  0  
-
-
-Tensor id: 673
-Bid: 673
-mus: 0 2 
-nvs: 3 5 
-level: 0 dim 2 maxpoly 8
-0 2
-  0  3  
-  3  2  
 
 
 Tensor id: 675
@@ -4958,16 +5128,6 @@ level: 0 dim 3 maxpoly 10
   1  3  0  
 
 
-Tensor id: 679
-Bid: 679
-mus: 0 2 
-nvs: 4 4 
-level: 0 dim 2 maxpoly 8
-0 2
-  1  3  
-  3  1  
-
-
 Tensor id: 681
 Bid: 681
 mus: 0 0 2 
@@ -4977,16 +5137,6 @@ level: 0 dim 3 maxpoly 10
   0  1  2  
   1  0  2  
   2  2  0  
-
-
-Tensor id: 682
-Bid: 682
-mus: 0 2 
-nvs: 3 4 
-level: 0 dim 2 maxpoly 7
-0 2
-  1  2  
-  2  2  
 
 
 Tensor id: 683
@@ -5087,16 +5237,6 @@ level: 0 dim 3 maxpoly 10
   1  4  0  
 
 
-Tensor id: 701
-Bid: 701
-mus: 1 1 
-nvs: 4 5 
-level: 0 dim 2 maxpoly 9
-1 1
-  0  4  
-  4  1  
-
-
 Tensor id: 702
 Bid: 702
 mus: 0 1 1 
@@ -5106,16 +5246,6 @@ level: 0 dim 3 maxpoly 10
   0  0  2  
   0  0  3  
   2  3  0  
-
-
-Tensor id: 703
-Bid: 703
-mus: 1 1 
-nvs: 3 5 
-level: 0 dim 2 maxpoly 8
-1 1
-  0  3  
-  3  2  
 
 
 Tensor id: 704
@@ -5239,16 +5369,6 @@ level: 0 dim 3 maxpoly 12
   1  5  0  
 
 
-Tensor id: 725
-Bid: 725
-mus: 0 2 
-nvs: 5 6 
-level: 0 dim 2 maxpoly 11
-0 2
-  0  5  
-  5  1  
-
-
 Tensor id: 727
 Bid: 727
 mus: 0 0 2 
@@ -5258,16 +5378,6 @@ level: 0 dim 3 maxpoly 12
   0  0  2  
   0  0  4  
   2  4  0  
-
-
-Tensor id: 728
-Bid: 728
-mus: 0 2 
-nvs: 4 6 
-level: 0 dim 2 maxpoly 10
-0 2
-  0  4  
-  4  2  
 
 
 Tensor id: 730
@@ -5435,16 +5545,6 @@ level: 0 dim 3 maxpoly 12
   1  5  0  
 
 
-Tensor id: 767
-Bid: 767
-mus: 1 1 
-nvs: 5 6 
-level: 0 dim 2 maxpoly 11
-1 1
-  0  5  
-  5  1  
-
-
 Tensor id: 768
 Bid: 768
 mus: 0 1 1 
@@ -5509,16 +5609,6 @@ level: 0 dim 3 maxpoly 12
   0  1  1  
   1  0  4  
   1  4  0  
-
-
-Tensor id: 779
-Bid: 779
-mus: 1 1 
-nvs: 5 5 
-level: 0 dim 2 maxpoly 10
-1 1
-  1  4  
-  4  1  
 
 
 Tensor id: 780
@@ -5826,16 +5916,6 @@ level: 0 dim 3 maxpoly 4
   0  1  0  
 
 
-Tensor id: 824
-Bid: 824
-mus: 1 2 
-nvs: 2 1 
-level: 0 dim 2 maxpoly 3
-1 2
-  1  1  
-  1  0  
-
-
 Tensor id: 825
 Bid: 825
 mus: 0 1 2 
@@ -5900,16 +5980,6 @@ level: 0 dim 3 maxpoly 6
   0  0  1  
   0  0  2  
   1  2  0  
-
-
-Tensor id: 835
-Bid: 835
-mus: 0 3 
-nvs: 1 3 
-level: 0 dim 2 maxpoly 4
-0 3
-  0  1  
-  1  2  
 
 
 Tensor id: 836
@@ -6121,16 +6191,6 @@ level: 0 dim 3 maxpoly 8
   1  3  0  
 
 
-Tensor id: 871
-Bid: 871
-mus: 0 3 
-nvs: 3 4 
-level: 0 dim 2 maxpoly 7
-0 3
-  0  3  
-  3  1  
-
-
 Tensor id: 873
 Bid: 873
 mus: 0 0 3 
@@ -6228,16 +6288,6 @@ level: 0 dim 3 maxpoly 8
   0  0  1  
   0  0  3  
   1  3  0  
-
-
-Tensor id: 893
-Bid: 893
-mus: 1 2 
-nvs: 3 4 
-level: 0 dim 2 maxpoly 7
-1 2
-  0  3  
-  3  1  
 
 
 Tensor id: 894
@@ -6590,16 +6640,6 @@ level: 0 dim 3 maxpoly 4
   0  0  1  
   0  0  1  
   1  1  0  
-
-
-Tensor id: 945
-Bid: 945
-mus: 0 4 
-nvs: 1 2 
-level: 0 dim 2 maxpoly 3
-0 4
-  0  1  
-  1  1  
 
 
 Tensor id: 946
@@ -7059,17 +7099,6 @@ level: 0 dim 4 maxpoly 8
   1  0  2  0  
 
 
-Tensor id: 1022
-Bid: 1022
-mus: 0 0 0 
-nvs: 1 3 3 
-level: 0 dim 3 maxpoly 7
-0 0 0
-  0  1  0  
-  1  0  2  
-  0  2  1  
-
-
 Tensor id: 1024
 Bid: 1024
 mus: 0 0 0 0 
@@ -7080,17 +7109,6 @@ level: 0 dim 4 maxpoly 8
   0  0  1  1  
   0  1  0  1  
   1  1  1  0  
-
-
-Tensor id: 1025
-Bid: 1025
-mus: 0 0 0 
-nvs: 2 2 3 
-level: 0 dim 3 maxpoly 7
-0 0 0
-  0  1  1  
-  1  0  1  
-  1  1  1  
 
 
 Tensor id: 1028
@@ -7139,17 +7157,6 @@ level: 0 dim 4 maxpoly 8
   0  0  1  1  
   1  1  0  0  
   1  1  0  0  
-
-
-Tensor id: 1039
-Bid: 1039
-mus: 0 0 0 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 0 0
-  0  1  1  
-  1  1  0  
-  1  0  1  
 
 
 Tensor id: 1040
@@ -7258,6 +7265,17 @@ level: 0 dim 3 maxpoly 9
   2  2  1  
 
 
+Tensor id: 1062
+Bid: 1062
+mus: 0 0 0 
+nvs: 1 2 5 
+level: 0 dim 3 maxpoly 8
+0 0 0
+  0  0  1  
+  0  0  2  
+  1  2  2  
+
+
 Tensor id: 1064
 Bid: 1064
 mus: 0 0 0 0 
@@ -7314,17 +7332,6 @@ level: 0 dim 4 maxpoly 10
   0  0  0  2  
   1  0  0  2  
   0  2  2  0  
-
-
-Tensor id: 1073
-Bid: 1073
-mus: 0 0 0 
-nvs: 2 3 4 
-level: 0 dim 3 maxpoly 9
-0 0 0
-  0  0  2  
-  0  1  2  
-  2  2  0  
 
 
 Tensor id: 1077
@@ -7384,6 +7391,17 @@ level: 0 dim 4 maxpoly 10
   0  0  1  1  
   0  1  0  1  
   2  1  1  0  
+
+
+Tensor id: 1090
+Bid: 1090
+mus: 0 0 0 
+nvs: 2 2 4 
+level: 0 dim 3 maxpoly 8
+0 0 0
+  0  1  1  
+  1  0  1  
+  1  1  2  
 
 
 Tensor id: 1093
@@ -7552,17 +7570,6 @@ level: 0 dim 4 maxpoly 12
   1  1  4  0  
 
 
-Tensor id: 1128
-Bid: 1128
-mus: 0 0 0 
-nvs: 1 4 6 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  0  0  1  
-  0  0  4  
-  1  4  1  
-
-
 Tensor id: 1131
 Bid: 1131
 mus: 0 0 0 0 
@@ -7575,17 +7582,6 @@ level: 0 dim 4 maxpoly 12
   1  2  3  0  
 
 
-Tensor id: 1132
-Bid: 1132
-mus: 0 0 0 
-nvs: 2 3 6 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  0  0  2  
-  0  0  3  
-  2  3  1  
-
-
 Tensor id: 1136
 Bid: 1136
 mus: 0 0 0 0 
@@ -7596,17 +7592,6 @@ level: 0 dim 4 maxpoly 12
   0  0  1  0  
   0  1  0  4  
   1  0  4  0  
-
-
-Tensor id: 1137
-Bid: 1137
-mus: 0 0 0 
-nvs: 1 5 5 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  0  1  0  
-  1  0  4  
-  0  4  1  
 
 
 Tensor id: 1139
@@ -7644,15 +7629,15 @@ level: 0 dim 4 maxpoly 12
   1  2  2  0  
 
 
-Tensor id: 1145
-Bid: 1145
+Tensor id: 1146
+Bid: 1146
 mus: 0 0 0 
-nvs: 3 3 5 
-level: 0 dim 3 maxpoly 11
+nvs: 1 3 5 
+level: 0 dim 3 maxpoly 9
 0 0 0
+  0  0  1  
   0  1  2  
-  1  0  2  
-  2  2  1  
+  1  2  2  
 
 
 Tensor id: 1148
@@ -7667,15 +7652,15 @@ level: 0 dim 4 maxpoly 12
   0  2  3  0  
 
 
-Tensor id: 1149
-Bid: 1149
+Tensor id: 1150
+Bid: 1150
 mus: 0 0 0 
-nvs: 2 4 5 
-level: 0 dim 3 maxpoly 11
+nvs: 1 4 5 
+level: 0 dim 3 maxpoly 10
 0 0 0
-  0  0  2  
-  0  1  3  
-  2  3  0  
+  0  1  0  
+  1  0  3  
+  0  3  2  
 
 
 Tensor id: 1153
@@ -7690,17 +7675,6 @@ level: 0 dim 4 maxpoly 12
   1  1  2  0  
 
 
-Tensor id: 1154
-Bid: 1154
-mus: 0 0 0 
-nvs: 3 4 4 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  0  2  1  
-  2  0  2  
-  1  2  1  
-
-
 Tensor id: 1158
 Bid: 1158
 mus: 0 0 0 0 
@@ -7713,17 +7687,6 @@ level: 0 dim 4 maxpoly 12
   0  3  2  0  
 
 
-Tensor id: 1159
-Bid: 1159
-mus: 0 0 0 
-nvs: 3 3 5 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  0  0  3  
-  0  1  2  
-  3  2  0  
-
-
 Tensor id: 1163
 Bid: 1163
 mus: 0 0 0 0 
@@ -7734,17 +7697,6 @@ level: 0 dim 4 maxpoly 12
   1  0  1  1  
   0  1  0  3  
   0  1  3  0  
-
-
-Tensor id: 1164
-Bid: 1164
-mus: 0 0 0 
-nvs: 3 4 4 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  1  1  1  
-  1  0  3  
-  1  3  0  
 
 
 Tensor id: 1167
@@ -7783,17 +7735,6 @@ level: 0 dim 4 maxpoly 12
   2  2  2  0  
 
 
-Tensor id: 1176
-Bid: 1176
-mus: 0 0 0 
-nvs: 2 2 6 
-level: 0 dim 3 maxpoly 10
-0 0 0
-  0  0  2  
-  0  0  2  
-  2  2  2  
-
-
 Tensor id: 1178
 Bid: 1178
 mus: 0 0 0 0 
@@ -7804,17 +7745,6 @@ level: 0 dim 4 maxpoly 12
   0  0  1  1  
   0  1  0  2  
   2  1  2  0  
-
-
-Tensor id: 1179
-Bid: 1179
-mus: 0 0 0 
-nvs: 2 3 5 
-level: 0 dim 3 maxpoly 10
-0 0 0
-  0  1  1  
-  1  0  2  
-  1  2  2  
 
 
 Tensor id: 1183
@@ -7839,6 +7769,17 @@ level: 0 dim 4 maxpoly 12
   0  0  2  1  
   0  2  0  1  
   2  1  1  0  
+
+
+Tensor id: 1187
+Bid: 1187
+mus: 0 0 0 
+nvs: 3 3 4 
+level: 0 dim 3 maxpoly 10
+0 0 0
+  0  2  1  
+  2  0  1  
+  1  1  2  
 
 
 Tensor id: 1190
@@ -7901,17 +7842,6 @@ level: 0 dim 4 maxpoly 12
   1  1  2  0  
 
 
-Tensor id: 1205
-Bid: 1205
-mus: 0 0 0 
-nvs: 2 4 4 
-level: 0 dim 3 maxpoly 10
-0 0 0
-  0  1  1  
-  1  1  2  
-  1  2  1  
-
-
 Tensor id: 1207
 Bid: 1207
 mus: 0 0 0 0 
@@ -7922,17 +7852,6 @@ level: 0 dim 4 maxpoly 12
   0  0  1  2  
   1  1  0  1  
   1  2  1  0  
-
-
-Tensor id: 1208
-Bid: 1208
-mus: 0 0 0 
-nvs: 3 3 4 
-level: 0 dim 3 maxpoly 10
-0 0 0
-  0  1  2  
-  1  1  1  
-  2  1  1  
 
 
 Tensor id: 1212
@@ -7959,17 +7878,6 @@ level: 0 dim 4 maxpoly 12
   0  2  2  0  
 
 
-Tensor id: 1216
-Bid: 1216
-mus: 0 0 0 
-nvs: 3 3 4 
-level: 0 dim 3 maxpoly 10
-0 0 0
-  1  0  2  
-  0  1  2  
-  2  2  0  
-
-
 Tensor id: 1219
 Bid: 1219
 mus: 0 0 0 0 
@@ -7992,17 +7900,6 @@ level: 0 dim 4 maxpoly 12
   1  0  1  1  
   1  1  0  1  
   1  1  1  0  
-
-
-Tensor id: 1222
-Bid: 1222
-mus: 0 0 0 
-nvs: 3 3 3 
-level: 0 dim 3 maxpoly 9
-0 0 0
-  1  1  1  
-  1  1  1  
-  1  1  1  
 
 
 Tensor id: 1223
@@ -8136,17 +8033,6 @@ level: 0 dim 4 maxpoly 14
   1  2  4  0  
 
 
-Tensor id: 1255
-Bid: 1255
-mus: 0 0 0 
-nvs: 2 4 7 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  0  2  
-  0  0  4  
-  2  4  1  
-
-
 Tensor id: 1259
 Bid: 1259
 mus: 0 0 0 0 
@@ -8182,17 +8068,6 @@ level: 0 dim 4 maxpoly 14
   1  0  5  0  
 
 
-Tensor id: 1264
-Bid: 1264
-mus: 0 0 0 
-nvs: 1 6 6 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  1  0  
-  1  0  5  
-  0  5  1  
-
-
 Tensor id: 1266
 Bid: 1266
 mus: 0 0 0 0 
@@ -8203,17 +8078,6 @@ level: 0 dim 4 maxpoly 14
   0  0  1  1  
   0  1  0  4  
   1  1  4  0  
-
-
-Tensor id: 1267
-Bid: 1267
-mus: 0 0 0 
-nvs: 2 5 6 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  1  1  
-  1  0  4  
-  1  4  1  
 
 
 Tensor id: 1271
@@ -8251,17 +8115,6 @@ level: 0 dim 4 maxpoly 14
   0  2  4  0  
 
 
-Tensor id: 1277
-Bid: 1277
-mus: 0 0 0 
-nvs: 2 5 6 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  0  2  
-  0  1  4  
-  2  4  0  
-
-
 Tensor id: 1281
 Bid: 1281
 mus: 0 0 0 0 
@@ -8272,17 +8125,6 @@ level: 0 dim 4 maxpoly 14
   0  0  2  1  
   0  2  0  3  
   1  1  3  0  
-
-
-Tensor id: 1282
-Bid: 1282
-mus: 0 0 0 
-nvs: 3 5 5 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  2  1  
-  2  0  3  
-  1  3  1  
 
 
 Tensor id: 1286
@@ -8297,17 +8139,6 @@ level: 0 dim 4 maxpoly 14
   1  2  2  0  
 
 
-Tensor id: 1287
-Bid: 1287
-mus: 0 0 0 
-nvs: 4 4 5 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  2  2  
-  2  0  2  
-  2  2  1  
-
-
 Tensor id: 1290
 Bid: 1290
 mus: 0 0 0 0 
@@ -8318,17 +8149,6 @@ level: 0 dim 4 maxpoly 14
   0  0  0  3  
   1  0  0  3  
   0  3  3  0  
-
-
-Tensor id: 1291
-Bid: 1291
-mus: 0 0 0 
-nvs: 3 4 6 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  0  3  
-  0  1  3  
-  3  3  0  
 
 
 Tensor id: 1295
@@ -8343,17 +8163,6 @@ level: 0 dim 4 maxpoly 14
   0  3  2  0  
 
 
-Tensor id: 1296
-Bid: 1296
-mus: 0 0 0 
-nvs: 4 4 5 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  0  1  3  
-  1  1  2  
-  3  2  0  
-
-
 Tensor id: 1300
 Bid: 1300
 mus: 0 0 0 0 
@@ -8366,17 +8175,6 @@ level: 0 dim 4 maxpoly 14
   0  2  4  0  
 
 
-Tensor id: 1301
-Bid: 1301
-mus: 0 0 0 
-nvs: 3 4 6 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  1  0  2  
-  0  0  4  
-  2  4  0  
-
-
 Tensor id: 1305
 Bid: 1305
 mus: 0 0 0 0 
@@ -8387,17 +8185,6 @@ level: 0 dim 4 maxpoly 14
   1  0  1  1  
   0  1  0  4  
   0  1  4  0  
-
-
-Tensor id: 1306
-Bid: 1306
-mus: 0 0 0 
-nvs: 3 5 5 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  1  1  1  
-  1  0  4  
-  1  4  0  
 
 
 Tensor id: 1309
@@ -8434,17 +8221,6 @@ level: 0 dim 4 maxpoly 14
   0  0  0  2  
   0  0  0  3  
   2  2  3  0  
-
-
-Tensor id: 1318
-Bid: 1318
-mus: 0 0 0 
-nvs: 2 3 7 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  0  0  2  
-  0  0  3  
-  2  3  2  
 
 
 Tensor id: 1321
@@ -8505,17 +8281,6 @@ level: 0 dim 4 maxpoly 14
   2  0  3  0  
 
 
-Tensor id: 1331
-Bid: 1331
-mus: 0 0 0 
-nvs: 2 5 5 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  0  2  0  
-  2  0  3  
-  0  3  2  
-
-
 Tensor id: 1333
 Bid: 1333
 mus: 0 0 0 0 
@@ -8526,17 +8291,6 @@ level: 0 dim 4 maxpoly 14
   0  0  2  1  
   0  2  0  2  
   2  1  2  0  
-
-
-Tensor id: 1334
-Bid: 1334
-mus: 0 0 0 
-nvs: 3 4 5 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  0  2  1  
-  2  0  2  
-  1  2  2  
 
 
 Tensor id: 1338
@@ -8561,6 +8315,17 @@ level: 0 dim 4 maxpoly 14
   0  0  3  1  
   0  3  0  1  
   2  1  1  0  
+
+
+Tensor id: 1344
+Bid: 1344
+mus: 0 0 0 
+nvs: 4 4 4 
+level: 0 dim 3 maxpoly 12
+0 0 0
+  0  3  1  
+  3  0  1  
+  1  1  2  
 
 
 Tensor id: 1347
@@ -8670,17 +8435,6 @@ level: 0 dim 4 maxpoly 14
   1  1  3  0  
 
 
-Tensor id: 1375
-Bid: 1375
-mus: 0 0 0 
-nvs: 2 5 5 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  0  1  1  
-  1  1  3  
-  1  3  1  
-
-
 Tensor id: 1377
 Bid: 1377
 mus: 0 0 0 0 
@@ -8716,14 +8470,14 @@ level: 0 dim 4 maxpoly 14
   1  1  3  0  
 
 
-Tensor id: 1383
-Bid: 1383
+Tensor id: 1384
+Bid: 1384
 mus: 0 0 0 
-nvs: 3 4 5 
-level: 0 dim 3 maxpoly 12
+nvs: 2 4 5 
+level: 0 dim 3 maxpoly 11
 0 0 0
-  1  1  1  
-  1  0  3  
+  1  0  1  
+  0  1  3  
   1  3  1  
 
 
@@ -8772,17 +8526,6 @@ level: 0 dim 4 maxpoly 14
   1  0  0  2  
   1  0  0  3  
   0  2  3  0  
-
-
-Tensor id: 1395
-Bid: 1395
-mus: 0 0 0 
-nvs: 3 4 5 
-level: 0 dim 3 maxpoly 12
-0 0 0
-  1  0  2  
-  0  1  3  
-  2  3  0  
 
 
 Tensor id: 1399
@@ -8854,17 +8597,6 @@ level: 0 dim 4 maxpoly 14
   1  0  1  1  
   1  1  0  2  
   1  1  2  0  
-
-
-Tensor id: 1413
-Bid: 1413
-mus: 0 0 0 
-nvs: 3 4 4 
-level: 0 dim 3 maxpoly 11
-0 0 0
-  1  1  1  
-  1  1  2  
-  1  2  1  
 
 
 Tensor id: 1415
@@ -8999,17 +8731,6 @@ level: 0 dim 4 maxpoly 16
   1  1  6  0  
 
 
-Tensor id: 1450
-Bid: 1450
-mus: 0 0 0 
-nvs: 1 6 8 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  0  0  1  
-  0  0  6  
-  1  6  1  
-
-
 Tensor id: 1453
 Bid: 1453
 mus: 0 0 0 0 
@@ -9020,17 +8741,6 @@ level: 0 dim 4 maxpoly 16
   0  0  0  2  
   0  0  0  5  
   1  2  5  0  
-
-
-Tensor id: 1454
-Bid: 1454
-mus: 0 0 0 
-nvs: 2 5 8 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  0  0  2  
-  0  0  5  
-  2  5  1  
 
 
 Tensor id: 1458
@@ -9045,17 +8755,6 @@ level: 0 dim 4 maxpoly 16
   1  3  4  0  
 
 
-Tensor id: 1459
-Bid: 1459
-mus: 0 0 0 
-nvs: 3 4 8 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  0  0  3  
-  0  0  4  
-  3  4  1  
-
-
 Tensor id: 1463
 Bid: 1463
 mus: 0 0 0 0 
@@ -9066,17 +8765,6 @@ level: 0 dim 4 maxpoly 16
   0  0  1  0  
   0  1  0  6  
   1  0  6  0  
-
-
-Tensor id: 1464
-Bid: 1464
-mus: 0 0 0 
-nvs: 1 7 7 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  0  1  0  
-  1  0  6  
-  0  6  1  
 
 
 Tensor id: 1466
@@ -9091,17 +8779,6 @@ level: 0 dim 4 maxpoly 16
   1  1  5  0  
 
 
-Tensor id: 1467
-Bid: 1467
-mus: 0 0 0 
-nvs: 2 6 7 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  0  1  1  
-  1  0  5  
-  1  5  1  
-
-
 Tensor id: 1471
 Bid: 1471
 mus: 0 0 0 0 
@@ -9112,17 +8789,6 @@ level: 0 dim 4 maxpoly 16
   0  0  1  2  
   0  1  0  4  
   1  2  4  0  
-
-
-Tensor id: 1472
-Bid: 1472
-mus: 0 0 0 
-nvs: 3 5 7 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  0  1  2  
-  1  0  4  
-  2  4  1  
 
 
 Tensor id: 1476
@@ -9989,17 +9655,6 @@ level: 0 dim 4 maxpoly 18
   1  1  7  0  
 
 
-Tensor id: 1764
-Bid: 1764
-mus: 0 0 0 
-nvs: 1 7 9 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  0  1  
-  0  0  7  
-  1  7  1  
-
-
 Tensor id: 1767
 Bid: 1767
 mus: 0 0 0 0 
@@ -10035,17 +9690,6 @@ level: 0 dim 4 maxpoly 18
   1  3  5  0  
 
 
-Tensor id: 1773
-Bid: 1773
-mus: 0 0 0 
-nvs: 3 5 9 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  0  3  
-  0  0  5  
-  3  5  1  
-
-
 Tensor id: 1777
 Bid: 1777
 mus: 0 0 0 0 
@@ -10056,17 +9700,6 @@ level: 0 dim 4 maxpoly 18
   0  0  0  4  
   0  0  0  4  
   1  4  4  0  
-
-
-Tensor id: 1778
-Bid: 1778
-mus: 0 0 0 
-nvs: 4 4 9 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  0  4  
-  0  0  4  
-  4  4  1  
 
 
 Tensor id: 1781
@@ -10081,17 +9714,6 @@ level: 0 dim 4 maxpoly 18
   1  0  7  0  
 
 
-Tensor id: 1782
-Bid: 1782
-mus: 0 0 0 
-nvs: 1 8 8 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  1  0  
-  1  0  7  
-  0  7  1  
-
-
 Tensor id: 1784
 Bid: 1784
 mus: 0 0 0 0 
@@ -10102,17 +9724,6 @@ level: 0 dim 4 maxpoly 18
   0  0  1  1  
   0  1  0  6  
   1  1  6  0  
-
-
-Tensor id: 1785
-Bid: 1785
-mus: 0 0 0 
-nvs: 2 7 8 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  1  1  
-  1  0  6  
-  1  6  1  
 
 
 Tensor id: 1789
@@ -10127,17 +9738,6 @@ level: 0 dim 4 maxpoly 18
   1  2  5  0  
 
 
-Tensor id: 1790
-Bid: 1790
-mus: 0 0 0 
-nvs: 3 6 8 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  1  2  
-  1  0  5  
-  2  5  1  
-
-
 Tensor id: 1794
 Bid: 1794
 mus: 0 0 0 0 
@@ -10148,17 +9748,6 @@ level: 0 dim 4 maxpoly 18
   0  0  1  3  
   0  1  0  4  
   1  3  4  0  
-
-
-Tensor id: 1795
-Bid: 1795
-mus: 0 0 0 
-nvs: 4 5 8 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  1  3  
-  1  0  4  
-  3  4  1  
 
 
 Tensor id: 1799
@@ -10173,17 +9762,6 @@ level: 0 dim 4 maxpoly 18
   0  2  6  0  
 
 
-Tensor id: 1800
-Bid: 1800
-mus: 0 0 0 
-nvs: 2 7 8 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  0  2  
-  0  1  6  
-  2  6  0  
-
-
 Tensor id: 1804
 Bid: 1804
 mus: 0 0 0 0 
@@ -10194,17 +9772,6 @@ level: 0 dim 4 maxpoly 18
   0  0  2  1  
   0  2  0  5  
   1  1  5  0  
-
-
-Tensor id: 1805
-Bid: 1805
-mus: 0 0 0 
-nvs: 3 7 7 
-level: 0 dim 3 maxpoly 17
-0 0 0
-  0  2  1  
-  2  0  5  
-  1  5  1  
 
 
 Tensor id: 1809
@@ -10399,17 +9966,6 @@ level: 0 dim 4 maxpoly 18
   2  3  4  0  
 
 
-Tensor id: 1879
-Bid: 1879
-mus: 0 0 0 
-nvs: 3 4 9 
-level: 0 dim 3 maxpoly 16
-0 0 0
-  0  0  3  
-  0  0  4  
-  3  4  2  
-
-
 Tensor id: 1883
 Bid: 1883
 mus: 0 0 0 0 
@@ -10432,17 +9988,6 @@ level: 0 dim 4 maxpoly 18
   0  0  1  2  
   0  1  0  4  
   2  2  4  0  
-
-
-Tensor id: 1889
-Bid: 1889
-mus: 0 0 0 
-nvs: 3 5 8 
-level: 0 dim 3 maxpoly 16
-0 0 0
-  0  1  2  
-  1  0  4  
-  2  4  2  
 
 
 Tensor id: 1893
@@ -10865,17 +10410,6 @@ level: 0 dim 4 maxpoly 18
   1  2  4  0  
 
 
-Tensor id: 2039
-Bid: 2039
-mus: 0 0 0 
-nvs: 3 6 7 
-level: 0 dim 3 maxpoly 16
-0 0 0
-  0  1  2  
-  1  1  4  
-  2  4  1  
-
-
 Tensor id: 2043
 Bid: 2043
 mus: 0 0 0 0 
@@ -10934,17 +10468,6 @@ level: 0 dim 4 maxpoly 18
   0  0  2  2  
   1  2  0  3  
   1  2  3  0  
-
-
-Tensor id: 2062
-Bid: 2062
-mus: 0 0 0 
-nvs: 4 6 6 
-level: 0 dim 3 maxpoly 16
-0 0 0
-  0  2  2  
-  2  1  3  
-  2  3  1  
 
 
 Tensor id: 2065
@@ -11017,17 +10540,6 @@ level: 0 dim 4 maxpoly 18
   0  0  1  2  
   1  1  0  3  
   2  2  3  0  
-
-
-Tensor id: 2091
-Bid: 2091
-mus: 0 0 0 
-nvs: 3 3 7 
-level: 0 dim 3 maxpoly 13
-0 0 0
-  1  0  2  
-  0  1  2  
-  2  2  3  
 
 
 Tensor id: 2093
@@ -11294,17 +10806,6 @@ level: 0 dim 4 maxpoly 18
   1  2  2  0  
 
 
-Tensor id: 2180
-Bid: 2180
-mus: 0 0 0 
-nvs: 5 5 5 
-level: 0 dim 3 maxpoly 15
-0 0 0
-  1  2  2  
-  2  1  2  
-  2  2  1  
-
-
 Tensor id: 2182
 Bid: 2182
 mus: 0 0 0 0 
@@ -11556,6 +11057,17 @@ level: 0 dim 4 maxpoly 6
   1  0  1  0  
 
 
+Tensor id: 2229
+Bid: 2229
+mus: 0 0 1 
+nvs: 1 2 2 
+level: 0 dim 3 maxpoly 5
+0 0 1
+  0  1  0  
+  1  0  1  
+  0  1  1  
+
+
 Tensor id: 2232
 Bid: 2232
 mus: 0 0 0 1 
@@ -11759,17 +11271,6 @@ level: 0 dim 4 maxpoly 8
   1  1  2  0  
 
 
-Tensor id: 2275
-Bid: 2275
-mus: 0 0 1 
-nvs: 1 2 4 
-level: 0 dim 3 maxpoly 7
-0 0 1
-  0  0  1  
-  0  0  2  
-  1  2  1  
-
-
 Tensor id: 2277
 Bid: 2277
 mus: 0 0 0 1 
@@ -11793,17 +11294,6 @@ level: 0 dim 3 maxpoly 7
   0  2  1  
 
 
-Tensor id: 2279
-Bid: 2279
-mus: 0 0 1 
-nvs: 1 3 3 
-level: 0 dim 3 maxpoly 7
-0 0 1
-  0  0  1  
-  0  1  2  
-  1  2  0  
-
-
 Tensor id: 2281
 Bid: 2281
 mus: 0 0 0 1 
@@ -11814,17 +11304,6 @@ level: 0 dim 4 maxpoly 8
   0  0  1  1  
   0  1  0  1  
   1  1  1  0  
-
-
-Tensor id: 2282
-Bid: 2282
-mus: 0 0 1 
-nvs: 2 2 3 
-level: 0 dim 3 maxpoly 7
-0 0 1
-  0  1  1  
-  1  0  1  
-  1  1  1  
 
 
 Tensor id: 2284
@@ -11899,17 +11378,6 @@ level: 0 dim 4 maxpoly 8
   0  0  2  0  
 
 
-Tensor id: 2302
-Bid: 2302
-mus: 0 0 1 
-nvs: 1 4 2 
-level: 0 dim 3 maxpoly 7
-0 0 1
-  0  1  0  
-  1  1  2  
-  0  2  0  
-
-
 Tensor id: 2304
 Bid: 2304
 mus: 0 0 0 1 
@@ -11920,17 +11388,6 @@ level: 0 dim 4 maxpoly 8
   0  0  1  1  
   1  1  0  1  
   0  1  1  0  
-
-
-Tensor id: 2305
-Bid: 2305
-mus: 0 0 1 
-nvs: 2 3 2 
-level: 0 dim 3 maxpoly 7
-0 0 1
-  0  1  1  
-  1  1  1  
-  1  1  0  
 
 
 Tensor id: 2308
@@ -11969,6 +11426,17 @@ level: 0 dim 4 maxpoly 8
   0  1  0  0  
 
 
+Tensor id: 2317
+Bid: 2317
+mus: 0 0 1 
+nvs: 3 3 1 
+level: 0 dim 3 maxpoly 7
+0 0 1
+  0  2  1  
+  2  1  0  
+  1  0  0  
+
+
 Tensor id: 2320
 Bid: 2320
 mus: 0 0 0 1 
@@ -11991,17 +11459,6 @@ level: 0 dim 4 maxpoly 8
   0  0  1  1  
   1  1  0  0  
   1  1  0  0  
-
-
-Tensor id: 2326
-Bid: 2326
-mus: 0 0 1 
-nvs: 2 2 2 
-level: 0 dim 3 maxpoly 6
-0 0 1
-  1  0  1  
-  0  1  1  
-  1  1  0  
 
 
 Tensor id: 2327
@@ -12208,17 +11665,6 @@ level: 0 dim 4 maxpoly 10
   1  1  3  0  
 
 
-Tensor id: 2373
-Bid: 2373
-mus: 0 0 1 
-nvs: 1 3 5 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  0  1  
-  0  0  3  
-  1  3  1  
-
-
 Tensor id: 2375
 Bid: 2375
 mus: 0 0 0 1 
@@ -12229,17 +11675,6 @@ level: 0 dim 4 maxpoly 10
   0  0  0  2  
   0  0  0  2  
   1  2  2  0  
-
-
-Tensor id: 2376
-Bid: 2376
-mus: 0 0 1 
-nvs: 2 2 5 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  0  2  
-  0  0  2  
-  2  2  1  
 
 
 Tensor id: 2378
@@ -12254,28 +11689,6 @@ level: 0 dim 4 maxpoly 10
   1  0  3  0  
 
 
-Tensor id: 2379
-Bid: 2379
-mus: 0 0 1 
-nvs: 1 4 4 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  1  0  
-  1  0  3  
-  0  3  1  
-
-
-Tensor id: 2380
-Bid: 2380
-mus: 0 0 1 
-nvs: 1 4 4 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  0  1  
-  0  1  3  
-  1  3  0  
-
-
 Tensor id: 2382
 Bid: 2382
 mus: 0 0 0 1 
@@ -12286,17 +11699,6 @@ level: 0 dim 4 maxpoly 10
   0  0  1  1  
   0  1  0  2  
   1  1  2  0  
-
-
-Tensor id: 2383
-Bid: 2383
-mus: 0 0 1 
-nvs: 2 3 4 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  1  1  
-  1  0  2  
-  1  2  1  
 
 
 Tensor id: 2386
@@ -12311,17 +11713,6 @@ level: 0 dim 4 maxpoly 10
   1  0  2  0  
 
 
-Tensor id: 2387
-Bid: 2387
-mus: 0 0 1 
-nvs: 2 4 3 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  2  0  
-  2  0  2  
-  0  2  1  
-
-
 Tensor id: 2390
 Bid: 2390
 mus: 0 0 0 1 
@@ -12332,17 +11723,6 @@ level: 0 dim 4 maxpoly 10
   0  0  2  1  
   0  2  0  1  
   1  1  1  0  
-
-
-Tensor id: 2391
-Bid: 2391
-mus: 0 0 1 
-nvs: 3 3 3 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  2  1  
-  2  0  1  
-  1  1  1  
 
 
 Tensor id: 2393
@@ -12379,17 +11759,6 @@ level: 0 dim 4 maxpoly 10
   0  0  0  2  
   1  0  0  2  
   0  2  2  0  
-
-
-Tensor id: 2401
-Bid: 2401
-mus: 0 0 1 
-nvs: 2 3 4 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  0  2  
-  0  1  2  
-  2  2  0  
 
 
 Tensor id: 2404
@@ -12476,17 +11845,6 @@ level: 0 dim 4 maxpoly 10
   0  0  3  0  
 
 
-Tensor id: 2425
-Bid: 2425
-mus: 0 0 1 
-nvs: 1 5 3 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  1  0  
-  1  1  3  
-  0  3  0  
-
-
 Tensor id: 2427
 Bid: 2427
 mus: 0 0 0 1 
@@ -12497,17 +11855,6 @@ level: 0 dim 4 maxpoly 10
   0  0  1  1  
   1  1  0  2  
   0  1  2  0  
-
-
-Tensor id: 2428
-Bid: 2428
-mus: 0 0 1 
-nvs: 2 4 3 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  1  1  
-  1  1  2  
-  1  2  0  
 
 
 Tensor id: 2431
@@ -12522,17 +11869,6 @@ level: 0 dim 4 maxpoly 10
   0  2  1  0  
 
 
-Tensor id: 2432
-Bid: 2432
-mus: 0 0 1 
-nvs: 3 3 3 
-level: 0 dim 3 maxpoly 9
-0 0 1
-  0  1  2  
-  1  1  1  
-  2  1  0  
-
-
 Tensor id: 2435
 Bid: 2435
 mus: 0 0 0 1 
@@ -12543,6 +11879,17 @@ level: 0 dim 4 maxpoly 10
   1  0  1  0  
   0  1  0  3  
   0  0  3  0  
+
+
+Tensor id: 2436
+Bid: 2436
+mus: 0 0 1 
+nvs: 2 4 3 
+level: 0 dim 3 maxpoly 9
+0 0 1
+  1  1  0  
+  1  0  3  
+  0  3  0  
 
 
 Tensor id: 2439
@@ -12557,14 +11904,14 @@ level: 0 dim 4 maxpoly 10
   0  0  2  0  
 
 
-Tensor id: 2440
-Bid: 2440
+Tensor id: 2441
+Bid: 2441
 mus: 0 0 1 
-nvs: 2 5 2 
-level: 0 dim 3 maxpoly 9
+nvs: 1 5 2 
+level: 0 dim 3 maxpoly 8
 0 0 1
-  0  2  0  
-  2  1  2  
+  0  1  0  
+  1  2  2  
   0  2  0  
 
 
@@ -12662,17 +12009,6 @@ level: 0 dim 4 maxpoly 10
   1  1  1  0  
 
 
-Tensor id: 2464
-Bid: 2464
-mus: 0 0 1 
-nvs: 2 3 3 
-level: 0 dim 3 maxpoly 8
-0 0 1
-  0  1  1  
-  1  1  1  
-  1  1  1  
-
-
 Tensor id: 2466
 Bid: 2466
 mus: 0 0 0 1 
@@ -12683,6 +12019,17 @@ level: 0 dim 4 maxpoly 10
   1  0  1  0  
   0  1  0  2  
   1  0  2  0  
+
+
+Tensor id: 2467
+Bid: 2467
+mus: 0 0 1 
+nvs: 2 3 3 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  1  1  0  
+  1  0  2  
+  0  2  1  
 
 
 Tensor id: 2470
@@ -12743,6 +12090,17 @@ level: 0 dim 4 maxpoly 10
   0  0  2  0  
   2  2  0  1  
   0  0  1  0  
+
+
+Tensor id: 2487
+Bid: 2487
+mus: 0 0 1 
+nvs: 2 5 1 
+level: 0 dim 3 maxpoly 8
+0 0 1
+  0  2  0  
+  2  2  1  
+  0  1  0  
 
 
 Tensor id: 2489
@@ -13045,17 +12403,6 @@ level: 0 dim 4 maxpoly 12
   1  1  4  0  
 
 
-Tensor id: 2560
-Bid: 2560
-mus: 0 0 1 
-nvs: 1 4 6 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  0  1  
-  0  0  4  
-  1  4  1  
-
-
 Tensor id: 2562
 Bid: 2562
 mus: 0 0 0 1 
@@ -13066,17 +12413,6 @@ level: 0 dim 4 maxpoly 12
   0  0  0  2  
   0  0  0  3  
   1  2  3  0  
-
-
-Tensor id: 2563
-Bid: 2563
-mus: 0 0 1 
-nvs: 2 3 6 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  0  2  
-  0  0  3  
-  2  3  1  
 
 
 Tensor id: 2566
@@ -13091,17 +12427,6 @@ level: 0 dim 4 maxpoly 12
   1  0  4  0  
 
 
-Tensor id: 2567
-Bid: 2567
-mus: 0 0 1 
-nvs: 1 5 5 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  1  0  
-  1  0  4  
-  0  4  1  
-
-
 Tensor id: 2570
 Bid: 2570
 mus: 0 0 0 1 
@@ -13114,17 +12439,6 @@ level: 0 dim 4 maxpoly 12
   1  1  3  0  
 
 
-Tensor id: 2571
-Bid: 2571
-mus: 0 0 1 
-nvs: 2 4 5 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  1  1  
-  1  0  3  
-  1  3  1  
-
-
 Tensor id: 2574
 Bid: 2574
 mus: 0 0 0 1 
@@ -13135,17 +12449,6 @@ level: 0 dim 4 maxpoly 12
   0  0  1  2  
   0  1  0  2  
   1  2  2  0  
-
-
-Tensor id: 2575
-Bid: 2575
-mus: 0 0 1 
-nvs: 3 3 5 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  1  2  
-  1  0  2  
-  2  2  1  
 
 
 Tensor id: 2577
@@ -13400,17 +12703,6 @@ level: 0 dim 4 maxpoly 12
   0  0  4  0  
 
 
-Tensor id: 2648
-Bid: 2648
-mus: 0 0 1 
-nvs: 1 6 4 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  1  0  
-  1  1  4  
-  0  4  0  
-
-
 Tensor id: 2650
 Bid: 2650
 mus: 0 0 0 1 
@@ -13471,17 +12763,6 @@ level: 0 dim 4 maxpoly 12
   0  0  3  0  
 
 
-Tensor id: 2667
-Bid: 2667
-mus: 0 0 1 
-nvs: 2 6 3 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  2  0  
-  2  1  3  
-  0  3  0  
-
-
 Tensor id: 2670
 Bid: 2670
 mus: 0 0 0 1 
@@ -13530,17 +12811,6 @@ level: 0 dim 4 maxpoly 12
   0  0  2  0  
 
 
-Tensor id: 2683
-Bid: 2683
-mus: 0 0 1 
-nvs: 3 6 2 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  3  0  
-  3  1  2  
-  0  2  0  
-
-
 Tensor id: 2686
 Bid: 2686
 mus: 0 0 0 1 
@@ -13551,17 +12821,6 @@ level: 0 dim 4 maxpoly 12
   0  0  3  1  
   1  3  0  1  
   0  1  1  0  
-
-
-Tensor id: 2687
-Bid: 2687
-mus: 0 0 1 
-nvs: 4 5 2 
-level: 0 dim 3 maxpoly 11
-0 0 1
-  0  3  1  
-  3  1  1  
-  1  1  0  
 
 
 Tensor id: 2690
@@ -14308,17 +13567,6 @@ level: 0 dim 4 maxpoly 14
   1  1  5  0  
 
 
-Tensor id: 2895
-Bid: 2895
-mus: 0 0 1 
-nvs: 1 5 7 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  0  1  
-  0  0  5  
-  1  5  1  
-
-
 Tensor id: 2897
 Bid: 2897
 mus: 0 0 0 1 
@@ -14329,17 +13577,6 @@ level: 0 dim 4 maxpoly 14
   0  0  0  2  
   0  0  0  4  
   1  2  4  0  
-
-
-Tensor id: 2898
-Bid: 2898
-mus: 0 0 1 
-nvs: 2 4 7 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  0  2  
-  0  0  4  
-  2  4  1  
 
 
 Tensor id: 2901
@@ -14354,17 +13591,6 @@ level: 0 dim 4 maxpoly 14
   1  3  3  0  
 
 
-Tensor id: 2902
-Bid: 2902
-mus: 0 0 1 
-nvs: 3 3 7 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  0  3  
-  0  0  3  
-  3  3  1  
-
-
 Tensor id: 2904
 Bid: 2904
 mus: 0 0 0 1 
@@ -14375,17 +13601,6 @@ level: 0 dim 4 maxpoly 14
   0  0  1  0  
   0  1  0  5  
   1  0  5  0  
-
-
-Tensor id: 2905
-Bid: 2905
-mus: 0 0 1 
-nvs: 1 6 6 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  1  0  
-  1  0  5  
-  0  5  1  
 
 
 Tensor id: 2908
@@ -14400,17 +13615,6 @@ level: 0 dim 4 maxpoly 14
   1  1  4  0  
 
 
-Tensor id: 2909
-Bid: 2909
-mus: 0 0 1 
-nvs: 2 5 6 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  1  1  
-  1  0  4  
-  1  4  1  
-
-
 Tensor id: 2912
 Bid: 2912
 mus: 0 0 0 1 
@@ -14421,17 +13625,6 @@ level: 0 dim 4 maxpoly 14
   0  0  1  2  
   0  1  0  3  
   1  2  3  0  
-
-
-Tensor id: 2913
-Bid: 2913
-mus: 0 0 1 
-nvs: 3 4 6 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  1  2  
-  1  0  3  
-  2  3  1  
 
 
 Tensor id: 2916
@@ -14446,17 +13639,6 @@ level: 0 dim 4 maxpoly 14
   1  0  4  0  
 
 
-Tensor id: 2917
-Bid: 2917
-mus: 0 0 1 
-nvs: 2 6 5 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  2  0  
-  2  0  4  
-  0  4  1  
-
-
 Tensor id: 2920
 Bid: 2920
 mus: 0 0 0 1 
@@ -14469,17 +13651,6 @@ level: 0 dim 4 maxpoly 14
   1  1  3  0  
 
 
-Tensor id: 2921
-Bid: 2921
-mus: 0 0 1 
-nvs: 3 5 5 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  2  1  
-  2  0  3  
-  1  3  1  
-
-
 Tensor id: 2924
 Bid: 2924
 mus: 0 0 0 1 
@@ -14490,17 +13661,6 @@ level: 0 dim 4 maxpoly 14
   0  0  2  2  
   0  2  0  2  
   1  2  2  0  
-
-
-Tensor id: 2925
-Bid: 2925
-mus: 0 0 1 
-nvs: 4 4 5 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  2  2  
-  2  0  2  
-  2  2  1  
 
 
 Tensor id: 2927
@@ -14886,17 +14046,6 @@ level: 0 dim 4 maxpoly 14
   0  1  4  0  
 
 
-Tensor id: 3035
-Bid: 3035
-mus: 0 0 1 
-nvs: 2 6 5 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  1  1  
-  1  1  4  
-  1  4  0  
-
-
 Tensor id: 3038
 Bid: 3038
 mus: 0 0 0 1 
@@ -14957,17 +14106,6 @@ level: 0 dim 4 maxpoly 14
   0  0  4  0  
 
 
-Tensor id: 3055
-Bid: 3055
-mus: 0 0 1 
-nvs: 2 7 4 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  2  0  
-  2  1  4  
-  0  4  0  
-
-
 Tensor id: 3058
 Bid: 3058
 mus: 0 0 0 1 
@@ -14978,17 +14116,6 @@ level: 0 dim 4 maxpoly 14
   0  0  2  1  
   1  2  0  3  
   0  1  3  0  
-
-
-Tensor id: 3059
-Bid: 3059
-mus: 0 0 1 
-nvs: 3 6 4 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  2  1  
-  2  1  3  
-  1  3  0  
 
 
 Tensor id: 3062
@@ -15039,17 +14166,6 @@ level: 0 dim 4 maxpoly 14
   0  0  3  0  
 
 
-Tensor id: 3075
-Bid: 3075
-mus: 0 0 1 
-nvs: 3 7 3 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  3  0  
-  3  1  3  
-  0  3  0  
-
-
 Tensor id: 3078
 Bid: 3078
 mus: 0 0 0 1 
@@ -15062,17 +14178,6 @@ level: 0 dim 4 maxpoly 14
   0  1  2  0  
 
 
-Tensor id: 3079
-Bid: 3079
-mus: 0 0 1 
-nvs: 4 6 3 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  3  1  
-  3  1  2  
-  1  2  0  
-
-
 Tensor id: 3082
 Bid: 3082
 mus: 0 0 0 1 
@@ -15083,17 +14188,6 @@ level: 0 dim 4 maxpoly 14
   0  0  3  2  
   1  3  0  1  
   0  2  1  0  
-
-
-Tensor id: 3083
-Bid: 3083
-mus: 0 0 1 
-nvs: 5 5 3 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  3  2  
-  3  1  1  
-  2  1  0  
 
 
 Tensor id: 3086
@@ -15120,17 +14214,6 @@ level: 0 dim 4 maxpoly 14
   0  0  2  0  
 
 
-Tensor id: 3091
-Bid: 3091
-mus: 0 0 1 
-nvs: 4 7 2 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  4  0  
-  4  1  2  
-  0  2  0  
-
-
 Tensor id: 3094
 Bid: 3094
 mus: 0 0 0 1 
@@ -15143,17 +14226,6 @@ level: 0 dim 4 maxpoly 14
   0  1  1  0  
 
 
-Tensor id: 3095
-Bid: 3095
-mus: 0 0 1 
-nvs: 5 6 2 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  0  4  1  
-  4  1  1  
-  1  1  0  
-
-
 Tensor id: 3098
 Bid: 3098
 mus: 0 0 0 1 
@@ -15164,17 +14236,6 @@ level: 0 dim 4 maxpoly 14
   1  0  4  0  
   0  4  0  2  
   0  0  2  0  
-
-
-Tensor id: 3099
-Bid: 3099
-mus: 0 0 1 
-nvs: 5 6 2 
-level: 0 dim 3 maxpoly 13
-0 0 1
-  1  4  0  
-  4  0  2  
-  0  2  0  
 
 
 Tensor id: 3102
@@ -15608,17 +14669,6 @@ level: 0 dim 4 maxpoly 14
   0  1  1  0  
 
 
-Tensor id: 3236
-Bid: 3236
-mus: 0 0 1 
-nvs: 4 6 2 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  0  3  1  
-  3  2  1  
-  1  1  0  
-
-
 Tensor id: 3239
 Bid: 3239
 mus: 0 0 0 1 
@@ -15833,17 +14883,6 @@ level: 0 dim 4 maxpoly 14
   1  0  2  1  
   1  2  0  2  
   0  1  2  0  
-
-
-Tensor id: 3304
-Bid: 3304
-mus: 0 0 1 
-nvs: 4 5 3 
-level: 0 dim 3 maxpoly 12
-0 0 1
-  1  2  1  
-  2  1  2  
-  1  2  0  
 
 
 Tensor id: 3307
@@ -16470,17 +15509,6 @@ level: 0 dim 4 maxpoly 6
   1  1  1  0  
 
 
-Tensor id: 3447
-Bid: 3447
-mus: 0 0 2 
-nvs: 1 1 3 
-level: 0 dim 3 maxpoly 5
-0 0 2
-  0  0  1  
-  0  0  1  
-  1  1  1  
-
-
 Tensor id: 3448
 Bid: 3448
 mus: 0 0 0 2 
@@ -16491,6 +15519,17 @@ level: 0 dim 4 maxpoly 6
   0  0  1  0  
   0  1  0  1  
   1  0  1  0  
+
+
+Tensor id: 3449
+Bid: 3449
+mus: 0 0 2 
+nvs: 1 2 2 
+level: 0 dim 3 maxpoly 5
+0 0 2
+  0  1  0  
+  1  0  1  
+  0  1  1  
 
 
 Tensor id: 3452
@@ -16745,17 +15784,6 @@ level: 0 dim 4 maxpoly 6
   0  1  0  0  
 
 
-Tensor id: 3504
-Bid: 3504
-mus: 0 1 1 
-nvs: 3 1 1 
-level: 0 dim 3 maxpoly 5
-0 1 1
-  1  1  1  
-  1  0  0  
-  1  0  0  
-
-
 Tensor id: 3506
 Bid: 3506
 mus: 0 0 1 1 
@@ -16936,17 +15964,6 @@ level: 0 dim 4 maxpoly 8
   1  1  2  0  
 
 
-Tensor id: 3541
-Bid: 3541
-mus: 0 0 2 
-nvs: 1 2 4 
-level: 0 dim 3 maxpoly 7
-0 0 2
-  0  0  1  
-  0  0  2  
-  1  2  1  
-
-
 Tensor id: 3543
 Bid: 3543
 mus: 0 0 0 2 
@@ -17041,17 +16058,6 @@ level: 0 dim 4 maxpoly 8
   0  0  1  0  
   1  1  0  2  
   0  0  2  0  
-
-
-Tensor id: 3568
-Bid: 3568
-mus: 0 0 2 
-nvs: 1 4 2 
-level: 0 dim 3 maxpoly 7
-0 0 2
-  0  1  0  
-  1  1  2  
-  0  2  0  
 
 
 Tensor id: 3570
@@ -17292,17 +16298,6 @@ level: 0 dim 4 maxpoly 8
   0  0  0  1  
   0  0  0  2  
   1  1  2  0  
-
-
-Tensor id: 3624
-Bid: 3624
-mus: 0 1 1 
-nvs: 1 2 4 
-level: 0 dim 3 maxpoly 7
-0 1 1
-  0  0  1  
-  0  0  2  
-  1  2  1  
 
 
 Tensor id: 3625
@@ -17845,17 +16840,6 @@ level: 0 dim 4 maxpoly 10
   1  1  3  0  
 
 
-Tensor id: 3742
-Bid: 3742
-mus: 0 0 2 
-nvs: 1 3 5 
-level: 0 dim 3 maxpoly 9
-0 0 2
-  0  0  1  
-  0  0  3  
-  1  3  1  
-
-
 Tensor id: 3744
 Bid: 3744
 mus: 0 0 0 2 
@@ -17866,17 +16850,6 @@ level: 0 dim 4 maxpoly 10
   0  0  0  2  
   0  0  0  2  
   1  2  2  0  
-
-
-Tensor id: 3745
-Bid: 3745
-mus: 0 0 2 
-nvs: 2 2 5 
-level: 0 dim 3 maxpoly 9
-0 0 2
-  0  0  2  
-  0  0  2  
-  2  2  1  
 
 
 Tensor id: 3747
@@ -17891,17 +16864,6 @@ level: 0 dim 4 maxpoly 10
   1  0  3  0  
 
 
-Tensor id: 3748
-Bid: 3748
-mus: 0 0 2 
-nvs: 1 4 4 
-level: 0 dim 3 maxpoly 9
-0 0 2
-  0  1  0  
-  1  0  3  
-  0  3  1  
-
-
 Tensor id: 3751
 Bid: 3751
 mus: 0 0 0 2 
@@ -17912,17 +16874,6 @@ level: 0 dim 4 maxpoly 10
   0  0  1  1  
   0  1  0  2  
   1  1  2  0  
-
-
-Tensor id: 3752
-Bid: 3752
-mus: 0 0 2 
-nvs: 2 3 4 
-level: 0 dim 3 maxpoly 9
-0 0 2
-  0  1  1  
-  1  0  2  
-  1  2  1  
 
 
 Tensor id: 3755
@@ -18069,17 +17020,6 @@ level: 0 dim 4 maxpoly 10
   0  0  3  0  
 
 
-Tensor id: 3794
-Bid: 3794
-mus: 0 0 2 
-nvs: 1 5 3 
-level: 0 dim 3 maxpoly 9
-0 0 2
-  0  1  0  
-  1  1  3  
-  0  3  0  
-
-
 Tensor id: 3796
 Bid: 3796
 mus: 0 0 0 2 
@@ -18137,17 +17077,6 @@ level: 0 dim 4 maxpoly 10
   0  0  2  0  
   1  2  0  2  
   0  0  2  0  
-
-
-Tensor id: 3809
-Bid: 3809
-mus: 0 0 2 
-nvs: 2 5 2 
-level: 0 dim 3 maxpoly 9
-0 0 2
-  0  2  0  
-  2  1  2  
-  0  2  0  
 
 
 Tensor id: 3812
@@ -18557,17 +17486,6 @@ level: 0 dim 4 maxpoly 10
   1  1  3  0  
 
 
-Tensor id: 3909
-Bid: 3909
-mus: 0 1 1 
-nvs: 1 3 5 
-level: 0 dim 3 maxpoly 9
-0 1 1
-  0  0  1  
-  0  0  3  
-  1  3  1  
-
-
 Tensor id: 3910
 Bid: 3910
 mus: 0 0 1 1 
@@ -18578,17 +17496,6 @@ level: 0 dim 4 maxpoly 10
   0  0  0  2  
   0  0  0  2  
   1  2  2  0  
-
-
-Tensor id: 3911
-Bid: 3911
-mus: 0 1 1 
-nvs: 2 2 5 
-level: 0 dim 3 maxpoly 9
-0 1 1
-  0  0  2  
-  0  0  2  
-  2  2  1  
 
 
 Tensor id: 3913
@@ -18939,17 +17846,6 @@ level: 0 dim 4 maxpoly 10
   0  2  1  0  
 
 
-Tensor id: 3993
-Bid: 3993
-mus: 0 1 1 
-nvs: 4 2 3 
-level: 0 dim 3 maxpoly 9
-0 1 1
-  1  1  2  
-  1  0  1  
-  2  1  0  
-
-
 Tensor id: 3995
 Bid: 3995
 mus: 0 0 1 1 
@@ -18972,17 +17868,6 @@ level: 0 dim 4 maxpoly 10
   1  0  2  2  
   0  2  0  0  
   0  2  0  0  
-
-
-Tensor id: 3999
-Bid: 3999
-mus: 0 1 1 
-nvs: 5 2 2 
-level: 0 dim 3 maxpoly 9
-0 1 1
-  1  2  2  
-  2  0  0  
-  2  0  0  
 
 
 Tensor id: 4001
